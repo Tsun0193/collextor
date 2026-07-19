@@ -5,6 +5,8 @@ limits:
   history_days: 21
   history_max_items: 600
   daily_visible_max: 50
+  daily_source_max: 6
+  hacker_news_daily_max: 4
   weekly_min_items: 25
   weekly_max_items: 35
 thresholds:

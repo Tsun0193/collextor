@@ -5,8 +5,8 @@
   try {
     let week = params.get("week");
     if (!week) {
-      const index = await Collextor.loadJson("data/archive-index.json");
-      week = index.editions && index.editions[0] && index.editions[0].week_id;
+      const current = await Collextor.loadJson("data/current-week.json");
+      week = current.week_id;
     }
     if (!week) throw new Error("No weekly edition is available.");
     const data = await Collextor.loadJson(`data/weekly/${week}.json`);

@@ -3,6 +3,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import re
 from collections import defaultdict
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from datetime import datetime, timedelta, timezone
@@ -132,13 +133,14 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
 
     previous_history = read_json(DATA / "history.json", {"articles": []}).get("articles", [])
     all_history, _ = deduplicate(deduped + previous_history)
+    all_history = [item for item in all_history if article_quality_ok(item, by_id)]
     cutoff = now - timedelta(days=ranking_cfg["limits"]["history_days"])
     history = [i for i in all_history if (parse_dt(i.get("published_at")) or now) >= cutoff]
     history = sorted(history, key=lambda x: (x.get("published_at") or "", x.get("score", 0)), reverse=True)[: ranking_cfg["limits"]["history_max_items"]]
 
     daily_cutoff = now - timedelta(hours=ranking_cfg["limits"]["daily_hours"])
-    latest_articles = [i for i in history if (parse_dt(i.get("published_at")) or now) >= daily_cutoff and not by_id.get(i.get("source_id"), {}).get("weekly_only")]
-    latest_articles = sorted(latest_articles, key=lambda x: (x.get("score", 0), x.get("published_at", "")), reverse=True)[: ranking_cfg["limits"]["daily_visible_max"]]
+    latest_candidates = [i for i in history if (parse_dt(i.get("published_at")) or now) >= daily_cutoff and not by_id.get(i.get("source_id"), {}).get("weekly_only")]
+    latest_articles = select_diverse_daily(latest_candidates, ranking_cfg)
 
     tz = ZoneInfo(ranking_cfg.get("timezone", "Asia/Bangkok"))
     local_now = now.astimezone(tz)
@@ -154,7 +156,8 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
         "summary": {"successful_sources": sum(1 for s in statuses if s["ok"]), "failed_sources": sum(1 for s in statuses if s["enabled"] and not s["ok"]), "fetched_items": len(raw_items), "retained_items": len(latest_articles), "duplicates_removed": duplicate_count},
     }
     weekly = make_weekly(week_id, week_start, week_end, weekly_articles, fetched_at)
-    archive_index = update_archive_index(read_json(DATA / "archive-index.json", {"editions": []}), weekly)
+    current_week = {"generated_at": fetched_at, "week_id": week_id, "path": f"data/weekly/{week_id}.json", "date_range": weekly["date_range"], "story_count": len(weekly_articles)}
+    archive_index = build_archive_index(week_id, fetched_at)
     source_status = {"generated_at": fetched_at, "sources": sorted(statuses, key=lambda x: x["name"].lower())}
     history_doc = {"generated_at": fetched_at, "articles": public_articles(history)}
 
@@ -170,6 +173,7 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
     atomic_write(DATA / "history.json", history_doc)
     atomic_write(DATA / "source-status.json", source_status)
     atomic_write(DATA / "weekly" / f"{week_id}.json", weekly)
+    atomic_write(DATA / "current-week.json", current_week)
     atomic_write(DATA / "archive-index.json", archive_index)
     print(f"Sources ok={latest['summary']['successful_sources']} failed={latest['summary']['failed_sources']} fetched={len(raw_items)} retained_daily={len(latest_articles)} duplicates={duplicate_count} weekly={len(weekly_articles)}")
     if smoke:
@@ -181,6 +185,57 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
 def public_articles(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     keys = ["id", "title", "url", "canonical_url", "source_id", "source_name", "source_category", "section", "published_at", "fetched_at", "description", "image_url", "authors", "score", "score_reasons", "is_breaking", "is_must_read", "is_long_read", "research_track", "event_cluster_id", "also_covered_by", "cluster_sources"]
     return [{k: item.get(k, [] if k in {"authors", "score_reasons", "also_covered_by", "cluster_sources"} else "") for k in keys if k in item or k in {"authors", "score_reasons"}} for item in items]
+
+
+def select_diverse_daily(items: list[dict[str, Any]], cfg: dict[str, Any]) -> list[dict[str, Any]]:
+    limit = cfg["limits"]["daily_visible_max"]
+    default_cap = cfg["limits"].get("daily_source_max", 6)
+    hn_cap = cfg["limits"].get("hacker_news_daily_max", 4)
+    counts: dict[str, int] = {}
+    selected = []
+    for item in sorted(items, key=lambda x: (x.get("score", 0), x.get("published_at", "")), reverse=True):
+        source_id = item.get("source_id", "")
+        cap = hn_cap if source_id == "hacker_news" else default_cap
+        if counts.get(source_id, 0) >= cap:
+            continue
+        selected.append(item)
+        counts[source_id] = counts.get(source_id, 0) + 1
+        if len(selected) >= limit:
+            break
+    return selected
+
+
+def article_quality_ok(item: dict[str, Any], sources: dict[str, dict[str, Any]]) -> bool:
+    source = sources.get(item.get("source_id"), {})
+    title = (item.get("title") or "").strip().lower()
+    url = item.get("canonical_url") or item.get("url") or ""
+    if not title or title in {"skip to main content", "news", "blog", "research"}:
+        return False
+    if source.get("source_type") == "html" and item.get("published_at") == item.get("fetched_at"):
+        return False
+    if item.get("source_id") == "mistral_news" and "/products/" in url:
+        return False
+    if item.get("source_id") == "deepmind_blog" and "/models/" in url:
+        return False
+    if item.get("source_id") == "openai_news" and url.rstrip("/") == "https://openai.com/news":
+        return False
+    if item.get("source_id") == "hacker_news" and title.startswith("show hn:"):
+        topical = ["ai", "llm", "agent", "machine learning", "model", "gpu", "developer", "open source", "inference", "rag", "mlops", "pytorch", "cuda", "multimodal"]
+        if not any(topic_matches(title, term) for term in topical):
+            return False
+    if item.get("source_id") == "hacker_news":
+        text = f"{title} {item.get('description', '').lower()}"
+        topical = ["ai", "llm", "agent", "machine learning", "model", "gpu", "developer tool", "open source", "inference", "rag", "mlops", "pytorch", "cuda", "multimodal", "neural", "data center", "semiconductor"]
+        if not any(topic_matches(text, term) for term in topical):
+            return False
+    return True
+
+
+def topic_matches(text: str, term: str) -> bool:
+    term = term.lower()
+    if len(term) <= 4 and re.fullmatch(r"[a-z0-9+#.]+", term):
+        return re.search(rf"(?<![a-z0-9]){re.escape(term)}(?![a-z0-9])", text) is not None
+    return term in text
 
 
 def make_weekly(week_id: str, start: datetime, end: datetime, articles: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
@@ -197,11 +252,18 @@ def make_weekly(week_id: str, start: datetime, end: datetime, articles: list[dic
     }
 
 
-def update_archive_index(index: dict[str, Any], weekly: dict[str, Any]) -> dict[str, Any]:
-    editions = [e for e in index.get("editions", []) if e.get("week_id") != weekly["week_id"]]
-    lead = next((a for a in weekly.get("articles", []) if a["id"] == weekly.get("lead")), {})
-    editions.append({"week_id": weekly["week_id"], "date_range": weekly["date_range"], "lead_headline": lead.get("title", ""), "story_count": len(weekly.get("articles", [])), "url": f"weekly.html?week={weekly['week_id']}"})
-    return {"generated_at": weekly["generated_at"], "editions": sorted(editions, key=lambda e: e["week_id"], reverse=True)}
+def build_archive_index(current_week_id: str, generated_at: str) -> dict[str, Any]:
+    editions = []
+    for path in (DATA / "weekly").glob("*.json"):
+        try:
+            weekly = json.loads(path.read_text(encoding="utf-8"))
+        except Exception:
+            continue
+        if weekly.get("week_id") == current_week_id:
+            continue
+        lead = next((a for a in weekly.get("articles", []) if a["id"] == weekly.get("lead")), {})
+        editions.append({"week_id": weekly["week_id"], "date_range": weekly["date_range"], "lead_headline": lead.get("title", ""), "story_count": len(weekly.get("articles", [])), "url": f"weekly.html?week={weekly['week_id']}"})
+    return {"generated_at": generated_at, "editions": sorted(editions, key=lambda e: e["week_id"], reverse=True)}
 
 
 def main() -> None:
