@@ -145,7 +145,11 @@ def canonicalize_article(raw: dict[str, Any], source: dict[str, Any], fetched_at
     title = strip_html(raw.get("title"))
     if not title:
         return None
-    published_at = parse_date(raw.get("published_at") or raw.get("published") or raw.get("date")) or fetched_at
+    published_at = parse_date(raw.get("published_at") or raw.get("published") or raw.get("date"))
+    if not published_at and raw.get("allow_missing_date"):
+        published_at = fetched_at
+    if not published_at:
+        return None
     image_url = normalize_url(raw.get("image_url"), source.get("page_url"))
     item = {
         "id": raw.get("id") or article_id(url, title),

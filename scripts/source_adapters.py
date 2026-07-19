@@ -138,13 +138,17 @@ def parse_jsonld_listing(soup: BeautifulSoup, source: dict[str, Any]) -> list[di
 def parse_anchor_listing(soup: BeautifulSoup, source: dict[str, Any]) -> list[dict[str, Any]]:
     items = []
     seen = set()
+    page = normalize_url(source["page_url"])
+    page_domain = source_domain(page)
     for anchor in soup.find_all("a", href=True):
         title = strip_html(anchor.get_text(" ", strip=True))
         if len(title) < 18:
             heading = anchor.find(["h1", "h2", "h3"])
             title = strip_html(heading.get_text(" ", strip=True)) if heading else title
         url = normalize_url(anchor["href"], source["page_url"])
-        if not url or url in seen or source_domain(source["page_url"]) not in source_domain(url):
+        if not url or url in seen or page_domain not in source_domain(url):
+            continue
+        if not article_like_listing_link(source, url, title, page):
             continue
         if len(title) < 18 or len(title.split()) < 3:
             continue
@@ -153,6 +157,10 @@ def parse_anchor_listing(soup: BeautifulSoup, source: dict[str, Any]) -> list[di
         time_tag = parent.find("time") if parent else None
         if time_tag:
             date = time_tag.get("datetime") or time_tag.get_text(" ", strip=True)
+        if not date:
+            date = visible_date_near(parent)
+        if not date and source.get("source_type") == "html":
+            continue
         img = parent.find("img") if parent else None
         desc = ""
         para = parent.find("p") if parent else None
@@ -161,6 +169,61 @@ def parse_anchor_listing(soup: BeautifulSoup, source: dict[str, Any]) -> list[di
         items.append({"title": title, "url": url, "published_at": date, "description": desc, "image_url": img.get("src", "") if img else ""})
         seen.add(url)
     return items
+
+
+def article_like_listing_link(source: dict[str, Any], url: str, title: str, page_url: str) -> bool:
+    low = title.lower().strip()
+    bad_titles = {
+        "skip to main content",
+        "research",
+        "blog",
+        "news",
+        "careers",
+        "pricing",
+        "contact",
+        "documentation",
+        "developers",
+        "privacy policy",
+        "terms of use",
+    }
+    if low in bad_titles or low.startswith(("subscribe", "sign in", "log in", "try ", "build, test", "train, align")):
+        return False
+    if url == page_url or url.rstrip("/") == page_url.rstrip("/"):
+        return False
+    source_id = source.get("id")
+    path_rules = {
+        "openai_news": "/news/",
+        "anthropic_news": "/news/",
+        "deepmind_blog": "/blog/",
+        "meta_ai_blog": "/blog/",
+        "mistral_news": "/news/",
+        "google_research": "/blog/",
+        "microsoft_research": "/research/blog/",
+        "nvidia_ml_blog": "/blog/",
+        "pytorch_blog": "/blog/",
+    }
+    required = path_rules.get(source_id)
+    if required and required not in url:
+        return False
+    if source_id == "mistral_news" and any(word in low for word in ["studio ", "forge ", "vibe ", "coding agents"]):
+        return False
+    return True
+
+
+def visible_date_near(parent) -> str:
+    if not parent:
+        return ""
+    text = parent.get_text(" ", strip=True)
+    patterns = [
+        r"\b(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+\d{1,2},?\s+\d{4}\b",
+        r"\b\d{4}-\d{2}-\d{2}\b",
+        r"\b\d{1,2}\s+(?:Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Sept|Oct|Nov|Dec)[a-z]*\.?\s+\d{4}\b",
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, text)
+        if match:
+            return match.group(0)
+    return ""
 
 
 def source_domain(url: str) -> str:
@@ -183,7 +246,8 @@ def fetch_hacker_news(source: dict[str, Any], fetcher: Fetcher) -> list[dict[str
         url = story.get("url") or f"https://news.ycombinator.com/item?id={story_id}"
         published = datetime.fromtimestamp(story.get("time", 0), tz=timezone.utc).isoformat()
         items.append({"id": f"hn-{story_id}", "title": title, "url": url, "published_at": published, "description": "Hacker News discussion", "authors": [story.get("by", "")]})
-    return keyword_filter(items, {**source, "include_keywords": source.get("include_keywords") or ["AI", "machine learning", "LLM", "model", "GPU", "startup", "developer", "open source", "Show HN", "inference", "agent"]})
+    topical = ["AI", "artificial intelligence", "machine learning", "LLM", "model", "GPU", "developer tool", "open source", "inference", "agent", "MLOps", "CUDA", "PyTorch", "RAG", "VLM", "multimodal"]
+    return keyword_filter(items, {**source, "include_keywords": source.get("include_keywords") or topical})
 
 
 def fetch_arxiv(source: dict[str, Any], fetcher: Fetcher) -> list[dict[str, Any]]:
@@ -229,9 +293,16 @@ def keyword_filter(items: list[dict[str, Any]], source: dict[str, Any]) -> list[
     out = []
     for item in items:
         text = f"{item.get('title','')} {item.get('description','')}".lower()
-        if include and not any(k.lower() in text for k in include):
+        if include and not any(keyword_matches(text, k) for k in include):
             continue
-        if exclude and any(k in text for k in exclude):
+        if exclude and any(keyword_matches(text, k) for k in exclude):
             continue
         out.append(item)
     return out
+
+
+def keyword_matches(text: str, keyword: str) -> bool:
+    keyword = keyword.lower().strip()
+    if len(keyword) <= 4 and re.fullmatch(r"[a-z0-9+#.]+", keyword):
+        return re.search(rf"(?<![a-z0-9]){re.escape(keyword)}(?![a-z0-9])", text) is not None
+    return keyword in text

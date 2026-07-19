@@ -56,7 +56,12 @@
   }
 
   function image(article) {
-    if (!article.image_url) return el("div", { class: "placeholder", "aria-hidden": "true", text: "C" });
+    if (!article.image_url) {
+      return el("div", { class: `placeholder placeholder-${article.section || "default"}` }, [
+        el("span", { class: "placeholder-kicker", text: label(article) }),
+        el("span", { class: "placeholder-source", text: article.source_name || "COLLEXTOR" }),
+      ]);
+    }
     const img = el("img", { src: article.image_url, alt: article.title, loading: "lazy" });
     img.addEventListener("error", () => img.parentElement.replaceWith(el("div", { class: "placeholder", "aria-hidden": "true", text: "C" })));
     return el("div", { class: "image-frame" }, img);
@@ -154,10 +159,9 @@
   }
 
   async function currentWeekly() {
-    const index = await loadJson("data/archive-index.json");
-    const first = index.editions && index.editions[0];
-    if (!first) return { articles: [] };
-    return loadJson(`data/weekly/${first.week_id}.json`);
+    const current = await loadJson("data/current-week.json");
+    if (!current.week_id) return { articles: [] };
+    return loadJson(`data/weekly/${current.week_id}.json`);
   }
 
   window.Collextor = { loadJson, el, story, research, fmtDate, safeLink };

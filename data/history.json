@@ -1,1510 +1,86 @@
 {
   "articles": [
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/products/compute",
+      "authors": [
+        "imranmk"
+      ],
+      "canonical_url": "https://sairc.vercel.app/resources",
       "cluster_sources": [
-        "Mistral AI News"
+        "Hacker News"
       ],
-      "description": "Studio",
-      "event_cluster_id": "657071170883",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "6570711708834d986345",
-      "image_url": "https://mistral.ai/_astro/ai-app_LCReD.webp?dpl=6a5a4cd58f806400087af9a7",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: inference, training",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Compute Frontier-scale infrastructure for training and inference.",
-      "url": "https://mistral.ai/products/compute"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/pytorch-2-13-release-blog",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "6e4d262c02f2",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "6e4d262c02f29c646f72",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "390ed6c21764",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "hn-48972624",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
+      "is_must_read": false,
+      "published_at": "2026-07-19T23:21:57Z",
       "research_track": "",
-      "score": 18,
+      "score": 12,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 6 hours",
-        "major-event keyword: release",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "PyTorch 2.13 Release Blog",
-      "url": "https://pytorch.org/blog/pytorch-2-13-release-blog"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "02e76e7bb346",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "02e76e7bb346eee49529",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: GPU, training",
-        "technical relevance: PyTorch"
+        "major-event keyword: GPU"
       ],
       "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm",
-      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm"
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Compiled List of over $1000 in AI/GPU/LLM Credits (100% Free)",
+      "url": "https://sairc.vercel.app/resources"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety",
+      "authors": [
+        "ekorbia"
+      ],
+      "canonical_url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html",
       "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
+        "Hacker News"
       ],
-      "description": "",
-      "event_cluster_id": "a36d6c58599c",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "a36d6c58599c4ebd89c5",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Copy-of-genai-social-nemotron-3-4643900-1920x1080-1-1-660x370.png",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: safety",
-        "technical relevance: multimodal, agent, reasoning"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Building NVIDIA Nemotron 3 Agents for Reasoning, Multimodal RAG, Voice, and Safety",
-      "url": "https://developer.nvidia.com/blog/building-nvidia-nemotron-3-agents-for-reasoning-multimodal-rag-voice-and-safety"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "53a02919df37",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "53a02919df371f065dab",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/Copy-of-genai-social-nemotron-3-4643900-1920x1080-1-660x370.png",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: introducing",
-        "technical relevance: agent, reasoning"
-      ],
-      "section": "ai_engineering",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Introducing Nemotron 3 Super: An Open Hybrid Mamba-Transformer MoE for Agentic Reasoning",
-      "url": "https://developer.nvidia.com/blog/introducing-nemotron-3-super-an-open-hybrid-mamba-transformer-moe-for-agentic-reasoning"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "4cc153c00614",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "4cc153c00614672cbcb5",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/01/gb200-nvl-rack-gtc24-press-1920x1080-1-660x370-jpg.webp",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Delivering Massive Performance Leaps for Mixture of Experts Inference on NVIDIA Blackwell",
-      "url": "https://developer.nvidia.com/blog/delivering-massive-performance-leaps-for-mixture-of-experts-inference-on-nvidia-blackwell"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/how-to-build-privacy-preserving-evaluation-benchmarks-with-synthetic-data",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "1cc5b8bbd46e",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "1cc5b8bbd46ef583e318",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/image2-2-660x370-jpg.webp",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: serving, evaluation"
-      ],
-      "section": "ai_engineering",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "How to Build Privacy-Preserving Evaluation Benchmarks with Synthetic Data",
-      "url": "https://developer.nvidia.com/blog/how-to-build-privacy-preserving-evaluation-benchmarks-with-synthetic-data"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/gemini",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "1b45a4f87bd4",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "1b45a4f87bd41df5147e",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__gemini__large.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Gemini Build intelligent agents",
-      "url": "https://deepmind.google/models/gemini"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/nvidia-kaggle-grandmasters-win-artificial-general-intelligence-competition",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "0e6e81723623",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "0e6e81723623888b3b39",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/Untitled-660x370-png.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "research relevance: PET"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "NVIDIA Kaggle Grandmasters Win Artificial General Intelligence Competition",
-      "url": "https://developer.nvidia.com/blog/nvidia-kaggle-grandmasters-win-artificial-general-intelligence-competition"
-    },
-    {
-      "also_covered_by": [
-        "Google DeepMind Blog",
-        "Anthropic News",
-        "PyTorch Blog",
-        "Google Research Blog"
-      ],
-      "authors": [],
-      "canonical_url": "https://openai.com/news",
-      "cluster_sources": [
-        "OpenAI News"
-      ],
-      "description": "",
-      "event_cluster_id": "1b6229ca02e0",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "1b6229ca02e0650deb28",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "496c169d392e",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "hn-48972590",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
+      "published_at": "2026-07-19T23:16:26Z",
       "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "openai_news",
-      "source_name": "OpenAI News",
-      "title": "Skip to main content",
-      "url": "https://openai.com/news"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/products/studio",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Studio",
-      "event_cluster_id": "8bd8fac8aa7e",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "8bd8fac8aa7ee5fe03f2",
-      "image_url": "https://mistral.ai/_astro/ai-app_LCReD.webp?dpl=6a5a4cd58f806400087af9a7",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Studio Build, test, and run AI agents and apps.",
-      "url": "https://mistral.ai/products/studio"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/products/forge",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Studio",
-      "event_cluster_id": "70c4cbb2285f",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "70c4cbb2285fad7119fb",
-      "image_url": "https://mistral.ai/_astro/ai-app_LCReD.webp?dpl=6a5a4cd58f806400087af9a7",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Forge Train, align, and evaluate custom AI models.",
-      "url": "https://mistral.ai/products/forge"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/products/vibe",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Studio",
-      "event_cluster_id": "415333925118",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "415333925118b1a867be",
-      "image_url": "https://mistral.ai/_astro/ai-app_LCReD.webp?dpl=6a5a4cd58f806400087af9a7",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Vibe AI agent for long-horizon work.",
-      "url": "https://mistral.ai/products/vibe"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/products/vibe/code",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Studio",
-      "event_cluster_id": "033d0b06d545",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "033d0b06d545ec8b19a6",
-      "image_url": "https://mistral.ai/_astro/ai-app_LCReD.webp?dpl=6a5a4cd58f806400087af9a7",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Vibe for code Coding agents in the terminal, IDE, and background.",
-      "url": "https://mistral.ai/products/vibe/code"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/news/robostral-navigate",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Your Prompts and Skills need a system of record.",
-      "event_cluster_id": "cafc9d3c3da0",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "cafc9d3c3da053e9739d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: introducing"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Introducing Robostral Navigate",
-      "url": "https://mistral.ai/news/robostral-navigate"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/tutorials/beginner/introyt.html",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "accf1cae13e1",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "accf1cae13e182d5c2e4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Intro to PyTorch – YouTube Series",
-      "url": "https://pytorch.org/tutorials/beginner/introyt.html"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "3b01adbd65ac",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "3b01adbd65ac5d5406a7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Understanding PyTorch’s Test Infrastructure",
-      "url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "2e586dce2d5d",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "2e586dce2d5d59a6dff5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Shopify Joins the PyTorch Foundation as a Platinum Member",
-      "url": "https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api",
-      "cluster_sources": [
-        "Meta AI Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "f8a956094e52",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "f8a956094e526a92caf3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: introducing"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "meta_ai_blog",
-      "source_name": "Meta AI Blog",
-      "title": "Introducing Muse Spark 1.1",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-meta-model-api"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl",
-      "cluster_sources": [
-        "Meta AI Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "57a59d53b521",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "57a59d53b52109678879",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: introducing"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "meta_ai_blog",
-      "source_name": "Meta AI Blog",
-      "title": "Introducing Muse Image and Muse Video",
-      "url": "https://ai.meta.com/blog/introducing-muse-image-muse-video-msl"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://ai.meta.com/blog/introducing-muse-spark-msl",
-      "cluster_sources": [
-        "Meta AI Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "2e5ac777df91",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "2e5ac777df91ff1b3cfe",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: introducing"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "meta_ai_blog",
-      "source_name": "Meta AI Blog",
-      "title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
-      "url": "https://ai.meta.com/blog/introducing-muse-spark-msl"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "707e6c047c91",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "707e6c047c917db51a2f",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/06/image6-1-660x370.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: training"
-      ],
-      "section": "ai_engineering",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Boosting MoE Training Throughput with Advanced Fusion Kernels",
-      "url": "https://developer.nvidia.com/blog/boosting-moe-training-throughput-with-advanced-fusion-kernels"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "e0d46eee40f3",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "e0d46eee40f3ae2c022a",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/05/trustworthy-ai-wide-8k-660x370.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "How to Automate AI Model Documentation with the NVIDIA MCG Toolkit",
-      "url": "https://developer.nvidia.com/blog/how-to-automate-ai-model-documentation-with-the-nvidia-mcg-toolkit"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/removing-the-guesswork-from-disaggregated-serving",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "1629f21c5cc1",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "1629f21c5cc108b0b856",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/genai-mixture-of-experts-blog-3105601-1920x1080-1-660x370.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: serving"
-      ],
-      "section": "ai_engineering",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Removing the Guesswork from Disaggregated Serving",
-      "url": "https://developer.nvidia.com/blog/removing-the-guesswork-from-disaggregated-serving"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "35677a67e30e",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "35677a67e30e6bfc5d4c",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/end-to-end-social-ai-factory-taiwan-1920x1080-4660123-660x370-jpg.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: training"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "NVIDIA Blackwell Enables 3x Faster Training and Nearly 2x Training Performance Per Dollar than Previous-Gen Architecture",
-      "url": "https://developer.nvidia.com/blog/nvidia-blackwell-enables-3x-faster-training-and-nearly-2x-training-performance-per-dollar-than-previous-gen-architecture"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/accelerate-ai-model-orchestration-with-nvidia-runai-on-aws",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "03cf16a07418",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "03cf16a074180ec5d4ac",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/07/press-aws-nvidia-logo-lockup-1920x1080-1-660x370-png.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Accelerate AI Model Orchestration with NVIDIA Run:ai on AWS",
-      "url": "https://developer.nvidia.com/blog/accelerate-ai-model-orchestration-with-nvidia-runai-on-aws"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/gemini-omni",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "91c15b98f268",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "91c15b98f2686bda875f",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__gemini__large.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Gemini Omni Create anything from anything",
-      "url": "https://deepmind.google/models/gemini-omni"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/gemini-image",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "2fc02322c302",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "2fc02322c3022a8ff4ad",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__gemini__large.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Nano Banana Create and edit detailed images",
-      "url": "https://deepmind.google/models/gemini-image"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/gemini-audio",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "8284ee566df6",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "8284ee566df6601bf4ca",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__gemini__large.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Gemini Audio Talk, create and control audio",
-      "url": "https://deepmind.google/models/gemini-audio"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/veo",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "5bebc23d204d",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "5bebc23d204d9e0b4d5d",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__veo__large.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Veo Generate cinematic video with audio",
-      "url": "https://deepmind.google/models/veo"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/imagen",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "2b38e9e34aae",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "2b38e9e34aaeb464bbd2",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__veo__large.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Imagen Generate high-quality images from text",
-      "url": "https://deepmind.google/models/imagen"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/lyria",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "58e906c72b70",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "58e906c72b7004f6cef4",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__veo__large.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Lyria Generate high fidelity music and audio",
-      "url": "https://deepmind.google/models/lyria"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/genie",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "dbf22f48edd8",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "dbf22f48edd8bee0698e",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__genie-3__large_OKty371.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Genie 3 Generate and explore interactive worlds",
-      "url": "https://deepmind.google/models/genie"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://deepmind.google/models/gemini-robotics",
-      "cluster_sources": [
-        "Google DeepMind Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "248279c03d13",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "248279c03d1312a63404",
-      "image_url": "https://storage.googleapis.com/gdm-deepmind-com-prod-public/media/original_images/nav__dm__genie-3__large_OKty371.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "deepmind_blog",
-      "source_name": "Google DeepMind Blog",
-      "title": "Gemini Robotics Perceive, reason, use tools and interact",
-      "url": "https://deepmind.google/models/gemini-robotics"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://anthropic.com/press-kit",
-      "cluster_sources": [
-        "Anthropic News"
-      ],
-      "description": "",
-      "event_cluster_id": "2d77b564045f",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "2d77b564045f66998bf7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Download press kit",
-      "url": "https://anthropic.com/press-kit"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/industry/public-sector",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Financial services",
-      "event_cluster_id": "03c8fb24133e",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "03c8fb24133ed0a7b42d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Public sector & government",
-      "url": "https://mistral.ai/industry/public-sector"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Mistral OCR 4",
-      "event_cluster_id": "7dce15731b62",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "7dce15731b62c6240c24",
-      "image_url": "https://mistral.ai/cms-media/api/media/file/ocr.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Mistral Medium 3.5",
-      "url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Your Prompts and Skills need a system of record.",
-      "event_cluster_id": "d469b3da0ae1",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "d469b3da0ae18fadcbdb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Your Prompts and Skills need a system of record.",
-      "url": "https://mistral.ai/news/manage-prompts-and-skills-in-studio"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/news/leanstral-1-5",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Your Prompts and Skills need a system of record.",
-      "event_cluster_id": "93d04618369d",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "93d04618369d3d6e8f63",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Leanstral 1.5: Proof Abundance for All",
-      "url": "https://mistral.ai/news/leanstral-1-5"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/join-ecosystem",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "2fc049342c61",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "2fc049342c61230c1e96",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Join the Ecosystem",
-      "url": "https://pytorch.org/join-ecosystem"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/tac",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "ea146263b914",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "ea146263b914e56eb610",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Technical Advisory Council",
-      "url": "https://pytorch.org/tac"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/credits",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "4fcd6d56fdef",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "4fcd6d56fdef05ccc2db",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Cloud Credit Program",
-      "url": "https://pytorch.org/credits"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "e54288c29107",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "e54288c2910771137104",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box",
-      "url": "https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "d5c9d2e4fe07",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "d5c9d2e4fe07fc81c13f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels",
-      "url": "https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "3cd033d21d45",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "3cd033d21d453d29d163",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Building the Future of On-Device AI at the ExecuTorch Hackathon",
-      "url": "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/security-privacy-cryptography",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "c09ba2683fd6",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "c09ba2683fd6f17325c9",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
+      "score": 11,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: security"
+        "startup/product signal: API"
       ],
       "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Security, privacy & cryptography",
-      "url": "https://www.microsoft.com/en-us/research/research-area/security-privacy-cryptography"
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "TSMC is accelerating Arizona factory buildout to capitalize on AI 'megatrend'",
+      "url": "https://www.cnbc.com/2026/07/20/tsmc-arizona-fab-capacity-ai-chip-demand.html"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication",
-      "cluster_sources": [
-        "Meta AI Blog"
+      "authors": [
+        "theMezz"
       ],
-      "description": "",
-      "event_cluster_id": "47fcf170ba7b",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "47fcf170ba7b0eaedec7",
+      "canonical_url": "https://www.youtube.com/watch?v=PHhLhL1GIac",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "fbf7d0f340df",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "hn-48972531",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "meta_ai_blog",
-      "source_name": "Meta AI Blog",
-      "title": "From Brain Waves to Words: Brain2Qwerty Offers a New Path to Communication Without Surgery",
-      "url": "https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai",
-      "cluster_sources": [
-        "Meta AI Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "1f85c944026f",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "1f85c944026fa57d1c4b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "meta_ai_blog",
-      "source_name": "Meta AI Blog",
-      "title": "Scaling How We Build and Test Our Most Advanced AI",
-      "url": "https://ai.meta.com/blog/scaling-how-we-build-test-advanced-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/building-the-ai-grid-with-nvidia-orchestrating-intelligence-everywhere",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "995682738d09",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "995682738d09733f8c6c",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/03/telco-promo-pack-ai-grid-tech-blog-1480x830-1-660x370.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Building the AI Grid with NVIDIA: Orchestrating Intelligence Everywhere",
-      "url": "https://developer.nvidia.com/blog/building-the-ai-grid-with-nvidia-orchestrating-intelligence-everywhere"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "c4c8927682ff",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "c4c8927682ff3d1296a2",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2025/12/Nemotron-3-1-660x370.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Inside NVIDIA Nemotron 3: Techniques, Tools, and Data That Make It Efficient and Accurate",
-      "url": "https://developer.nvidia.com/blog/inside-nvidia-nemotron-3-techniques-tools-and-data-that-make-it-efficient-and-accurate"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/research-areas",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "fb65a29a05be",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "fb65a29a05bee62bd15f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
+      "published_at": "2026-07-19T23:09:00Z",
       "research_track": "",
       "score": 9,
       "score_reasons": [
@@ -1512,506 +88,14 @@
         "published within 6 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Explore all research areas",
-      "url": "https://research.google/research-areas"
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Kevin O'Leary's view on AI is interesting, 9 minute video [video]",
+      "url": "https://www.youtube.com/watch?v=PHhLhL1GIac"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/research-areas/sustainability-crisis-resilience",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "b44bdda835d1",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "b44bdda835d17c803641",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/earth_AI_nav.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Sustainability & crisis resilience",
-      "url": "https://research.google/research-areas/sustainability-crisis-resilience"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/research-areas/algorithms-and-theory",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "89bb26ae7e1a",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "89bb26ae7e1af1935e8c",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/algorithms_theory_nav.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Algorithms & theory",
-      "url": "https://research.google/research-areas/algorithms-and-theory"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/research-areas/natural-language-processing",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "e3b63c272a30",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "e3b63c272a304eb9e4d7",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/algorithms_theory_nav.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Natural language processing",
-      "url": "https://research.google/research-areas/natural-language-processing"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/research-areas/human-computer-interaction-and-visualization",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "7587a64487a7",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "7587a64487a7f267a591",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/human_computer_interaction_nav.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Human-computer interaction and visualization",
-      "url": "https://research.google/research-areas/human-computer-interaction-and-visualization"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/resources",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "87e7e71cad77",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "87e7e71cad77519b49f2",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/dataset_nav.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Datasets Access high-quality datasets to accelerate your research.",
-      "url": "https://research.google/resources"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/programs-and-events/faculty-engagement",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "fb160b5e027e",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "fb160b5e027e84bec53c",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/faculty_programs_nav.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Faculty programs Participating in the academic research community through meaningful engagement with university faculty.",
-      "url": "https://research.google/programs-and-events/faculty-engagement"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/programs-and-events/student-engagement",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "b90ae871caca",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "b90ae871caca2f4945f3",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/faculty_programs_nav.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Student programs Supporting the next generation of researchers through a wide range of programming.",
-      "url": "https://research.google/programs-and-events/student-engagement"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/careers",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "932d6b34c9a5",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "932d6b34c9a567b52d73",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/locations_nav.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "Locations Find your place in our global offices and research labs.",
-      "url": "https://research.google/careers"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/blog",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "4be93a3979d1",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "4be93a3979d1bd9c1545",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Microsoft Research blog",
-      "url": "https://www.microsoft.com/en-us/research/blog"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/graphics-and-multimedia",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "7bb5bcd49609",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "7bb5bcd496092c20e0c3",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Graphics & multimedia",
-      "url": "https://www.microsoft.com/en-us/research/research-area/graphics-and-multimedia"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/human-language-technologies",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "ac0f29ab0830",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "ac0f29ab0830d2066783",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Human language technologies",
-      "url": "https://www.microsoft.com/en-us/research/research-area/human-language-technologies"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/search-information-retrieval",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "25c3c855b1b5",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "25c3c855b1b5b477b747",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Search & information retrieval",
-      "url": "https://www.microsoft.com/en-us/research/research-area/search-information-retrieval"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/data-platform-analytics",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "f35c14b62c62",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "f35c14b62c624c81e06b",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Data platforms and analytics",
-      "url": "https://www.microsoft.com/en-us/research/research-area/data-platform-analytics"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/hardware-devices",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "cdead3128322",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "cdead31283229177df67",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Hardware & devices",
-      "url": "https://www.microsoft.com/en-us/research/research-area/hardware-devices"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/programming-languages-software-engineering",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "86140d38a9e8",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "86140d38a9e811d5a5ea",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Programming languages & software engineering",
-      "url": "https://www.microsoft.com/en-us/research/research-area/programming-languages-software-engineering"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/systems-and-networking",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "86c852ef51c3",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "86c852ef51c3e75b701f",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Systems & networking",
-      "url": "https://www.microsoft.com/en-us/research/research-area/systems-and-networking"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/research-area/ecology-environment",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "7fd7bad16538",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "7fd7bad16538f238e044",
-      "image_url": "https://uhf.microsoft.com/images/microsoft/RE1Mu3b.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T23:06:51Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Ecology & environment",
-      "url": "https://www.microsoft.com/en-us/research/research-area/ecology-environment"
-    },
-    {
       "authors": [
         "sherryf123"
       ],
@@ -2021,7 +105,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "f7e4c065e8ad",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "hn-48972442",
       "image_url": "",
       "is_breaking": false,
@@ -2029,51 +113,22 @@
       "is_must_read": false,
       "published_at": "2026-07-19T22:57:48Z",
       "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Deploy AI agent in 5 lines of code",
-      "url": "https://www.custodianlabs.io"
-    },
-    {
-      "authors": [
-        "petethomas"
-      ],
-      "canonical_url": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "776a84f4ec7f",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48972436",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T22:56:32Z",
-      "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "research relevance: PET"
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
       ],
-      "section": "ai_engineering",
+      "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Trump to fund MAGA-aligned projects in Europe as he reorders US aid",
-      "url": "https://www.ft.com/content/1cb986a4-2428-4e64-a559-7867cfa1a3e3"
+      "title": "Show HN: Deploy AI agent in 5 lines of code",
+      "url": "https://www.custodianlabs.io"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "petethomas"
       ],
@@ -2083,7 +138,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "985add7848a1",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "hn-48972403",
       "image_url": "",
       "is_breaking": false,
@@ -2105,6 +160,7 @@
       "url": "https://www.ft.com/content/905e18e6-f054-4995-b5a7-0ff52a65ae57"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "bookofjoe"
       ],
@@ -2114,7 +170,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "06f9be3573d7",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:19:59Z",
       "id": "hn-48972386",
       "image_url": "",
       "is_breaking": false,
@@ -2136,67 +192,6 @@
     },
     {
       "authors": [
-        "impendingchange"
-      ],
-      "canonical_url": "https://promptdna.org",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "9a2c701abf7f",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48972378",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T22:47:06Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Promptdna.org- a community library of composable prompt blocks with MCP",
-      "url": "https://promptdna.org"
-    },
-    {
-      "authors": [
-        "tanmaydesh5189"
-      ],
-      "canonical_url": "https://medium.com/@deshpandetanmay/a-27b-ai-model-ran-on-an-iphone-heres-what-survived-compression-05e1bce0b4a7",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "d5d027f176d4",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48972351",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T22:40:59Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "I Read the Bonsai 27B Paper. What You Gain–and Lose–With 1-Bit Compression",
-      "url": "https://medium.com/@deshpandetanmay/a-27b-ai-model-ran-on-an-iphone-heres-what-survived-compression-05e1bce0b4a7"
-    },
-    {
-      "authors": [
         "SencerH"
       ],
       "canonical_url": "https://github.com/RecNes/hn-ai-summarizer",
@@ -2205,7 +200,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "1b4b9bedd761",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:15:49Z",
       "id": "hn-48972350",
       "image_url": "",
       "is_breaking": false,
@@ -2227,130 +222,7 @@
       "url": "https://github.com/RecNes/hn-ai-summarizer"
     },
     {
-      "authors": [
-        "liangqiyao99"
-      ],
-      "canonical_url": "https://www.sepo.sh",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "11f40cd86495",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48972342",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T22:40:04Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Self-evolving repo for team and coding agent collaboration",
-      "url": "https://www.sepo.sh"
-    },
-    {
-      "authors": [
-        "ziadhussein"
-      ],
-      "canonical_url": "https://rateahuman.xyz",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0ec9063e2ee9",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48972330",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T22:38:41Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Rate A Human – AI agents review the humans they work for",
-      "url": "https://rateahuman.xyz"
-    },
-    {
-      "authors": [
-        "htmghrceceg"
-      ],
-      "canonical_url": "https://www.getsonoma.lol",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ca8dc54743bf",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48972291",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T22:34:20Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Tripplet AI – a new era of smarter AI",
-      "url": "https://www.getsonoma.lol"
-    },
-    {
-      "authors": [
-        "passiflora96"
-      ],
-      "canonical_url": "https://www.passinote.app",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "067c0ded62f0",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48971847",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T21:31:48Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: A canvas-based note taking and organizer app",
-      "url": "https://www.passinote.app"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "rbanffy"
       ],
@@ -2360,7 +232,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "8c341ca217c5",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "hn-48971738",
       "image_url": "",
       "is_breaking": false,
@@ -2381,6 +253,7 @@
       "url": "https://thenextweb.com/news/ai-advice-suppresses-critical-thinking-wrong-answers-study"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Kate Park"
       ],
@@ -2390,7 +263,7 @@
       ],
       "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
       "event_cluster_id": "56b547978dab",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "56b547978dabbc168125",
       "image_url": "",
       "is_breaking": false,
@@ -2411,37 +284,7 @@
       "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit"
     },
     {
-      "authors": [
-        "bosky101"
-      ],
-      "canonical_url": "https://shipmd.app",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "35cf31495b56",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48971669",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T21:09:14Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: ShipMD.app – Moving things in folders, move things in the real world",
-      "url": "https://shipmd.app"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "dylangrech92"
       ],
@@ -2451,7 +294,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "66d0a474531d",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "hn-48971042",
       "image_url": "",
       "is_breaking": false,
@@ -2473,6 +316,7 @@
       "url": "https://github.com/chalie-ai/chalie"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -2482,7 +326,7 @@
       ],
       "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
       "event_cluster_id": "85960e544855",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "85960e5448556cfcaee3",
       "image_url": "",
       "is_breaking": false,
@@ -2503,37 +347,7 @@
       "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans"
     },
     {
-      "authors": [
-        "jp1016"
-      ],
-      "canonical_url": "https://pdfpress.app/gallery",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7cae7fd2b6e1",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48970160",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T17:46:36Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: A gallery of browser-based PDF imposition and printing templates",
-      "url": "https://pdfpress.app/gallery"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "michael-ax"
       ],
@@ -2543,7 +357,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "2a300895787c",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "hn-48969107",
       "image_url": "",
       "is_breaking": false,
@@ -2564,37 +378,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: A self-correcting algebraic agent swarm",
       "url": "https://github.com/Michael-Ax64/K4-AlgebraicSwarm"
-    },
-    {
-      "authors": [
-        "neverenderr"
-      ],
-      "canonical_url": "https://bribes.fyi",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "c573f8b3b8c9",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48969051",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T15:31:46Z",
-      "research_track": "",
-      "score": 10,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Bribes.fyi – Built something to report bribes",
-      "url": "https://bribes.fyi"
     },
     {
       "authors": [
@@ -2626,130 +409,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: Skimlane – A local-first, customizable, AI reading assistant for Chrome",
       "url": "https://skimlane.com"
-    },
-    {
-      "authors": [
-        "oliwary"
-      ],
-      "canonical_url": "https://squareword.org",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "90c84c89fbcb",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48968975",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T15:22:30Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: My word game inspired by Wordle, Sudoku and crosswords",
-      "url": "https://squareword.org"
-    },
-    {
-      "authors": [
-        "galdan"
-      ],
-      "canonical_url": "https://codeberg.org/emon/sterna-mail",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "b9469bdcc2d4",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48968964",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T15:21:37Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Sterna-Mail: Private, Native Android Email Client for JMAP and IMAP/SMTP",
-      "url": "https://codeberg.org/emon/sterna-mail"
-    },
-    {
-      "authors": [
-        "NohWai"
-      ],
-      "canonical_url": "https://github.com/NohWai-Software/RayTention",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ece7199a20e7",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48968855",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T15:09:58Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Raytention Updated",
-      "url": "https://github.com/NohWai-Software/RayTention"
-    },
-    {
-      "authors": [
-        "ludydev"
-      ],
-      "canonical_url": "https://news.ycombinator.com/item?id=48968851",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "a7e0557142cf",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48968851",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T15:09:32Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: RAG",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Storage Hunters Wiki – Ad-free database and tools for the Roblox game",
-      "url": "https://news.ycombinator.com/item?id=48968851"
     },
     {
       "authors": [
@@ -2813,37 +472,6 @@
       "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse"
     },
     {
-      "authors": [
-        "section33"
-      ],
-      "canonical_url": "https://news.ycombinator.com/item?id=48968606",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7a5ada317dd6",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48968606",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T14:41:16Z",
-      "research_track": "",
-      "score": 10,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
-      "url": "https://news.ycombinator.com/item?id=48968606"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Kate Park"
@@ -2876,37 +504,6 @@
     },
     {
       "authors": [
-        "org-edge"
-      ],
-      "canonical_url": "https://org-edge.com/sysedge.html",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0eeebccb9f06",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48968175",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T13:45:01Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Knowledge graph skill for Claude/Kimi Code",
-      "url": "https://org-edge.com/sysedge.html"
-    },
-    {
-      "authors": [
         "backlit4034"
       ],
       "canonical_url": "https://www.cortex.io/drive",
@@ -2934,161 +531,6 @@
       "source_name": "Hacker News",
       "title": "DRIVE – Operational Excellence for AI-accelerated engineering",
       "url": "https://www.cortex.io/drive"
-    },
-    {
-      "authors": [
-        "rmdes"
-      ],
-      "canonical_url": "https://textcaster.app",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0e157464135a",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48967220",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T11:43:23Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Textcaster – social networking where RSS is the protocol",
-      "url": "https://textcaster.app"
-    },
-    {
-      "authors": [
-        "marceliracis"
-      ],
-      "canonical_url": "https://github.com/MarceliRacis/minio-dash",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "fef16afc6ff6",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48966965",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T11:12:42Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN:MinIO-dash – MinIO admin panel after they removed the Console in 2025",
-      "url": "https://github.com/MarceliRacis/minio-dash"
-    },
-    {
-      "authors": [
-        "deepakrb"
-      ],
-      "canonical_url": "https://regularly.co",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "352feb0d7742",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48966852",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T10:58:42Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Regularly, hand-picked daily logic and number puzzles, no ads",
-      "url": "https://regularly.co"
-    },
-    {
-      "authors": [
-        "valhallarecords"
-      ],
-      "canonical_url": "https://castle-bakeoff.pages.dev",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "adefa54cdefe",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48966808",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T10:51:30Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Same castle prompt, 8 LLMs, 24 procedural Three.js worlds",
-      "url": "https://castle-bakeoff.pages.dev"
-    },
-    {
-      "authors": [
-        "gingermanymph"
-      ],
-      "canonical_url": "https://checkrun.co",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "15192c432751",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "hn-48966700",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T10:31:29Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: CheckRun – a checklist runner for the Chrome side panel",
-      "url": "https://checkrun.co"
     },
     {
       "authors": [
@@ -3132,7 +574,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "d1255b05e88d",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "hn-48965850",
       "image_url": "",
       "is_breaking": false,
@@ -3154,37 +596,6 @@
       "url": "https://github.com/openai/codex/pull/33972/files"
     },
     {
-      "authors": [
-        "standew"
-      ],
-      "canonical_url": "https://www.pilotcite.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5958d67a2376",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48965687",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T07:17:50Z",
-      "research_track": "",
-      "score": 10,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: PilotCite – Get your brand cited by ChatGPT, Gemini, and more",
-      "url": "https://www.pilotcite.com"
-    },
-    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/19/ai-mania",
@@ -3193,7 +604,7 @@
       ],
       "description": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources....",
       "event_cluster_id": "9f5fcc2d1cb3",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "9f5fcc2d1cb3e756b334",
       "image_url": "",
       "is_breaking": false,
@@ -3222,7 +633,7 @@
       ],
       "description": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided..",
       "event_cluster_id": "4f0e18b4fccc",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "4f0e18b4fccc7d268644",
       "image_url": "",
       "is_breaking": false,
@@ -3278,38 +689,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "drdator"
-      ],
-      "canonical_url": "https://q3edit.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "3eb0d46e2466",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48958854",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-18T15:12:40Z",
-      "research_track": "",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Q3Edit – Edit and play Quake 3 maps in the browser",
-      "url": "https://q3edit.com"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/18/claude-make-fable-5-permanent",
       "cluster_sources": [
@@ -3317,7 +696,7 @@
       ],
       "description": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have...",
       "event_cluster_id": "ab4192251d9c",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "ab4192251d9cb9e27f8a",
       "image_url": "",
       "is_breaking": false,
@@ -3346,7 +725,7 @@
       ],
       "description": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial...",
       "event_cluster_id": "8abd0136f1fe",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8abd0136f1fe689bfada",
       "image_url": "",
       "is_breaking": false,
@@ -3377,7 +756,7 @@
       ],
       "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
       "event_cluster_id": "8308ffb7b073",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8308ffb7b073405ac32c",
       "image_url": "",
       "is_breaking": false,
@@ -3409,7 +788,7 @@
       ],
       "description": "a quiet day",
       "event_cluster_id": "484e4328f462",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "484e4328f46223ad738b",
       "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/OqM67QG_Ikk",
       "is_breaking": false,
@@ -3429,38 +808,6 @@
       "source_name": "Latent Space",
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-830"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "gregsadetsky"
-      ],
-      "canonical_url": "https://ikea.greg.technology",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "14532943ccd0",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48955042",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-18T03:51:42Z",
-      "research_track": "",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: IKEA Complexity Index",
-      "url": "https://ikea.greg.technology"
     },
     {
       "also_covered_by": [],
@@ -3694,7 +1041,7 @@
       ],
       "description": "Patreon is strengthening its defenses against AI scraping by working with Cloudflare to block bots that train AI models on creators’ content without permission. The move marks a shift away from relying on websites using robots.txt alone...",
       "event_cluster_id": "320385b77c9c",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "320385b77c9ce0e9f248",
       "image_url": "",
       "is_breaking": false,
@@ -3716,36 +1063,6 @@
       "url": "https://techcrunch.com/2026/07/17/patreon-stops-asking-ai-bots-not-to-scrape-and-starts-blocking-them"
     },
     {
-      "authors": [
-        "tusksm"
-      ],
-      "canonical_url": "https://honeypotlive.cc",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "e1a8ec97276e",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48947548",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-17T14:05:15Z",
-      "research_track": "",
-      "score": 7,
-      "score_reasons": [
-        "medium source",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Watch bots interact with an SSH honeypot in real time",
-      "url": "https://honeypotlive.cc"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Anthony Ha, Theresa Loconsolo, Kirsten Korosec, Sean O'Kane"
@@ -3756,7 +1073,7 @@
       ],
       "description": "Apple filed a trade secrets lawsuit against OpenAI last Friday, and it’s not messing around. The complaint alleges a pattern of misconduct reaching all the way up to OpenAI’s chief hardware officer and claims more than 400 former Apple...",
       "event_cluster_id": "6b81cde1f856",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "6b81cde1f856badcf7a0",
       "image_url": "",
       "is_breaking": false,
@@ -3784,7 +1101,7 @@
       ],
       "description": "Is there something I can actually help you with today? — Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
       "event_cluster_id": "960ab030630c",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "960ab030630cf750df3c",
       "image_url": "",
       "is_breaking": false,
@@ -3814,7 +1131,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo,..",
       "event_cluster_id": "409e8a4eff8b",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "409e8a4eff8b176abcb4",
       "image_url": "",
       "is_breaking": false,
@@ -3844,7 +1161,7 @@
       ],
       "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
       "event_cluster_id": "7bd993bc9413",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "7bd993bc941388804645",
       "image_url": "",
       "is_breaking": false,
@@ -3874,7 +1191,7 @@
       ],
       "description": "Company Jul 17, 2026",
       "event_cluster_id": "c5c524823095",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "c5c5248230951857dae9",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/7zl9bYDSqJgGmnEXobKVKJ/07bf8fb08aed9759c6439170cd40de18/Frame.png?w=3840&q=90&fm=webp",
       "is_breaking": false,
@@ -3904,7 +1221,7 @@
       ],
       "description": "Every morning, airline dispatchers, grid operators, and farmers around the world make decisions based on the same thing: a weather forecast. While these forecasts are something that most people glance at for two seconds, weather...",
       "event_cluster_id": "3564ff34e830",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:17:25Z",
       "id": "3564ff34e830b8356290",
       "image_url": "",
       "is_breaking": false,
@@ -3932,7 +1249,7 @@
       ],
       "description": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help...",
       "event_cluster_id": "ae56f098fbfe",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "ae56f098fbfed2de3521",
       "image_url": "",
       "is_breaking": false,
@@ -3961,7 +1278,7 @@
       ],
       "description": "a great week for open models continues.",
       "event_cluster_id": "a1fa918dc4b4",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "a1fa918dc4b4a86f59b4",
       "image_url": "https://substackcdn.com/image/fetch/$s_!xVk0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d22c3fe-fde7-4c91-9e50-83b1597fe747_1958x1160.png",
       "is_breaking": false,
@@ -3991,7 +1308,7 @@
       ],
       "description": "Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly, running in Chrome: They chose...",
       "event_cluster_id": "2b102685bd9b",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "2b102685bd9b6d6f7b39",
       "image_url": "https://static.simonwillison.net/static/2026/firefox-wasm.webp",
       "is_breaking": false,
@@ -4019,7 +1336,7 @@
       ],
       "description": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by...",
       "event_cluster_id": "07f97d4cbd8e",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "07f97d4cbd8ecd7bf5ac",
       "image_url": "https://static.simonwillison.net/static/2026/kimi-3-pelican.jpg",
       "is_breaking": false,
@@ -4051,7 +1368,7 @@
       ],
       "description": "Google is adding personalized AI avatars to Vids that let users create videos starring a digital version of themselves, alongside Gemini Omni-powered tools for generating and editing videos from prompts and reference images.",
       "event_cluster_id": "8686bb3502c3",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8686bb3502c32292e979",
       "image_url": "",
       "is_breaking": false,
@@ -4081,7 +1398,7 @@
       ],
       "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
       "event_cluster_id": "fffdda4c3f26",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "fffdda4c3f26fb295422",
       "image_url": "",
       "is_breaking": false,
@@ -4120,7 +1437,7 @@
       ],
       "description": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global...",
       "event_cluster_id": "37f46dd2db0c",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "37f46dd2db0c083fff95",
       "image_url": "",
       "is_breaking": false,
@@ -4159,7 +1476,7 @@
       ],
       "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three...",
       "event_cluster_id": "31294b766ae0",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "31294b766ae079c6bd08",
       "image_url": "",
       "is_breaking": false,
@@ -4197,7 +1514,7 @@
       ],
       "description": "Editing the figures in a research paper is a routine and time-consuming part of everyday research practice: authors relabel components, rearrange panels, and restyle visuals as they revise their manuscripts. Automating this editing...",
       "event_cluster_id": "52041a914742",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "52041a914742c349bed6",
       "image_url": "",
       "is_breaking": false,
@@ -4232,7 +1549,7 @@
       ],
       "description": "Myocardial infarction (MI) remains a leading cause of mortality worldwide. Echocardiography (Echo) is a widely available modality for MI assessment, where regional wall motion abnormality is a key indicator. Prior learning based methods...",
       "event_cluster_id": "c2c4e8a323e1",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "c2c4e8a323e18d04b597",
       "image_url": "",
       "is_breaking": false,
@@ -4264,7 +1581,7 @@
       ],
       "description": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but...",
       "event_cluster_id": "bc42f5af5841",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "bc42f5af5841de79c585",
       "image_url": "",
       "is_breaking": false,
@@ -4303,7 +1620,7 @@
       ],
       "description": "Recent advances in Tool-Integrated Large Language Models have made web search a core capability of information-seeking agents. However, as interaction histories grow, agents increasingly struggle to track task progress. When search...",
       "event_cluster_id": "010a2a7542b0",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "010a2a7542b00ea01689",
       "image_url": "",
       "is_breaking": false,
@@ -4341,7 +1658,7 @@
       ],
       "description": "Recent advances in Vision-Language Models (VLMs) have significantly improved image geo-localization, yet existing models remain susceptible to landmark bias, causing them to overlook geographical cues or form spurious correlations,...",
       "event_cluster_id": "8c6db3a57a7a",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8c6db3a57a7a7d6ea1a0",
       "image_url": "",
       "is_breaking": false,
@@ -4374,7 +1691,7 @@
       ],
       "description": "Traffic agencies now have access to large volumes of video-derived data for studying safety and congestion. Most of these data are observational and collected without interventions, which makes causal questions such as \"How would rain...",
       "event_cluster_id": "9b3a92cc88af",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "9b3a92cc88af067fe094",
       "image_url": "",
       "is_breaking": false,
@@ -4407,7 +1724,7 @@
       ],
       "description": "Retrieval systems are trained and evaluated on a static idea of usefulness: hand a document and a question to a reader model, see whether the answer improves, and score the document accordingly. The idea holds up when a document is read...",
       "event_cluster_id": "97f11b3ce171",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "97f11b3ce171a7df438b",
       "image_url": "",
       "is_breaking": false,
@@ -4437,7 +1754,7 @@
       ],
       "description": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections,...",
       "event_cluster_id": "6bcf21fe63d9",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "6bcf21fe63d9ec208c52",
       "image_url": "",
       "is_breaking": false,
@@ -4471,7 +1788,7 @@
       ],
       "description": "Evidence synthesis is crucial for turning primary research into reliable knowledge for science, medicine, education, and policy. Yet, quantitative evidence synthesis remains largely manual and difficult to scale. Here, we introduce...",
       "event_cluster_id": "470751bf526d",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "470751bf526db9dcb506",
       "image_url": "",
       "is_breaking": false,
@@ -4507,7 +1824,7 @@
       ],
       "description": "The reliability of deepfake detectors frequently degrades under black-box adversarial transfer, as these models often rely on fragile, architecture-dependent forensic cues. Existing transfer attacks often lack semantic awareness and...",
       "event_cluster_id": "740cdadb6b92",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "740cdadb6b92887cd445",
       "image_url": "",
       "is_breaking": false,
@@ -4543,7 +1860,7 @@
       ],
       "description": "Healthcare multimodal AI must combine visual and textual evidence while remaining reliable and interpretable. Using MediaEval Medico 2025 as a retrospective GI endoscopy case study, we analyze design choices across nine documented...",
       "event_cluster_id": "24024670a7a7",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "24024670a7a72f96742a",
       "image_url": "",
       "is_breaking": false,
@@ -4578,7 +1895,7 @@
       ],
       "description": "Multimodal large language models (MLLMs) often introduce errors when generating image captions, resulting in misaligned image-text pairs. Our work focuses on a class of captioning errors that we refer to as systematic misalignments,...",
       "event_cluster_id": "c44f4b68be43",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "c44f4b68be43f1086f69",
       "image_url": "",
       "is_breaking": false,
@@ -4608,7 +1925,7 @@
       ],
       "description": "Safety Jul 16, 2026",
       "event_cluster_id": "a907415b440a",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "a907415b440a72c97ae1",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/qMYBYjbkSSEYQbsQyyfRQ/d9fe2585ed8bbf73ffee5d6ed8bcc39e/why-teens-card.jpg?w=3840&q=90&fm=webp",
       "is_breaking": false,
@@ -4639,7 +1956,7 @@
       ],
       "description": "With this new update, Google is expanding AI Mode beyond answering questions and into completing tasks across the apps they use regularly.",
       "event_cluster_id": "77c50a2ea324",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "77c50a2ea324b68abe03",
       "image_url": "",
       "is_breaking": false,
@@ -4669,7 +1986,7 @@
       ],
       "description": "Companies coming to market are raising money at fastest pace this century.",
       "event_cluster_id": "b644fb68fc42",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "b644fb68fc42c20a13d8",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_2c2b4618-eb73-4160-997a-8f8bb5485e20-500x500.jpeg",
       "is_breaking": false,
@@ -4699,7 +2016,7 @@
       ],
       "description": "DoorDash is opening a limited beta of dd-cli, a command-line tool that lets developers and AI agents search stores, build carts, and place orders from the terminal, marking another step toward software designed for AI agents instead of...",
       "event_cluster_id": "d7b681353ccd",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "d7b681353ccd3f47d14c",
       "image_url": "",
       "is_breaking": false,
@@ -4728,7 +2045,7 @@
       ],
       "description": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal...",
       "event_cluster_id": "d96d9d6bf49b",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "d96d9d6bf49b26c59123",
       "image_url": "https://static.simonwillison.net/static/2026/inkling-pelican.jpg",
       "is_breaking": false,
@@ -4825,7 +2142,7 @@
       ],
       "description": "Mild Cognitive Impairment is a critical early stage of cognitive decline that frequently precedes Alzheimer's disease, yet its automated detection from neuropsychological drawing tests remains fundamentally constrained by data scarcity,...",
       "event_cluster_id": "316aa6337862",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "316aa6337862cabd14bf",
       "image_url": "",
       "is_breaking": false,
@@ -4863,7 +2180,7 @@
       ],
       "description": "Multimodal Contrastive Learning (CL) has shown significant performance in aligning representations across various data modalities and improving downstream tasks, especially in healthcare. It works by minimizing the distance between...",
       "event_cluster_id": "9d0fb395d41c",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "9d0fb395d41cd3a3f0d2",
       "image_url": "",
       "is_breaking": false,
@@ -4899,7 +2216,7 @@
       ],
       "description": "Per-subgroup fairness audits of medical image classifiers face a sample-size problem: minority subgroups in held-out test sets have so few samples that the resulting confidence intervals on per-subgroup performance are wider than the...",
       "event_cluster_id": "81929ff80baf",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "81929ff80bafec424fd4",
       "image_url": "",
       "is_breaking": false,
@@ -4928,7 +2245,7 @@
       ],
       "description": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
       "event_cluster_id": "12559ee9e76a",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "12559ee9e76aa6b366b0",
       "image_url": "",
       "is_breaking": false,
@@ -4958,7 +2275,7 @@
       ],
       "description": "I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if somebody has issues with that, they can do...",
       "event_cluster_id": "7dcd1d605fa1",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "7dcd1d605fa1423301e6",
       "image_url": "",
       "is_breaking": false,
@@ -4988,7 +2305,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer OpenAI has built an LLM...",
       "event_cluster_id": "ba5aae0c0c53",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "ba5aae0c0c536f58fb3b",
       "image_url": "",
       "is_breaking": false,
@@ -5017,7 +2334,7 @@
       ],
       "description": "",
       "event_cluster_id": "c5c3971a8972",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "c5c3971a8972616617d3",
       "image_url": "",
       "is_breaking": false,
@@ -5055,7 +2372,7 @@
       ],
       "description": "Deep learning models for prostate MRI-based cancer grading may encode clinical covariates that either reflect useful disease-related signal or non-generalising shortcut information, but their role is usually assumed. We propose a...",
       "event_cluster_id": "44e660eb3da0",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "44e660eb3da09fbff96b",
       "image_url": "",
       "is_breaking": false,
@@ -5085,7 +2402,7 @@
       ],
       "description": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
       "event_cluster_id": "34ced310fc32",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "34ced310fc3298ab86ae",
       "image_url": "https://substackcdn.com/image/fetch/$s_!AvrX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90048da3-a87f-44d8-8ad4-e954031d2721_2540x1692.png",
       "is_breaking": false,
@@ -5120,7 +2437,7 @@
       ],
       "description": "Recent advances in large language models (LLMs) and their extension to vision-language models (VLMs) have made it easier to combine text and images for tasks such as report generation. Existing VLMs in medicine typically focus on 2D...",
       "event_cluster_id": "a7f9d3709bbc",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "a7f9d3709bbcdacd786c",
       "image_url": "",
       "is_breaking": false,
@@ -5151,7 +2468,7 @@
       ],
       "description": "",
       "event_cluster_id": "f443de946cf3",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "f443de946cf38955186f",
       "image_url": "",
       "is_breaking": false,
@@ -5180,7 +2497,7 @@
       ],
       "description": "xai-org/grok-build, now open source xAI's grok CLI tool faced severe community backlash yesterday when it became apparent that running the command in a directory could upload that entire directory to xAI's Google Cloud buckets. One user...",
       "event_cluster_id": "e8b567c5b894",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "e8b567c5b8942a1cbde2",
       "image_url": "",
       "is_breaking": false,
@@ -5212,7 +2529,7 @@
       ],
       "description": "The convenience store chain will use StorMagic instead.",
       "event_cluster_id": "a79d1155e028",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:17:25Z",
       "id": "a79d1155e028c741b660",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/images-500x395.jpg",
       "is_breaking": false,
@@ -5246,7 +2563,7 @@
       ],
       "description": "Region-based loss functions, such as the Dice loss, have established themselves as the de facto standard for highly class- and region-imbalanced segmentation tasks. However, models trained using region-based loss functions are...",
       "event_cluster_id": "8c4608729b67",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8c4608729b6781c5b514",
       "image_url": "",
       "is_breaking": false,
@@ -5281,7 +2598,7 @@
       ],
       "description": "In proton therapy planning, respiratory-gated non-contrast CT (NCCT) is commonly used for lesion segmentation; however, accurate delineation remains challenging due to low lesion-to-background contrast. Although learning-based methods...",
       "event_cluster_id": "4633157c4aa7",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "4633157c4aa783e04e76",
       "image_url": "",
       "is_breaking": false,
@@ -5311,7 +2628,7 @@
       ],
       "description": "",
       "event_cluster_id": "11253d0d7f13",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "11253d0d7f13833897b2",
       "image_url": "",
       "is_breaking": false,
@@ -5340,7 +2657,7 @@
       ],
       "description": "",
       "event_cluster_id": "969cdff00361",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "969cdff003616d877728",
       "image_url": "",
       "is_breaking": false,
@@ -5371,7 +2688,7 @@
       ],
       "description": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6....",
       "event_cluster_id": "fd298d7ebc66",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "fd298d7ebc6611a34a4d",
       "image_url": "",
       "is_breaking": false,
@@ -5409,7 +2726,7 @@
       ],
       "description": "Arrhythmogenic left ventricular cardiomyopathy is a genetic myocardial disease difficult to diagnose due to the lack of gold standard criteria. Simultaneous PET/MR imaging, combined with multiparametric quantitative analysis, could...",
       "event_cluster_id": "d9b87641864e",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "d9b87641864ed6d659a6",
       "image_url": "",
       "is_breaking": false,
@@ -5439,7 +2756,7 @@
       ],
       "description": "How I tricked Claude into leaking your deepest, darkest secrets I've been impressed by the way the Claude web_fetch tool is designed to avoid data exfiltration attacks. Ayush Paul found a hole in that design. To recap: regular Claude chat..",
       "event_cluster_id": "066046df4871",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "066046df4871265ccd71",
       "image_url": "",
       "is_breaking": false,
@@ -5476,7 +2793,7 @@
       ],
       "description": "While Multimodal Large Language Models (MLLMs) have demonstrated remarkable success in 2D medical image understanding, their extension to 3D volumetric imaging remains hindered by prohibitive annotation costs and dataset opacity. Current...",
       "event_cluster_id": "fd049fb013f5",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "fd049fb013f55cac82f8",
       "image_url": "",
       "is_breaking": false,
@@ -5499,35 +2816,6 @@
       "url": "https://arxiv.org/abs/2607.13860v1"
     },
     {
-      "authors": [
-        "surprisetalk"
-      ],
-      "canonical_url": "https://pgadey.ca/notes/talk-relatorium-2026",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "6abc675b0aa1",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "hn-48920597",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-15T13:31:44Z",
-      "research_track": "",
-      "score": 5,
-      "score_reasons": [
-        "medium source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Talk: The Art of Braiding Algorithms",
-      "url": "https://pgadey.ca/notes/talk-relatorium-2026"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Zhenkai Zhang",
@@ -5540,7 +2828,7 @@
       ],
       "description": "We introduce TCAM-Diff, a novel 3D medical image generation model that reduces the memory requirements to encode and generate high-resolution 3D data. This model utilizes a decoder-only autoencoder method to learn triplane representation...",
       "event_cluster_id": "f482fdc207d3",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "f482fdc207d346ec59e4",
       "image_url": "",
       "is_breaking": false,
@@ -5572,7 +2860,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. PsiQuantum has a plan to make a massive quantum computer out of light The machine that could change...",
       "event_cluster_id": "02ad0039d457",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:17:25Z",
       "id": "02ad0039d457620cdd1d",
       "image_url": "",
       "is_breaking": false,
@@ -5602,7 +2890,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "479b64544dd1",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "hn-48919562",
       "image_url": "",
       "is_breaking": false,
@@ -5632,7 +2920,7 @@
       ],
       "description": "Safety Jul 15, 2026",
       "event_cluster_id": "f8df3e0d3cc8",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "f8df3e0d3cc81402169f",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/6q32m87ClqE8Ovn6vD424h/05ced72e47bbe42711fbac6a082cbff2/Art_Card.png?w=3840&q=90&fm=webp",
       "is_breaking": false,
@@ -5669,7 +2957,7 @@
       ],
       "description": "Active surveillance (AS) is the preferred strategy for favorable-risk prostate cancer, yet current protocols rely on scheduled repeat biopsies, most of which reveal no progression and are unnecessary. Existing risk-stratification tools...",
       "event_cluster_id": "8a78c2b03225",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8a78c2b0322564da9c85",
       "image_url": "",
       "is_breaking": false,
@@ -5698,7 +2986,7 @@
       ],
       "description": "",
       "event_cluster_id": "5e1ffb769438",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "5e1ffb76943884fba9ea",
       "image_url": "",
       "is_breaking": false,
@@ -5721,13 +3009,42 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "July 15, 2026",
+      "event_cluster_id": "0877aa60b576",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "0877aa60b576cb39f29a",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Interpolation-effect-1.gif",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-15T00:00:00Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "July 15, 2026 Towards demystifying the creativity of diffusion models Algorithms & Theory · Generative AI · Machine Intelligence",
+      "url": "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/thinkingmachines-inkling",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "7f36308856b0",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "7f36308856b0311fcff4",
       "image_url": "",
       "is_breaking": false,
@@ -5748,6 +3065,34 @@
     },
     {
       "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "e54288c29107",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "e54288c2910771137104",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-15T00:00:00Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "high source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Triton Plugin Extensions: Enabling TLX and Custom Compiler Passes Out of the Box",
+      "url": "https://pytorch.org/blog/triton-plugin-extensions-enabling-tlx-and-custom-compiler-passes-out-of-the-box"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Richard MacManus"
       ],
@@ -5757,7 +3102,7 @@
       ],
       "description": "At this year's AIE World’s Fair, AI engineering entered a new phase: building systems around agents, rather than just building with agents.",
       "event_cluster_id": "5353388ec768",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "5353388ec768010e7a8b",
       "image_url": "https://substackcdn.com/image/fetch/$s_!3Be9!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd4e070d1-3be3-48a9-a86b-ceaf34f4577b_1672x941.png",
       "is_breaking": false,
@@ -5787,7 +3132,7 @@
       ],
       "description": "Dependabot now waits until a new release has been available on its registry for at least three days before opening a version update pull request. This cooldown is now the default and requires no configuration. — GitHub Changelog ,...",
       "event_cluster_id": "8503be752bce",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8503be752bcefe06dbd0",
       "image_url": "",
       "is_breaking": false,
@@ -5816,7 +3161,7 @@
       ],
       "description": "simonw/pedalican Clearly I wasn't paying attention when these were first announced back in May, but today I accidentally activated a \"pet\" in Codex Desktop - a little animated robot, reminiscent of Clippy - and then learned you can create..",
       "event_cluster_id": "b182c3628446",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "b182c362844659bade6e",
       "image_url": "https://static.simonwillison.net/static/2026/waving.gif",
       "is_breaking": false,
@@ -5847,7 +3192,7 @@
       ],
       "description": "Old and forgotten \"shims\" Microsoft failed to revoke have made Secure Boot bypasses simple.",
       "event_cluster_id": "1b46eb529064",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:17:25Z",
       "id": "1b46eb529064412cae50",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/computer-start-button-500x500.jpg",
       "is_breaking": false,
@@ -5875,7 +3220,7 @@
       ],
       "description": "lobste.rs is now running on SQLite Community site Lobsters has been planning a migration away from MariaDB since August 2018 - originally targeting PostgreSQL, but last year they decided to investigate SQLite instead. This weekend they...",
       "event_cluster_id": "3eb498f3de75",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "3eb498f3de751d597fb5",
       "image_url": "",
       "is_breaking": false,
@@ -5903,7 +3248,7 @@
       ],
       "description": "The shared language of a software project is not English or Python but it is the common understanding of what its concepts mean, where the boundaries are, which invariants matter, who owns what, and why the system has the shape it does....",
       "event_cluster_id": "596b88b3089e",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "596b88b3089e3cf93dee",
       "image_url": "",
       "is_breaking": false,
@@ -5933,7 +3278,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. What Anthropic’s latest AI discovery does—and doesn’t—show —James O’Donnell When Anthropic announced..",
       "event_cluster_id": "d5e8062ca5e3",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "d5e8062ca5e3f36e9d0c",
       "image_url": "",
       "is_breaking": false,
@@ -5962,7 +3307,7 @@
       ],
       "description": "AI Adoption Jul 14, 2026",
       "event_cluster_id": "0a5ca4c5b523",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "0a5ca4c5b5238e08c45b",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1qXMreHMXalbFSVXr2CJXW/acbd7f4e05bd38b80a99523967ef69b7/Frame.png?w=3840&q=90&fm=webp",
       "is_breaking": false,
@@ -5993,7 +3338,7 @@
       ],
       "description": "The machine that could change the world will be housed in a room that looks like a data center crossed with an ice cream factory. Inside will be some 100 stainless-steel cabinets, each about six feet tall and connected to a supply of...",
       "event_cluster_id": "5dc860c2dcd4",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:17:25Z",
       "id": "5dc860c2dcd42e7e9643",
       "image_url": "",
       "is_breaking": false,
@@ -6022,7 +3367,7 @@
       ],
       "description": "a quiet day lets us fact check some numbers against the sound of silence of Claude Code reporting...",
       "event_cluster_id": "e0b1b76a247b",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "e0b1b76a247bd05987e3",
       "image_url": "https://substackcdn.com/image/fetch/$s_!cqvt!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F09c078c3-d47d-4ab1-91e5-b09ad5d082dd_1388x902.png",
       "is_breaking": false,
@@ -6051,7 +3396,7 @@
       ],
       "description": "",
       "event_cluster_id": "ad504bbdb221",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "ad504bbdb221cc4452d2",
       "image_url": "",
       "is_breaking": false,
@@ -6081,7 +3426,7 @@
       ],
       "description": "",
       "event_cluster_id": "0221b1d0649e",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "0221b1d0649ec5f26c7e",
       "image_url": "",
       "is_breaking": false,
@@ -6109,7 +3454,7 @@
       ],
       "description": "DOOMQL Peter Gostev built this using GPT-5.6 Sol. This is a lot of fun: DOOMQL started with a deliberately unreasonable question: what if SQLite were the game engine, not merely the place where a game stores data? The result is a small,...",
       "event_cluster_id": "fef1723d0079",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "fef1723d0079f86eea53",
       "image_url": "https://static.simonwillison.net/static/2026/doomql-window.png",
       "is_breaking": false,
@@ -6138,7 +3483,7 @@
       ],
       "description": "datasette code-frequency chart on GitHub Out of curiosity I decided to see if I could find a useful illustration of the impact of coding agents and Opus 4.5 class models on my own output. The best I've found so far is this GitHub chart of..",
       "event_cluster_id": "669accad4d8a",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "669accad4d8a52d18200",
       "image_url": "https://static.simonwillison.net/static/2026/datasette-code-frequency.png",
       "is_breaking": false,
@@ -6170,7 +3515,7 @@
       ],
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a...",
       "event_cluster_id": "18590ace7b44",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "18590ace7b44f2df7126",
       "image_url": "",
       "is_breaking": false,
@@ -6192,13 +3537,41 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "5bdf902ef07c",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "5bdf902ef07cdc265042",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-13T00:00:00Z",
+      "research_track": "",
+      "score": 5,
+      "score_reasons": [
+        "medium source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "url": "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/12/directly-responsible-individuals",
       "cluster_sources": [
         "Simon Willison"
       ],
       "description": "Directly Responsible Individuals (DRI) I went looking for a definition of \"Directly Responsible Individuals\" and the best I found was in the GitLab handbook. Apparently the term originated at Apple, where it's used to describe the person...",
       "event_cluster_id": "4e25c6ec626b",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "4e25c6ec626b76d70f82",
       "image_url": "",
       "is_breaking": false,
@@ -6228,7 +3601,7 @@
       ],
       "description": "A big day for OpenAI.",
       "event_cluster_id": "20a024974871",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "20a024974871c44e4b5d",
       "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/-MPGU2a67Ls",
       "is_breaking": false,
@@ -6260,7 +3633,7 @@
       ],
       "description": "",
       "event_cluster_id": "9dd06ff2acc7",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "9dd06ff2acc7e68a149e",
       "image_url": "",
       "is_breaking": false,
@@ -6284,13 +3657,42 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "d5c9d2e4fe07",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "d5c9d2e4fe07fc81c13f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-10T00:00:00Z",
+      "research_track": "",
+      "score": 4,
+      "score_reasons": [
+        "high source",
+        "older than seven days"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Towards Free Normalization: Fusing Normalization into GEMM and Attention Kernels",
+      "url": "https://pytorch.org/blog/towards-free-normalization-fusing-normalization-into-gemm-and-attention-kernels"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://openai.com/index/gpt-5-6-preferred-model-microsoft-365-copilot",
       "cluster_sources": [
         "OpenAI News"
       ],
       "description": "Product Jul 9, 2026",
       "event_cluster_id": "b98a594ec40e",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "b98a594ec40e8f26c796",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/3MPipvFMxS8m3kTyCtwFgj/015747dcd34cb667a221688cfca64e0f/Frame.png?w=3840&q=90&fm=webp",
       "is_breaking": false,
@@ -6321,7 +3723,7 @@
       ],
       "description": "Safety Jul 9, 2026",
       "event_cluster_id": "07aa5a8a45a2",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "07aa5a8a45a2217e5772",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2wba91t9mgdv1oBPai3LTb/e48f5d6b5e44bdaafb0eac51f96458d1/bug_bounty_1_1.png?w=3840&q=90&fm=webp",
       "is_breaking": false,
@@ -6351,7 +3753,7 @@
       ],
       "description": "Product Jul 9, 2026",
       "event_cluster_id": "e19fbb75eb44",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "e19fbb75eb44457e4dbe",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/1a9IPPV5nXWydTBosgmgYI/8e03f28ca04f26edc8bc81cdba387df1/5-6.jpg?w=3840&q=90&fm=webp",
       "is_breaking": false,
@@ -6381,7 +3783,7 @@
       ],
       "description": "Product Jul 9, 2026",
       "event_cluster_id": "2015b07b78a1",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "2015b07b78a1afecfd58",
       "image_url": "",
       "is_breaking": false,
@@ -6411,7 +3813,7 @@
       ],
       "description": "SpaceXAI continues to move faster than any other frontier lab on earth.",
       "event_cluster_id": "01ed778e69e3",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "01ed778e69e3f41eefaf",
       "image_url": "https://substackcdn.com/image/fetch/$s_!8D6O!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHMuQw2BXUAAJaQd.png",
       "is_breaking": false,
@@ -6437,13 +3839,43 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/reflect-with-claude",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "96abb9058987",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "96abb90589873af87cb1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-09T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "critical source",
+        "older than seven days",
+        "major-event keyword: introducing"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 9, 2026 Announcements Introducing a way to reflect on how you use Claude",
+      "url": "https://www.anthropic.com/news/reflect-with-claude"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://deploymentsafety.openai.com/gpt-5-6",
       "cluster_sources": [
         "OpenAI News"
       ],
       "description": "Safety Jul 9, 2026",
       "event_cluster_id": "2d8a643762c5",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T15:27:53Z",
       "id": "2d8a643762c5182862cd",
       "image_url": "https://images.ctfassets.net/kftzwdyauwt9/2ygRvL6yUYAvtHiZYmCT8K/91195cbe6f282c24026d154fe3ac422e/System_card_1_1.png?w=3840&q=90&fm=webp",
       "is_breaking": false,
@@ -6467,13 +3899,44 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.",
+      "event_cluster_id": "a9d44289c1e3",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "a9d44289c1e38bb4533a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-09T00:00:00Z",
+      "research_track": "",
+      "score": 7,
+      "score_reasons": [
+        "medium source",
+        "older than seven days",
+        "major-event keyword: model",
+        "technical relevance: foundation model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
+      "url": "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://www.anthropic.com/news/hard-questions",
       "cluster_sources": [
         "Anthropic News"
       ],
       "description": "We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
       "event_cluster_id": "8dbb2238c30b",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8dbb2238c30b71eb75bd",
       "image_url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F3fe58a56e696628496e95871e00b8287035ea645-2000x1125.jpg&w=3840&q=75",
       "is_breaking": false,
@@ -6502,7 +3965,7 @@
       ],
       "description": "",
       "event_cluster_id": "2421a78a2bf8",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "2421a78a2bf886f857d4",
       "image_url": "",
       "is_breaking": false,
@@ -6525,13 +3988,71 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/ben-bernanke",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "5a81a35f0189",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "5a81a35f01891896cff8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-09T00:00:00Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "critical source",
+        "older than seven days"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 9, 2026 Announcements Ben Bernanke appointed to Anthropic’s Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/ben-bernanke"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "July 9, 2026",
+      "event_cluster_id": "fe4b92f86d70",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "fe4b92f86d70ac265264",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/hero_blog_sensorfm.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-09T00:00:00Z",
+      "research_track": "",
+      "score": 1,
+      "score_reasons": [
+        "medium source",
+        "older than seven days"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "July 9, 2026 SensorFM: Towards a general intelligence and interface for wearable health data Generative AI · Machine Intelligence",
+      "url": "https://research.google/blog/sensorfm-towards-a-general-intelligence-and-interface-for-wearable-health-data"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://www.latent.space/p/modal2026",
       "cluster_sources": [
         "Latent Space"
       ],
       "description": "2 years after our first coverage, we return with Modal's other cofounder to explore why Agent Experience is working now, and everything they have learned building the new agent cloud.",
       "event_cluster_id": "1abe3aa31809",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "1abe3aa3180951625898",
       "image_url": "",
       "is_breaking": false,
@@ -6564,7 +4085,7 @@
       ],
       "description": "Both vulnerabilities allow untrusted users to gain root privileges.",
       "event_cluster_id": "990e0ca10cf8",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:17:25Z",
       "id": "990e0ca10cf84babc03c",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
       "is_breaking": false,
@@ -6595,7 +4116,7 @@
       ],
       "description": "Miners backed by Trump admin sell to Japan, South Korea despite push to develop domestic supply chain.",
       "event_cluster_id": "f671e875bf2f",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:17:25Z",
       "id": "f671e875bf2fc78744b3",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-2270755803-500x500.jpg",
       "is_breaking": false,
@@ -6626,7 +4147,7 @@
       ],
       "description": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
       "event_cluster_id": "7357f78a0603",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "7357f78a060382ca8ece",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-500x500.jpg",
       "is_breaking": false,
@@ -6655,7 +4176,7 @@
       ],
       "description": "a quiet day lets us read some condensed insight",
       "event_cluster_id": "0a08c765f6fb",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "0a08c765f6fbc28a385e",
       "image_url": "https://substackcdn.com/image/fetch/$s_!L_Ci!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F603a46c6-cedc-4b38-a660-2fa1d4b3f4ba_1626x1146.png",
       "is_breaking": false,
@@ -6685,7 +4206,7 @@
       ],
       "description": "",
       "event_cluster_id": "3ce97f6a8c6c",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "3ce97f6a8c6c0f291d07",
       "image_url": "",
       "is_breaking": false,
@@ -6710,13 +4231,105 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://pytorch.org/blog/pytorch-2-13-release-blog",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "6e4d262c02f2",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "6e4d262c02f29c646f72",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-08T00:00:00Z",
+      "research_track": "",
+      "score": 10,
+      "score_reasons": [
+        "high source",
+        "older than seven days",
+        "major-event keyword: release",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "PyTorch 2.13 Release Blog",
+      "url": "https://pytorch.org/blog/pytorch-2-13-release-blog"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://mistral.ai/news/robostral-navigate",
+      "cluster_sources": [
+        "Mistral AI News"
+      ],
+      "description": "Research",
+      "event_cluster_id": "cafc9d3c3da0",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "cafc9d3c3da053e9739d",
+      "image_url": "https://mistral.ai/_astro/Robostral-navigate_2lHiJb.webp?dpl=6a5a4cd58f806400087af9a7",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-08T00:00:00Z",
+      "research_track": "",
+      "score": 7,
+      "score_reasons": [
+        "high source",
+        "older than seven days",
+        "major-event keyword: introducing, model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "mistral_news",
+      "source_name": "Mistral AI News",
+      "title": "Research Introducing Robostral Navigate Robostral Navigate, our first model built for embodied navigation. July 8, 2026 By Mistral AI",
+      "url": "https://mistral.ai/news/robostral-navigate"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable...",
+      "event_cluster_id": "156baccb80e3",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "156baccb80e387dd9efa",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-08T00:00:00Z",
+      "research_track": "",
+      "score": 7,
+      "score_reasons": [
+        "medium source",
+        "older than seven days",
+        "major-event keyword: open-source",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Flint: A visualization language for the AI era",
+      "url": "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/amazon/one-click-to-sagemaker-studio",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "77d64de25479",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "77d64de25479fa603f07",
       "image_url": "",
       "is_breaking": false,
@@ -6745,7 +4358,7 @@
       ],
       "description": "",
       "event_cluster_id": "1ec294ada9f4",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "1ec294ada9f40d0a169e",
       "image_url": "",
       "is_breaking": false,
@@ -6775,7 +4388,7 @@
       ],
       "description": "",
       "event_cluster_id": "8125b5dd69d0",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "8125b5dd69d0a597ebb9",
       "image_url": "",
       "is_breaking": false,
@@ -6799,13 +4412,43 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "July 7, 2026",
+      "event_cluster_id": "7133420019ec",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "7133420019ec8821a06f",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/NetworkAwareRouting_HeroStill.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-07T00:00:00Z",
+      "research_track": "",
+      "score": 4,
+      "score_reasons": [
+        "medium source",
+        "older than seven days",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "July 7, 2026 The power of collaboration: How we can reduce traffic congestion Algorithms & Theory · Climate & Sustainability · Data Mining & Modeling",
+      "url": "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/lerobot-release-v060",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "bf55a61637b6",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "bf55a61637b6dda9b083",
       "image_url": "",
       "is_breaking": false,
@@ -6834,7 +4477,7 @@
       ],
       "description": "",
       "event_cluster_id": "1dc582402725",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "1dc5824027254506ac44",
       "image_url": "",
       "is_breaking": false,
@@ -6865,7 +4508,7 @@
       ],
       "description": "Is this the beginning of a new world?",
       "event_cluster_id": "0b21b930d5ba",
-      "fetched_at": "2026-07-19T15:27:53Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "0b21b930d5baa9d90533",
       "image_url": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "is_breaking": false,
@@ -6896,7 +4539,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "4307222bc7e5",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "4307222bc7e5f2e47115",
       "image_url": "",
       "is_breaking": false,
@@ -6922,32 +4565,33 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://www.anthropic.com/features/making-of-claude-code",
+      "canonical_url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm",
       "cluster_sources": [
-        "Anthropic News"
+        "PyTorch Blog"
       ],
-      "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
-      "event_cluster_id": "37ee7c598376",
-      "fetched_at": "2026-07-19T23:06:51Z",
-      "id": "37ee7c598376f45a6f7f",
+      "description": "",
+      "event_cluster_id": "02e76e7bb346",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "02e76e7bb346eee49529",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
       "published_at": "2026-07-06T00:00:00Z",
       "research_track": "",
-      "score": 9,
+      "score": 10,
       "score_reasons": [
-        "critical source",
+        "high source",
         "older than seven days",
-        "technical relevance: agent"
+        "major-event keyword: GPU, training",
+        "technical relevance: PyTorch"
       ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
-      "url": "https://www.anthropic.com/features/making-of-claude-code"
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Bringing PyTorch Monarch to AMD GPUs: Single-Controller Distributed Training on ROCm",
+      "url": "https://pytorch.org/blog/bringing-pytorch-monarch-to-amd-gpus-single-controller-distributed-training-on-rocm"
     },
     {
       "also_covered_by": [],
@@ -6958,7 +4602,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "fdd9745edc3a",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "fdd9745edc3aad4e2c44",
       "image_url": "",
       "is_breaking": false,
@@ -6988,7 +4632,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "a577f205a73b",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "a577f205a73beafce77a",
       "image_url": "",
       "is_breaking": false,
@@ -7012,13 +4656,73 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "33ff9177ca69",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "33ff9177ca69de68580e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-06T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "critical source",
+        "older than seven days",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 6, 2026 Case Study Government of Alberta uses Claude to find and fix cybersecurity vulnerabilities across government systems",
+      "url": "https://www.anthropic.com/news/alberta-government-claude-cybersecurity"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/features/making-of-claude-code",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
+      "event_cluster_id": "37ee7c598376",
+      "fetched_at": "2026-07-19T15:27:53Z",
+      "id": "37ee7c598376f45a6f7f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-06T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "critical source",
+        "older than seven days",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Features Jul 6, 2026 The Making of Claude Code The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
+      "url": "https://www.anthropic.com/features/making-of-claude-code"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/revamped-kernels",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "e998906a376b",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "e998906a376bd21c7b9f",
       "image_url": "",
       "is_breaking": false,
@@ -7041,13 +4745,131 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "3b01adbd65ac",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "3b01adbd65ac5d5406a7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-03T00:00:00Z",
+      "research_track": "",
+      "score": 7,
+      "score_reasons": [
+        "high source",
+        "older than seven days",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Understanding PyTorch’s Test Infrastructure",
+      "url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://mistral.ai/news/leanstral-1-5",
+      "cluster_sources": [
+        "Mistral AI News"
+      ],
+      "description": "Research",
+      "event_cluster_id": "93d04618369d",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "93d04618369d3d6e8f63",
+      "image_url": "https://mistral.ai/_astro/Thumbnail-Leanstral_qmVno.webp?dpl=6a5a4cd58f806400087af9a7",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-02T00:00:00Z",
+      "research_track": "",
+      "score": 4,
+      "score_reasons": [
+        "high source",
+        "older than seven days"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "mistral_news",
+      "source_name": "Mistral AI News",
+      "title": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 By Leanstral Team at Mistral AI",
+      "url": "https://mistral.ai/news/leanstral-1-5"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "3cd033d21d45",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "3cd033d21d453d29d163",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-02T00:00:00Z",
+      "research_track": "",
+      "score": 4,
+      "score_reasons": [
+        "high source",
+        "older than seven days"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Building the Future of On-Device AI at the ExecuTorch Hackathon",
+      "url": "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "2e586dce2d5d",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "2e586dce2d5d59a6dff5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-01T00:00:00Z",
+      "research_track": "",
+      "score": 7,
+      "score_reasons": [
+        "high source",
+        "older than seven days",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Shopify Joins the PyTorch Foundation as a Platinum Member",
+      "url": "https://pytorch.org/blog/shopify-joins-the-pytorch-foundation-as-a-platinum-member"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "e4a022908747",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "e4a022908747a5579fcd",
       "image_url": "",
       "is_breaking": false,
@@ -7076,7 +4898,7 @@
       ],
       "description": "",
       "event_cluster_id": "d2b47e5ca2b1",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "d2b47e5ca2b10e4d38dd",
       "image_url": "",
       "is_breaking": false,
@@ -7107,7 +4929,7 @@
       ],
       "description": "",
       "event_cluster_id": "9f340727232d",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "9f340727232d898a6ead",
       "image_url": "",
       "is_breaking": false,
@@ -7130,13 +4952,76 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "0b36d1227ae0",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "0b36d1227ae03c861724",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-06-30T00:00:00Z",
+      "research_track": "",
+      "score": 10,
+      "score_reasons": [
+        "high source",
+        "older than seven days",
+        "major-event keyword: training",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Miles: A PyTorch-Native Stack for Large-Scale LLM RL Post-Training",
+      "url": "https://pytorch.org/blog/miles-a-pytorch-native-stack-for-large-scale-llm-rl-post-training"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "June 30, 2026",
+      "event_cluster_id": "09003992a429",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "09003992a429ebe53bdd",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/TabFM1_Hero.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-06-30T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "older than seven days",
+        "major-event keyword: introducing, model",
+        "technical relevance: foundation model",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "June 30, 2026 Introducing TabFM: A zero-shot foundation model for tabular data Data Management · Machine Intelligence · Product",
+      "url": "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/eee-community-evals",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "326b5d51b877",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "326b5d51b877e9cf2d48",
       "image_url": "",
       "is_breaking": false,
@@ -7160,13 +5045,75 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "AI agents often fail because their instructions, or skills, are manually modified with no guarantee of improvement. Learn how SkillOpt turns skill editing into a training process, making agent behavior more reliable without changing model..",
+      "event_cluster_id": "a94ed041d388",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "a94ed041d388ca8c04d8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-06-30T00:00:00Z",
+      "research_track": "",
+      "score": 7,
+      "score_reasons": [
+        "medium source",
+        "older than seven days",
+        "major-event keyword: model, training",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "SkillOpt: Agent skills as trainable parameters",
+      "url": "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "June 30, 2026",
+      "event_cluster_id": "b92dd0b94679",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "b92dd0b94679a471d10e",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Heat-Resilience-1.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-06-30T00:00:00Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "medium source",
+        "older than seven days",
+        "major-event keyword: model, open source",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "June 30, 2026 Expanding our Heat Resilience data to 50+ global cities Climate & Sustainability · Earth AI · Open Source Models & Datasets",
+      "url": "https://research.google/blog/expanding-our-heat-resilience-data-to-50-global-cities"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/allenai/discoformer",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "9cc3b14e3b9c",
-      "fetched_at": "2026-07-19T23:06:51Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "9cc3b14e3b9c7b80270d",
       "image_url": "",
       "is_breaking": false,
@@ -7197,7 +5144,7 @@
       ],
       "description": "What eras bookend our interregnum?",
       "event_cluster_id": "a566ddf4df08",
-      "fetched_at": "2026-07-19T15:27:53Z",
+      "fetched_at": "2026-07-19T23:25:17Z",
       "id": "a566ddf4df08f0ada18f",
       "image_url": "https://substackcdn.com/image/fetch/$s_!3yYS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd6d17996-2bef-40a4-abe3-be72a0e8a227_258x258.png",
       "is_breaking": false,
@@ -7218,7 +5165,68 @@
       "source_name": "Import AI",
       "title": "Import AI 463: Self-improving robots; a 10k Chinese GPU cluster; and an elegiac essay for the human era",
       "url": "https://importai.substack.com/p/import-ai-463-self-improving-robots"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/introducing-cross-repository-ci-relay-scalable-ci-for-pytorchs-out-of-tree-backends",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "ff83bc4f8e56",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "ff83bc4f8e56c830bd94",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-06-29T00:00:00Z",
+      "research_track": "",
+      "score": 10,
+      "score_reasons": [
+        "high source",
+        "older than seven days",
+        "major-event keyword: introducing",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Introducing Cross-Repository CI Relay: Scalable CI for PyTorch’s Out-of-Tree Backends",
+      "url": "https://pytorch.org/blog/introducing-cross-repository-ci-relay-scalable-ci-for-pytorchs-out-of-tree-backends"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "AI agents can't remember past conversations. They must constantly reload or retrieve context, which grows less efficient as tasks get longer and more complex. Memora solves this with a scalable memory system separating what’s stored from...",
+      "event_cluster_id": "b5def5ee255a",
+      "fetched_at": "2026-07-19T23:25:17Z",
+      "id": "b5def5ee255a0bb5dd42",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-06-29T00:00:00Z",
+      "research_track": "",
+      "score": 4,
+      "score_reasons": [
+        "medium source",
+        "older than seven days",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Memora: A Harmonic Memory Representation Balancing Abstraction and Specificity",
+      "url": "https://www.microsoft.com/en-us/research/blog/memora-a-harmonic-memory-representation-balancing-abstraction-and-specificity"
     }
   ],
-  "generated_at": "2026-07-19T23:06:51Z"
+  "generated_at": "2026-07-19T23:25:17Z"
 }
