@@ -16,6 +16,7 @@ import yaml
 from scripts.normalize import canonicalize_article, cluster_events, deduplicate, parse_dt, utc_now
 from scripts.ranking import score_article, weekly_eligible
 from scripts.source_adapters import Fetcher, fetch_source
+from scripts.stocks import fetch_stocks
 from scripts.validate_data import validate_dataset
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -158,8 +159,10 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
     weekly = make_weekly(week_id, week_start, week_end, weekly_articles, fetched_at)
     current_week = {"generated_at": fetched_at, "week_id": week_id, "path": f"data/weekly/{week_id}.json", "date_range": weekly["date_range"], "story_count": len(weekly_articles)}
     archive_index = build_archive_index(week_id, fetched_at)
-    source_status = {"generated_at": fetched_at, "sources": sorted(statuses, key=lambda x: x["name"].lower())}
     history_doc = {"generated_at": fetched_at, "articles": public_articles(history)}
+    stocks_doc = fetch_stocks_safe(fetcher, fetched_at)
+    statuses.append(stock_source_status(stocks_doc, fetched_at))
+    source_status = {"generated_at": fetched_at, "sources": sorted(statuses, key=lambda x: x["name"].lower())}
 
     if not raw_items and previous_history:
         print("All source fetches failed; preserving previous article data and updating source status only.")
@@ -172,6 +175,7 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
     atomic_write(DATA / "latest.json", latest)
     atomic_write(DATA / "history.json", history_doc)
     atomic_write(DATA / "source-status.json", source_status)
+    atomic_write(DATA / "stocks.json", stocks_doc)
     atomic_write(DATA / "weekly" / f"{week_id}.json", weekly)
     atomic_write(DATA / "current-week.json", current_week)
     atomic_write(DATA / "archive-index.json", archive_index)
@@ -180,6 +184,37 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
         ok_sources = [s["name"] for s in statuses if s["ok"]]
         print("Live smoke successful sources: " + ", ".join(ok_sources[:10]))
     return {"ok": True, "week": week_id}
+
+
+def fetch_stocks_safe(fetcher: Fetcher, fetched_at: str) -> dict[str, Any]:
+    previous = read_json(DATA / "stocks.json", {"generated_at": "", "source": {"name": "Yahoo Finance", "url": "https://finance.yahoo.com/"}, "symbols": []})
+    try:
+        doc = fetch_stocks(load_yaml(ROOT / "config" / "stocks.yaml"), fetcher)
+        if doc.get("symbols"):
+            return doc
+    except Exception as exc:
+        previous["last_error"] = str(exc)[:180]
+        previous["last_attempt"] = fetched_at
+    return previous
+
+
+def stock_source_status(stocks_doc: dict[str, Any], fetched_at: str) -> dict[str, Any]:
+    source = stocks_doc.get("source", {})
+    ok = bool(stocks_doc.get("symbols"))
+    return {
+        "source_id": "market_yahoo_finance",
+        "name": source.get("name", "Yahoo Finance"),
+        "category": "markets",
+        "source_type": "JSON",
+        "priority": "reference",
+        "page_url": source.get("url", "https://finance.yahoo.com/"),
+        "enabled": True,
+        "ok": ok,
+        "last_successful_fetch": stocks_doc.get("generated_at") if ok else None,
+        "last_attempt": fetched_at,
+        "item_count": len(stocks_doc.get("symbols", [])),
+        "message": source.get("note", "delayed market quotes") if ok else stocks_doc.get("last_error", "unavailable"),
+    }
 
 
 def public_articles(items: list[dict[str, Any]]) -> list[dict[str, Any]]:

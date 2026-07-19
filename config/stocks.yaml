@@ -1,0 +1,38 @@
+source:
+  id: yahoo_finance
+  name: Yahoo Finance
+  source_type: json
+  page_url: https://finance.yahoo.com/
+  quote_url: https://query1.finance.yahoo.com/v8/finance/chart/
+  note: Delayed public market quotes from Yahoo Finance chart data. No API key or account is required.
+symbols:
+  - symbol: NVDA
+    name: NVIDIA
+    category: chips
+  - symbol: AMD
+    name: AMD
+    category: chips
+  - symbol: TSM
+    name: TSMC
+    category: chips
+  - symbol: ASML
+    name: ASML
+    category: chips
+  - symbol: AVGO
+    name: Broadcom
+    category: chips
+  - symbol: MSFT
+    name: Microsoft
+    category: hyperscaler
+  - symbol: GOOGL
+    name: Alphabet
+    category: lab
+  - symbol: META
+    name: Meta
+    category: lab
+  - symbol: AMZN
+    name: Amazon
+    category: cloud
+  - symbol: ARM
+    name: Arm
+    category: chips

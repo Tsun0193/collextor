@@ -30,9 +30,20 @@ def validate_dataset(data: dict[str, Any]) -> None:
             raise ValueError("description contains HTML")
 
 
+def validate_stocks(data: dict[str, Any]) -> None:
+    if not isinstance(data.get("symbols", []), list):
+        raise ValueError("stock symbols must be a list")
+    for item in data.get("symbols", []):
+        for field in ("symbol", "name", "price", "url"):
+            if item.get(field) in (None, ""):
+                raise ValueError(f"missing stock {field}")
+        if not is_valid_http_url(item.get("url")):
+            raise ValueError(f"invalid stock url {item.get('url')}")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("files", nargs="*", default=["data/latest.json", "data/history.json", "data/archive-index.json", "data/source-status.json"])
+    parser.add_argument("files", nargs="*", default=["data/latest.json", "data/history.json", "data/archive-index.json", "data/source-status.json", "data/stocks.json"])
     args = parser.parse_args()
     for name in args.files:
         path = ROOT / name
@@ -41,6 +52,8 @@ def main() -> None:
         data = json.loads(path.read_text(encoding="utf-8"))
         if "articles" in data:
             validate_dataset(data)
+        if name.endswith("stocks.json"):
+            validate_stocks(data)
     for path in (ROOT / "data" / "weekly").glob("*.json"):
         validate_dataset(json.loads(path.read_text(encoding="utf-8")))
     print("JSON validation passed")

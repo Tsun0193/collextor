@@ -48,6 +48,10 @@
     return el("a", { href: article.url, target: "_blank", rel: "noopener noreferrer", text });
   }
 
+  function articleHref(article, children, className) {
+    return el("a", { href: article.url, target: "_blank", rel: "noopener noreferrer", class: className }, children);
+  }
+
   function meta(article) {
     const span = el("div", { class: "meta" });
     span.textContent = `${article.source_name} / ${relTime(article.published_at)}`;
@@ -55,7 +59,7 @@
     return span;
   }
 
-  function image(article) {
+  function imageVisual(article) {
     if (!article.image_url) {
       return el("div", { class: `placeholder placeholder-${article.section || "default"}` }, [
         el("span", { class: "placeholder-kicker", text: label(article) }),
@@ -63,14 +67,15 @@
       ]);
     }
     const img = el("img", { src: article.image_url, alt: article.title, loading: "lazy" });
-    img.addEventListener("error", () => img.parentElement.replaceWith(el("div", { class: "placeholder", "aria-hidden": "true", text: "C" })));
+    img.addEventListener("error", () => img.parentElement.replaceWith(imageVisual({ ...article, image_url: "" })));
     return el("div", { class: "image-frame" }, img);
   }
 
   function story(article, opts = {}) {
     const h = el(opts.large ? "h1" : "h3", {}, safeLink(article, article.title));
-    return el("article", { class: opts.large ? "lead-story" : "story" }, [
-      opts.image ? image(article) : null,
+    const klass = opts.large ? "lead-story" : (opts.featured ? "story featured-story" : "story");
+    return el("article", { class: klass }, [
+      opts.image ? articleHref(article, imageVisual(article), "media-link") : null,
       el("div", { class: "tag", text: label(article) }),
       h,
       meta(article),
@@ -78,14 +83,43 @@
     ]);
   }
 
-  function research(article) {
+  function sectionStories(id, items, limit) {
+    const node = document.getElementById(id);
+    const section = node && node.closest(".section-block");
+    if (!node) return;
+    node.replaceChildren();
+    const chosen = uniqueClusters(items).slice(0, limit);
+    if (!chosen.length && section) {
+      section.hidden = true;
+      return;
+    }
+    node.append(story(chosen[0], { image: true, featured: true }));
+    chosen.slice(1).forEach((item) => node.append(story(item)));
+  }
+
+  function research(article, opts = {}) {
     const authors = article.authors && article.authors.length ? article.authors.slice(0, 3).join(", ") : "";
-    return el("article", { class: "research-card" }, [
+    return el("article", { class: opts.featured ? "research-card featured-story" : "research-card" }, [
+      opts.image ? articleHref(article, imageVisual(article), "media-link") : null,
       el("div", { class: "tag", text: article.source_name }),
       el("h3", {}, safeLink(article, article.title)),
       el("div", { class: "meta", text: [fmtDate(article.published_at), authors].filter(Boolean).join(" / ") }),
       article.description ? el("p", { text: article.description }) : null,
     ]);
+  }
+
+  function sectionResearch(id, items, limit) {
+    const node = document.getElementById(id);
+    const section = node && node.closest(".section-block");
+    if (!node) return;
+    node.replaceChildren();
+    const chosen = uniqueClusters(items).slice(0, limit);
+    if (!chosen.length && section) {
+      section.hidden = true;
+      return;
+    }
+    node.append(research(chosen[0], { image: true, featured: true }));
+    chosen.slice(1).forEach((item) => node.append(research(item)));
   }
 
   function label(article) {
@@ -132,19 +166,50 @@
       const lead = frontUnique.find((a) => !["research", "long-read"].includes(a.source_category) && !a.research_track) || frontUnique[0];
       const secondaries = frontUnique.filter((a) => a.id !== lead.id).slice(0, 4);
       front.replaceChildren(story(lead, { large: true, image: true }), el("div", { class: "secondary-list" }, secondaries.map((a) => story(a))));
-      setList("must-read", articles.filter((a) => a.is_must_read), story, 6);
-      setList("ai-engineering", articles.filter((a) => a.section === "ai_engineering"), story, 8);
-      setList("medical-neuroimaging", articles.filter((a) => a.section === "medical_neuroimaging"), research, 5);
-      setList("multimodal-foundation", articles.filter((a) => a.section === "multimodal_foundation"), research, 5);
-      setList("startup-product", articles.filter((a) => a.section === "startup_product"), story, 8);
-      setList("business-policy", articles.filter((a) => a.section === "business_policy"), story, 8);
+      await renderStocks();
+      sectionStories("must-read", articles.filter((a) => a.is_must_read), 6);
+      sectionStories("ai-engineering", articles.filter((a) => a.section === "ai_engineering"), 8);
+      sectionResearch("medical-neuroimaging", articles.filter((a) => a.section === "medical_neuroimaging"), 5);
+      sectionResearch("multimodal-foundation", articles.filter((a) => a.section === "multimodal_foundation"), 5);
+      sectionStories("startup-product", articles.filter((a) => a.section === "startup_product"), 8);
+      sectionStories("business-policy", articles.filter((a) => a.section === "business_policy"), 8);
       const weekly = await currentWeekly();
-      setList("weekend", (weekly.articles || []).filter((a) => a.is_long_read), story, 3);
+      sectionStories("weekend", (weekly.articles || []).filter((a) => a.is_long_read), 3);
     } catch (err) {
       front.replaceChildren();
       const failure = document.getElementById("failure");
       failure.hidden = false;
       failure.textContent = "The latest edition could not be loaded. Please try again after the next scheduled update.";
+    }
+  }
+
+  async function renderStocks() {
+    const node = document.getElementById("stock-strip");
+    const section = node && node.closest(".section-block");
+    if (!node) return;
+    try {
+      const data = await loadJson("data/stocks.json");
+      const symbols = data.symbols || [];
+      if (!symbols.length) {
+        if (section) section.hidden = true;
+        return;
+      }
+      const metaNode = document.getElementById("stocks-meta");
+      if (metaNode) metaNode.textContent = `${data.source?.name || "Market data"} / delayed quotes`;
+      node.replaceChildren(...symbols.map((quote) => {
+        const price = typeof quote.price === "number" ? quote.price.toLocaleString("en-US", { style: "currency", currency: quote.currency || "USD" }) : "N/A";
+        const change = typeof quote.change_percent === "number" ? `${quote.change_percent >= 0 ? "+" : ""}${quote.change_percent.toFixed(2)}%` : "";
+        const changeClass = quote.change_percent > 0 ? "stock-change up" : quote.change_percent < 0 ? "stock-change down" : "stock-change";
+        return el("a", { class: "stock-tile", href: quote.url, target: "_blank", rel: "noopener noreferrer" }, [
+          el("span", { class: "stock-symbol", text: quote.symbol }),
+          el("span", { class: "stock-name", text: quote.name }),
+          el("span", { class: "stock-price", text: price }),
+          change ? el("span", { class: changeClass, text: change }) : null,
+          el("span", { class: "stock-date", text: quote.date || "" }),
+        ]);
+      }));
+    } catch (err) {
+      if (section) section.hidden = true;
     }
   }
 

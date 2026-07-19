@@ -14,6 +14,7 @@ The site is a static GitHub Pages website. The pages are ordinary HTML, CSS, and
 - `data/weekly/YYYY-Www.json` powers Weekly editions.
 - `data/archive-index.json` powers the Archive page.
 - `data/source-status.json` powers the Sources page.
+- `data/stocks.json` powers the Daily market tape.
 
 A small Python script, `scripts/update_feeds.py`, fetches configured sources, normalizes article metadata, applies transparent rule-based ranking, deduplicates similar stories, and writes compact JSON.
 
@@ -24,6 +25,7 @@ COLLEXTOR uses only free building blocks:
 - GitHub Actions for scheduled updates.
 - GitHub Pages for hosting.
 - Public RSS, Atom, HTML listing pages, and free public APIs.
+- Delayed public market quotes from Yahoo Finance chart data.
 - Repository JSON files as storage.
 
 There are no API keys, paid APIs, AI or LLM APIs, hosted models, external databases, cookies, analytics, accounts, ads, or tracking.
