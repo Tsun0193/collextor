@@ -1,0 +1,213 @@
+sources:
+  - id: openai_news
+    name: OpenAI News
+    enabled: true
+    source_type: html
+    page_url: https://openai.com/news/
+    category: official-lab
+    priority: critical
+    max_items: 10
+    adapter: generic_listing
+  - id: anthropic_news
+    name: Anthropic News
+    enabled: true
+    source_type: html
+    page_url: https://www.anthropic.com/news
+    category: official-lab
+    priority: critical
+    max_items: 10
+    adapter: generic_listing
+  - id: deepmind_blog
+    name: Google DeepMind Blog
+    enabled: true
+    source_type: html
+    page_url: https://deepmind.google/blog/
+    category: official-lab
+    priority: critical
+    max_items: 10
+    adapter: generic_listing
+  - id: meta_ai_blog
+    name: Meta AI Blog
+    enabled: true
+    source_type: html
+    page_url: https://ai.meta.com/blog/
+    category: official-lab
+    priority: high
+    max_items: 10
+    adapter: generic_listing
+  - id: mistral_news
+    name: Mistral AI News
+    enabled: true
+    source_type: html
+    page_url: https://mistral.ai/news/
+    category: official-lab
+    priority: high
+    max_items: 10
+    adapter: generic_listing
+  - id: google_research
+    name: Google Research Blog
+    enabled: true
+    source_type: html
+    page_url: https://research.google/blog/
+    category: research-lab
+    priority: medium
+    max_items: 10
+    adapter: generic_listing
+  - id: microsoft_research
+    name: Microsoft Research Blog
+    enabled: true
+    source_type: html
+    page_url: https://www.microsoft.com/en-us/research/blog/
+    category: research-lab
+    priority: medium
+    max_items: 10
+    adapter: generic_listing
+  - id: simon_willison
+    name: Simon Willison
+    enabled: true
+    source_type: atom
+    page_url: https://simonwillison.net/
+    feed_url: https://simonwillison.net/atom/everything-but-beats/
+    category: engineering
+    priority: critical
+    max_items: 20
+  - id: huggingface_blog
+    name: Hugging Face Blog
+    enabled: true
+    source_type: rss
+    page_url: https://huggingface.co/blog
+    feed_url: https://huggingface.co/blog/feed.xml
+    category: engineering
+    priority: high
+    max_items: 20
+  - id: pytorch_blog
+    name: PyTorch Blog
+    enabled: true
+    source_type: html
+    page_url: https://pytorch.org/blog/
+    category: engineering
+    priority: high
+    max_items: 12
+    adapter: generic_listing
+  - id: nvidia_ml_blog
+    name: NVIDIA Technical Blog - Machine Learning and AI
+    enabled: true
+    source_type: html
+    page_url: https://developer.nvidia.com/blog/tag/machine-learning-and-artificial-intelligence/
+    category: infrastructure
+    priority: high
+    max_items: 12
+    adapter: generic_listing
+  - id: techcrunch_ai
+    name: TechCrunch AI
+    enabled: true
+    source_type: rss
+    page_url: https://techcrunch.com/category/artificial-intelligence/
+    feed_url: https://techcrunch.com/category/artificial-intelligence/feed/
+    category: industry
+    priority: high
+    max_items: 20
+  - id: ars_ai
+    name: Ars Technica AI
+    enabled: true
+    source_type: rss
+    page_url: https://arstechnica.com/ai/
+    feed_url: https://feeds.arstechnica.com/arstechnica/technology-lab
+    category: industry
+    priority: high
+    max_items: 15
+    include_keywords: [AI, artificial intelligence, machine learning, OpenAI, Anthropic, GPU, model]
+  - id: mit_tr_ai
+    name: MIT Technology Review - Artificial Intelligence
+    enabled: true
+    source_type: rss
+    page_url: https://www.technologyreview.com/topic/artificial-intelligence/
+    feed_url: https://www.technologyreview.com/feed/
+    category: analysis
+    priority: high
+    max_items: 15
+    include_keywords: [AI, artificial intelligence, machine learning, model, chips, policy]
+  - id: semianalysis
+    name: SemiAnalysis
+    enabled: true
+    source_type: rss
+    page_url: https://semianalysis.com/
+    feed_url: https://semianalysis.com/feed/
+    category: chips-infrastructure
+    priority: high
+    max_items: 12
+  - id: latent_space
+    name: Latent Space
+    enabled: true
+    source_type: rss
+    page_url: https://www.latent.space/
+    feed_url: https://www.latent.space/feed
+    category: long-read
+    priority: high
+    max_items: 12
+    weekly_only: true
+  - id: import_ai
+    name: Import AI
+    enabled: true
+    source_type: rss
+    page_url: https://importai.substack.com/
+    feed_url: https://importai.substack.com/feed
+    category: long-read
+    priority: medium
+    max_items: 8
+    weekly_only: true
+  - id: the_batch
+    name: The Batch
+    enabled: false
+    source_type: unavailable
+    page_url: https://www.deeplearning.ai/the-batch/
+    category: long-read
+    priority: medium
+    max_items: 0
+    unavailable_reason: No stable public feed enabled in this initial version.
+  - id: hacker_news
+    name: Hacker News
+    enabled: true
+    source_type: api
+    page_url: https://news.ycombinator.com/
+    category: community
+    priority: medium
+    max_items: 50
+  - id: arxiv_medical_neuro
+    name: arXiv - Medical AI and Neuroimaging
+    enabled: true
+    source_type: xml_api
+    page_url: https://arxiv.org/
+    category: research
+    priority: medium
+    max_items: 12
+    research_track: medical_neuroimaging
+    query: '(Alzheimer OR dementia OR "mild cognitive impairment" OR neuroimaging OR MRI OR PET OR "medical imaging") AND ("machine learning" OR "deep learning" OR multimodal OR "foundation model" OR "artificial intelligence")'
+  - id: arxiv_multimodal
+    name: arXiv - Multimodal and Foundation Models
+    enabled: true
+    source_type: xml_api
+    page_url: https://arxiv.org/
+    category: research
+    priority: medium
+    max_items: 12
+    research_track: multimodal_foundation
+    query: '("multimodal" OR "vision-language" OR "foundation model" OR "representation learning" OR "self-supervised" OR "3D vision" OR reasoning OR agents) AND (cat:cs.AI OR cat:cs.LG OR cat:cs.CV OR cat:cs.CL OR cat:eess.IV)'
+  - id: europe_pmc
+    name: Europe PMC - Medical AI and Neuroimaging
+    enabled: true
+    source_type: api
+    page_url: https://europepmc.org/
+    category: research
+    priority: medium
+    max_items: 12
+    research_track: medical_neuroimaging
+  - id: vinai
+    name: VinAI Research
+    enabled: false
+    source_type: unavailable
+    page_url: https://vinai.io/
+    category: research-lab
+    priority: medium
+    max_items: 0
+    unavailable_reason: No reliable public feed was configured for the initial version.

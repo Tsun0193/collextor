@@ -1,0 +1,117 @@
+timezone: Asia/Bangkok
+limits:
+  daily_hours: 48
+  breaking_hours: 12
+  history_days: 21
+  history_max_items: 600
+  daily_visible_max: 50
+  weekly_min_items: 25
+  weekly_max_items: 35
+thresholds:
+  breaking: 18
+  must_read: 16
+  weekly: 13
+  research_weekly: 10
+source_weights:
+  critical: 10
+  high: 8
+  medium: 5
+  low: 2
+recency:
+  within_6_hours: 4
+  within_24_hours: 3
+  within_48_hours: 1
+  older_than_7_days: -4
+bonuses:
+  major_event: 3
+  research_keyword: 5
+  technical_keyword: 3
+  startup_keyword: 2
+  long_read: 2
+  multi_source: 3
+penalties:
+  negative_signal: -6
+  stale_daily: -5
+major_event_keywords:
+  - launch
+  - release
+  - released
+  - introducing
+  - model
+  - system card
+  - benchmark
+  - open source
+  - open-source
+  - open-weight
+  - acquisition
+  - funding
+  - regulation
+  - safety
+  - security
+  - chip
+  - GPU
+  - inference
+  - training
+  - data center
+research_keywords:
+  - Alzheimer
+  - Alzheimer's disease
+  - dementia
+  - mild cognitive impairment
+  - MCI
+  - neuroimaging
+  - MRI
+  - fMRI
+  - PET
+  - medical imaging
+  - medical image
+  - multimodal diagnosis
+  - multimodal medical
+  - medical foundation model
+  - 3D medical imaging
+  - longitudinal imaging
+  - cortical thickness
+  - brain segmentation
+technical_keywords:
+  - multimodal
+  - vision-language
+  - VLM
+  - foundation model
+  - agent
+  - tool use
+  - reasoning
+  - inference
+  - serving
+  - vLLM
+  - CUDA
+  - PyTorch
+  - evaluation
+  - open weights
+  - self-supervised
+  - representation learning
+  - RAG
+  - MLOps
+startup_keywords:
+  - startup
+  - seed
+  - Series A
+  - funding
+  - raised
+  - acquisition
+  - launches
+  - product
+  - API
+  - developer tool
+  - Show HN
+  - open source
+negative_keywords:
+  - sponsored
+  - advertorial
+  - webinar
+  - register now
+  - event promotion
+  - top 50 AI tools
+  - best AI tools
+  - tool roundup
+  - rumor
+  - leaked

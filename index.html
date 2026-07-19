@@ -1,0 +1,67 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light dark">
+  <title>COLLEXTOR</title>
+  <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to content</a>
+  <header class="masthead">
+    <div class="date-line" id="today">Asia/Bangkok</div>
+    <a class="brand" href="index.html">COLLEXTOR</a>
+    <p>A personal newspaper for AI, research, and the ideas shaping tomorrow.</p>
+    <nav aria-label="Primary">
+      <a aria-current="page" href="index.html">Daily</a>
+      <a href="weekly.html">Weekly</a>
+      <a href="archive.html">Archive</a>
+      <a href="sources.html">Sources</a>
+    </nav>
+    <div class="update-line" id="update-line">Loading latest edition...</div>
+  </header>
+  <main id="main">
+    <section id="failure" class="notice" hidden></section>
+    <section id="breaking" class="breaking" hidden aria-label="Breaking"></section>
+    <section class="front-grid" id="front-page" aria-label="Top stories">
+      <div class="loading">Setting the front page...</div>
+    </section>
+    <section data-section="must-read" class="section-block">
+      <h2>Must Read</h2>
+      <div class="story-list" id="must-read"></div>
+    </section>
+    <section data-section="ai-engineering" class="section-block">
+      <h2>AI &amp; Engineering</h2>
+      <div class="story-list compact" id="ai-engineering"></div>
+    </section>
+    <section data-section="research" class="section-block split">
+      <div>
+        <h2>Medical AI &amp; Neuroimaging</h2>
+        <div class="research-list" id="medical-neuroimaging"></div>
+      </div>
+      <div>
+        <h2>Multimodal &amp; Foundation Models</h2>
+        <div class="research-list" id="multimodal-foundation"></div>
+      </div>
+    </section>
+    <section data-section="startup-product" class="section-block">
+      <h2>Startup &amp; Product Radar</h2>
+      <div class="story-list compact" id="startup-product"></div>
+    </section>
+    <section data-section="business-policy" class="section-block">
+      <h2>Business, Chips &amp; Policy</h2>
+      <div class="story-list compact" id="business-policy"></div>
+    </section>
+    <section data-section="weekend" class="section-block">
+      <h2>Weekend Reading</h2>
+      <div class="story-list" id="weekend"></div>
+    </section>
+  </main>
+  <footer>
+    <span>COLLEXTOR is static, rule-based, and links out to original publishers.</span>
+  </footer>
+  <script src="assets/app.js" defer></script>
+</body>
+</html>
