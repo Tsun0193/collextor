@@ -74,12 +74,15 @@
   function story(article, opts = {}) {
     const h = el(opts.large ? "h1" : "h3", {}, safeLink(article, article.title));
     const klass = opts.large ? "lead-story" : (opts.featured ? "story featured-story" : "story");
-    return el("article", { class: klass }, [
-      opts.image ? articleHref(article, imageVisual(article), "media-link") : null,
+    const body = el("div", { class: "story-body" }, [
       el("div", { class: "tag", text: label(article) }),
       h,
       meta(article),
       article.description ? el("p", { text: article.description }) : null,
+    ]);
+    return el("article", { class: klass }, [
+      opts.image ? articleHref(article, imageVisual(article), "media-link") : null,
+      body,
     ]);
   }
 
@@ -99,12 +102,15 @@
 
   function research(article, opts = {}) {
     const authors = article.authors && article.authors.length ? article.authors.slice(0, 3).join(", ") : "";
-    return el("article", { class: opts.featured ? "research-card featured-story" : "research-card" }, [
-      opts.image ? articleHref(article, imageVisual(article), "media-link") : null,
+    const body = el("div", { class: "story-body" }, [
       el("div", { class: "tag", text: article.source_name }),
       el("h3", {}, safeLink(article, article.title)),
       el("div", { class: "meta", text: [fmtDate(article.published_at), authors].filter(Boolean).join(" / ") }),
       article.description ? el("p", { text: article.description }) : null,
+    ]);
+    return el("article", { class: opts.featured ? "research-card featured-story" : "research-card" }, [
+      opts.image ? articleHref(article, imageVisual(article), "media-link") : null,
+      body,
     ]);
   }
 

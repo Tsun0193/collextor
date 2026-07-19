@@ -9,7 +9,7 @@
       ],
       "description": "In Rewriting Bun in Rust Jarred Sumner made the following claim: Claude Code v2.1.181 (released June 17th) and later use the Rust port of Bun. Startup got 10% faster on Linux but otherwise, barely anyone noticed. Boring is good. I decided..",
       "event_cluster_id": "4f0e18b4fccc",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "4f0e18b4fccc7d268644",
       "image_url": "",
       "is_breaking": false,
@@ -30,6 +30,116 @@
       "source_name": "Simon Willison",
       "title": "Claude Code uses Bun written in Rust now",
       "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Javad Khoramdel",
+        "Farhad Hoseyni",
+        "Amirhossein Nikoofard"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.15047v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Mild Cognitive Impairment is a critical early stage of cognitive decline that frequently precedes Alzheimer's disease, yet its automated detection from neuropsychological drawing tests remains fundamentally constrained by data scarcity,...",
+      "event_cluster_id": "316aa6337862",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "316aa6337862cabd14bf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-16T14:26:22Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: model",
+        "research relevance: Alzheimer, Alzheimer's disease, mild cognitive impairment",
+        "technical relevance: foundation model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Parameter-efficient Prompt Tuning of Vision Foundation Model With Adaptive Focal Loss for Interpretable MCI Screening",
+      "url": "https://arxiv.org/abs/2607.15047v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Sinyoung Ra",
+        "Jonghun Kim",
+        "Hyunjin Park"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.14581v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Recent advances in large language models (LLMs) and their extension to vision-language models (VLMs) have made it easier to combine text and images for tasks such as report generation. Existing VLMs in medicine typically focus on 2D...",
+      "event_cluster_id": "a7f9d3709bbc",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "a7f9d3709bbcdacd786c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-16T05:21:47Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: model",
+        "research relevance: MRI",
+        "technical relevance: vision-language, VLM"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Multi-LLM Collaborative MRI Report Generation for Visual Instruction Tuning in Brain Oncology",
+      "url": "https://arxiv.org/abs/2607.14581v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Zhuoyuan Fu",
+        "Zeshang Li",
+        "Yiqiong Zhang",
+        "Hangui Lin",
+        "Yan Shu",
+        "Yan Li",
+        "Binyang Li",
+        "Yaru Zhao"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.13860v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "While Multimodal Large Language Models (MLLMs) have demonstrated remarkable success in 2D medical image understanding, their extension to 3D volumetric imaging remains hindered by prohibitive annotation costs and dataset opacity. Current...",
+      "event_cluster_id": "fd049fb013f5",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "fd049fb013f55cac82f8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-15T14:05:58Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: multimodal, reasoning"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Towards Enhancing 3D Spatial Reasoning in Medical Multimodal Large Language Models",
+      "url": "https://arxiv.org/abs/2607.13860v1"
     },
     {
       "also_covered_by": [],
@@ -131,6 +241,38 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "A $400 million chip-backed loan points to the next wave of AI infrastructure deals.",
+      "event_cluster_id": "7bd993bc9413",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "7bd993bc941388804645",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-17T12:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "major-event keyword: chip, GPU, inference",
+        "technical relevance: inference"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Why the first GPU financiers are turning to inference chips in a $400 million deal",
+      "url": "https://techcrunch.com/2026/07/17/why-the-first-gpu-financiers-are-turning-to-inference-chips-in-a-400-million-deal"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "michael-ax"
       ],
       "canonical_url": "https://github.com/Michael-Ax64/K4-AlgebraicSwarm",
@@ -139,7 +281,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "2a300895787c",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "hn-48969107",
       "image_url": "",
       "is_breaking": false,
@@ -170,7 +312,7 @@
       ],
       "description": "AI Mania Is Eviscerating Global Decision-Making Here's an entertaining perspective from Nik Suresh on the AI mania that is overwhelming the large companies that he consults with. It's crammed with spicy anecdotes from anonymous sources....",
       "event_cluster_id": "9f5fcc2d1cb3",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "9f5fcc2d1cb3e756b334",
       "image_url": "",
       "is_breaking": false,
@@ -192,6 +334,67 @@
     },
     {
       "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help...",
+      "event_cluster_id": "ae56f098fbfe",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "ae56f098fbfed2de3521",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-17T02:58:07Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Spot birds not golf",
+      "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Roblox's new \"Build\" feature lets users generate basic games using a single text prompt.",
+      "event_cluster_id": "fffdda4c3f26",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "fffdda4c3f26fb295422",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-16T18:22:06Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "high source",
+        "major-event keyword: launch",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Roblox launches an AI-powered game-creation feature in its mobile app",
+      "url": "https://techcrunch.com/2026/07/16/roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "atoniolo76"
       ],
@@ -201,7 +404,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "e1e41da49bd5",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "hn-48972725",
       "image_url": "",
       "is_breaking": false,
@@ -225,6 +428,38 @@
     {
       "also_covered_by": [],
       "authors": [
+        "imranmk"
+      ],
+      "canonical_url": "https://sairc.vercel.app/resources",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "390ed6c21764",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "hn-48972624",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-19T23:21:57Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: GPU"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Compiled List of over $1000 in AI/GPU/LLM Credits (100% Free)",
+      "url": "https://sairc.vercel.app/resources"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Kate Park"
       ],
       "canonical_url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
@@ -233,7 +468,7 @@
       ],
       "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
       "event_cluster_id": "56b547978dab",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "56b547978dabbc168125",
       "image_url": "",
       "is_breaking": false,
@@ -264,7 +499,7 @@
       ],
       "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
       "event_cluster_id": "85960e544855",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "85960e5448556cfcaee3",
       "image_url": "",
       "is_breaking": false,
@@ -355,7 +590,7 @@
       ],
       "description": "Claude make Fable 5 permanent An update from the @claudeai account on Twitter: Beginning July 20, Claude Fable 5 will be included in all Max and Team Premium plans, at 50% of limits. Pro and Team Standard users will continue to have...",
       "event_cluster_id": "ab4192251d9c",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "ab4192251d9cb9e27f8a",
       "image_url": "",
       "is_breaking": false,
@@ -384,7 +619,7 @@
       ],
       "description": "nascheme/quixote A certain vintage if Python web nerd might be delighted to learn that the most recent commit to the Quixote web framework was six hours ago . The oldest commit in that repo is from 21 years ago, and that was the initial...",
       "event_cluster_id": "8abd0136f1fe",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "8abd0136f1fe689bfada",
       "image_url": "",
       "is_breaking": false,
@@ -415,7 +650,7 @@
       ],
       "description": "Neil Rimer, the venture capitalist who co-founded Index Ventures, predicts the historic wealth AI is generating in Silicon Valley will have to be redistributed, voluntarily or involuntarily.",
       "event_cluster_id": "8308ffb7b073",
-      "fetched_at": "2026-07-19T23:46:18Z",
+      "fetched_at": "2026-07-19T23:54:16Z",
       "id": "8308ffb7b073405ac32c",
       "image_url": "",
       "is_breaking": false,
@@ -435,16 +670,128 @@
       "source_name": "TechCrunch AI",
       "title": "Neil Rimer thinks the AI money is coming back out",
       "url": "https://techcrunch.com/2026/07/17/neil-rimer-thinks-the-ai-money-is-coming-back-out"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Zezhong Qian",
+        "Xiaowei Chi",
+        "Chak-Wing Mak",
+        "Tianze Zhou",
+        "Ruibin Yuan",
+        "Yuhan Rui",
+        "Hengzhe Sun",
+        "Zhuoqun Wu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.15278v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Video models are evolving into vision foundation models, yet they still lack human-like multi-step reasoning. Streaming autoregressive diffusion models are efficient but limited in reasoning, while bidirectional diffusion enables global...",
+      "event_cluster_id": "37f46dd2db0c",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "37f46dd2db0c083fff95",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-16T17:59:57Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: model",
+        "technical relevance: foundation model, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+      "url": "https://arxiv.org/abs/2607.15278v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Yunfan Jiang",
+        "Yevgen Chebotar",
+        "Ruijie Zheng",
+        "Fengyuan Hu",
+        "Yunhao Ge",
+        "Jimmy Wu",
+        "Tianyuan Dai",
+        "Scott Reed"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.15275v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Recent robot foundation models operate with single-step or short-history visuomotor context. We introduce Test-Time-Training Robot Policies (RoboTTT), a robot model and training recipe that scale visuomotor context to 8K timesteps, three...",
+      "event_cluster_id": "31294b766ae0",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "31294b766ae079c6bd08",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-16T17:59:06Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: model, training",
+        "technical relevance: foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "RoboTTT: Context Scaling for Robot Policies",
+      "url": "https://arxiv.org/abs/2607.15275v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Paul Kassianik",
+        "Blaine Nelson",
+        "Yaron Singer"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.15263v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Security-agent evaluations commonly measure peak offensive capability under generous inference budgets, emphasizing vulnerability discovery, exploit development, penetration testing, and CTF completion. Such measurements are useful but...",
+      "event_cluster_id": "bc42f5af5841",
+      "fetched_at": "2026-07-19T23:54:16Z",
+      "id": "bc42f5af5841de79c585",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-16T17:54:47Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: security, inference",
+        "technical relevance: agent, inference, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents",
+      "url": "https://arxiv.org/abs/2607.15263v1"
     }
   ],
   "date_label": "Monday, July 20, 2026",
-  "generated_at": "2026-07-19T23:46:18Z",
+  "generated_at": "2026-07-19T23:54:16Z",
   "summary": {
     "duplicates_removed": 2,
-    "failed_sources": 1,
-    "fetched_items": 198,
-    "retained_items": 14,
-    "successful_sources": 20
+    "failed_sources": 0,
+    "fetched_items": 206,
+    "retained_items": 24,
+    "successful_sources": 21
   },
   "timezone": "Asia/Bangkok"
 }

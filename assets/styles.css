@@ -171,6 +171,7 @@ footer { color: var(--muted); border-top: 1px solid var(--rule); margin-top: 2re
   grid-column: 1 / -1;
 }
 .featured-story .media-link { min-width: 0; }
+.story-body { min-width: 0; }
 .featured-story h3 { font-size: clamp(1.55rem, 3vw, 2.2rem); }
 .story a, .lead-story a, .research-card a, .archive-card a { text-decoration: none; }
 .story h3, .research-card h3, .archive-card h2 {

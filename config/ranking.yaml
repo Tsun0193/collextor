@@ -7,8 +7,15 @@ limits:
   daily_visible_max: 50
   daily_source_max: 6
   hacker_news_daily_max: 4
+  daily_backfill_days: 7
   weekly_min_items: 25
   weekly_max_items: 35
+section_min_items:
+  ai_engineering: 6
+  startup_product: 4
+  business_policy: 4
+  medical_neuroimaging: 3
+  multimodal_foundation: 3
 thresholds:
   breaking: 18
   must_read: 16

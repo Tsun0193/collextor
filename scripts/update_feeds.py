@@ -142,6 +142,7 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
     daily_cutoff = now - timedelta(hours=ranking_cfg["limits"]["daily_hours"])
     latest_candidates = [i for i in history if (parse_dt(i.get("published_at")) or now) >= daily_cutoff and not by_id.get(i.get("source_id"), {}).get("weekly_only")]
     latest_articles = select_diverse_daily(latest_candidates, ranking_cfg)
+    latest_articles = backfill_daily_sections(history, latest_articles, ranking_cfg, by_id, now)
 
     tz = ZoneInfo(ranking_cfg.get("timezone", "Asia/Bangkok"))
     local_now = now.astimezone(tz)
@@ -238,6 +239,40 @@ def select_diverse_daily(items: list[dict[str, Any]], cfg: dict[str, Any]) -> li
         if len(selected) >= limit:
             break
     return selected
+
+
+def backfill_daily_sections(history: list[dict[str, Any]], selected: list[dict[str, Any]], cfg: dict[str, Any], sources: dict[str, dict[str, Any]], now: datetime) -> list[dict[str, Any]]:
+    max_items = cfg["limits"]["daily_visible_max"]
+    backfill_cutoff = now - timedelta(days=cfg["limits"].get("daily_backfill_days", 7))
+    chosen = list(selected)
+    chosen_ids = {item["id"] for item in chosen}
+    chosen_clusters = {item.get("event_cluster_id") or item["id"] for item in chosen}
+    section_targets = cfg.get("section_min_items", {})
+    for section, minimum in section_targets.items():
+        current = sum(1 for item in chosen if item.get("section") == section)
+        if current >= minimum:
+            continue
+        pool = []
+        for item in history:
+            published = parse_dt(item.get("published_at")) or now
+            cluster = item.get("event_cluster_id") or item["id"]
+            if item["id"] in chosen_ids or cluster in chosen_clusters:
+                continue
+            if item.get("section") != section:
+                continue
+            if sources.get(item.get("source_id"), {}).get("weekly_only"):
+                continue
+            if published < backfill_cutoff:
+                continue
+            pool.append(item)
+        for item in sorted(pool, key=lambda x: (x.get("score", 0), x.get("published_at", "")), reverse=True):
+            chosen.append(item)
+            chosen_ids.add(item["id"])
+            chosen_clusters.add(item.get("event_cluster_id") or item["id"])
+            current += 1
+            if current >= minimum or len(chosen) >= max_items:
+                break
+    return sorted(chosen, key=lambda x: (x.get("score", 0), x.get("published_at", "")), reverse=True)[:max_items]
 
 
 def article_quality_ok(item: dict[str, Any], sources: dict[str, dict[str, Any]]) -> bool:
