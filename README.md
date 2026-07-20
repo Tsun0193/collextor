@@ -11,12 +11,11 @@ Expected public site URL:
 The site is a static GitHub Pages website. The pages are ordinary HTML, CSS, and vanilla JavaScript. They load JSON files from the repository:
 
 - `data/latest.json` powers the Daily page.
-- `data/weekly/YYYY-Www.json` powers Weekly editions.
-- `data/archive-index.json` powers the Archive page.
+- `data/media.json` powers the Media page.
 - `data/source-status.json` powers the Sources page.
 - `data/stocks.json` powers the Daily market tape.
 
-A small Python script, `scripts/update_feeds.py`, fetches configured sources, normalizes article metadata, applies transparent rule-based ranking, deduplicates similar stories, and writes compact JSON.
+A small Python script, `scripts/update_feeds.py`, fetches configured sources, normalizes article metadata, applies transparent rule-based ranking, deduplicates similar stories, refreshes curated media feeds, and writes compact JSON.
 
 ## Why It Costs Nothing
 
@@ -24,7 +23,7 @@ COLLEXTOR uses only free building blocks:
 
 - GitHub Actions for scheduled updates.
 - GitHub Pages for hosting.
-- Public RSS, Atom, HTML listing pages, and free public APIs.
+- Public RSS, Atom, HTML listing pages, YouTube RSS, and free public APIs.
 - Delayed public market quotes from Yahoo Finance chart data.
 - Repository JSON files as storage.
 
@@ -47,11 +46,9 @@ To run an update manually in GitHub:
 3. Choose **Update and deploy COLLEXTOR**.
 4. Select **Run workflow**.
 
-## Weekly Retention
+## Retention
 
-Daily keeps articles from roughly the last 48 hours. History keeps up to 21 days or about 600 items, whichever limit is hit first.
-
-Weekly editions retain only higher-value stories: important events, strong long-form analysis, or research that matches the configured research interests. The current ISO week is recomputed on each update and written to `data/weekly/YYYY-Www.json`. Previous weekly JSON snapshots remain in the repository unless manually deleted.
+Daily keeps articles from roughly the last 48 hours. History keeps up to 21 days or about 600 items, whichever limit is hit first. Saved stories live in the browser through local storage, because the site is static and has no account system.
 
 ## Enable GitHub Pages
 

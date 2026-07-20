@@ -48,9 +48,28 @@ def validate_stocks(data: dict[str, Any]) -> None:
                 raise ValueError(f"invalid related market article url {item.get('url')}")
 
 
+def validate_media(data: dict[str, Any]) -> None:
+    if not isinstance(data.get("items", []), list):
+        raise ValueError("media items must be a list")
+    seen = set()
+    for item in data.get("items", []):
+        for field in ("id", "title", "url", "source_name", "published_at"):
+            if not item.get(field):
+                raise ValueError(f"missing media {field}")
+        if item["id"] in seen:
+            raise ValueError(f"duplicate media id {item['id']}")
+        seen.add(item["id"])
+        if not is_valid_http_url(item.get("url")):
+            raise ValueError(f"invalid media url {item.get('url')}")
+        if item.get("image_url") and not is_valid_http_url(item.get("image_url")):
+            item["image_url"] = ""
+        if item.get("description") != strip_html(item.get("description")):
+            raise ValueError("media description contains HTML")
+
+
 def main() -> None:
     parser = argparse.ArgumentParser()
-    parser.add_argument("files", nargs="*", default=["data/latest.json", "data/history.json", "data/archive-index.json", "data/source-status.json", "data/stocks.json"])
+    parser.add_argument("files", nargs="*", default=["data/latest.json", "data/history.json", "data/source-status.json", "data/stocks.json", "data/media.json"])
     args = parser.parse_args()
     for name in args.files:
         path = ROOT / name
@@ -61,8 +80,8 @@ def main() -> None:
             validate_dataset(data)
         if name.endswith("stocks.json"):
             validate_stocks(data)
-    for path in (ROOT / "data" / "weekly").glob("*.json"):
-        validate_dataset(json.loads(path.read_text(encoding="utf-8")))
+        if name.endswith("media.json"):
+            validate_media(data)
     print("JSON validation passed")
 
 

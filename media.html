@@ -4,8 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="color-scheme" content="light dark">
-  <title>Saved - COLLEXTOR</title>
-  <meta http-equiv="refresh" content="0; url=saved.html">
+  <title>Media - COLLEXTOR</title>
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="stylesheet" href="assets/styles.css">
 </head>
@@ -15,19 +14,22 @@
     <a class="brand" href="index.html">COLLEXTOR</a>
     <nav aria-label="Primary">
       <a href="index.html">Daily</a>
-      <a href="media.html">Media</a>
-      <a aria-current="page" href="saved.html">Saved</a>
+      <a aria-current="page" href="media.html">Media</a>
+      <a href="saved.html">Saved</a>
       <a href="sources.html">Sources</a>
     </nav>
   </header>
   <main id="main">
     <section class="page-head">
-      <p class="eyebrow">Saved</p>
-      <h1>Starred Stories</h1>
-      <p class="archive-explainer">Archive has been replaced by Saved. Opening the saved list...</p>
+      <p class="eyebrow" id="media-meta">Videos, podcasts, and audio</p>
+      <h1>Media Queue</h1>
     </section>
-    <div class="archive-list"><a href="saved.html">Open Saved</a></div>
+    <div id="media-list" class="media-grid"><div class="loading">Tuning the media queue...</div></div>
   </main>
+  <footer>
+    <span>Media links open the original publisher or platform.</span>
+  </footer>
   <script src="assets/app.js" defer></script>
+  <script src="assets/media.js" defer></script>
 </body>
 </html>

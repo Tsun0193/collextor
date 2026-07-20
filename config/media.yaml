@@ -1,0 +1,43 @@
+source_note: curated YouTube RSS feeds
+max_items: 18
+sources:
+  - id: openai_youtube
+    name: OpenAI
+    enabled: true
+    media_type: Video
+    page_url: https://www.youtube.com/@OpenAI
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A
+    priority: critical
+    max_items: 5
+  - id: google_deepmind_youtube
+    name: Google DeepMind
+    enabled: true
+    media_type: Video
+    page_url: https://www.youtube.com/@GoogleDeepMind
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A
+    priority: high
+    max_items: 5
+  - id: two_minute_papers
+    name: Two Minute Papers
+    enabled: true
+    media_type: Video
+    page_url: https://www.youtube.com/@TwoMinutePapers
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg
+    priority: high
+    max_items: 5
+  - id: machine_learning_street_talk
+    name: Machine Learning Street Talk
+    enabled: true
+    media_type: Podcast
+    page_url: https://www.youtube.com/@MachineLearningStreetTalk
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ
+    priority: high
+    max_items: 5
+  - id: yannic_kilcher
+    name: Yannic Kilcher
+    enabled: true
+    media_type: Video
+    page_url: https://www.youtube.com/@YannicKilcher
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew
+    priority: medium
+    max_items: 5

@@ -11,10 +11,11 @@ from pathlib import Path
 from typing import Any
 from zoneinfo import ZoneInfo
 
+import feedparser
 import yaml
 
-from scripts.normalize import canonicalize_article, cluster_events, deduplicate, parse_dt, utc_now
-from scripts.ranking import score_article, weekly_eligible
+from scripts.normalize import article_id, canonicalize_article, cluster_events, deduplicate, normalize_title, normalize_url, parse_date, parse_dt, strip_html, truncate, utc_now
+from scripts.ranking import score_article
 from scripts.source_adapters import Fetcher, fetch_source
 from scripts.stocks import fetch_stocks
 from scripts.validate_data import validate_dataset
@@ -41,14 +42,6 @@ def atomic_write(path: Path, value: Any) -> None:
     tmp = path.with_suffix(path.suffix + ".tmp")
     tmp.write_text(json.dumps(value, ensure_ascii=False, indent=2, sort_keys=True) + "\n", encoding="utf-8")
     os.replace(tmp, path)
-
-
-def iso_week(dt: datetime) -> tuple[str, datetime, datetime]:
-    monday = dt.date() - timedelta(days=dt.weekday())
-    start = datetime.combine(monday, datetime.min.time(), tzinfo=dt.tzinfo)
-    end = start + timedelta(days=6, hours=23, minutes=59, seconds=59)
-    iso = dt.isocalendar()
-    return f"{iso.year}-W{iso.week:02d}", start, end
 
 
 def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
@@ -146,10 +139,6 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
 
     tz = ZoneInfo(ranking_cfg.get("timezone", "Asia/Bangkok"))
     local_now = now.astimezone(tz)
-    week_id, week_start, week_end = iso_week(local_now)
-    weekly_articles = [i for i in history if weekly_eligible(i, ranking_cfg) and week_start <= (parse_dt(i.get("published_at")) or now).astimezone(tz) <= week_end]
-    weekly_articles = sorted(weekly_articles, key=lambda x: (x.get("score", 0), x.get("published_at", "")), reverse=True)[: ranking_cfg["limits"]["weekly_max_items"]]
-
     latest = {
         "generated_at": fetched_at,
         "timezone": ranking_cfg.get("timezone"),
@@ -157,13 +146,12 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
         "articles": public_articles(latest_articles),
         "summary": {"successful_sources": sum(1 for s in statuses if s["ok"]), "failed_sources": sum(1 for s in statuses if s["enabled"] and not s["ok"]), "fetched_items": len(raw_items), "retained_items": len(latest_articles), "duplicates_removed": duplicate_count},
     }
-    weekly = make_weekly(week_id, week_start, week_end, weekly_articles, fetched_at)
-    current_week = {"generated_at": fetched_at, "week_id": week_id, "path": f"data/weekly/{week_id}.json", "date_range": weekly["date_range"], "story_count": len(weekly_articles)}
-    archive_index = build_archive_index(week_id, fetched_at)
     history_doc = {"generated_at": fetched_at, "articles": public_articles(history)}
     stocks_doc = fetch_stocks_safe(fetcher, fetched_at)
     stocks_doc["analysis"] = build_market_brief(stocks_doc, latest_articles)
     statuses.append(stock_source_status(stocks_doc, fetched_at))
+    media_doc = fetch_media_safe(fetcher, fetched_at)
+    statuses.extend(media_source_statuses(media_doc, fetched_at))
     source_status = {"generated_at": fetched_at, "sources": sorted(statuses, key=lambda x: x["name"].lower())}
 
     if not raw_items and previous_history:
@@ -173,19 +161,16 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
 
     validate_dataset(latest)
     validate_dataset(history_doc)
-    validate_dataset(weekly)
     atomic_write(DATA / "latest.json", latest)
     atomic_write(DATA / "history.json", history_doc)
     atomic_write(DATA / "source-status.json", source_status)
     atomic_write(DATA / "stocks.json", stocks_doc)
-    atomic_write(DATA / "weekly" / f"{week_id}.json", weekly)
-    atomic_write(DATA / "current-week.json", current_week)
-    atomic_write(DATA / "archive-index.json", archive_index)
-    print(f"Sources ok={latest['summary']['successful_sources']} failed={latest['summary']['failed_sources']} fetched={len(raw_items)} retained_daily={len(latest_articles)} duplicates={duplicate_count} weekly={len(weekly_articles)}")
+    atomic_write(DATA / "media.json", media_doc)
+    print(f"Sources ok={latest['summary']['successful_sources']} failed={latest['summary']['failed_sources']} fetched={len(raw_items)} retained_daily={len(latest_articles)} duplicates={duplicate_count} media={len(media_doc.get('items', []))}")
     if smoke:
         ok_sources = [s["name"] for s in statuses if s["ok"]]
         print("Live smoke successful sources: " + ", ".join(ok_sources[:10]))
-    return {"ok": True, "week": week_id}
+    return {"ok": True}
 
 
 def fetch_stocks_safe(fetcher: Fetcher, fetched_at: str) -> dict[str, Any]:
@@ -198,6 +183,132 @@ def fetch_stocks_safe(fetcher: Fetcher, fetched_at: str) -> dict[str, Any]:
         previous["last_error"] = str(exc)[:180]
         previous["last_attempt"] = fetched_at
     return previous
+
+
+def fetch_media_safe(fetcher: Fetcher, fetched_at: str) -> dict[str, Any]:
+    previous = read_json(DATA / "media.json", {"generated_at": "", "source_note": "curated public feeds", "items": [], "source_status": []})
+    try:
+        cfg = load_yaml(ROOT / "config" / "media.yaml")
+        doc = fetch_media(cfg, fetcher, fetched_at)
+        if doc.get("items"):
+            return doc
+    except Exception as exc:
+        previous["last_error"] = str(exc)[:180]
+        previous["last_attempt"] = fetched_at
+    return previous
+
+
+def fetch_media(cfg: dict[str, Any], fetcher: Fetcher, fetched_at: str) -> dict[str, Any]:
+    items: list[dict[str, Any]] = []
+    statuses = []
+    priority_weight = {"critical": 30, "high": 20, "medium": 10}
+    for source in cfg.get("sources", []):
+        if not source.get("enabled"):
+            statuses.append(media_status(source, fetched_at, False, 0, source.get("unavailable_reason", "disabled")))
+            continue
+        try:
+            parsed = feedparser.parse(fetcher.get(source["feed_url"]).content)
+            if parsed.bozo and not parsed.entries:
+                raise RuntimeError(f"Invalid feed: {parsed.bozo_exception}")
+            count = 0
+            for entry in parsed.entries[: source.get("max_items", 5)]:
+                url = normalize_url(entry.get("link"), source.get("page_url"))
+                title = strip_html(entry.get("title"))
+                published = parse_date(entry.get("published") or entry.get("updated")) or fetched_at
+                if not url or not title:
+                    continue
+                item = {
+                    "id": entry.get("yt_videoid") or article_id(url, title),
+                    "title": title[:240],
+                    "url": url,
+                    "source_id": source["id"],
+                    "source_name": source["name"],
+                    "media_type": source.get("media_type", "Media"),
+                    "published_at": published,
+                    "description": truncate(entry.get("summary") or entry.get("description"), 180),
+                    "image_url": normalize_url(youtube_thumbnail(entry) or media_image(entry), source.get("page_url")),
+                    "score": priority_weight.get(source.get("priority"), 0),
+                }
+                items.append(item)
+                count += 1
+            statuses.append(media_status(source, fetched_at, True, count, "ok"))
+        except Exception as exc:
+            statuses.append(media_status(source, fetched_at, False, 0, str(exc)[:180]))
+    deduped = dedupe_media(items)
+    limit = cfg.get("max_items", 18)
+    deduped = sorted(deduped, key=lambda item: (item.get("published_at", ""), item.get("score", 0)), reverse=True)[:limit]
+    for item in deduped:
+        item.pop("score", None)
+    return {
+        "generated_at": fetched_at,
+        "source_note": cfg.get("source_note", "curated public feeds"),
+        "items": deduped,
+        "source_status": statuses,
+    }
+
+
+def media_image(entry: Any) -> str:
+    for key in ("media_thumbnail", "media_content"):
+        values = entry.get(key)
+        if values:
+            return values[0].get("url", "")
+    return ""
+
+
+def youtube_thumbnail(entry: Any) -> str:
+    video_id = entry.get("yt_videoid")
+    if not video_id:
+        return ""
+    return f"https://img.youtube.com/vi/{video_id}/hqdefault.jpg"
+
+
+def dedupe_media(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    seen = set()
+    out = []
+    for item in items:
+        keys = {normalize_url(item.get("url")) or item.get("id"), normalize_title(item.get("title"))}
+        if seen & keys:
+            continue
+        seen.update(keys)
+        out.append(item)
+    return out
+
+
+def media_status(source: dict[str, Any], fetched_at: str, ok: bool, count: int, message: str) -> dict[str, Any]:
+    return {
+        "source_id": source["id"],
+        "name": source["name"],
+        "category": "media",
+        "source_type": "rss",
+        "priority": source.get("priority", ""),
+        "page_url": source.get("page_url", ""),
+        "enabled": bool(source.get("enabled")),
+        "ok": ok,
+        "last_successful_fetch": fetched_at if ok else None,
+        "last_attempt": fetched_at,
+        "item_count": count,
+        "message": message,
+    }
+
+
+def media_source_statuses(media_doc: dict[str, Any], fetched_at: str) -> list[dict[str, Any]]:
+    statuses = media_doc.get("source_status")
+    if isinstance(statuses, list):
+        return statuses
+    return [{
+        "source_id": "media_feeds",
+        "name": "Media feeds",
+        "category": "media",
+        "source_type": "rss",
+        "priority": "reference",
+        "page_url": "",
+        "enabled": True,
+        "ok": bool(media_doc.get("items")),
+        "last_successful_fetch": media_doc.get("generated_at") if media_doc.get("items") else None,
+        "last_attempt": fetched_at,
+        "item_count": len(media_doc.get("items", [])),
+        "message": media_doc.get("last_error", "ok"),
+    }]
 
 
 def stock_source_status(stocks_doc: dict[str, Any], fetched_at: str) -> dict[str, Any]:
@@ -360,34 +471,6 @@ def topic_matches(text: str, term: str) -> bool:
     if len(term) <= 4 and re.fullmatch(r"[a-z0-9+#.]+", term):
         return re.search(rf"(?<![a-z0-9]){re.escape(term)}(?![a-z0-9])", text) is not None
     return term in text
-
-
-def make_weekly(week_id: str, start: datetime, end: datetime, articles: list[dict[str, Any]], generated_at: str) -> dict[str, Any]:
-    by_section = defaultdict(list)
-    for item in articles:
-        by_section[item.get("section", "ai_engineering")].append(item["id"])
-    return {
-        "generated_at": generated_at,
-        "week_id": week_id,
-        "date_range": f"{start.strftime('%b %-d')} - {end.strftime('%b %-d, %Y')}",
-        "lead": articles[0]["id"] if articles else "",
-        "sections": dict(by_section),
-        "articles": public_articles(articles),
-    }
-
-
-def build_archive_index(current_week_id: str, generated_at: str) -> dict[str, Any]:
-    editions = []
-    for path in (DATA / "weekly").glob("*.json"):
-        try:
-            weekly = json.loads(path.read_text(encoding="utf-8"))
-        except Exception:
-            continue
-        if weekly.get("week_id") == current_week_id:
-            continue
-        lead = next((a for a in weekly.get("articles", []) if a["id"] == weekly.get("lead")), {})
-        editions.append({"week_id": weekly["week_id"], "date_range": weekly["date_range"], "lead_headline": lead.get("title", ""), "story_count": len(weekly.get("articles", [])), "url": f"weekly.html?week={weekly['week_id']}"})
-    return {"generated_at": generated_at, "editions": sorted(editions, key=lambda e: e["week_id"], reverse=True)}
 
 
 def main() -> None:

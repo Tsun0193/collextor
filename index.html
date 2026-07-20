@@ -16,8 +16,8 @@
     <p>A personal newspaper for AI, research, and the ideas shaping tomorrow.</p>
     <nav aria-label="Primary">
       <a aria-current="page" href="index.html">Daily</a>
-      <a href="weekly.html">Weekly</a>
-      <a href="archive.html">Archive</a>
+      <a href="media.html">Media</a>
+      <a href="saved.html">Saved</a>
       <a href="sources.html">Sources</a>
     </nav>
     <div class="update-line" id="update-line">Loading latest edition...</div>
@@ -33,8 +33,11 @@
       <div class="stock-strip" id="stock-strip"></div>
       <div class="market-brief" id="market-brief"></div>
     </section>
-    <section class="front-grid" id="front-page" aria-label="Top stories">
-      <div class="loading">Setting the front page...</div>
+    <section data-section="featured" class="section-block">
+      <h2>Featured</h2>
+      <div class="front-grid" id="front-page" aria-label="Top stories">
+        <div class="loading">Setting the front page...</div>
+      </div>
     </section>
     <section data-section="must-read" class="section-block">
       <h2>Must Read</h2>
@@ -61,10 +64,6 @@
     <section data-section="business-policy" class="section-block">
       <h2>Business, Chips &amp; Policy</h2>
       <div class="story-list compact" id="business-policy"></div>
-    </section>
-    <section data-section="weekend" class="section-block">
-      <h2>Weekend Reading</h2>
-      <div class="story-list" id="weekend"></div>
     </section>
   </main>
   <footer>

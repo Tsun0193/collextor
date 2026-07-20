@@ -145,7 +145,6 @@ sources:
     category: long-read
     priority: high
     max_items: 12
-    weekly_only: true
   - id: import_ai
     name: Import AI
     enabled: true
@@ -155,7 +154,6 @@ sources:
     category: long-read
     priority: medium
     max_items: 8
-    weekly_only: true
   - id: the_batch
     name: The Batch
     enabled: false

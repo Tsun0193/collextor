@@ -52,6 +52,67 @@
     return el("a", { href: article.url, target: "_blank", rel: "noopener noreferrer", class: className }, children);
   }
 
+  const savedStore = {
+    key: "collextor.savedStories.v1",
+    all() {
+      try {
+        return JSON.parse(localStorage.getItem(this.key) || "[]");
+      } catch (err) {
+        return [];
+      }
+    },
+    has(article) {
+      return this.all().some((item) => item.id === article.id);
+    },
+    toggle(article) {
+      const current = this.all();
+      const index = current.findIndex((item) => item.id === article.id);
+      const active = index < 0;
+      if (active) {
+        current.unshift(savedArticle(article));
+      } else {
+        current.splice(index, 1);
+      }
+      localStorage.setItem(this.key, JSON.stringify(current.slice(0, 200)));
+      window.dispatchEvent(new CustomEvent("collextor:saved-changed"));
+      return active;
+    },
+  };
+
+  function savedArticle(article) {
+    const keys = ["id", "title", "url", "source_name", "source_category", "section", "published_at", "description", "image_url", "authors", "event_cluster_id"];
+    const out = {};
+    keys.forEach((key) => {
+      if (article[key] !== undefined) out[key] = article[key];
+    });
+    out.saved_at = new Date().toISOString();
+    return out;
+  }
+
+  function starButton(article) {
+    const button = el("button", { class: "star-button", type: "button", title: "Save story", "aria-label": `Save ${article.title}` });
+    function sync() {
+      const active = savedStore.has(article);
+      button.textContent = active ? "★" : "☆";
+      button.classList.toggle("is-saved", active);
+      button.setAttribute("aria-pressed", active ? "true" : "false");
+      button.title = active ? "Remove from Saved" : "Save story";
+    }
+    button.addEventListener("click", () => {
+      savedStore.toggle(article);
+      sync();
+    });
+    sync();
+    return button;
+  }
+
+  function storyKicker(article, text) {
+    return el("div", { class: "story-kicker" }, [
+      el("div", { class: "tag", text }),
+      starButton(article),
+    ]);
+  }
+
   function meta(article) {
     const span = el("div", { class: "meta" });
     span.textContent = `${article.source_name} / ${relTime(article.published_at)}`;
@@ -75,7 +136,7 @@
     const h = el(opts.large ? "h1" : "h3", {}, safeLink(article, article.title));
     const klass = opts.large ? "lead-story" : (opts.featured ? "story featured-story" : "story");
     const body = el("div", { class: "story-body" }, [
-      el("div", { class: "tag", text: label(article) }),
+      storyKicker(article, label(article)),
       h,
       meta(article),
       article.description ? el("p", { text: article.description }) : null,
@@ -86,12 +147,12 @@
     ]);
   }
 
-  function sectionStories(id, items, limit) {
+  function sectionStories(id, items, limit, registry) {
     const node = document.getElementById(id);
     const section = node && node.closest(".section-block");
     if (!node) return;
     node.replaceChildren();
-    const chosen = uniqueClusters(items).slice(0, limit);
+    const chosen = takeUnique(items, limit, registry);
     if (!chosen.length && section) {
       section.hidden = true;
       return;
@@ -103,7 +164,7 @@
   function research(article, opts = {}) {
     const authors = article.authors && article.authors.length ? article.authors.slice(0, 3).join(", ") : "";
     const body = el("div", { class: "story-body" }, [
-      el("div", { class: "tag", text: article.source_name }),
+      storyKicker(article, article.source_name),
       el("h3", {}, safeLink(article, article.title)),
       el("div", { class: "meta", text: [fmtDate(article.published_at), authors].filter(Boolean).join(" / ") }),
       article.description ? el("p", { text: article.description }) : null,
@@ -114,12 +175,12 @@
     ]);
   }
 
-  function sectionResearch(id, items, limit) {
+  function sectionResearch(id, items, limit, registry) {
     const node = document.getElementById(id);
     const section = node && node.closest(".section-block");
     if (!node) return;
     node.replaceChildren();
-    const chosen = uniqueClusters(items).slice(0, limit);
+    const chosen = takeUnique(items, limit, registry);
     if (!chosen.length && section) {
       section.hidden = true;
       return;
@@ -136,6 +197,7 @@
       business_policy: "Business",
       ai_engineering: "Engineering",
       long_reads: "Long Read",
+      media: "Media",
     };
     return map[article.section] || article.source_category || "Story";
   }
@@ -162,6 +224,7 @@
       document.getElementById("update-line").textContent = `Last successful feed update: ${fmtDate(latest.generated_at, { time: true })}`;
       const articles = latest.articles || [];
       if (!articles.length) throw new Error("No retained articles are available.");
+      const registry = createStoryRegistry();
       const breaking = articles.filter((a) => a.is_breaking).slice(0, 3);
       const breakingNode = document.getElementById("breaking");
       if (breaking.length) {
@@ -171,16 +234,15 @@
       const frontUnique = uniqueClusters(articles);
       const lead = frontUnique.find((a) => !["research", "long-read"].includes(a.source_category) && !a.research_track) || frontUnique[0];
       const secondaries = frontUnique.filter((a) => a.id !== lead.id).slice(0, 4);
+      [lead, ...secondaries].forEach((item) => registry.mark(item));
       front.replaceChildren(story(lead, { large: true, image: true }), el("div", { class: "secondary-list" }, secondaries.map((a) => story(a))));
       await renderStocks();
-      sectionStories("must-read", articles.filter((a) => a.is_must_read), 6);
-      sectionStories("ai-engineering", articles.filter((a) => a.section === "ai_engineering"), 8);
-      sectionResearch("medical-neuroimaging", articles.filter((a) => a.section === "medical_neuroimaging"), 5);
-      sectionResearch("multimodal-foundation", articles.filter((a) => a.section === "multimodal_foundation"), 5);
-      sectionStories("startup-product", articles.filter((a) => a.section === "startup_product"), 8);
-      sectionStories("business-policy", articles.filter((a) => a.section === "business_policy"), 8);
-      const weekly = await currentWeekly();
-      sectionStories("weekend", (weekly.articles || []).filter((a) => a.is_long_read), 3);
+      sectionStories("must-read", articles.filter((a) => a.is_must_read), 6, registry);
+      sectionStories("ai-engineering", articles.filter((a) => a.section === "ai_engineering"), 8, registry);
+      sectionResearch("medical-neuroimaging", articles.filter((a) => a.section === "medical_neuroimaging"), 5, registry);
+      sectionResearch("multimodal-foundation", articles.filter((a) => a.section === "multimodal_foundation"), 5, registry);
+      sectionStories("startup-product", articles.filter((a) => a.section === "startup_product"), 8, registry);
+      sectionStories("business-policy", articles.filter((a) => a.section === "business_policy"), 8, registry);
     } catch (err) {
       front.replaceChildren();
       const failure = document.getElementById("failure");
@@ -253,12 +315,32 @@
     });
   }
 
-  async function currentWeekly() {
-    const current = await loadJson("data/current-week.json");
-    if (!current.week_id) return { articles: [] };
-    return loadJson(`data/weekly/${current.week_id}.json`);
+  function createStoryRegistry() {
+    const seen = new Set();
+    return {
+      key(article) {
+        return article.event_cluster_id || article.canonical_url || article.url || article.id;
+      },
+      has(article) {
+        return seen.has(this.key(article));
+      },
+      mark(article) {
+        seen.add(this.key(article));
+      },
+    };
   }
 
-  window.Collextor = { loadJson, el, story, research, fmtDate, safeLink };
+  function takeUnique(articles, limit, registry) {
+    const chosen = [];
+    for (const article of uniqueClusters(articles)) {
+      if (registry && registry.has(article)) continue;
+      chosen.push(article);
+      if (registry) registry.mark(article);
+      if (chosen.length >= limit) break;
+    }
+    return chosen;
+  }
+
+  window.Collextor = { loadJson, el, story, research, fmtDate, safeLink, articleHref, imageVisual, meta, label, savedStore };
   document.addEventListener("DOMContentLoaded", initDaily);
 })();
