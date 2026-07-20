@@ -7,12 +7,33 @@
   let items = [];
   let activeType = "All";
   let activeItem = null;
+  const watchedStore = {
+    key: "collextor.watchedMedia.v1",
+    all() {
+      try {
+        return new Set(JSON.parse(localStorage.getItem(this.key) || "[]"));
+      } catch (err) {
+        return new Set();
+      }
+    },
+    has(item) {
+      return this.all().has(item.id);
+    },
+    add(item) {
+      const watched = this.all();
+      watched.add(item.id);
+      localStorage.setItem(this.key, JSON.stringify(Array.from(watched).slice(-500)));
+    },
+    clear() {
+      localStorage.removeItem(this.key);
+    },
+  };
 
   try {
     const data = await Collextor.loadJson("data/media.json");
     items = data.items || [];
     if (!items.length) throw new Error("No media items");
-    activeItem = items[0];
+    activeItem = recommendedItems()[0] || items[0];
     renderControls();
     renderPlayer(activeItem);
     renderList();
@@ -22,11 +43,17 @@
 
   function renderControls() {
     if (!controls) return;
-    const types = ["All", ...Array.from(new Set(items.map((item) => item.media_type || "Media")))];
+    const available = recommendedItems();
+    const types = ["All", ...Array.from(new Set(available.map((item) => item.media_type || "Media")))];
+    const watchedCount = items.filter((item) => watchedStore.has(item)).length;
+    const actions = [Collextor.el("button", { class: "shuffle-button", type: "button", text: "Shuffle" })];
+    if (watchedCount) {
+      actions.push(Collextor.el("button", { class: "clear-watched-button", type: "button", text: "Reset watched" }));
+    }
     controls.hidden = false;
     controls.replaceChildren(
       Collextor.el("div", { class: "filter-tabs", role: "tablist", "aria-label": "Media filters" }, types.map((type) => filterButton(type))),
-      Collextor.el("button", { class: "shuffle-button", type: "button", text: "Shuffle" }),
+      Collextor.el("div", { class: "media-actions" }, actions),
     );
     controls.querySelector(".shuffle-button").addEventListener("click", () => {
       const pool = filteredItems();
@@ -35,6 +62,16 @@
       renderPlayer(activeItem);
       renderList();
     });
+    const clear = controls.querySelector(".clear-watched-button");
+    if (clear) {
+      clear.addEventListener("click", () => {
+        watchedStore.clear();
+        activeItem = filteredItems()[0] || items[0];
+        renderControls();
+        renderPlayer(activeItem);
+        renderList();
+      });
+    }
   }
 
   function filterButton(type) {
@@ -57,7 +94,12 @@
   }
 
   function filteredItems() {
-    return activeType === "All" ? items : items.filter((item) => (item.media_type || "Media") === activeType);
+    const available = recommendedItems();
+    return activeType === "All" ? available : available.filter((item) => (item.media_type || "Media") === activeType);
+  }
+
+  function recommendedItems() {
+    return items.filter((item) => !watchedStore.has(item));
   }
 
   function renderPlayer(item) {
@@ -87,13 +129,20 @@
       Collextor.el("span", { class: "play-mark", text: "Play" }),
     ]);
     button.addEventListener("click", () => {
+      watchedStore.add(item);
       button.replaceWith(Collextor.el("iframe", { src: `${embed}?autoplay=1&vq=hd1080&hd=1&modestbranding=1&rel=0`, title: item.title, loading: "lazy", allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share", allowfullscreen: "true" }));
+      renderControls();
+      renderList();
     });
     return button;
   }
 
   function renderList() {
     const shown = filteredItems();
+    if (!shown.length) {
+      root.replaceChildren(Collextor.el("div", { class: "notice media-empty", text: "No unwatched media left in this filter." }));
+      return;
+    }
     root.replaceChildren(...shown.map((item) => mediaCard(item)));
   }
 

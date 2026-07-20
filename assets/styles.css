@@ -464,8 +464,15 @@ footer { color: var(--muted); border-top: 1px solid var(--rule); margin-top: 2re
   flex-wrap: wrap;
   gap: .35rem;
 }
+.media-actions {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: .35rem;
+}
 .filter-button,
-.shuffle-button {
+.shuffle-button,
+.clear-watched-button {
   appearance: none;
   border: 1px solid var(--rule);
   background: transparent;
@@ -480,7 +487,8 @@ footer { color: var(--muted); border-top: 1px solid var(--rule); margin-top: 2re
 }
 .filter-button:hover,
 .filter-button.is-active,
-.shuffle-button:hover {
+.shuffle-button:hover,
+.clear-watched-button:hover {
   border-color: var(--accent);
   color: var(--accent);
 }
@@ -488,6 +496,9 @@ footer { color: var(--muted); border-top: 1px solid var(--rule); margin-top: 2re
   border-top: 1px solid var(--rule);
   padding-top: .9rem;
   min-width: 0;
+}
+.media-empty {
+  grid-column: 1 / -1;
 }
 .media-card.is-active {
   border-top-color: var(--accent);
@@ -539,6 +550,7 @@ th { font-size: .78rem; text-transform: uppercase; letter-spacing: .06em; color:
   .front-grid, .split, .story-list, .story-list.compact, .featured-story, .media-grid, .media-player { grid-template-columns: 1fr; }
   .market-brief { grid-template-columns: 1fr; }
   .media-controls { align-items: stretch; flex-direction: column; }
+  .media-actions { justify-content: flex-start; }
   .stock-strip { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .lead-story { border-right: 0; padding-right: 0; }
   .brand { font-size: clamp(2.8rem, 17vw, 5rem); }
