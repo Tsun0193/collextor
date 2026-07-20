@@ -11,8 +11,6 @@
   try {
     const data = await Collextor.loadJson("data/media.json");
     items = data.items || [];
-    const meta = document.getElementById("media-meta");
-    if (meta) meta.textContent = `${items.length} items / ${data.source_note || "curated public feeds"}`;
     if (!items.length) throw new Error("No media items");
     activeItem = items[0];
     renderControls();
@@ -85,11 +83,11 @@
     const article = asArticle(item);
     if (!embed) return Collextor.articleHref(article, Collextor.imageVisual(article), "media-link");
     const button = Collextor.el("button", { class: "player-poster", type: "button", "aria-label": `Play ${item.title}` }, [
-      Collextor.imageVisual(article),
+      mediaVisual(item),
       Collextor.el("span", { class: "play-mark", text: "Play" }),
     ]);
     button.addEventListener("click", () => {
-      button.replaceWith(Collextor.el("iframe", { src: `${embed}?autoplay=1`, title: item.title, loading: "lazy", allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share", allowfullscreen: "true" }));
+      button.replaceWith(Collextor.el("iframe", { src: `${embed}?autoplay=1&vq=hd1080&hd=1&modestbranding=1&rel=0`, title: item.title, loading: "lazy", allow: "accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share", allowfullscreen: "true" }));
     });
     return button;
   }
@@ -103,7 +101,7 @@
     const selected = activeItem && item.id === activeItem.id;
     const article = asArticle(item);
     const openButton = Collextor.el("button", { class: selected ? "media-pick is-active" : "media-pick", type: "button" }, [
-      Collextor.imageVisual(article),
+      mediaVisual(item),
     ]);
     openButton.addEventListener("click", () => {
       activeItem = item;
@@ -138,12 +136,51 @@
     };
   }
 
+  function mediaVisual(item) {
+    const urls = thumbnailCandidates(item);
+    if (!urls.length) return Collextor.imageVisual(asArticle(item));
+    const img = Collextor.el("img", { src: urls[0], alt: item.title, loading: "lazy" });
+    let index = 0;
+    img.addEventListener("error", () => {
+      index += 1;
+      if (urls[index]) {
+        img.src = urls[index];
+      } else {
+        img.parentElement.replaceWith(Collextor.imageVisual({ ...asArticle(item), image_url: "" }));
+      }
+    });
+    return Collextor.el("div", { class: "image-frame" }, img);
+  }
+
+  function thumbnailCandidates(item) {
+    const video = item.id || youtubeId(item.url);
+    const candidates = [];
+    if (item.image_url) candidates.push(item.image_url);
+    if (video) {
+      candidates.push(
+        `https://img.youtube.com/vi/${video}/maxresdefault.jpg`,
+        `https://img.youtube.com/vi/${video}/sddefault.jpg`,
+        `https://img.youtube.com/vi/${video}/hqdefault.jpg`,
+        `https://img.youtube.com/vi/${video}/mqdefault.jpg`,
+      );
+    }
+    return Array.from(new Set(candidates));
+  }
+
   function youtubeEmbed(url) {
     try {
       const parsed = new URL(url);
       const video = parsed.searchParams.get("v");
       if (!video) return "";
       return `https://www.youtube-nocookie.com/embed/${encodeURIComponent(video)}`;
+    } catch (err) {
+      return "";
+    }
+  }
+
+  function youtubeId(url) {
+    try {
+      return new URL(url).searchParams.get("v") || "";
     } catch (err) {
       return "";
     }

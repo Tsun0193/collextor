@@ -257,7 +257,7 @@ def youtube_thumbnail(entry: Any) -> str:
     video_id = entry.get("yt_videoid")
     if not video_id:
         return ""
-    return f"https://img.youtube.com/vi/{video_id}/mqdefault.jpg"
+    return f"https://img.youtube.com/vi/{video_id}/maxresdefault.jpg"
 
 
 def dedupe_media(items: list[dict[str, Any]]) -> list[dict[str, Any]]:

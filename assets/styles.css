@@ -167,6 +167,42 @@ footer { color: var(--muted); border-top: 1px solid var(--rule); margin-top: 2re
   border-top: 1px solid var(--rule);
   padding-top: .85rem;
 }
+.story,
+.lead-story,
+.research-card,
+.archive-card,
+.media-card,
+.stock-tile {
+  transition: background-color .16s ease, border-color .16s ease, box-shadow .16s ease, color .16s ease;
+}
+.story:hover,
+.story:focus-within,
+.lead-story:hover,
+.lead-story:focus-within,
+.research-card:hover,
+.research-card:focus-within,
+.archive-card:hover,
+.archive-card:focus-within,
+.media-card:hover,
+.media-card:focus-within,
+.stock-tile:hover,
+.stock-tile:focus-within {
+  background: color-mix(in srgb, var(--accent) 5%, transparent);
+  border-color: var(--accent);
+  box-shadow: 0 0 0 .45rem color-mix(in srgb, var(--accent) 5%, transparent);
+}
+.story:hover h3 a,
+.story:focus-within h3 a,
+.lead-story:hover h1 a,
+.lead-story:focus-within h1 a,
+.research-card:hover h3 a,
+.research-card:focus-within h3 a,
+.archive-card:hover h2 a,
+.archive-card:focus-within h2 a,
+.media-card:hover h2 a,
+.media-card:focus-within h2 a {
+  color: var(--accent);
+}
 .featured-story {
   display: grid;
   grid-template-columns: minmax(220px, .9fr) minmax(0, 1fr);
