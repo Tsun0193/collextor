@@ -1,43 +1,51 @@
-source_note: curated YouTube RSS feeds
+source_note: warm, educational, outdoor, and reflective YouTube feeds
 max_items: 18
 sources:
-  - id: openai_youtube
-    name: OpenAI
+  - id: outdoor_boys
+    name: Outdoor Boys
     enabled: true
-    media_type: Video
-    page_url: https://www.youtube.com/@OpenAI
-    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCXZCJLdBC09xxGZ6gcdrc6A
+    media_type: Outdoor
+    page_url: https://www.youtube.com/@OutdoorBoys
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCfpCQ89W9wjkHc8J_6eTbBg
     priority: critical
-    max_items: 5
-  - id: google_deepmind_youtube
-    name: Google DeepMind
+    max_items: 4
+  - id: ted_ed
+    name: TED-Ed
     enabled: true
-    media_type: Video
-    page_url: https://www.youtube.com/@GoogleDeepMind
-    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCP7jMXSY2xbc3KCAE0MHQ-A
+    media_type: Education
+    page_url: https://www.youtube.com/@TEDEd
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsooa4yRKGN_zEE8iknghZA
     priority: high
-    max_items: 5
-  - id: two_minute_papers
-    name: Two Minute Papers
+    max_items: 4
+  - id: kurzgesagt
+    name: Kurzgesagt
     enabled: true
-    media_type: Video
-    page_url: https://www.youtube.com/@TwoMinutePapers
-    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCbfYPyITQ-7l4upoX8nvctg
+    media_type: Wonder
+    page_url: https://www.youtube.com/@kurzgesagt
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCsXVk37bltHxD1rDPwtNM8Q
     priority: high
-    max_items: 5
-  - id: machine_learning_street_talk
-    name: Machine Learning Street Talk
+    max_items: 4
+  - id: pbs_eons
+    name: PBS Eons
     enabled: true
-    media_type: Podcast
-    page_url: https://www.youtube.com/@MachineLearningStreetTalk
-    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCMLtBahI5DMrt0NPvDSoIRQ
+    media_type: Nature
+    page_url: https://www.youtube.com/@eons
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCzR-rom72PHN9Zg7RML9EbA
     priority: high
-    max_items: 5
-  - id: yannic_kilcher
-    name: Yannic Kilcher
+    max_items: 4
+  - id: school_of_life
+    name: The School of Life
     enabled: true
-    media_type: Video
-    page_url: https://www.youtube.com/@YannicKilcher
-    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCZHmQk67mSJgfCCTn7xBfew
+    media_type: Reflection
+    page_url: https://www.youtube.com/@theschooloflifetv
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UC7IcJI8PUf5Z3zKxnZvTBog
+    priority: high
+    max_items: 4
+  - id: great_big_story
+    name: Great Big Story
+    enabled: true
+    media_type: Life
+    page_url: https://www.youtube.com/@greatbigstory
+    feed_url: https://www.youtube.com/feeds/videos.xml?channel_id=UCajXeitgFL-rb5-gXI-aG8Q
     priority: medium
-    max_items: 5
+    max_items: 4

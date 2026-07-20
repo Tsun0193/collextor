@@ -234,15 +234,13 @@ def fetch_media(cfg: dict[str, Any], fetcher: Fetcher, fetched_at: str) -> dict[
             statuses.append(media_status(source, fetched_at, True, count, "ok"))
         except Exception as exc:
             statuses.append(media_status(source, fetched_at, False, 0, str(exc)[:180]))
-    deduped = dedupe_media(items)
-    limit = cfg.get("max_items", 18)
-    deduped = sorted(deduped, key=lambda item: (item.get("published_at", ""), item.get("score", 0)), reverse=True)[:limit]
-    for item in deduped:
+    selected = select_diverse_media(dedupe_media(items), cfg.get("max_items", 18))
+    for item in selected:
         item.pop("score", None)
     return {
         "generated_at": fetched_at,
         "source_note": cfg.get("source_note", "curated public feeds"),
-        "items": deduped,
+        "items": selected,
         "source_status": statuses,
     }
 
@@ -272,6 +270,32 @@ def dedupe_media(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
         seen.update(keys)
         out.append(item)
     return out
+
+
+def select_diverse_media(items: list[dict[str, Any]], limit: int) -> list[dict[str, Any]]:
+    by_source: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for item in items:
+        by_source[item.get("source_id", "")].append(item)
+    for bucket in by_source.values():
+        bucket.sort(key=lambda item: item.get("published_at", ""), reverse=True)
+    source_order = sorted(
+        by_source,
+        key=lambda source_id: (
+            max((item.get("score", 0) for item in by_source[source_id]), default=0),
+            by_source[source_id][0].get("published_at", "") if by_source[source_id] else "",
+        ),
+        reverse=True,
+    )
+    selected: list[dict[str, Any]] = []
+    while len(selected) < limit and any(by_source.values()):
+        for source_id in source_order:
+            bucket = by_source[source_id]
+            if not bucket:
+                continue
+            selected.append(bucket.pop(0))
+            if len(selected) >= limit:
+                break
+    return selected
 
 
 def media_status(source: dict[str, Any], fetched_at: str, ok: bool, count: int, message: str) -> dict[str, Any]:
