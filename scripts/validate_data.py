@@ -39,6 +39,13 @@ def validate_stocks(data: dict[str, Any]) -> None:
                 raise ValueError(f"missing stock {field}")
         if not is_valid_http_url(item.get("url")):
             raise ValueError(f"invalid stock url {item.get('url')}")
+    analysis = data.get("analysis", {})
+    if analysis:
+        if analysis.get("related_articles") and not isinstance(analysis["related_articles"], list):
+            raise ValueError("stock related_articles must be a list")
+        for item in analysis.get("related_articles", []):
+            if not is_valid_http_url(item.get("url")):
+                raise ValueError(f"invalid related market article url {item.get('url')}")
 
 
 def main() -> None:

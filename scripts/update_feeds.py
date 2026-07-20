@@ -162,6 +162,7 @@ def run(rebuild_week: str | None = None, smoke: bool = False) -> dict[str, Any]:
     archive_index = build_archive_index(week_id, fetched_at)
     history_doc = {"generated_at": fetched_at, "articles": public_articles(history)}
     stocks_doc = fetch_stocks_safe(fetcher, fetched_at)
+    stocks_doc["analysis"] = build_market_brief(stocks_doc, latest_articles)
     statuses.append(stock_source_status(stocks_doc, fetched_at))
     source_status = {"generated_at": fetched_at, "sources": sorted(statuses, key=lambda x: x["name"].lower())}
 
@@ -216,6 +217,59 @@ def stock_source_status(stocks_doc: dict[str, Any], fetched_at: str) -> dict[str
         "item_count": len(stocks_doc.get("symbols", [])),
         "message": source.get("note", "delayed market quotes") if ok else stocks_doc.get("last_error", "unavailable"),
     }
+
+
+def build_market_brief(stocks_doc: dict[str, Any], articles: list[dict[str, Any]]) -> dict[str, Any]:
+    symbols = stocks_doc.get("symbols", [])
+    if not symbols:
+        return {"headline": "Market context unavailable", "bullets": [], "related_articles": [], "disclaimer": "Delayed market data only. Not investment advice."}
+    by_category: dict[str, list[dict[str, Any]]] = defaultdict(list)
+    for quote in symbols:
+        by_category[quote.get("category", "other")].append(quote)
+    bullets = []
+    chip_quotes = by_category.get("chips", [])
+    if chip_quotes:
+        avg = avg_change(chip_quotes)
+        leaders = sorted(chip_quotes, key=lambda q: q.get("change_percent") or 0)
+        weakest = leaders[0]
+        strongest = leaders[-1]
+        direction = "under pressure" if avg < -1 else "firmer" if avg > 1 else "mixed"
+        bullets.append(f"Chip names look {direction}: the configured chip basket averages {avg:+.2f}%, with {weakest['symbol']} at {weakest.get('change_percent'):+.2f}% and {strongest['symbol']} at {strongest.get('change_percent'):+.2f}%.")
+    platform_quotes = by_category.get("hyperscaler", []) + by_category.get("cloud", []) + by_category.get("lab", [])
+    if platform_quotes:
+        positives = [q for q in platform_quotes if (q.get("change_percent") or 0) > 0]
+        negatives = [q for q in platform_quotes if (q.get("change_percent") or 0) < 0]
+        bullets.append(f"AI platform stocks are split: {len(positives)} up and {len(negatives)} down across the tracked cloud/lab names.")
+    movers = sorted(symbols, key=lambda q: abs(q.get("change_percent") or 0), reverse=True)[:3]
+    bullets.append("Largest tracked moves: " + ", ".join(f"{q['symbol']} {q.get('change_percent'):+.2f}%" for q in movers) + ".")
+    related = []
+    for item in articles:
+        if item.get("section") == "business_policy" and item.get("url"):
+            related.append({"title": item["title"], "url": item["url"], "source_name": item["source_name"]})
+        if len(related) >= 3:
+            break
+    return {
+        "headline": market_headline(symbols),
+        "bullets": bullets[:3],
+        "related_articles": related,
+        "disclaimer": "Delayed public market data and rule-based context only. Not investment advice.",
+    }
+
+
+def avg_change(quotes: list[dict[str, Any]]) -> float:
+    changes = [q.get("change_percent") for q in quotes if isinstance(q.get("change_percent"), (int, float))]
+    if not changes:
+        return 0.0
+    return round(sum(changes) / len(changes), 2)
+
+
+def market_headline(symbols: list[dict[str, Any]]) -> str:
+    avg = avg_change(symbols)
+    if avg <= -3:
+        return "AI market tape is risk-off today"
+    if avg >= 3:
+        return "AI market tape is broadly bid"
+    return "AI market tape is mixed"
 
 
 def public_articles(items: list[dict[str, Any]]) -> list[dict[str, Any]]:

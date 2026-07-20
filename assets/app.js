@@ -214,9 +214,33 @@
           el("span", { class: "stock-date", text: quote.date || "" }),
         ]);
       }));
+      renderMarketBrief(data.analysis || {});
     } catch (err) {
       if (section) section.hidden = true;
     }
+  }
+
+  function renderMarketBrief(analysis) {
+    const node = document.getElementById("market-brief");
+    if (!node) return;
+    const bullets = analysis.bullets || [];
+    const related = analysis.related_articles || [];
+    if (!analysis.headline && !bullets.length) {
+      node.replaceChildren();
+      return;
+    }
+    const bulletList = el("ul", {}, bullets.map((text) => el("li", { text })));
+    const relatedList = related.length ? el("div", { class: "market-related" }, [
+      el("span", { class: "meta", text: "Related reads" }),
+      ...related.map((item) => el("a", { href: item.url, target: "_blank", rel: "noopener noreferrer", text: `${item.title} / ${item.source_name}` })),
+    ]) : null;
+    node.replaceChildren(
+      el("div", { class: "tag", text: "Financial Brief" }),
+      el("h3", { text: analysis.headline || "Market context" }),
+      bulletList,
+      relatedList,
+      analysis.disclaimer ? el("p", { class: "market-disclaimer", text: analysis.disclaimer }) : null,
+    );
   }
 
   function uniqueClusters(articles) {
