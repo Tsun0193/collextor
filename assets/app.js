@@ -147,12 +147,12 @@
     ]);
   }
 
-  function sectionStories(id, items, limit, registry) {
+  function sectionStories(id, items, limit, registry, imageFallbacks = []) {
     const node = document.getElementById(id);
     const section = node && node.closest(".section-block");
     if (!node) return;
     node.replaceChildren();
-    const chosen = takeUnique(items, limit, registry);
+    const chosen = takeUnique(preferImageLead(items, imageFallbacks, registry), limit, registry);
     if (!chosen.length && section) {
       section.hidden = true;
       return;
@@ -175,12 +175,12 @@
     ]);
   }
 
-  function sectionResearch(id, items, limit, registry) {
+  function sectionResearch(id, items, limit, registry, imageFallbacks = []) {
     const node = document.getElementById(id);
     const section = node && node.closest(".section-block");
     if (!node) return;
     node.replaceChildren();
-    const chosen = takeUnique(items, limit, registry);
+    const chosen = takeUnique(preferImageLead(items, imageFallbacks, registry), limit, registry);
     if (!chosen.length && section) {
       section.hidden = true;
       return;
@@ -220,6 +220,7 @@
     if (!front) return;
     try {
       const latest = await loadJson("data/latest.json");
+      const history = await loadJson("data/history.json").catch(() => ({ articles: [] }));
       document.getElementById("today").textContent = latest.date_label || new Intl.DateTimeFormat("en", { timeZone: TZ, dateStyle: "full" }).format(new Date());
       document.getElementById("update-line").textContent = `Last successful feed update: ${fmtDate(latest.generated_at, { time: true })}`;
       const articles = latest.articles || [];
@@ -231,18 +232,21 @@
         breakingNode.hidden = false;
         breakingNode.replaceChildren(el("strong", { text: "Breaking" }), ...breaking.map((a) => safeLink(a, a.title)));
       }
-      const frontUnique = uniqueClusters(articles);
+      const historyArticles = history.articles || [];
+      const visualPool = uniqueClusters([...articles, ...historyArticles.filter((a) => a.image_url)]);
+      const frontVisualFallbacks = visualPool.filter((a) => !["research", "long-read"].includes(a.source_category) && !a.research_track);
+      const frontUnique = uniqueClusters(preferImageLead(articles, frontVisualFallbacks));
       const lead = frontUnique.find((a) => !["research", "long-read"].includes(a.source_category) && !a.research_track) || frontUnique[0];
       const secondaries = frontUnique.filter((a) => a.id !== lead.id).slice(0, 4);
       [lead, ...secondaries].forEach((item) => registry.mark(item));
       front.replaceChildren(story(lead, { large: true, image: true }), el("div", { class: "secondary-list" }, secondaries.map((a) => story(a))));
       await renderStocks();
-      sectionStories("must-read", articles.filter((a) => a.is_must_read), 6, registry);
-      sectionStories("ai-engineering", articles.filter((a) => a.section === "ai_engineering"), 8, registry);
-      sectionResearch("medical-neuroimaging", articles.filter((a) => a.section === "medical_neuroimaging"), 5, registry);
-      sectionResearch("multimodal-foundation", articles.filter((a) => a.section === "multimodal_foundation"), 5, registry);
-      sectionStories("startup-product", articles.filter((a) => a.section === "startup_product"), 8, registry);
-      sectionStories("business-policy", articles.filter((a) => a.section === "business_policy"), 8, registry);
+      sectionStories("must-read", articles.filter((a) => a.is_must_read), 6, registry, visualPool.filter((a) => a.is_must_read));
+      sectionStories("ai-engineering", articles.filter((a) => a.section === "ai_engineering"), 8, registry, visualPool.filter((a) => a.section === "ai_engineering"));
+      sectionResearch("medical-neuroimaging", articles.filter((a) => a.section === "medical_neuroimaging"), 5, registry, visualPool.filter((a) => a.section === "medical_neuroimaging"));
+      sectionResearch("multimodal-foundation", articles.filter((a) => a.section === "multimodal_foundation"), 5, registry, visualPool.filter((a) => a.section === "multimodal_foundation"));
+      sectionStories("startup-product", articles.filter((a) => a.section === "startup_product"), 8, registry, visualPool.filter((a) => a.section === "startup_product"));
+      sectionStories("business-policy", articles.filter((a) => a.section === "business_policy"), 8, registry, visualPool.filter((a) => a.section === "business_policy"));
     } catch (err) {
       front.replaceChildren();
       const failure = document.getElementById("failure");
@@ -339,6 +343,14 @@
       if (chosen.length >= limit) break;
     }
     return chosen;
+  }
+
+  function preferImageLead(primary, fallbacks = [], registry) {
+    const primaryUnique = uniqueClusters(primary);
+    if (primaryUnique[0] && primaryUnique[0].image_url) return primaryUnique;
+    const imageLead = uniqueClusters([...primaryUnique, ...fallbacks]).find((article) => article.image_url && (!registry || !registry.has(article)));
+    if (!imageLead) return primaryUnique;
+    return [imageLead, ...primaryUnique.filter((article) => article.id !== imageLead.id)];
   }
 
   window.Collextor = { loadJson, el, story, research, fmtDate, safeLink, articleHref, imageVisual, meta, label, savedStore };
