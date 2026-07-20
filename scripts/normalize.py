@@ -23,6 +23,14 @@ TRACKING_PARAMS = {
     "source",
     "fbclid",
     "gclid",
+    "response-content-disposition",
+    "x-amz-algorithm",
+    "x-amz-credential",
+    "x-amz-date",
+    "x-amz-expires",
+    "x-amz-security-token",
+    "x-amz-signature",
+    "x-amz-signedheaders",
 }
 
 
@@ -72,7 +80,7 @@ def normalize_url(url: str | None, base_url: str | None = None) -> str:
     query = [
         (k, v)
         for k, v in parse_qsl(parsed.query, keep_blank_values=False)
-        if k.lower() not in TRACKING_PARAMS
+        if k.lower() not in TRACKING_PARAMS and not k.lower().startswith("x-amz-")
     ]
     netloc = parsed.netloc.lower()
     path = re.sub(r"/+$", "", parsed.path or "")

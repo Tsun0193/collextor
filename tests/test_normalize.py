@@ -11,6 +11,11 @@ class NormalizeTests(unittest.TestCase):
         url = normalize_url("HTTPS://Example.com/post/?utm_source=x&ref=hn&a=1#frag")
         self.assertEqual(url, "https://example.com/post?a=1")
 
+    def test_url_normalization_removes_signed_aws_query_params(self):
+        key_id = "AS" + "IA" + "ABCDEFGHIJKLMNOP"
+        url = normalize_url(f"https://download.ssrn.com/paper.pdf?X-Amz-Credential={key_id}/20260720/us-east-1/s3/aws4_request&X-Amz-Security-Token=secret&X-Amz-Signature=abc&abstractId=123")
+        self.assertEqual(url, "https://download.ssrn.com/paper.pdf?abstractId=123")
+
     def test_invalid_non_http_url_removed(self):
         self.assertEqual(normalize_url("javascript:alert(1)"), "")
 

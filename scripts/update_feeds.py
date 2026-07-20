@@ -409,7 +409,18 @@ def market_headline(symbols: list[dict[str, Any]]) -> str:
 
 def public_articles(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
     keys = ["id", "title", "url", "canonical_url", "source_id", "source_name", "source_category", "section", "published_at", "fetched_at", "description", "image_url", "authors", "score", "score_reasons", "is_breaking", "is_must_read", "is_long_read", "research_track", "event_cluster_id", "also_covered_by", "cluster_sources"]
-    return [{k: item.get(k, [] if k in {"authors", "score_reasons", "also_covered_by", "cluster_sources"} else "") for k in keys if k in item or k in {"authors", "score_reasons"}} for item in items]
+    articles = []
+    for item in items:
+        public = {}
+        for key in keys:
+            if key not in item and key not in {"authors", "score_reasons"}:
+                continue
+            value = item.get(key, [] if key in {"authors", "score_reasons", "also_covered_by", "cluster_sources"} else "")
+            if key in {"url", "canonical_url", "image_url"}:
+                value = normalize_url(value)
+            public[key] = value
+        articles.append(public)
+    return articles
 
 
 def select_diverse_daily(items: list[dict[str, Any]], cfg: dict[str, Any]) -> list[dict[str, Any]]:
