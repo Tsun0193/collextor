@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "also_covered_by": [
+        "Hacker News"
+      ],
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more...",
+      "event_cluster_id": "01d9c6d72a8d",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "01d9c6d72a8d0c6ebf2c",
+      "image_url": "https://static.simonwillison.net/static/2026/qwen-3.8-max-pelican.png",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-20T17:09:19Z",
+      "research_track": "",
+      "score": 24,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "research relevance: PET",
+        "covered by multiple configured sources"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Who’s Afraid of Chinese Models?",
+      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models"
+    },
+    {
       "authors": [
         "petesergeant"
       ],
@@ -136,6 +170,67 @@
       "url": "https://arxiv.org/abs/2607.16169v1"
     },
     {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "X says the rebuilt version of its Android app is now available globally.",
+      "event_cluster_id": "71ea3ea3fafc",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "71ea3ea3fafcbf993251",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-20T19:37:39Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "X relaunches a rebuilt Android app after year-long effort",
+      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was...",
+      "event_cluster_id": "4a109a49342a",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "4a109a49342ab49db4aa",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-20T19:24:05Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Reverse-engineering is cheap now",
+      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Javad Khoramdel",
@@ -247,6 +342,100 @@
     },
     {
       "authors": [
+        "Kirsten Korosec"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
+      "event_cluster_id": "a6909a9e1841",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "a6909a9e1841ec86f6a2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-21T00:12:24Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
+      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
+      "event_cluster_id": "91446a6fdee3",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "91446a6fdee3f6090a63",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-20T21:21:15Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model, chip"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
+      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
+      "event_cluster_id": "f9a392b77b19",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "f9a392b77b19926c6720",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-20T19:33:25Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model, open-weight"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI is scared of open-weight models. Should the US be?",
+      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Michelle Kim"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
@@ -275,6 +464,98 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "AI is more likely than humans to form biases when hiring",
       "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans"
+    },
+    {
+      "authors": [
+        "jlaneve"
+      ],
+      "canonical_url": "https://cursor.com/blog/agent-swarm-model-economics",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "8b346f57130e",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "hn-48982535",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-20T18:06:13Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Agent swarms and the new model economics",
+      "url": "https://cursor.com/blog/agent-swarm-model-economics"
+    },
+    {
+      "authors": [
+        "James O'Donnell"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Over the weekend, several current and former advisors to President Donald Trump on AI publicly...",
+      "event_cluster_id": "e46a933c69e4",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "e46a933c69e45602587a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-07-20T18:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "China’s AI models have Trump’s AI world at war with itself",
+      "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "46d88c24f24c",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "46d88c24f24cd938f712",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-20T15:58:51Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: introducing"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Introducing Cosmos 3 Edge",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
     },
     {
       "authors": [
@@ -340,71 +621,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: Local-first CLI to make Obsidian vaults searchable for AI agents",
       "url": "https://github.com/nmdra/notebrain-cli"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ar5en1c"
-      ],
-      "canonical_url": "https://ar5en1c.github.io/headroom",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "693879bc2354",
-      "fetched_at": "2026-07-20T05:48:33Z",
-      "id": "hn-48973142",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T00:44:06Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: GPU",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Headroom – measure your GPU's true bandwidth ceiling for local AI",
-      "url": "https://ar5en1c.github.io/headroom"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Chinese company Moonshot AI released a new version of its Kimi model this week, prompting concern about \"full AI communism.\"",
-      "event_cluster_id": "6f9fe39d0267",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "6f9fe39d0267e42fd0bd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-18T18:51:07Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: release, released, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Kimi: Threat or menace?",
-      "url": "https://techcrunch.com/2026/07/18/kimi-threat-or-menace"
     },
     {
       "also_covered_by": [],
@@ -476,7 +692,7 @@
       ],
       "description": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help...",
       "event_cluster_id": "ae56f098fbfe",
-      "fetched_at": "2026-07-20T12:35:52Z",
+      "fetched_at": "2026-07-21T01:03:01Z",
       "id": "ae56f098fbfed2de3521",
       "image_url": "",
       "is_breaking": false,
@@ -497,36 +713,67 @@
       "url": "https://simonwillison.net/2026/Jul/17/spot-birds-not-golf"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/the-lab-of-the-future-should-feel",
-      "cluster_sources": [
-        "Latent Space"
+      "authors": [
+        "Julie Bort"
       ],
-      "description": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
-      "event_cluster_id": "12559ee9e76a",
-      "fetched_at": "2026-07-20T12:35:52Z",
-      "id": "12559ee9e76aa6b366b0",
+      "canonical_url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
+      "event_cluster_id": "04ed37ca5667",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "04ed37ca5667c3024552",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": true,
+      "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-16T13:30:44Z",
+      "published_at": "2026-07-20T22:21:04Z",
       "research_track": "",
-      "score": 13,
+      "score": 12,
       "score_reasons": [
         "high source",
-        "major-event keyword: training, data center",
-        "long-read source"
+        "published within 6 hours"
       ],
-      "section": "business_policy",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "🔬 The Lab of the Future Should Feel Like a Data Center — Andy Beam & Rafa Gómez-Bombarelli, Lila Sciences",
-      "url": "https://www.latent.space/p/the-lab-of-the-future-should-feel"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Trump’s latest AI czar has already resigned",
+      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned"
     },
     {
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
+      "event_cluster_id": "975e96dac98c",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "975e96dac98ca3666438",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-20T20:50:40Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AI’s most important protocol is getting a little bit easier to use",
+      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -557,159 +804,32 @@
       "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage"
     },
     {
-      "authors": [
-        "DaWe01"
-      ],
-      "canonical_url": "https://www.spheron.network/blog/ai-data-center-power-constraints-2026",
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/rare-disease-research-grants",
       "cluster_sources": [
-        "Hacker News"
+        "Anthropic News"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "83a234743e50",
-      "fetched_at": "2026-07-20T08:28:11Z",
-      "id": "hn-48975775",
+      "description": "",
+      "event_cluster_id": "413ef8ab4176",
+      "fetched_at": "2026-07-21T01:03:01Z",
+      "id": "413ef8ab41769726c3ea",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-20T08:26:08Z",
+      "published_at": "2026-07-20T00:00:00Z",
       "research_track": "",
-      "score": 12,
+      "score": 11,
       "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "AI Data Center Power Constraints Are the Real 2026 Bottleneck",
-      "url": "https://www.spheron.network/blog/ai-data-center-power-constraints-2026"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kate Park"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Jensen Huang left Tokyo with deals spanning Japan's entire tech ecosystem.",
-      "event_cluster_id": "56b547978dab",
-      "fetched_at": "2026-07-20T00:04:04Z",
-      "id": "56b547978dabbc168125",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T21:16:07Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
+        "critical source",
+        "published within 48 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "What to watch for after Jensen Huang’s Japan visit",
-      "url": "https://techcrunch.com/2026/07/19/what-to-watch-for-after-jensen-huangs-japan-visit"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "On the latest episode of Equity, we debate whether Apple's lawsuit will cast over OpenAi's much-discussed plans to get into hardware and go public.",
-      "event_cluster_id": "85960e544855",
-      "fetched_at": "2026-07-20T00:04:04Z",
-      "id": "85960e5448556cfcaee3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T19:24:45Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Can an Apple lawsuit derail OpenAI’s hardware plans?",
-      "url": "https://techcrunch.com/2026/07/19/can-an-apple-lawsuit-derail-openais-hardware-plans"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "\"Everybody knows the Greeks are inside.\"",
-      "event_cluster_id": "f245af32041b",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "f245af32041b5875a2e0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T14:52:08Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "‘Odyssey’ director Christopher Nolan calls AI an obvious ‘Trojan horse’",
-      "url": "https://techcrunch.com/2026/07/19/odyssey-director-christopher-nolan-calls-ai-an-obvious-trojan-horse"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kate Park"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Current AI, a non-profit building AI that leaves no one culture behind, has made remarkable progress across devices, AI chat and more.",
-      "event_cluster_id": "deb4b35ccde9",
-      "fetched_at": "2026-07-19T15:27:53Z",
-      "id": "deb4b35ccde9708e7f13",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-19T14:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nonprofit Current AI is racing to build the World Wide Web of AI, free for all",
-      "url": "https://techcrunch.com/2026/07/19/nonprofit-current-ai-is-racing-to-build-the-world-wide-web-of-ai-free-for-all"
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 20, 2026 Announcements Apply for Anthropic’s AI for Science rare disease research grants",
+      "url": "https://www.anthropic.com/news/rare-disease-research-grants"
     },
     {
       "also_covered_by": [],
@@ -783,14 +903,14 @@
       "url": "https://arxiv.org/abs/2607.16181v1"
     }
   ],
-  "date_label": "Monday, July 20, 2026",
-  "generated_at": "2026-07-20T12:35:52Z",
+  "date_label": "Tuesday, July 21, 2026",
+  "generated_at": "2026-07-21T01:03:01Z",
   "summary": {
-    "duplicates_removed": 2,
-    "failed_sources": 1,
-    "fetched_items": 194,
-    "retained_items": 24,
-    "successful_sources": 20
+    "duplicates_removed": 3,
+    "failed_sources": 3,
+    "fetched_items": 179,
+    "retained_items": 28,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
