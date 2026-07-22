@@ -36,6 +36,40 @@
     },
     {
       "authors": [
+        "Jagmeet Singh"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "event_cluster_id": "2f8bbdd66f0b",
+      "fetched_at": "2026-07-22T12:14:14Z",
+      "id": "2f8bbdd66f0bd93a83ac",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T10:00:00Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security",
+        "technical relevance: agent",
+        "startup/product signal: API, developer tool"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Lizhe Fang",
         "Weizhou Shen",
         "Tianyi Tang",
@@ -47,7 +81,7 @@
       ],
       "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical...",
       "event_cluster_id": "f556f41c22fc",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "f556f41c22fc8b3cb819",
       "image_url": "",
       "is_breaking": false,
@@ -81,7 +115,7 @@
       ],
       "description": "\"Current economic conditions\" have shifted TreeSize's business model.",
       "event_cluster_id": "d78b66be1281",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "d78b66be1281ab90578b",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/TreeSize-500x500.png",
       "is_breaking": false,
@@ -112,7 +146,7 @@
       ],
       "description": "Nativ: Run AI models locally on your Mac Prince Canuma is the developer behind the excellent MLX-VLM Python library for running vision-LLMs using MLX on a Mac. I'm really excited about his new project, which wraps MLX in a full macOS...",
       "event_cluster_id": "01236c7defbd",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "01236c7defbdea5553c6",
       "image_url": "",
       "is_breaking": false,
@@ -143,7 +177,7 @@
       ],
       "description": "Earlier this month I hosted a fireside chat session at the AI Engineer World's Fair with Cat Wu and Thariq Shihipar from Anthropic's Claude Code team. We talked about Claude Code, Claude Tag, Fable, coding agent security, evals, tool...",
       "event_cluster_id": "a03361ebd726",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "a03361ebd72675244ef8",
       "image_url": "",
       "is_breaking": false,
@@ -166,6 +200,7 @@
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jonghun Kim"
       ],
@@ -175,7 +210,7 @@
       ],
       "description": "Magnetic resonance imaging comes in various modality contrasts that provide complementary anatomical and pathological information. Complete multimodal acquisitions are often unavailable due to time and protocol constraints. This leads to...",
       "event_cluster_id": "aa21e715b10d",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "aa21e715b10df4d774e1",
       "image_url": "",
       "is_breaking": false,
@@ -238,76 +273,7 @@
       "url": "https://arxiv.org/abs/2607.18014v1"
     },
     {
-      "authors": [
-        "petesergeant"
-      ],
-      "canonical_url": "https://pleasedonotescape.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "f8a19bccb058",
-      "fetched_at": "2026-07-20T12:35:52Z",
-      "id": "hn-48976989",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-20T10:49:32Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "research relevance: PET",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: A comprehensive, filterable list of AI agent jails",
-      "url": "https://pleasedonotescape.com"
-    },
-    {
       "also_covered_by": [],
-      "authors": [
-        "Moona Mazher",
-        "Abdul Qayyum",
-        "Steven A. Niederer",
-        "Daniel C. Alexander"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.17782v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Foundation models pretrained using self-supervised learning have transformed computer vision by learning transferable representations from large-scale unlabeled data. However, existing foundation models for neuroimaging remain limited by...",
-      "event_cluster_id": "b8682c7deb10",
-      "fetched_at": "2026-07-21T07:13:56Z",
-      "id": "b8682c7deb10da5e9e7b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-20T10:15:02Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: neuroimaging, MRI",
-        "technical relevance: foundation model, self-supervised"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "BrainNext: A General-Purpose Self-Supervised Foundation Model for Brain MRI Analysis",
-      "url": "https://arxiv.org/abs/2607.17782v1"
-    },
-    {
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
       "cluster_sources": [
@@ -499,6 +465,7 @@
       "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Grace Hui Yang",
         "Pranav N. Venkit",
@@ -513,7 +480,7 @@
       ],
       "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across...",
       "event_cluster_id": "abd16b06e900",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "abd16b06e900ff0fc75b",
       "image_url": "",
       "is_breaking": false,
@@ -537,6 +504,7 @@
       "url": "https://arxiv.org/abs/2607.19336v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Hanqing Zhu",
         "Wenyan Cong",
@@ -553,7 +521,7 @@
       ],
       "description": "Reinforcement learning with verifiable rewards (RLVR) is rapidly advancing the reasoning capabilities of language models, yet the optimization layer that converts reward feedback into weight-space updates remains poorly understood....",
       "event_cluster_id": "a0949f4d2141",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "a0949f4d2141e80ca4c3",
       "image_url": "",
       "is_breaking": false,
@@ -587,7 +555,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "3a7231974ec0",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "hn-48995213",
       "image_url": "",
       "is_breaking": false,
@@ -611,6 +579,7 @@
       "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Andrea Borghesi",
         "Xin Wang",
@@ -623,7 +592,7 @@
       ],
       "description": "Inferring contrast enhancement from one pre-contrast breast MRI slice is underdetermined: post-contrast appearance contains physiological information that is not uniquely encoded in baseline anatomy. Optimizing only paired pixel fidelity...",
       "event_cluster_id": "4a9d9e162f0c",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "4a9d9e162f0c761cd951",
       "image_url": "",
       "is_breaking": false,
@@ -686,6 +655,37 @@
     },
     {
       "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training...",
+      "event_cluster_id": "31b4bd18e27a",
+      "fetched_at": "2026-07-22T12:14:14Z",
+      "id": "31b4bd18e27a02425472",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T08:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch, training"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
+      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching"
+    },
+    {
+      "authors": [
         "piogryko"
       ],
       "canonical_url": "https://svetoviz.com",
@@ -715,6 +715,38 @@
       "source_name": "Hacker News",
       "title": "I build WebGPU PyTorch debugger, dataset browser and NumPy viewer",
       "url": "https://svetoviz.com"
+    },
+    {
+      "authors": [
+        "vitorgrs"
+      ],
+      "canonical_url": "https://twitter.com/mattlam_/status/2079605387121049605",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "6db5a9df32bf",
+      "fetched_at": "2026-07-22T01:01:50Z",
+      "id": "hn-49000462",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T00:57:25Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "OpenBench – A benchmark for comparing coding-agent harnesses",
+      "url": "https://twitter.com/mattlam_/status/2079605387121049605"
     },
     {
       "also_covered_by": [],
@@ -847,69 +879,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Lucas Ropek"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "event_cluster_id": "91446a6fdee3",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "91446a6fdee3f6090a63",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T21:21:15Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model, chip"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Michelle Kim"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data...",
-      "event_cluster_id": "7e2b4cef9a4e",
-      "fetched_at": "2026-07-20T12:35:52Z",
-      "id": "7e2b4cef9a4e2cf0115a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-07-20T08:39:01Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: training"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "AI is more likely than humans to form biases when hiring",
-      "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans"
-    },
-    {
-      "authors": [
         "Yuan Wang",
         "Yongchao Du",
         "Mengting Chen",
@@ -923,7 +892,7 @@
       ],
       "description": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus on explicit commonsense reasoning,...",
       "event_cluster_id": "b4a84573aa1a",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "b4a84573aa1ad9c9662c",
       "image_url": "",
       "is_breaking": false,
@@ -946,6 +915,7 @@
       "url": "https://arxiv.org/abs/2607.19341v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yu Chen",
         "Caorui Li",
@@ -962,7 +932,7 @@
       ],
       "description": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training...",
       "event_cluster_id": "3f66711009bb",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "3f66711009bb6f57f876",
       "image_url": "",
       "is_breaking": false,
@@ -1047,6 +1017,7 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-173"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Mohammad Ali Dadrast",
         "Hamid Usefi"
@@ -1057,7 +1028,7 @@
       ],
       "description": "Breast MRI is highly sensitive for detecting breast tumors, but exams contain many slices and require substantial reading time. Deep learning models often perform well on internal splits but can fail across institutions because of domain...",
       "event_cluster_id": "7c5c07df3666",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "7c5c07df36664680c7f3",
       "image_url": "",
       "is_breaking": false,
@@ -1110,6 +1081,7 @@
       "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Rick Wilming",
         "Irem Ozseker",
@@ -1184,7 +1156,7 @@
       ],
       "description": "",
       "event_cluster_id": "497461993ec5",
-      "fetched_at": "2026-07-22T07:15:25Z",
+      "fetched_at": "2026-07-22T12:14:14Z",
       "id": "497461993ec5157e04b0",
       "image_url": "https://secure.gravatar.com/avatar/0bd53fc563e2fd47807578f67b82fe9265860573f919d6e353d0686fc5423551?s=70&d=mm&r=g",
       "is_breaking": false,
@@ -1206,35 +1178,32 @@
       "url": "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage",
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/donation-public-first-action",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "Anthropic News"
       ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI is more likely than humans to form biases when hiring The next time you apply for a job, AI may...",
-      "event_cluster_id": "7571f0161275",
-      "fetched_at": "2026-07-20T12:35:52Z",
-      "id": "7571f016127513aaaecb",
+      "description": "",
+      "event_cluster_id": "9d9e4fbe80b2",
+      "fetched_at": "2026-07-22T12:14:14Z",
+      "id": "9d9e4fbe80b29906125a",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": true,
+      "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-20T12:10:00Z",
+      "published_at": "2026-07-21T00:00:00Z",
       "research_track": "",
-      "score": 12,
+      "score": 11,
       "score_reasons": [
-        "high source",
-        "published within 6 hours"
+        "critical source",
+        "published within 48 hours"
       ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: AI hiring biases, and weather data sabotage",
-      "url": "https://www.technologyreview.com/2026/07/20/1140664/the-download-ai-hiring-biases-weather-data-sabotage"
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
+      "url": "https://www.anthropic.com/news/donation-public-first-action"
     },
     {
       "also_covered_by": [],
@@ -1264,14 +1233,47 @@
       "source_name": "Hugging Face Blog",
       "title": "Grabette: an open system to record robot-manipulation data",
       "url": "https://huggingface.co/blog/grabette"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Shyamal Y. Dharia",
+        "Stephen D. Smith",
+        "Camilo E. Valderrama"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.18149v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hardware-native alternative that compiles...",
+      "event_cluster_id": "bc23143feed0",
+      "fetched_at": "2026-07-21T12:10:51Z",
+      "id": "bc23143feed053cfa048",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-20T16:49:30Z",
+      "research_track": "medical_neuroimaging",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices",
+      "url": "https://arxiv.org/abs/2607.18149v1"
     }
   ],
   "date_label": "Wednesday, July 22, 2026",
-  "generated_at": "2026-07-22T07:15:25Z",
+  "generated_at": "2026-07-22T12:14:14Z",
   "summary": {
     "duplicates_removed": 3,
     "failed_sources": 1,
-    "fetched_items": 206,
+    "fetched_items": 203,
     "retained_items": 38,
     "successful_sources": 20
   },
