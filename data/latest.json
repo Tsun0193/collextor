@@ -1,40 +1,70 @@
 {
   "articles": [
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder..",
+      "event_cluster_id": "22a1099aca4e",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "22a1099aca4ee0f3db23",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T23:59:01Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: open weights"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Thomas Ptacek",
+      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek"
+    },
+    {
       "also_covered_by": [
         "Hacker News"
       ],
       "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models",
+      "canonical_url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing",
       "cluster_sources": [
         "Simon Willison"
       ],
-      "description": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more...",
-      "event_cluster_id": "01d9c6d72a8d",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "01d9c6d72a8d0c6ebf2c",
-      "image_url": "https://static.simonwillison.net/static/2026/qwen-3.8-max-pelican.png",
+      "description": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response...",
+      "event_cluster_id": "61d3a1749b19",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "61d3a1749b19a7d913e4",
+      "image_url": "https://static.simonwillison.net/static/2026/pelican-grid.webp",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-20T17:09:19Z",
+      "published_at": "2026-07-22T23:01:00Z",
       "research_track": "",
-      "score": 24,
+      "score": 20,
       "score_reasons": [
         "critical source",
-        "published within 24 hours",
+        "published within 6 hours",
         "major-event keyword: model, training",
-        "research relevance: PET",
         "covered by multiple configured sources"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "simon_willison",
       "source_name": "Simon Willison",
-      "title": "Who’s Afraid of Chinese Models?",
-      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models"
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jagmeet Singh"
       ],
@@ -235,42 +265,33 @@
       "url": "https://arxiv.org/abs/2607.18763v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Zhao Wang",
-        "Wei Dai",
-        "Hongfu Sun",
-        "Craig Engstrom",
-        "Shekhar S. Chandra"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18014v1",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Simon Willison"
       ],
-      "description": "Foundation models such as Segment Anything Model 2 (SAM2) have transformed natural-image and video segmentation, and recent work has begun adapting them to medical imaging. These adaptations, however, are largely general-purpose models...",
-      "event_cluster_id": "67e970b19e7f",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "67e970b19e7f39c55ce2",
+      "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then..",
+      "event_cluster_id": "cb0acfe20091",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "cb0acfe200913bdbcee5",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-20T14:48:11Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
+      "published_at": "2026-07-22T23:51:33Z",
+      "research_track": "",
+      "score": 17,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI, medical imaging",
-        "technical relevance: foundation model"
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, released, model"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "SAMRI-3D: Adapting SAM2 for 3D MRI Segmentation with Global Volume Tokens",
-      "url": "https://arxiv.org/abs/2607.18014v1"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack"
     },
     {
       "also_covered_by": [],
@@ -302,6 +323,37 @@
       "source_name": "Latent Space",
       "title": "[AINews] AI Cybersecurity becomes top of mind",
       "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "93c697a9b892",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "93c697a9b8922413d87c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T00:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: open source",
+        "technical relevance: PyTorch",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects",
+      "url": "https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects"
     },
     {
       "also_covered_by": [],
@@ -402,67 +454,68 @@
       "url": "https://github.com/vijaym2k6/SteerPlane"
     },
     {
-      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort",
+      "canonical_url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "X says the rebuilt version of its Android app is now available globally.",
-      "event_cluster_id": "71ea3ea3fafc",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "71ea3ea3fafcbf993251",
+      "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies..",
+      "event_cluster_id": "62453b09677a",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "62453b09677afb25c983",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-20T19:37:39Z",
+      "published_at": "2026-07-22T18:13:58Z",
       "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "startup/product signal: launches"
+        "published within 24 hours",
+        "major-event keyword: funding",
+        "startup/product signal: startup, seed, funding"
       ],
       "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort"
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Julie Bort"
       ],
-      "description": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was...",
-      "event_cluster_id": "4a109a49342a",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "4a109a49342ab49db4aa",
+      "canonical_url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      "event_cluster_id": "6b54e67eb8c8",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "6b54e67eb8c899e367b2",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-20T19:24:05Z",
+      "published_at": "2026-07-22T16:24:08Z",
       "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "technical relevance: agent"
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, open source",
+        "startup/product signal: open source"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Reverse-engineering is cheap now",
-      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering"
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous"
     },
     {
       "also_covered_by": [],
@@ -615,74 +668,130 @@
       "url": "https://arxiv.org/abs/2607.19137v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Alex Mathai",
-        "Shobini Iyer",
-        "Aleksandr Nogikh",
-        "Petros Maniatis",
-        "Franjo Ivancic",
-        "Junfeng Yang",
-        "Baishakhi Ray"
+        "ms7892"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.18161v1",
+      "canonical_url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Hacker News"
       ],
-      "description": "Coding agents are increasingly used to accelerate code generation in many downstream tasks, such as fixing bugs, building applications, and prototyping. However, despite their value as coding assistants, agent-generated code tends to be...",
-      "event_cluster_id": "199f4f020609",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "199f4f020609b2226191",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "40dd4915d03a",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49015583",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-20T17:06:19Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-07-23T01:06:09Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "research relevance: PET",
+        "published within 6 hours",
+        "major-event keyword: release, released",
         "technical relevance: agent"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "TRIM: Reducing AI-Generated CodeSlop via Agent Trajectory Minimization",
-      "url": "https://arxiv.org/abs/2607.18161v1"
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "The Microsoft Agent Framework Harness is now released",
+      "url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released"
+    },
+    {
+      "authors": [
+        "macote"
+      ],
+      "canonical_url": "https://microsoft.github.io/Mage/flow",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "be75fdbe948a",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49015534",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T00:58:27Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Mage-Flow: Efficient Native-Resolution Foundation Model for Image Generation",
+      "url": "https://microsoft.github.io/Mage/flow"
     },
     {
       "authors": [
         "Rebecca Bellan"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching",
+      "canonical_url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training...",
-      "event_cluster_id": "31b4bd18e27a",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "31b4bd18e27a02425472",
+      "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "event_cluster_id": "8a9112af667e",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "8a9112af667e729f84f1",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-22T08:00:00Z",
+      "published_at": "2026-07-22T20:49:03Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: launch, training"
+        "major-event keyword: model"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching"
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable"
+    },
+    {
+      "authors": [
+        "Lorenzo Franceschi-Bicchierai"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "event_cluster_id": "f3371fcff544",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "f3371fcff5447c5a7286",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T19:11:46Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face"
     },
     {
       "authors": [
@@ -715,102 +824,6 @@
       "source_name": "Hacker News",
       "title": "I build WebGPU PyTorch debugger, dataset browser and NumPy viewer",
       "url": "https://svetoviz.com"
-    },
-    {
-      "authors": [
-        "vitorgrs"
-      ],
-      "canonical_url": "https://twitter.com/mattlam_/status/2079605387121049605",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "6db5a9df32bf",
-      "fetched_at": "2026-07-22T01:01:50Z",
-      "id": "hn-49000462",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T00:57:25Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "OpenBench – A benchmark for comparing coding-agent harnesses",
-      "url": "https://twitter.com/mattlam_/status/2079605387121049605"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI has come forward to claim responsibility for the Hugging Face breach, saying it was the result of internal testing gone awry.",
-      "event_cluster_id": "4926008c1818",
-      "fetched_at": "2026-07-22T01:01:50Z",
-      "id": "4926008c18180427c8cd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T20:56:55Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI says Hugging Face was breached by its pre-release models",
-      "url": "https://techcrunch.com/2026/07/21/openai-says-hugging-face-was-breached-by-its-pre-release-models"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Amanda Silberling"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Buzz is a group chat platform for the workplace that puts humans and their AI agents in the same conversation.",
-      "event_cluster_id": "9630ab890e24",
-      "fetched_at": "2026-07-22T01:01:50Z",
-      "id": "9630ab890e2499fd980c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T19:43:41Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Jack Dorsey is taking on Slack with Buzz, a group chat platform for teams and their AI agents",
-      "url": "https://techcrunch.com/2026/07/21/jack-dorsey-is-taking-on-slack-with-buzz-a-group-chat-platform-for-teams-and-their-ai-agents"
     },
     {
       "also_covered_by": [],
@@ -957,6 +970,40 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Atahan Dokme",
+        "Larry Heck"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.19326v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level state variation. A family of adapters is...",
+      "event_cluster_id": "283e99751bc9",
+      "fetched_at": "2026-07-22T12:14:14Z",
+      "id": "283e99751bc9b2924176",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-21T17:47:57Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
+      "url": "https://arxiv.org/abs/2607.19326v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Thomas Macaulay"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement",
@@ -1051,34 +1098,61 @@
       "url": "https://arxiv.org/abs/2607.18678v1"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "canonical_url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Simon Willison"
       ],
-      "description": "",
-      "event_cluster_id": "46d88c24f24c",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "46d88c24f24cd938f712",
+      "description": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique . And because most people are bad at allocating their funds you may well be...",
+      "event_cluster_id": "82c3e17de64e",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "82c3e17de64ebd78f25d",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-20T15:58:51Z",
+      "published_at": "2026-07-22T14:48:52Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: introducing"
+        "critical source",
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Introducing Cosmos 3 Edge",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3edge"
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Orchestrions",
+      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "a66075dc0af4",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "a66075dc0af41a686afe",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T00:00:00Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector"
     },
     {
       "also_covered_by": [],
@@ -1148,50 +1222,20 @@
       "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "497461993ec5",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "497461993ec5157e04b0",
-      "image_url": "https://secure.gravatar.com/avatar/0bd53fc563e2fd47807578f67b82fe9265860573f919d6e353d0686fc5423551?s=70&d=mm&r=g",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T00:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "PyTorch Conference North America Schedule Is Live",
-      "url": "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live"
-    },
-    {
-      "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/donation-public-first-action",
+      "canonical_url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
       "cluster_sources": [
         "Anthropic News"
       ],
       "description": "",
-      "event_cluster_id": "9d9e4fbe80b2",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "9d9e4fbe80b29906125a",
+      "event_cluster_id": "26b4e01c469d",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "26b4e01c469da5ded830",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-21T00:00:00Z",
+      "published_at": "2026-07-22T00:00:00Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
@@ -1202,80 +1246,75 @@
       "source_category": "official-lab",
       "source_id": "anthropic_news",
       "source_name": "Anthropic News",
-      "title": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
-      "url": "https://www.anthropic.com/news/donation-public-first-action"
+      "title": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/grabette",
+      "canonical_url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Google Research Blog"
       ],
-      "description": "",
-      "event_cluster_id": "8549f9ed22c4",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "8549f9ed22c455abd8a6",
-      "image_url": "",
+      "description": "July 22, 2026",
+      "event_cluster_id": "3cf71528e601",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "3cf71528e601f2c61764",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-21T00:00:00Z",
+      "published_at": "2026-07-22T00:00:00Z",
       "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Shyamal Y. Dharia",
-        "Stephen D. Smith",
-        "Camilo E. Valderrama"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18149v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Real-time EEG classification on edge devices is bottlenecked by the floating-point arithmetic of conventional neural networks. We investigated Differentiable Logic Gate Networks (Diff-Logic) as a hardware-native alternative that compiles...",
-      "event_cluster_id": "bc23143feed0",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "bc23143feed053cfa048",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T16:49:30Z",
-      "research_track": "medical_neuroimaging",
-      "score": 8,
+      "score": 9,
       "score_reasons": [
         "medium source",
-        "published within 24 hours"
+        "published within 48 hours",
+        "technical relevance: agent"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices",
-      "url": "https://arxiv.org/abs/2607.18149v1"
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "July 22, 2026 SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science · Health & Bioscience · Natural Language Processing · Responsible AI",
+      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "July 22, 2026",
+      "event_cluster_id": "e6d40de049c5",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "e6d40de049c53b834cea",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T00:00:00Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "July 22, 2026 Towards a quantum computer that learns from its errors Machine Intelligence · Quantum",
+      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors"
     }
   ],
-  "date_label": "Wednesday, July 22, 2026",
-  "generated_at": "2026-07-22T12:14:14Z",
+  "date_label": "Thursday, July 23, 2026",
+  "generated_at": "2026-07-23T01:06:37Z",
   "summary": {
-    "duplicates_removed": 3,
-    "failed_sources": 1,
-    "fetched_items": 203,
-    "retained_items": 38,
-    "successful_sources": 20
+    "duplicates_removed": 4,
+    "failed_sources": 3,
+    "fetched_items": 177,
+    "retained_items": 40,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }

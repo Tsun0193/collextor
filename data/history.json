@@ -2,6 +2,744 @@
   "articles": [
     {
       "authors": [
+        "ms7892"
+      ],
+      "canonical_url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "40dd4915d03a",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49015583",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T01:06:09Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: release, released",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "The Microsoft Agent Framework Harness is now released",
+      "url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released"
+    },
+    {
+      "authors": [
+        "gmays"
+      ],
+      "canonical_url": "https://twitter.com/jerryjliu0/status/2077537847951945742",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f2a65d84a1f4",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49015565",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T01:03:31Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Model Routing Is Task Specific",
+      "url": "https://twitter.com/jerryjliu0/status/2077537847951945742"
+    },
+    {
+      "authors": [
+        "pyxru"
+      ],
+      "canonical_url": "https://github.com/PxyUp/fitter",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "1dcec40f4aa6",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49015561",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T01:03:01Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "startup/product signal: API, Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: I built a scraping engine where the LLM writes configs, not code",
+      "url": "https://github.com/PxyUp/fitter"
+    },
+    {
+      "authors": [
+        "macote"
+      ],
+      "canonical_url": "https://microsoft.github.io/Mage/flow",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "be75fdbe948a",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49015534",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T00:58:27Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Mage-Flow: Efficient Native-Resolution Foundation Model for Image Generation",
+      "url": "https://microsoft.github.io/Mage/flow"
+    },
+    {
+      "authors": [
+        "ilreb"
+      ],
+      "canonical_url": "https://www.localmaxxing.com/en",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "d52c2faa307c",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49015424",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T00:41:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: benchmark, inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Localmaxxing – Local LLM Inference Benchmarks",
+      "url": "https://www.localmaxxing.com/en"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder..",
+      "event_cluster_id": "22a1099aca4e",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "22a1099aca4ee0f3db23",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T23:59:01Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: open weights"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Thomas Ptacek",
+      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then..",
+      "event_cluster_id": "cb0acfe20091",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "cb0acfe200913bdbcee5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T23:51:33Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, released, model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
+      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack"
+    },
+    {
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+      "event_cluster_id": "59b029fbf3a9",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "59b029fbf3a9b25b428d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T23:47:54Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+      "url": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe"
+    },
+    {
+      "also_covered_by": [
+        "Hacker News"
+      ],
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response...",
+      "event_cluster_id": "61d3a1749b19",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "61d3a1749b19a7d913e4",
+      "image_url": "https://static.simonwillison.net/static/2026/pelican-grid.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T23:01:00Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model, training",
+        "covered by multiple configured sources"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Are AI labs pelicanmaxxing?",
+      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+      "event_cluster_id": "19015beab25a",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "19015beab25a09588544",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T22:01:52Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google justifies its massive AI spending with a booming cloud business",
+      "url": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+      "event_cluster_id": "8a9112af667e",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "8a9112af667e729f84f1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T20:49:03Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+      "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable"
+    },
+    {
+      "authors": [
+        "Lorenzo Franceschi-Bicchierai"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI made a mistake setting up what it called a “highly isolated” testing environment and sandbox. According to cybersecurity experts, that human mistake is what made the AI-powered attack on Hugging Face possible.",
+      "event_cluster_id": "f3371fcff544",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "f3371fcff5447c5a7286",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T19:11:46Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "How OpenAI’s human mistake led to the AI-powered hack on Hugging Face",
+      "url": "https://techcrunch.com/2026/07/22/how-an-openais-human-mistake-led-to-the-ai-powered-hack-on-hugging-face"
+    },
+    {
+      "authors": [
+        "Sean O'Kane"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Uber is also investing in Travis Kalanick's company Atoms, which has made gauzy claims about using industrial AI to modernize the world.",
+      "event_cluster_id": "8a66df817493",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "8a66df8174938feacac7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T18:50:44Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Travis Kalanick’s robotics company raises $1.7B, led by a16z",
+      "url": "https://techcrunch.com/2026/07/22/travis-kalanicks-robotics-company-raises-1-7b-led-by-a16z"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies..",
+      "event_cluster_id": "62453b09677a",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "62453b09677afb25c983",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T18:13:58Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: funding",
+        "startup/product signal: startup, seed, funding"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
+      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads"
+    },
+    {
+      "authors": [
+        "Ram Iyer"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The company said it is reducing its headcount by 20%, or about 630 staff, to \"support a leaner, more focused operating model\" as it focuses on its AI Work Platform.",
+      "event_cluster_id": "bab04e2a4b64",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "bab04e2a4b64883a128c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T17:54:14Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Monday.com lays off hundreds to focus on AI",
+      "url": "https://techcrunch.com/2026/07/22/monday-com-lays-off-hundreds-to-focuses-on-ai"
+    },
+    {
+      "authors": [
+        "syrusakbary"
+      ],
+      "canonical_url": "https://github.com/marcelroed/gigatoken",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "3fc8bdb7cc18",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49010167",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T17:20:38Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "GigaToken: ~1000x faster Language model tokenization",
+      "url": "https://github.com/marcelroed/gigatoken"
+    },
+    {
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
+      "event_cluster_id": "6b54e67eb8c8",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "6b54e67eb8c899e367b2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T16:24:08Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, open source",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
+      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Substack is giving readers a way to estimate how much of a newsletter was written by AI, signaling a broader shift toward transparency around AI-assisted content.",
+      "event_cluster_id": "f8d5128158bb",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "f8d5128158bbeb59ee30",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T16:23:09Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Substack’s new tool tells you who’s been writing their newsletters with AI",
+      "url": "https://techcrunch.com/2026/07/22/substacks-new-tool-tells-you-whos-been-writing-their-newsletters-with-ai"
+    },
+    {
+      "authors": [
+        "Tim De Chant"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI will spend the equivalent of Sweden's GDP on infrastructure through 2030.",
+      "event_cluster_id": "4ace965181bb",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "4ace965181bbfe1e4c74",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T16:13:30Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI’s AI spending spree has ballooned to $750B",
+      "url": "https://techcrunch.com/2026/07/22/openais-ai-spending-spree-has-ballooned-to-750b"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique . And because most people are bad at allocating their funds you may well be...",
+      "event_cluster_id": "82c3e17de64e",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "82c3e17de64ebd78f25d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T14:48:52Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Orchestrions",
+      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions"
+    },
+    {
+      "authors": [
+        "benbreen"
+      ],
+      "canonical_url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "112f311453d9",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49007247",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T14:18:05Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Quality non-fiction books are the antithesis of AI slop",
+      "url": "https://resobscura.substack.com/p/quality-non-fiction-books-are-the"
+    },
+    {
+      "authors": [
+        "Theresa Loconsolo, Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Anthropic leaped to a $47 billion revenue run rate by May, compared to $9 billion in 2025. It’s the kind of growth that Menlo Ventures’ Matt Murphy says he’s never seen in 25 years of investing, not in the internet wave, not in mobile,...",
+      "event_cluster_id": "7fa1bc702878",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "7fa1bc70287848643b98",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T14:00:00Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Menlo Ventures’ Matt Murphy explains what AI startups founders must do differently",
+      "url": "https://techcrunch.com/podcast/menlo-ventures-matt-murphy-explains-what-ai-startups-founders-must-do-differently"
+    },
+    {
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "event_cluster_id": "7dd3e8c38c4e",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "7dd3e8c38c4e5b9ffa02",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T13:20:35Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "url": "https://techcrunch.com/2026/07/22/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Passionfroot, a German startup building a marketplace connecting B2B creators with brands, has raised $15M in a Series A round led by Insight Partners.",
+      "event_cluster_id": "de6aa94b8479",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "de6aa94b8479d85d8e59",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T13:00:00Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "startup/product signal: startup, Series A, raised"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Passionfroot raises $15M to expand its B2B creator marketplace to the US",
+      "url": "https://techcrunch.com/2026/07/22/passionfroot-raises-15m-to-expand-its-b2b-creator-marketplace-to-the-us"
+    },
+    {
+      "authors": [
         "speckx"
       ],
       "canonical_url": "https://ronaknathani.com/blog/2026/07/spend-the-ai-dividend-on-quality",
@@ -245,6 +983,7 @@
       "url": "https://github.com/irenee28/akili-runtime"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jagmeet Singh"
       ],
@@ -278,6 +1017,7 @@
       "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Rebecca Bellan"
       ],
@@ -927,6 +1667,151 @@
       "source_name": "Hacker News",
       "title": "\"No AI\" Statements Are More Than Mere Statements",
       "url": "https://journal.james-zhan.com/no-ai-statements"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "93c697a9b892",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "93c697a9b8922413d87c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T00:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: open source",
+        "technical relevance: PyTorch",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Driving the Future of Open Source AI: An Update from PyTorch Foundation Projects",
+      "url": "https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "a66075dc0af4",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "a66075dc0af41a686afe",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T00:00:00Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
+      "url": "https://www.anthropic.com/news/anthropic-economic-index-connector"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "26b4e01c469d",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "26b4e01c469da5ded830",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 22, 2026 Economic Research A research agenda for the Economic Futures Research Fund",
+      "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "July 22, 2026",
+      "event_cluster_id": "3cf71528e601",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "3cf71528e601f2c61764",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "July 22, 2026 SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science · Health & Bioscience · Natural Language Processing · Responsible AI",
+      "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "July 22, 2026",
+      "event_cluster_id": "e6d40de049c5",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "e6d40de049c53b834cea",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T00:00:00Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "July 22, 2026 Towards a quantum computer that learns from its errors Machine Intelligence · Quantum",
+      "url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors"
     },
     {
       "also_covered_by": [],
@@ -2975,6 +3860,7 @@
       "url": "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/donation-public-first-action",
       "cluster_sources": [
@@ -3983,6 +4869,37 @@
       "source_name": "TechCrunch AI",
       "title": "Adobe camera app’s new feature will critique your photos using AI",
       "url": "https://techcrunch.com/2026/07/20/adobe-camera-apps-new-feature-will-critique-your-photos-using-ai"
+    },
+    {
+      "authors": [
+        "venkat971"
+      ],
+      "canonical_url": "https://deepsql.ai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ae58f4cd0ee2",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-48980286",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-20T15:32:20Z",
+      "research_track": "",
+      "score": 10,
+      "score_reasons": [
+        "medium source",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL",
+      "url": "https://deepsql.ai"
     },
     {
       "also_covered_by": [],
@@ -7097,7 +8014,7 @@
       ],
       "description": "Is there something I can actually help you with today? — Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
       "event_cluster_id": "960ab030630c",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "960ab030630cf750df3c",
       "image_url": "",
       "is_breaking": false,
@@ -7127,7 +8044,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. There’s a lot of hype around perimenopause. Don’t buy it. Perimenopause used to be considered taboo,..",
       "event_cluster_id": "409e8a4eff8b",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "409e8a4eff8b176abcb4",
       "image_url": "",
       "is_breaking": false,
@@ -7254,7 +8171,7 @@
       ],
       "description": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help...",
       "event_cluster_id": "ae56f098fbfe",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "ae56f098fbfed2de3521",
       "image_url": "",
       "is_breaking": false,
@@ -7283,7 +8200,7 @@
       ],
       "description": "a great week for open models continues.",
       "event_cluster_id": "a1fa918dc4b4",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "a1fa918dc4b4a86f59b4",
       "image_url": "https://substackcdn.com/image/fetch/$s_!xVk0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d22c3fe-fde7-4c91-9e50-83b1597fe747_1958x1160.png",
       "is_breaking": false,
@@ -7313,7 +8230,7 @@
       ],
       "description": "Firefox in WebAssembly This is absurdly cool: Puter compiled Firefox to WebAssembly such that the whole browser runs in another browser. Here's my blog, running in Firefox, running in WebAssembly, running in Chrome: They chose...",
       "event_cluster_id": "2b102685bd9b",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "2b102685bd9b6d6f7b39",
       "image_url": "https://static.simonwillison.net/static/2026/firefox-wasm.webp",
       "is_breaking": false,
@@ -7341,7 +8258,7 @@
       ],
       "description": "Chinese AI lab Moonshot AI announced Kimi K3 this morning, describing it as their \"most capable model to date, with 2.8 trillion parameters\". It's currently available via their website and API, but an open weight release is promised \"by...",
       "event_cluster_id": "07f97d4cbd8e",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "07f97d4cbd8ecd7bf5ac",
       "image_url": "https://static.simonwillison.net/static/2026/kimi-3-pelican.jpg",
       "is_breaking": false,
@@ -7822,7 +8739,7 @@
       ],
       "description": "On file deletions. We’ve investigated a handful of reports where GPT-5.6 unexpectedly deleted files. What we have found is that this most commonly occurs when: Full access mode is enabled and codex is run without sandboxing protections,...",
       "event_cluster_id": "6bcf21fe63d9",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "6bcf21fe63d9ec208c52",
       "image_url": "",
       "is_breaking": false,
@@ -8083,7 +9000,7 @@
       ],
       "description": "Companies coming to market are raising money at fastest pace this century.",
       "event_cluster_id": "b644fb68fc42",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "b644fb68fc42c20a13d8",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/ftcms_2c2b4618-eb73-4160-997a-8f8bb5485e20-500x500.jpeg",
       "is_breaking": false,
@@ -8142,7 +9059,7 @@
       ],
       "description": "Inkling: Our open-weights model Mira Murati's Thinking Machines Lab just released their first open-weights model. Inkling is \"a Mixture-of-Experts transformer with 975B total parameters, 41B active\" - an Apache-2.0 licensed multimodal...",
       "event_cluster_id": "d96d9d6bf49b",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "d96d9d6bf49b26c59123",
       "image_url": "https://static.simonwillison.net/static/2026/inkling-pelican.jpg",
       "is_breaking": false,
@@ -8342,7 +9259,7 @@
       ],
       "description": "Lila is betting that science, not the internet, is the last untapped source of training data. We went to find out what that actually looks like in a room full of robots.",
       "event_cluster_id": "12559ee9e76a",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "12559ee9e76aa6b366b0",
       "image_url": "",
       "is_breaking": false,
@@ -8372,7 +9289,7 @@
       ],
       "description": "I realize that some people really dislike AI, but this is an area where I'm willing to absolutely put my foot down as the top-level maintainer. Linux is not one of those anti-AI projects, and if somebody has issues with that, they can do...",
       "event_cluster_id": "7dcd1d605fa1",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "7dcd1d605fa1423301e6",
       "image_url": "",
       "is_breaking": false,
@@ -8431,7 +9348,7 @@
       ],
       "description": "",
       "event_cluster_id": "c5c3971a8972",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "c5c3971a8972616617d3",
       "image_url": "",
       "is_breaking": false,
@@ -8499,7 +9416,7 @@
       ],
       "description": "Thinky's first full LLM release is a banger and bonus: it's open weights!",
       "event_cluster_id": "34ced310fc32",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "34ced310fc3298ab86ae",
       "image_url": "https://substackcdn.com/image/fetch/$s_!AvrX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F90048da3-a87f-44d8-8ad4-e954031d2721_2540x1692.png",
       "is_breaking": false,
@@ -9073,6 +9990,37 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "TRACE-PCa: Predicting Prostate Cancer Progression from Longitudinal MRI During Active Surveillance",
       "url": "https://arxiv.org/abs/2607.13506v1"
+    },
+    {
+      "authors": [
+        "rbanffy"
+      ],
+      "canonical_url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "68be72e77c8e",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-48917135",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-15T06:50:49Z",
+      "research_track": "",
+      "score": 4,
+      "score_reasons": [
+        "medium source",
+        "older than seven days",
+        "major-event keyword: GPU"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Nobody knows what a used GPU cluster is worth",
+      "url": "https://ciphertalk.substack.com/p/nobody-knows-what-a-used-gpu-cluster"
     },
     {
       "also_covered_by": [],
@@ -9728,7 +10676,7 @@
       ],
       "description": "A big day for OpenAI.",
       "event_cluster_id": "20a024974871",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "20a024974871c44e4b5d",
       "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/-MPGU2a67Ls",
       "is_breaking": false,
@@ -9760,7 +10708,7 @@
       ],
       "description": "",
       "event_cluster_id": "9dd06ff2acc7",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "9dd06ff2acc7e68a149e",
       "image_url": "",
       "is_breaking": false,
@@ -9790,7 +10738,7 @@
       ],
       "description": "",
       "event_cluster_id": "d5c9d2e4fe07",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "d5c9d2e4fe07fc81c13f",
       "image_url": "",
       "is_breaking": false,
@@ -10032,7 +10980,7 @@
       ],
       "description": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.",
       "event_cluster_id": "a9d44289c1e3",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "a9d44289c1e38bb4533a",
       "image_url": "",
       "is_breaking": false,
@@ -10063,7 +11011,7 @@
       ],
       "description": "We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
       "event_cluster_id": "8dbb2238c30b",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "8dbb2238c30b71eb75bd",
       "image_url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F3fe58a56e696628496e95871e00b8287035ea645-2000x1125.jpg&w=3840&q=75",
       "is_breaking": false,
@@ -10150,7 +11098,7 @@
       ],
       "description": "July 9, 2026",
       "event_cluster_id": "fe4b92f86d70",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "fe4b92f86d70ac265264",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/hero_blog_sensorfm.png",
       "is_breaking": false,
@@ -10274,7 +11222,7 @@
       ],
       "description": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
       "event_cluster_id": "7357f78a0603",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "7357f78a060382ca8ece",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-500x500.jpg",
       "is_breaking": false,
@@ -10333,7 +11281,7 @@
       ],
       "description": "",
       "event_cluster_id": "3ce97f6a8c6c",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "3ce97f6a8c6c0f291d07",
       "image_url": "",
       "is_breaking": false,
@@ -10364,7 +11312,7 @@
       ],
       "description": "",
       "event_cluster_id": "6e4d262c02f2",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "6e4d262c02f29c646f72",
       "image_url": "",
       "is_breaking": false,
@@ -10395,7 +11343,7 @@
       ],
       "description": "Research",
       "event_cluster_id": "cafc9d3c3da0",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "cafc9d3c3da053e9739d",
       "image_url": "https://mistral.ai/_astro/Robostral-navigate_2lHiJb.webp?dpl=6a60784a44804b0008bd643c",
       "is_breaking": false,
@@ -10425,7 +11373,7 @@
       ],
       "description": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable...",
       "event_cluster_id": "156baccb80e3",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "156baccb80e387dd9efa",
       "image_url": "",
       "is_breaking": false,
@@ -10456,7 +11404,7 @@
       ],
       "description": "",
       "event_cluster_id": "77d64de25479",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "77d64de25479fa603f07",
       "image_url": "",
       "is_breaking": false,
@@ -10485,7 +11433,7 @@
       ],
       "description": "",
       "event_cluster_id": "1ec294ada9f4",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "1ec294ada9f40d0a169e",
       "image_url": "",
       "is_breaking": false,
@@ -10515,7 +11463,7 @@
       ],
       "description": "",
       "event_cluster_id": "8125b5dd69d0",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "8125b5dd69d0a597ebb9",
       "image_url": "",
       "is_breaking": false,
@@ -10545,7 +11493,7 @@
       ],
       "description": "July 7, 2026",
       "event_cluster_id": "7133420019ec",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "7133420019ec8821a06f",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/NetworkAwareRouting_HeroStill.png",
       "is_breaking": false,
@@ -10575,7 +11523,7 @@
       ],
       "description": "",
       "event_cluster_id": "bf55a61637b6",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "bf55a61637b6dda9b083",
       "image_url": "",
       "is_breaking": false,
@@ -10604,7 +11552,7 @@
       ],
       "description": "",
       "event_cluster_id": "1dc582402725",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "1dc5824027254506ac44",
       "image_url": "",
       "is_breaking": false,
@@ -10666,7 +11614,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "4307222bc7e5",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "4307222bc7e5f2e47115",
       "image_url": "",
       "is_breaking": false,
@@ -10698,7 +11646,7 @@
       ],
       "description": "",
       "event_cluster_id": "02e76e7bb346",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "02e76e7bb346eee49529",
       "image_url": "",
       "is_breaking": false,
@@ -10729,7 +11677,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "fdd9745edc3a",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "fdd9745edc3aad4e2c44",
       "image_url": "",
       "is_breaking": false,
@@ -10759,7 +11707,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "a577f205a73b",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "a577f205a73beafce77a",
       "image_url": "",
       "is_breaking": false,
@@ -10849,7 +11797,7 @@
       ],
       "description": "",
       "event_cluster_id": "e998906a376b",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "e998906a376bd21c7b9f",
       "image_url": "",
       "is_breaking": false,
@@ -10878,7 +11826,7 @@
       ],
       "description": "",
       "event_cluster_id": "3b01adbd65ac",
-      "fetched_at": "2026-07-22T12:14:14Z",
+      "fetched_at": "2026-07-23T01:06:37Z",
       "id": "3b01adbd65ac5d5406a7",
       "image_url": "",
       "is_breaking": false,
@@ -10898,65 +11846,7 @@
       "source_name": "PyTorch Blog",
       "title": "Understanding PyTorch’s Test Infrastructure",
       "url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/news/leanstral-1-5",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Research",
-      "event_cluster_id": "93d04618369d",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "93d04618369d3d6e8f63",
-      "image_url": "https://mistral.ai/_astro/Thumbnail-Leanstral_qmVno.webp?dpl=6a60784a44804b0008bd643c",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-02T00:00:00Z",
-      "research_track": "",
-      "score": 4,
-      "score_reasons": [
-        "high source",
-        "older than seven days"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Research Leanstral 1.5: Proof Abundance for All July 2, 2026 By Leanstral Team at Mistral AI",
-      "url": "https://mistral.ai/news/leanstral-1-5"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "3cd033d21d45",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "3cd033d21d453d29d163",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-02T00:00:00Z",
-      "research_track": "",
-      "score": 4,
-      "score_reasons": [
-        "high source",
-        "older than seven days"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Building the Future of On-Device AI at the ExecuTorch Hackathon",
-      "url": "https://pytorch.org/blog/building-the-future-of-on-device-ai-at-the-executorch-hackathon"
     }
   ],
-  "generated_at": "2026-07-22T12:14:14Z"
+  "generated_at": "2026-07-23T01:06:37Z"
 }
