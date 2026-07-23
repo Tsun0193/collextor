@@ -1,6 +1,81 @@
 {
   "articles": [
     {
+      "also_covered_by": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "authors": [
+        "Soroosh Tayebi Arasteh",
+        "Sebastian Ziegelmayer",
+        "Mahshad Lotfinia",
+        "Lisa Adams",
+        "Sven Nebelung",
+        "Jakob Nikolas Kather",
+        "Daniel Truhn"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.20274v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Medical image encoders from different groups are increasingly treated as interchangeable, on the assumption that scale and clinical supervision concentrate their representations onto a shared structure. Whether this convergence is real,...",
+      "event_cluster_id": "a9477024cc79",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "a9477024cc799201e281",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T15:25:05Z",
+      "research_track": "medical_neuroimaging",
+      "score": 22,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image, medical foundation model",
+        "technical relevance: foundation model",
+        "covered by multiple configured sources"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Self-supervision drives representational convergence in medical foundation models more than clinical supervision",
+      "url": "https://arxiv.org/abs/2607.20274v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/poolside",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
+      "event_cluster_id": "7b83ab134e17",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "7b83ab134e17e024f909",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-07-23T05:09:14Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model, training",
+        "technical relevance: open weights",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
+      "url": "https://www.latent.space/p/poolside"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek",
       "cluster_sources": [
@@ -230,41 +305,99 @@
       "url": "https://simonwillison.net/2026/Jul/21/cat-and-thariq"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Jonghun Kim"
+        "petesergeant"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.18763v1",
+      "canonical_url": "https://pleasedonotescape.com",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Hacker News"
       ],
-      "description": "Magnetic resonance imaging comes in various modality contrasts that provide complementary anatomical and pathological information. Complete multimodal acquisitions are often unavailable due to time and protocol constraints. This leads to...",
-      "event_cluster_id": "aa21e715b10d",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "aa21e715b10df4d774e1",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f8a19bccb058",
+      "fetched_at": "2026-07-20T12:35:52Z",
+      "id": "hn-48976989",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-20T10:49:32Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "research relevance: PET",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: A comprehensive, filterable list of AI agent jails",
+      "url": "https://pleasedonotescape.com"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "a quiet day lets us highlight a new neolab win.",
+      "event_cluster_id": "b84094e090b7",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "b84094e090b7831fc535",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/9_0hs2sxHHo",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-07-23T05:18:47Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: release, released",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
+      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/23/seth-larson",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or...",
+      "event_cluster_id": "0eb1d0626c54",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "0eb1d0626c5499bfffa7",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-21T06:41:44Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
+      "published_at": "2026-07-23T04:50:36Z",
+      "research_track": "",
+      "score": 17,
       "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: acquisition",
-        "research relevance: medical image",
-        "technical relevance: multimodal",
-        "startup/product signal: acquisition"
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Posterior Samplings are Missing Modalities Generators for Medical Image Translation",
-      "url": "https://arxiv.org/abs/2607.18763v1"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Seth Larson",
+      "url": "https://simonwillison.net/2026/Jul/23/seth-larson"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
       "cluster_sources": [
@@ -325,6 +458,7 @@
       "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/driving-the-future-of-open-source-ai-an-update-from-pytorch-foundation-projects",
       "cluster_sources": [
@@ -332,7 +466,7 @@
       ],
       "description": "",
       "event_cluster_id": "93c697a9b892",
-      "fetched_at": "2026-07-23T01:06:37Z",
+      "fetched_at": "2026-07-23T07:10:08Z",
       "id": "93c697a9b8922413d87c",
       "image_url": "",
       "is_breaking": false,
@@ -421,39 +555,7 @@
       "url": "https://www.latent.space/p/xaira"
     },
     {
-      "authors": [
-        "vijaym2k6"
-      ],
-      "canonical_url": "https://github.com/vijaym2k6/SteerPlane",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7ddf4ebe3d6a",
-      "fetched_at": "2026-07-21T07:13:56Z",
-      "id": "hn-48988992",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-21T07:00:10Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: open-source",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: SteerPlane – open-source runtime guardrails for AI agents",
-      "url": "https://github.com/vijaym2k6/SteerPlane"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -463,7 +565,7 @@
       ],
       "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies..",
       "event_cluster_id": "62453b09677a",
-      "fetched_at": "2026-07-23T01:06:37Z",
+      "fetched_at": "2026-07-23T07:10:08Z",
       "id": "62453b09677afb25c983",
       "image_url": "",
       "is_breaking": false,
@@ -486,6 +588,7 @@
       "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -495,7 +598,7 @@
       ],
       "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
       "event_cluster_id": "6b54e67eb8c8",
-      "fetched_at": "2026-07-23T01:06:37Z",
+      "fetched_at": "2026-07-23T07:10:08Z",
       "id": "6b54e67eb8c899e367b2",
       "image_url": "",
       "is_breaking": false,
@@ -516,6 +619,115 @@
       "source_name": "TechCrunch AI",
       "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
       "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous"
+    },
+    {
+      "authors": [
+        "Qiwei Ma",
+        "Chunping Qiu",
+        "Xinjun Cheng",
+        "Xiaoyu Zhang",
+        "Puhong Duan",
+        "Ke Yang",
+        "Xudong Kang",
+        "Shutao Li"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.20284v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "The rapid development of multimodal large language models (MLLMs) has introduced a flexible paradigm for remote sensing image scene understanding (RSISU), enabling natural-language interaction with remote sensing imagery. However, a...",
+      "event_cluster_id": "8f5e47176ce0",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "8f5e47176ce0a7e211aa",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T15:30:08Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal",
+        "startup/product signal: API"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Multimodal Large Language Models for Remote Sensing Image Understanding: Domain-Specific or General-Purpose?",
+      "url": "https://arxiv.org/abs/2607.20284v1"
+    },
+    {
+      "authors": [
+        "Andreas Happe",
+        "Jürgen Cito",
+        "Jasmin Wachter"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.20255v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling -- deterministic, narrowly scoped, and operated by trained practitioners -- agentic security tools exhibit...",
+      "event_cluster_id": "33cc21c9daff",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "33cc21c9daff14151feb",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T15:13:15Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: security",
+        "technical relevance: agent",
+        "startup/product signal: API"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "The Ethics of Autonomous AI Agents for Offensive Security",
+      "url": "https://arxiv.org/abs/2607.20255v1"
+    },
+    {
+      "authors": [
+        "Oliver Mills",
+        "Philip Conaghan",
+        "Samuel Relton"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.20028v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Robust out-of-the-box performance is essential for the clinical deployment of deep learning models in medical imaging. An important but underexplored factor affecting model generalisability is intensity normalisation, particularly for...",
+      "event_cluster_id": "3605d129a2d4",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "3605d129a2d415fa2e21",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T11:14:45Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "research relevance: MRI, medical imaging"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "A Systematic Benchmark of Intensity Normalisation Methods for 3D Knee MRI Segmentation and Cross-Domain Generalisability",
+      "url": "https://arxiv.org/abs/2607.20028v1"
     },
     {
       "also_covered_by": [],
@@ -733,6 +945,39 @@
     },
     {
       "authors": [
+        "ilreb"
+      ],
+      "canonical_url": "https://www.localmaxxing.com/en",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "d52c2faa307c",
+      "fetched_at": "2026-07-23T01:06:37Z",
+      "id": "hn-49015424",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T00:41:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: benchmark, inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Localmaxxing – Local LLM Inference Benchmarks",
+      "url": "https://www.localmaxxing.com/en"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable",
@@ -763,6 +1008,7 @@
       "url": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lorenzo Franceschi-Bicchierai"
       ],
@@ -890,116 +1136,79 @@
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Yuan Wang",
-        "Yongchao Du",
-        "Mengting Chen",
-        "Jinsong Lan",
-        "Xuetao Feng",
-        "Xiaoyong Zhu"
+        "Pengcheng Wang",
+        "Zhiquan Wang",
+        "Jayoung Lee",
+        "Zhuoyan Xu",
+        "Ran Xu",
+        "Saurabh Bagchi",
+        "Yin Li",
+        "Somali Chaterji"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.19341v1",
+      "canonical_url": "https://arxiv.org/abs/2607.20357v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Recent advances in multimodal generative models have enabled instruction-based image generation to move beyond semantic manipulation to knowledge-driven visual reasoning. However, these methods focus on explicit commonsense reasoning,...",
-      "event_cluster_id": "b4a84573aa1a",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "b4a84573aa1ad9c9662c",
+      "description": "Multimodal Large Language Models (MLLMs) have recently demonstrated strong performance across vision-language tasks. However, their high inference cost, arising from both the large number of input visual tokens and the heavy computation...",
+      "event_cluster_id": "e4ad8d37e26a",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "e4ad8d37e26a79abe3b4",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-21T17:59:02Z",
+      "published_at": "2026-07-22T16:43:27Z",
       "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: multimodal, reasoning"
+        "major-event keyword: model, inference",
+        "technical relevance: multimodal, vision-language, inference"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
-      "url": "https://arxiv.org/abs/2607.19341v1"
+      "title": "Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2607.20357v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Yu Chen",
-        "Caorui Li",
-        "Ziyu Xiong",
-        "Yidong Wang",
-        "Mingqi Gao",
-        "Shuman Liu",
-        "Biao Liu",
-        "Chunfeng Yang"
+        "Manuel Pfeuffer",
+        "Roshan Prakash Rane",
+        "Hadya Yassin",
+        "Kerstin Ritter",
+        "Sonja Greven"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.19339v1",
+      "canonical_url": "https://arxiv.org/abs/2607.19600v1",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training...",
-      "event_cluster_id": "3f66711009bb",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "3f66711009bb6f57f876",
+      "description": "The shape of a planar curve is the geometric information that remains once translation, rotation, scale and reparametrisation are removed and is of interest in many health applications, e.g. in neuroimaging. We propose a deep shape...",
+      "event_cluster_id": "7e0ac3566479",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "7e0ac35664790515acb0",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-21T17:57:50Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-07-21T22:04:17Z",
+      "research_track": "medical_neuroimaging",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "major-event keyword: training",
-        "technical relevance: tool use, reasoning"
+        "published within 48 hours",
+        "research relevance: neuroimaging",
+        "technical relevance: multimodal"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
-      "url": "https://arxiv.org/abs/2607.19339v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Atahan Dokme",
-        "Larry Heck"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.19326v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Low-rank adaptation introduces a static learned update applied identically to every input. The update provides task-level adaptation but does not explicitly represent token-level or instance-level state variation. A family of adapters is...",
-      "event_cluster_id": "283e99751bc9",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "283e99751bc9b2924176",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T17:47:57Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Selective State-Space Adaptation and Retrieval for Language Model Reasoning",
-      "url": "https://arxiv.org/abs/2607.19326v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Deep Shape Regression for Planar Curves with Multimodal Covariates",
+      "url": "https://arxiv.org/abs/2607.19600v1"
     },
     {
       "also_covered_by": [],
@@ -1034,98 +1243,81 @@
       "url": "https://www.technologyreview.com/2026/07/21/1140685/the-download-chinese-ai-divides-white-house-anthropic-copyright-settlement"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-not-much-happened-today-173",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "a quiet day.",
-      "event_cluster_id": "88b2e1578bcf",
-      "fetched_at": "2026-07-21T07:13:56Z",
-      "id": "88b2e1578bcf1bd6f1e5",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/VrpEyglYgeU",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-07-21T03:58:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] not much happened today",
-      "url": "https://www.latent.space/p/ainews-not-much-happened-today-173"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Mohammad Ali Dadrast",
-        "Hamid Usefi"
+        "Sriprabha Ramanarayanan",
+        "Rahul G. S.",
+        "Mohammad Al Fahim",
+        "Keerthi Ram",
+        "Ramesh Venkatesan",
+        "Mohanasankar Sivaprakasam"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.18678v1",
+      "canonical_url": "https://arxiv.org/abs/2607.20159v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Breast MRI is highly sensitive for detecting breast tumors, but exams contain many slices and require substantial reading time. Deep learning models often perform well on internal splits but can fail across institutions because of domain...",
-      "event_cluster_id": "7c5c07df3666",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "7c5c07df36664680c7f3",
+      "description": "Attention Mechanism (AM) selectively focuses on essential information for imaging tasks and captures relationships between distant pixel neighborhoods to compute feature representations. Accelerated MRI reconstruction benefits from AM,...",
+      "event_cluster_id": "da91fb752d58",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "da91fb752d5899819889",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-21T03:51:53Z",
+      "published_at": "2026-07-22T13:55:27Z",
       "research_track": "medical_neuroimaging",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
+        "published within 24 hours",
         "research relevance: MRI"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Cross-Dataset Generalization in Breast MRI Tumor Classification via Class-Wise Dataset Mixing",
-      "url": "https://arxiv.org/abs/2607.18678v1"
+      "title": "SHFormer: Dynamic Spectral Filtering Convolutional Neural Network and High-pass Kernel Generation Transformer for Adaptive MRI Reconstruction",
+      "url": "https://arxiv.org/abs/2607.20159v1"
     },
     {
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Busra Bulut",
+        "Maik Dannecker",
+        "Thomas Sanchez",
+        "Sara Neves Silva",
+        "Steven Jia",
+        "Jean-Baptiste Ledoux",
+        "Leo Pomar",
+        "Joanna Sichitiu"
       ],
-      "description": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique . And because most people are bad at allocating their funds you may well be...",
-      "event_cluster_id": "82c3e17de64e",
-      "fetched_at": "2026-07-23T01:06:37Z",
-      "id": "82c3e17de64ebd78f25d",
+      "canonical_url": "https://arxiv.org/abs/2607.20136v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Slice-to-volume reconstruction (SVR) is the standard method for obtaining high-resolution (HR) 3D fetal brain volumes from motion-corrupted 2D MRI slice stacks acquired in multiple orientations. Existing SVR methods are optimized and...",
+      "event_cluster_id": "9d1e8a79de29",
+      "fetched_at": "2026-07-23T07:10:08Z",
+      "id": "9d1e8a79de29c75a133d",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-22T14:48:52Z",
-      "research_track": "",
+      "published_at": "2026-07-22T13:39:40Z",
+      "research_track": "medical_neuroimaging",
       "score": 13,
       "score_reasons": [
-        "critical source",
-        "published within 24 hours"
+        "medium source",
+        "published within 24 hours",
+        "research relevance: MRI"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Orchestrions",
-      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "PRIME-SVR: Physics-infoRmed Implicit Multi-Echo Slice-to-Volume Reconstruction for Fetal T2 mapping",
+      "url": "https://arxiv.org/abs/2607.20136v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/anthropic-economic-index-connector",
       "cluster_sources": [
@@ -1133,7 +1325,7 @@
       ],
       "description": "",
       "event_cluster_id": "a66075dc0af4",
-      "fetched_at": "2026-07-23T01:06:37Z",
+      "fetched_at": "2026-07-23T07:10:08Z",
       "id": "a66075dc0af41a686afe",
       "image_url": "",
       "is_breaking": false,
@@ -1153,44 +1345,6 @@
       "source_name": "Anthropic News",
       "title": "Jul 22, 2026 Product Ask Claude about the Anthropic Economic Index",
       "url": "https://www.anthropic.com/news/anthropic-economic-index-connector"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rick Wilming",
-        "Irem Ozseker",
-        "Luca Matteo Cornils",
-        "Ahcène Boubekki",
-        "Benedict Clark",
-        "Danny Panknin",
-        "Stefan Haufe"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18882v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Validating Explainable Artificial Intelligence (XAI) methods in medical imaging requires ground-truth data with known locations of informative features. However, current approaches rely on expert annotations, which are prone to labeling...",
-      "event_cluster_id": "dee5475ed009",
-      "fetched_at": "2026-07-22T07:15:25Z",
-      "id": "dee5475ed009fc83e60c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T09:13:07Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical imaging, medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Local Label-Informed Feature Transfer for Generating Ground-Truth Medical Images: A Comparison of GAN- and Diffusion-Based Approaches",
-      "url": "https://arxiv.org/abs/2607.18882v1"
     },
     {
       "also_covered_by": [],
@@ -1222,6 +1376,7 @@
       "url": "https://huggingface.co/blog/nvidia/state-of-simulation-for-physical-ai"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda",
       "cluster_sources": [
@@ -1229,7 +1384,7 @@
       ],
       "description": "",
       "event_cluster_id": "26b4e01c469d",
-      "fetched_at": "2026-07-23T01:06:37Z",
+      "fetched_at": "2026-07-23T07:10:08Z",
       "id": "26b4e01c469da5ded830",
       "image_url": "",
       "is_breaking": false,
@@ -1250,6 +1405,7 @@
       "url": "https://www.anthropic.com/news/economic-futures-research-fund-agenda"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment",
       "cluster_sources": [
@@ -1257,7 +1413,7 @@
       ],
       "description": "July 22, 2026",
       "event_cluster_id": "3cf71528e601",
-      "fetched_at": "2026-07-23T01:06:37Z",
+      "fetched_at": "2026-07-23T07:10:08Z",
       "id": "3cf71528e601f2c61764",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/SymptomAI1_Overview.png",
       "is_breaking": false,
@@ -1279,6 +1435,7 @@
       "url": "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors",
       "cluster_sources": [
@@ -1286,7 +1443,7 @@
       ],
       "description": "July 22, 2026",
       "event_cluster_id": "e6d40de049c5",
-      "fetched_at": "2026-07-23T01:06:37Z",
+      "fetched_at": "2026-07-23T07:10:08Z",
       "id": "e6d40de049c53b834cea",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/RL_for__QEC-2.png",
       "is_breaking": false,
@@ -1308,13 +1465,13 @@
     }
   ],
   "date_label": "Thursday, July 23, 2026",
-  "generated_at": "2026-07-23T01:06:37Z",
+  "generated_at": "2026-07-23T07:10:08Z",
   "summary": {
     "duplicates_removed": 4,
-    "failed_sources": 3,
-    "fetched_items": 177,
-    "retained_items": 40,
-    "successful_sources": 18
+    "failed_sources": 1,
+    "fetched_items": 204,
+    "retained_items": 44,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
