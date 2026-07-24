@@ -2,6 +2,691 @@
   "articles": [
     {
       "authors": [
+        "Lorenzo Franceschi-Bicchierai"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "event_cluster_id": "2ff3b212f782",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "2ff3b212f78258d5864c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-24T01:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers"
+    },
+    {
+      "authors": [
+        "pseudolus"
+      ],
+      "canonical_url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "1b78863513ac",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49029948",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-24T00:35:19Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "OpenAI's Hugging Face Hack Triggers 'AI Kill Switch' Bill in Congress",
+      "url": "https://www.cnbc.com/2026/07/23/open-ai-hugging-face-hack-kill-switch-bill-congress.html"
+    },
+    {
+      "authors": [
+        "jjuliano"
+      ],
+      "canonical_url": "https://github.com/kdeps/kdeps",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "96557c710433",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49029939",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-24T00:34:30Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: CLI Coding Agent that runs on llamafile and/or GGUF",
+      "url": "https://github.com/kdeps/kdeps"
+    },
+    {
+      "authors": [
+        "jjuliano"
+      ],
+      "canonical_url": "https://github.com/kdeps/turo",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f26ba4547fdf",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49029919",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-24T00:32:12Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Turo – An Aggressive Token-Saving Proxy for CLI AI Agents",
+      "url": "https://github.com/kdeps/turo"
+    },
+    {
+      "authors": [
+        "AdrianDrempetic"
+      ],
+      "canonical_url": "https://adi2025.substack.com/p/the-model-didnt-escape-openai-ran",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "c53195d52e30",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49029912",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-24T00:31:05Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "The model didn't escape. OpenAI ran the attack",
+      "url": "https://adi2025.substack.com/p/the-model-didnt-escape-openai-ran"
+    },
+    {
+      "authors": [
+        "paulpauper"
+      ],
+      "canonical_url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "533828602438",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49029904",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-24T00:30:10Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "A Startling Glimpse at AI's Ruthless Efficiency",
+      "url": "https://www.theatlantic.com/technology/2026/07/openai-hugging-face-hack/688025"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "The first known runaway AI agent - or a very bad marketing stunt? Martin Alderson's commentary on the OpenAI accidental cyberattack against Hugging Face includes a couple of details I hadn't considered. First, Hugging Face offers a truly...",
+      "event_cluster_id": "42587da10e5f",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "42587da10e5f8c54ba81",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-23T22:53:08Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "The first known runaway AI agent - or a very bad marketing stunt?",
+      "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
+      "event_cluster_id": "b2bbc1548504",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "b2bbc1548504765e25a0",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T20:33:02Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: chip"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
+      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system"
+    },
+    {
+      "authors": [
+        "adam_rida"
+      ],
+      "canonical_url": "https://news.ycombinator.com/item?id=49026810",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a0189ee4caf8",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49026810",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T19:26:01Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, open-weight",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models",
+      "url": "https://news.ycombinator.com/item?id=49026810"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Claude's new voice model will let you reschedule your meeting or draft an email.",
+      "event_cluster_id": "bf5f90c8b5cc",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "bf5f90c8b5cc10a1ffe6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T19:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic updates Claude voice mode with more capable models",
+      "url": "https://techcrunch.com/2026/07/23/anthropic-updates-claude-voice-mode-with-more-capable-models"
+    },
+    {
+      "authors": [
+        "Marina Temkin"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
+      "event_cluster_id": "bdda478b7d96",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "bdda478b7d960e03e16d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-23T18:38:34Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: security",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing",
+      "url": "https://techcrunch.com/2026/07/23/aegisai-founded-by-former-google-security-execs-lands-36m-to-stop-ai-driven-spear-phishing"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+      "event_cluster_id": "b828bddd46d3",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "b828bddd46d371513a21",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-23T17:07:35Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: launch, model",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Runway launches AI model router as generative media gets crowded",
+      "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+      "event_cluster_id": "8262c141f0c5",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "8262c141f0c550ac6582",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T17:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI makes ChatGPT Health available to all US users",
+      "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users"
+    },
+    {
+      "authors": [
+        "Amanda Silberling"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+      "event_cluster_id": "5dcf6e84b818",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "5dcf6e84b818680f828b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T16:28:50Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: launch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+      "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction"
+    },
+    {
+      "authors": [
+        "Jonathanfishner"
+      ],
+      "canonical_url": "https://github.com/onecli/onecli",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "aca7847db120",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49023427",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T15:42:40Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents",
+      "url": "https://github.com/onecli/onecli"
+    },
+    {
+      "authors": [
+        "theanonymousone"
+      ],
+      "canonical_url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "5b3b2271e75b",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49023016",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T15:18:40Z",
+      "research_track": "",
+      "score": 10,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
+      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992"
+    },
+    {
+      "authors": [
+        "harrisontin"
+      ],
+      "canonical_url": "https://github.com/palmier-io/palmier-pro",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a2a7e4d4b5b6",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49022911",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T15:11:37Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: open-source",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Palmier Pro – Open-source macOS video editor built for AI",
+      "url": "https://github.com/palmier-io/palmier-pro"
+    },
+    {
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+      "event_cluster_id": "d3ee390e4554",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "d3ee390e45543ed6eacf",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-23T15:00:00Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, chip, GPU",
+        "technical relevance: inference",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+      "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "If there's a place in the universe without GPUs, Nvidia is sending them there.",
+      "event_cluster_id": "124b7308bd29",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "124b7308bd29662635f5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T15:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: GPU"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Nvidia is sending GPUs to the moon",
+      "url": "https://techcrunch.com/2026/07/23/nvidia-is-sending-gpus-to-the-moon"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Gemini had over 750 million monthly users in February.",
+      "event_cluster_id": "38ccde257dbb",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "38ccde257dbbf3581707",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T14:52:44Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google’s Gemini nears billion-user milestone",
+      "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini"
+    },
+    {
+      "authors": [
+        "AAPD_Studio"
+      ],
+      "canonical_url": "https://omnideck.cc",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a9977f22f9a6",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49021961",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T14:13:14Z",
+      "research_track": "",
+      "score": 10,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "startup/product signal: developer tool, Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: I built a zero-latency developer tool suite in pure Vanilla JavaScript",
+      "url": "https://omnideck.cc"
+    },
+    {
+      "authors": [
+        "r2sk5t"
+      ],
+      "canonical_url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "b8e8184e1892",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "hn-49021597",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T13:51:36Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "DARPA, U.S. Air Force fly AI-controlled F-16",
+      "url": "https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16"
+    },
+    {
+      "authors": [
         "swolpers"
       ],
       "canonical_url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy",
@@ -29,6 +714,36 @@
       "source_name": "Hacker News",
       "title": "Understanding the AI Economy",
       "url": "https://blog.google/innovation-and-ai/technology/research/understanding-the-ai-economy"
+    },
+    {
+      "authors": [
+        "Charlotte Jee"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New..",
+      "event_cluster_id": "745ada2140c4",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "745ada2140c4fb8c1b0f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-07-23T12:10:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: energy transmission and US threats against Chinese AI",
+      "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai"
     },
     {
       "authors": [
@@ -154,6 +869,36 @@
     },
     {
       "authors": [
+        "MIT Technology Review Insights"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the...",
+      "event_cluster_id": "d69849e7a150",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "d69849e7a150488ffc69",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-07-23T12:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "How AI helps scientists design the next generation of medicines",
+      "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines"
+    },
+    {
+      "authors": [
         "PhilippGille"
       ],
       "canonical_url": "https://frame.work/desktop?tab=192gb-coming-soon",
@@ -183,6 +928,7 @@
       "url": "https://frame.work/desktop?tab=192gb-coming-soon"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
@@ -776,6 +1522,7 @@
       "url": "https://www.localmaxxing.com/en"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/nunchaku-diffusers",
       "cluster_sources": [
@@ -804,6 +1551,34 @@
       "source_name": "Hugging Face Blog",
       "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
       "url": "https://huggingface.co/blog/nunchaku-diffusers"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "d7a077a72ada",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "d7a077a72ada1585f4b3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring",
+      "url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring"
     },
     {
       "also_covered_by": [],
@@ -9433,7 +10208,7 @@
       ],
       "description": "Is there something I can actually help you with today? — Kimi K3 , after refusing to leak its system prompt Tags: kimi , ai-personality , generative-ai , ai , llms",
       "event_cluster_id": "960ab030630c",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "960ab030630cf750df3c",
       "image_url": "",
       "is_breaking": false,
@@ -9590,7 +10365,7 @@
       ],
       "description": "Suggestion for hyperscalers feeling pressure over data center water use: Buy up a few exclusive country clubs, convert the golf courses into public parks, pay for guides and binoculars to get the previous members into birdwatching - help...",
       "event_cluster_id": "ae56f098fbfe",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "ae56f098fbfed2de3521",
       "image_url": "",
       "is_breaking": false,
@@ -9619,7 +10394,7 @@
       ],
       "description": "a great week for open models continues.",
       "event_cluster_id": "a1fa918dc4b4",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "a1fa918dc4b4a86f59b4",
       "image_url": "https://substackcdn.com/image/fetch/$s_!xVk0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F7d22c3fe-fde7-4c91-9e50-83b1597fe747_1958x1160.png",
       "is_breaking": false,
@@ -12127,7 +12902,7 @@
       ],
       "description": "",
       "event_cluster_id": "9dd06ff2acc7",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "9dd06ff2acc7e68a149e",
       "image_url": "",
       "is_breaking": false,
@@ -12157,7 +12932,7 @@
       ],
       "description": "",
       "event_cluster_id": "d5c9d2e4fe07",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "d5c9d2e4fe07fc81c13f",
       "image_url": "",
       "is_breaking": false,
@@ -12399,7 +13174,7 @@
       ],
       "description": "Aurora 1.5 adds 22 more variables, hourly temporal resolution, and probabilistic ensemble forecasting to the Aurora foundation model, making it more useful for real-world weather, climate, and energy applications.",
       "event_cluster_id": "a9d44289c1e3",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "a9d44289c1e38bb4533a",
       "image_url": "",
       "is_breaking": false,
@@ -12430,7 +13205,7 @@
       ],
       "description": "We’re asking the public for their hardest questions about AI, and committing to show our work as we address them.",
       "event_cluster_id": "8dbb2238c30b",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "8dbb2238c30b71eb75bd",
       "image_url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F3fe58a56e696628496e95871e00b8287035ea645-2000x1125.jpg&w=3840&q=75",
       "is_breaking": false,
@@ -12517,7 +13292,7 @@
       ],
       "description": "July 9, 2026",
       "event_cluster_id": "fe4b92f86d70",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "fe4b92f86d70ac265264",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/hero_blog_sensorfm.png",
       "is_breaking": false,
@@ -12641,7 +13416,7 @@
       ],
       "description": "\"HalluSquatting\" weaponizes LLMs' inability to say \"I don't know.\"",
       "event_cluster_id": "7357f78a0603",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "7357f78a060382ca8ece",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/rogue-ai-agent-500x500.jpg",
       "is_breaking": false,
@@ -12700,7 +13475,7 @@
       ],
       "description": "",
       "event_cluster_id": "3ce97f6a8c6c",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "3ce97f6a8c6c0f291d07",
       "image_url": "",
       "is_breaking": false,
@@ -12731,7 +13506,7 @@
       ],
       "description": "",
       "event_cluster_id": "6e4d262c02f2",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "6e4d262c02f29c646f72",
       "image_url": "",
       "is_breaking": false,
@@ -12762,9 +13537,9 @@
       ],
       "description": "Research",
       "event_cluster_id": "cafc9d3c3da0",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "cafc9d3c3da053e9739d",
-      "image_url": "https://mistral.ai/_astro/Robostral-navigate_2lHiJb.webp?dpl=6a60784a44804b0008bd643c",
+      "image_url": "https://mistral.ai/_astro/Robostral-navigate_2lHiJb.webp?dpl=6a622da400bba40008995ff8",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
@@ -12792,7 +13567,7 @@
       ],
       "description": "Short chart specifications are easy to write, but often produce uninspiring results. Flint is an open-source visualization language that offers a middle path, letting AI agents create expressive charts from compact, human-editable...",
       "event_cluster_id": "156baccb80e3",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "156baccb80e387dd9efa",
       "image_url": "",
       "is_breaking": false,
@@ -12823,7 +13598,7 @@
       ],
       "description": "",
       "event_cluster_id": "77d64de25479",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "77d64de25479fa603f07",
       "image_url": "",
       "is_breaking": false,
@@ -12852,7 +13627,7 @@
       ],
       "description": "",
       "event_cluster_id": "1ec294ada9f4",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "1ec294ada9f40d0a169e",
       "image_url": "",
       "is_breaking": false,
@@ -12882,7 +13657,7 @@
       ],
       "description": "",
       "event_cluster_id": "8125b5dd69d0",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "8125b5dd69d0a597ebb9",
       "image_url": "",
       "is_breaking": false,
@@ -12912,7 +13687,7 @@
       ],
       "description": "July 7, 2026",
       "event_cluster_id": "7133420019ec",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "7133420019ec8821a06f",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/NetworkAwareRouting_HeroStill.png",
       "is_breaking": false,
@@ -12942,7 +13717,7 @@
       ],
       "description": "",
       "event_cluster_id": "bf55a61637b6",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "bf55a61637b6dda9b083",
       "image_url": "",
       "is_breaking": false,
@@ -12971,7 +13746,7 @@
       ],
       "description": "",
       "event_cluster_id": "1dc582402725",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "1dc5824027254506ac44",
       "image_url": "",
       "is_breaking": false,
@@ -13033,7 +13808,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "4307222bc7e5",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "4307222bc7e5f2e47115",
       "image_url": "",
       "is_breaking": false,
@@ -13065,7 +13840,7 @@
       ],
       "description": "",
       "event_cluster_id": "02e76e7bb346",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "02e76e7bb346eee49529",
       "image_url": "",
       "is_breaking": false,
@@ -13096,7 +13871,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "fdd9745edc3a",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "fdd9745edc3aad4e2c44",
       "image_url": "",
       "is_breaking": false,
@@ -13126,7 +13901,7 @@
       ],
       "description": "The inside story of how Claude Code went from an internal CLI to Anthropic's coding agent, told by researchers, engineers and early users who built it.",
       "event_cluster_id": "a577f205a73b",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "a577f205a73beafce77a",
       "image_url": "",
       "is_breaking": false,
@@ -13216,7 +13991,7 @@
       ],
       "description": "",
       "event_cluster_id": "e998906a376b",
-      "fetched_at": "2026-07-23T12:11:58Z",
+      "fetched_at": "2026-07-24T01:01:37Z",
       "id": "e998906a376bd21c7b9f",
       "image_url": "",
       "is_breaking": false,
@@ -13235,37 +14010,7 @@
       "source_name": "Hugging Face Blog",
       "title": "🤗 Kernels: Major Updates",
       "url": "https://huggingface.co/blog/revamped-kernels"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "3b01adbd65ac",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "3b01adbd65ac5d5406a7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-03T00:00:00Z",
-      "research_track": "",
-      "score": 7,
-      "score_reasons": [
-        "high source",
-        "older than seven days",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Understanding PyTorch’s Test Infrastructure",
-      "url": "https://pytorch.org/blog/understanding-pytorchs-test-infrastructure"
     }
   ],
-  "generated_at": "2026-07-23T12:11:58Z"
+  "generated_at": "2026-07-24T01:01:37Z"
 }
