@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "A HUGE win for BFL!",
+      "event_cluster_id": "2e07e31fd0ed",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "2e07e31fd0edeba2b364",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!3n0x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2080308957898481664.jpg",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-07-24T04:30:12Z",
+      "research_track": "",
+      "score": 22,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal",
+        "startup/product signal: seed",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
+      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal"
+    },
+    {
       "also_covered_by": [
         "arXiv - Multimodal and Foundation Models"
       ],
@@ -174,6 +206,48 @@
       "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era"
     },
     {
+      "also_covered_by": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "authors": [
+        "Rafsan Jany",
+        "Shadab Tanjeed Ahmad",
+        "Ahsan Bulbul",
+        "Tahsinul Islam",
+        "Md Azam Hossain",
+        "Abu Raihan Mostofa Kamal"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.21546v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Multimodal based approaches often outperform single modality approaches in downstream tasks as the different modalities provide complementary information, yet acquiring paired clinical data remains a significant challenge in real world...",
+      "event_cluster_id": "383f36b29dc2",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "383f36b29dc272607dc8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-23T17:33:29Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical imaging",
+        "technical relevance: multimodal",
+        "covered by multiple configured sources"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "UnDA: Unpaired Domain Alignment for Cross-Modal Knowledge Transfer in Medical Imaging",
+      "url": "https://arxiv.org/abs/2607.21546v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -183,10 +257,10 @@
       ],
       "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
       "event_cluster_id": "d3ee390e4554",
-      "fetched_at": "2026-07-24T01:01:37Z",
+      "fetched_at": "2026-07-24T07:11:52Z",
       "id": "d3ee390e45543ed6eacf",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-07-23T15:00:00Z",
@@ -205,6 +279,42 @@
       "source_name": "TechCrunch AI",
       "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
       "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors"
+    },
+    {
+      "authors": [
+        "Farhad Nooralahzadeh",
+        "Lea Bogensperger",
+        "Christian Bluethgen",
+        "Michael Krauthammer"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.20993v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Large vision-language models are becoming increasingly dominant in 3D medical image interpretation, but we rarely know which internal units encode clinical findings or where that information lives in the representation. We first study...",
+      "event_cluster_id": "af1038de62ba",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "af1038de62bad5ad25f8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-23T07:17:11Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: vision-language"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Sparse Concept Channels in Frozen 3D CT Vision Encoders",
+      "url": "https://arxiv.org/abs/2607.20993v1"
     },
     {
       "authors": [
@@ -239,6 +349,7 @@
       "url": "https://adi2025.substack.com/p/the-model-didnt-escape-openai-ran"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent",
       "cluster_sources": [
@@ -268,6 +379,7 @@
       "url": "https://simonwillison.net/2026/Jul/23/the-first-known-runaway-ai-agent"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Marina Temkin"
       ],
@@ -277,7 +389,7 @@
       ],
       "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
       "event_cluster_id": "bdda478b7d96",
-      "fetched_at": "2026-07-24T01:01:37Z",
+      "fetched_at": "2026-07-24T07:11:52Z",
       "id": "bdda478b7d960e03e16d",
       "image_url": "",
       "is_breaking": false,
@@ -422,37 +534,46 @@
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top",
+      "authors": [
+        "Wenhao Li",
+        "Xueying Jiang",
+        "Quanhao Qian",
+        "Deli Zhao",
+        "Ran Xu",
+        "Shijian Lu",
+        "Gongjie Zhang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.21595v1",
       "cluster_sources": [
-        "Latent Space"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Several new Cyber headlines make us observe a trend",
-      "event_cluster_id": "03cd65474cff",
-      "fetched_at": "2026-07-22T07:15:25Z",
-      "id": "03cd65474cff004e24e0",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/1lgFGaHoGq8",
+      "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present...",
+      "event_cluster_id": "2a285cf7ee5b",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "2a285cf7ee5b659f3228",
+      "image_url": "",
       "is_breaking": false,
-      "is_long_read": true,
+      "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-22T03:27:29Z",
-      "research_track": "",
-      "score": 17,
+      "published_at": "2026-07-23T17:59:59Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: security",
-        "long-read source"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, VLM, reasoning",
+        "startup/product signal: API"
       ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] AI Cybersecurity becomes top of mind",
-      "url": "https://www.latent.space/p/ainews-ai-cybersecurity-becomes-top"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+      "url": "https://arxiv.org/abs/2607.21595v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Rebecca Bellan"
       ],
@@ -462,7 +583,7 @@
       ],
       "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
       "event_cluster_id": "b828bddd46d3",
-      "fetched_at": "2026-07-24T01:01:37Z",
+      "fetched_at": "2026-07-24T07:11:52Z",
       "id": "b828bddd46d371513a21",
       "image_url": "",
       "is_breaking": false,
@@ -696,6 +817,71 @@
     },
     {
       "authors": [
+        "sbulaev"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.20723",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "7c45ee786521",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "hn-49032137",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-24T07:07:06Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Leaky Language Models: Stealing Architecture and Inference Optimizations",
+      "url": "https://arxiv.org/abs/2607.20723"
+    },
+    {
+      "authors": [
+        "wertyk"
+      ],
+      "canonical_url": "https://huggingface.co/badtheorylabs/BTL-3",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "921e364cfbd0",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "hn-49031938",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-24T06:40:52Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, open-weight",
+        "technical relevance: agent, tool use"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "BTL-3: A 27B open-weight agent model for agentic coding and structural tool use",
+      "url": "https://huggingface.co/badtheorylabs/BTL-3"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Lucas Ropek"
       ],
       "canonical_url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system",
@@ -724,70 +910,6 @@
       "source_name": "TechCrunch AI",
       "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
       "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system"
-    },
-    {
-      "authors": [
-        "ms7892"
-      ],
-      "canonical_url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "40dd4915d03a",
-      "fetched_at": "2026-07-23T01:06:37Z",
-      "id": "hn-49015583",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-23T01:06:09Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: release, released",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "The Microsoft Agent Framework Harness is now released",
-      "url": "https://devblogs.microsoft.com/agent-framework/the-microsoft-agent-framework-harness-is-now-released"
-    },
-    {
-      "authors": [
-        "macote"
-      ],
-      "canonical_url": "https://microsoft.github.io/Mage/flow",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "be75fdbe948a",
-      "fetched_at": "2026-07-23T01:06:37Z",
-      "id": "hn-49015534",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-23T00:58:27Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Mage-Flow: Efficient Native-Resolution Foundation Model for Image Generation",
-      "url": "https://microsoft.github.io/Mage/flow"
     },
     {
       "authors": [
@@ -886,153 +1008,179 @@
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Pengcheng Wang",
-        "Zhiquan Wang",
-        "Jayoung Lee",
-        "Zhuoyan Xu",
-        "Ran Xu",
-        "Saurabh Bagchi",
-        "Yin Li",
-        "Somali Chaterji"
+        "Sicheng Mo",
+        "Yuheng Li",
+        "Ziyang Leng",
+        "Krishna Kumar Singh",
+        "Bolei Zhou"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.20357v1",
+      "canonical_url": "https://arxiv.org/abs/2607.21594v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Multimodal Large Language Models (MLLMs) have recently demonstrated strong performance across vision-language tasks. However, their high inference cost, arising from both the large number of input visual tokens and the heavy computation...",
-      "event_cluster_id": "e4ad8d37e26a",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "e4ad8d37e26a79abe3b4",
+      "description": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward...",
+      "event_cluster_id": "327d865c2eaa",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "327d865c2eaa3ac310f2",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-22T16:43:27Z",
+      "published_at": "2026-07-23T17:59:58Z",
       "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: multimodal, vision-language, inference"
+        "major-event keyword: model",
+        "technical relevance: agent"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Look Less, Think Faster: Joint Token-Compute Adaptation for Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2607.20357v1"
+      "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+      "url": "https://arxiv.org/abs/2607.21594v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Aditi Gupta",
-        "Yossi Gandelsman"
+        "Aaron Feller",
+        "Kris Deibler",
+        "Maxim Secor"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.20351v1",
+      "canonical_url": "https://arxiv.org/abs/2607.21561v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "We find that vision-language models are sensitive to a specific semantically irrelevant change: the order in which the image and question are presented. Across three models and three benchmarks, image first prompting consistently...",
-      "event_cluster_id": "069ec22222c1",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "069ec22222c1c458d005",
+      "description": "Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble foundation model that...",
+      "event_cluster_id": "25047f22926c",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "25047f22926ce7627f22",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-22T16:37:02Z",
+      "published_at": "2026-07-23T17:42:51Z",
       "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model, benchmark, training",
-        "technical relevance: vision-language"
+        "major-event keyword: model",
+        "technical relevance: foundation model"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Test-Time Training for Modality Order Consistency in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2607.20351v1"
+      "title": "Graph Learning on Ensembles of Cyclic Peptides: An Investigation of Molecular Ensemble Modeling",
+      "url": "https://arxiv.org/abs/2607.21561v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Roger Sala Sisó",
-        "Tiago Silvério",
-        "Jakob Sand",
-        "Tran Nguyen Le"
+        "Moshiur Rahman Tonmoy",
+        "Dunren Che",
+        "Haitham Y. Adarbah",
+        "Afzel Noore"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.20345v1",
+      "canonical_url": "https://arxiv.org/abs/2607.20691v1",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Closing the gap between benchmark performance and reliable real-world operation remains a central challenge for Vision-Language-Action (VLA) humanoid robots, which must handle execution errors, distribution shifts, and environmental...",
-      "event_cluster_id": "d6d29ac9e0bf",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "d6d29ac9e0bf509b93c2",
+      "description": "Concept Bottleneck Models provide interpretable-by-design predictions by mediating diagnosis through human-understandable concepts, but in medical imaging, their trustworthiness is often limited by the quality and granularity of...",
+      "event_cluster_id": "824605710fc3",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "824605710fc35f45995b",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-22T16:30:51Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-07-22T19:45:59Z",
+      "research_track": "medical_neuroimaging",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark, training",
-        "technical relevance: vision-language"
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: medical imaging"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Closing the Lab-to-Store Gap: A Data-Efficient Post-Training and Experience-Driven Learning VLA Framework for Retail Humanoids",
-      "url": "https://arxiv.org/abs/2607.20345v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Spatially Grounded Concept Bottleneck Models for Trustworthy Breast Ultrasound Diagnosis",
+      "url": "https://arxiv.org/abs/2607.20691v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Niqi Lyu",
-        "Pengtao Shi",
-        "Wei Qiu",
-        "Jianlin Zhong",
-        "Sicong Xia",
-        "Jianyao Ma",
-        "Yicheng Ding"
+        "Zhi Chen",
+        "Le Zhang"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.20327v1",
+      "canonical_url": "https://arxiv.org/abs/2607.20598v1",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Large language models (LLMs) provide strong reasoning capabilities but are expensive to serve at scale, whereas small language models (SLMs) are cheaper but less reliable on difficult problems. We introduce PyroDash, a cost-aware...",
-      "event_cluster_id": "39bf6444b388",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "39bf6444b3882d53729b",
+      "description": "Medical image super-resolution (MedSR) requires recovering fine anatomical structures from degraded observations while avoiding unsupported details introduced by generative priors. Large-scale pre-trained multimodal diffusion...",
+      "event_cluster_id": "81f908cda2d1",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "81f908cda2d1cfd95aa3",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-22T16:14:26Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-07-22T17:57:17Z",
+      "research_track": "medical_neuroimaging",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: reasoning, inference"
+        "published within 48 hours",
+        "research relevance: medical image",
+        "technical relevance: multimodal"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "PyroDash: Cost-Efficient Token-Level Small-Large Language Model Collaborative Inference",
-      "url": "https://arxiv.org/abs/2607.20327v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MedDiT4SR: Tri-Stream Joint Adaptation of Pre-Trained Diffusion Transformers for Medical Image Super-Resolution",
+      "url": "https://arxiv.org/abs/2607.20598v1"
+    },
+    {
+      "authors": [
+        "Guillermo Rubiños Rodríguez",
+        "Martín Ottavianelli",
+        "Mateo Alonso",
+        "Gonzalo Blázquez Gil",
+        "Boris-Stephan Rauchmann",
+        "Pablo Díez-Valle",
+        "Sergio Altares-López"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.21186v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Numerous studies have analyzed the use of hybrid quantum-classical convolutional neural networks as a promising alternative to classical deep learning. However, network components on quantum hardware impose fundamental limitations, while...",
+      "event_cluster_id": "49bb19b73837",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "49bb19b738370f01d928",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T11:15:35Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification",
+      "url": "https://arxiv.org/abs/2607.21186v1"
     },
     {
       "also_covered_by": [],
@@ -1066,81 +1214,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Sriprabha Ramanarayanan",
-        "Rahul G. S.",
-        "Mohammad Al Fahim",
-        "Keerthi Ram",
-        "Ramesh Venkatesan",
-        "Mohanasankar Sivaprakasam"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20159v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Attention Mechanism (AM) selectively focuses on essential information for imaging tasks and captures relationships between distant pixel neighborhoods to compute feature representations. Accelerated MRI reconstruction benefits from AM,...",
-      "event_cluster_id": "da91fb752d58",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "da91fb752d5899819889",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T13:55:27Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: MRI"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "SHFormer: Dynamic Spectral Filtering Convolutional Neural Network and High-pass Kernel Generation Transformer for Adaptive MRI Reconstruction",
-      "url": "https://arxiv.org/abs/2607.20159v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Busra Bulut",
-        "Maik Dannecker",
-        "Thomas Sanchez",
-        "Sara Neves Silva",
-        "Steven Jia",
-        "Jean-Baptiste Ledoux",
-        "Leo Pomar",
-        "Joanna Sichitiu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20136v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Slice-to-volume reconstruction (SVR) is the standard method for obtaining high-resolution (HR) 3D fetal brain volumes from motion-corrupted 2D MRI slice stacks acquired in multiple orientations. Existing SVR methods are optimized and...",
-      "event_cluster_id": "9d1e8a79de29",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "9d1e8a79de29c75a133d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T13:39:40Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: MRI"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "PRIME-SVR: Physics-infoRmed Implicit Multi-Echo Slice-to-Volume Reconstruction for Fetal T2 mapping",
-      "url": "https://arxiv.org/abs/2607.20136v1"
-    },
-    {
-      "authors": [
         "Charlotte Jee"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai",
@@ -1149,7 +1222,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New..",
       "event_cluster_id": "745ada2140c4",
-      "fetched_at": "2026-07-24T01:01:37Z",
+      "fetched_at": "2026-07-24T07:11:52Z",
       "id": "745ada2140c4fb8c1b0f",
       "image_url": "",
       "is_breaking": false,
@@ -1170,6 +1243,7 @@
       "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "MIT Technology Review Insights"
       ],
@@ -1179,7 +1253,7 @@
       ],
       "description": "Designing and developing a new medicine is an expensive, failure-prone scientific challenge. A new drug can take many years to develop, at the cost of a significant investment. And even then, most possible candidates never reach the...",
       "event_cluster_id": "d69849e7a150",
-      "fetched_at": "2026-07-24T01:01:37Z",
+      "fetched_at": "2026-07-24T07:11:52Z",
       "id": "d69849e7a150488ffc69",
       "image_url": "",
       "is_breaking": false,
@@ -1201,44 +1275,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Ralf Raumanns",
-        "Theresa Elstner",
-        "Louis Ferger-Andrews",
-        "Louise M. Carlsen",
-        "Martin Potthast",
-        "Gerard Schouten",
-        "Josien P. W. Pluim",
-        "Veronika Cheplygina"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20149v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Machine learning courses often use pre-labeled datasets, hiding the subjectivity of human annotation. This creates students with an overly trusting view of AI data and models, undervaluing interpretive diversity. We investigated whether...",
-      "event_cluster_id": "5e7139ed89a6",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "5e7139ed89a61f5573cf",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T13:51:56Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Data Annotations as Pedagogical Hints: From Subjective Labels to Critical Thinking",
-      "url": "https://arxiv.org/abs/2607.20149v1"
-    },
-    {
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring",
       "cluster_sources": [
@@ -1246,7 +1282,7 @@
       ],
       "description": "",
       "event_cluster_id": "d7a077a72ada",
-      "fetched_at": "2026-07-24T01:01:37Z",
+      "fetched_at": "2026-07-24T07:11:52Z",
       "id": "d7a077a72ada1585f4b3",
       "image_url": "",
       "is_breaking": false,
@@ -1265,54 +1301,16 @@
       "source_name": "PyTorch Blog",
       "title": "Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring",
       "url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Duong Ngoc Vu",
-        "Hai Son Nguyen",
-        "Trong-Nghia Nguyen",
-        "Bien Tran Van",
-        "Trang Mai Xuan",
-        "Huan Vu",
-        "Thien Van Luong"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.19696v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "The accurate diagnosis of spinal pathologies depends heavily on radiological interpretation, yet automated systems are hindered by the lack of diverse, high-quality benchmarks. In this study, we present PhenSPINE, a Magnetic Resonance...",
-      "event_cluster_id": "49e83dcc8536",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "49e83dcc8536423b96a2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T02:55:36Z",
-      "research_track": "medical_neuroimaging",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: benchmark"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "PhenSPINE: A Standardized Benchmark for Spine Pathology Diagnosis",
-      "url": "https://arxiv.org/abs/2607.19696v1"
     }
   ],
   "date_label": "Friday, July 24, 2026",
-  "generated_at": "2026-07-24T01:01:37Z",
+  "generated_at": "2026-07-24T07:11:52Z",
   "summary": {
-    "duplicates_removed": 2,
-    "failed_sources": 3,
-    "fetched_items": 179,
+    "duplicates_removed": 3,
+    "failed_sources": 1,
+    "fetched_items": 202,
     "retained_items": 39,
-    "successful_sources": 18
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
