@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
       "cluster_sources": [
@@ -172,40 +173,6 @@
       "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Jagmeet Singh"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "event_cluster_id": "2f8bbdd66f0b",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "2f8bbdd66f0bd93a83ac",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T10:00:00Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: security",
-        "technical relevance: agent",
-        "startup/product signal: API, developer tool"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era"
-    },
-    {
       "also_covered_by": [
         "arXiv - Medical AI and Neuroimaging"
       ],
@@ -223,7 +190,7 @@
       ],
       "description": "Multimodal based approaches often outperform single modality approaches in downstream tasks as the different modalities provide complementary information, yet acquiring paired clinical data remains a significant challenge in real world...",
       "event_cluster_id": "383f36b29dc2",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "383f36b29dc272607dc8",
       "image_url": "",
       "is_breaking": false,
@@ -257,7 +224,7 @@
       ],
       "description": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
       "event_cluster_id": "d3ee390e4554",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "d3ee390e45543ed6eacf",
       "image_url": "",
       "is_breaking": false,
@@ -281,6 +248,7 @@
       "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Farhad Nooralahzadeh",
         "Lea Bogensperger",
@@ -389,7 +357,7 @@
       ],
       "description": "AegisAI co-founders developed AI agents that quickly analyze each message as a human would, paying attention to small anomalies that even the most elaborate checklist wouldn’t catch.",
       "event_cluster_id": "bdda478b7d96",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "bdda478b7d960e03e16d",
       "image_url": "",
       "is_breaking": false,
@@ -534,6 +502,7 @@
       "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Wenhao Li",
         "Xueying Jiang",
@@ -549,7 +518,7 @@
       ],
       "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present...",
       "event_cluster_id": "2a285cf7ee5b",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "2a285cf7ee5b659f3228",
       "image_url": "",
       "is_breaking": false,
@@ -583,7 +552,7 @@
       ],
       "description": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
       "event_cluster_id": "b828bddd46d3",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "b828bddd46d371513a21",
       "image_url": "",
       "is_breaking": false,
@@ -781,41 +750,6 @@
       "url": "https://arxiv.org/abs/2607.20255v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Oliver Mills",
-        "Philip Conaghan",
-        "Samuel Relton"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20028v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Robust out-of-the-box performance is essential for the clinical deployment of deep learning models in medical imaging. An important but underexplored factor affecting model generalisability is intensity normalisation, particularly for...",
-      "event_cluster_id": "3605d129a2d4",
-      "fetched_at": "2026-07-23T07:10:08Z",
-      "id": "3605d129a2d415fa2e21",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T11:14:45Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "research relevance: MRI, medical imaging"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A Systematic Benchmark of Intensity Normalisation Methods for 3D Knee MRI Segmentation and Cross-Domain Generalisability",
-      "url": "https://arxiv.org/abs/2607.20028v1"
-    },
-    {
       "authors": [
         "sbulaev"
       ],
@@ -878,6 +812,38 @@
       "source_name": "Hacker News",
       "title": "BTL-3: A 27B open-weight agent model for agentic coding and structural tool use",
       "url": "https://huggingface.co/badtheorylabs/BTL-3"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Lorenzo Franceschi-Bicchierai"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "We spoke with several cybersecurity researchers, who look for unknown vulnerabilities and develop tools to exploit them, about how OpenAI’s and Anthropic’s guardrails affect their work.",
+      "event_cluster_id": "2ff3b212f782",
+      "fetched_at": "2026-07-24T01:01:37Z",
+      "id": "2ff3b212f78258d5864c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-24T01:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "How AI guardrails are impeding the work of offensive cybersecurity researchers",
+      "url": "https://techcrunch.com/2026/07/23/how-ai-guardrails-are-impeding-the-work-of-offensive-cybersecurity-researchers"
     },
     {
       "also_covered_by": [],
@@ -1008,6 +974,7 @@
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sicheng Mo",
         "Yuheng Li",
@@ -1021,7 +988,7 @@
       ],
       "description": "Multi-agent interactive world models should not only generate consistent observations, but also maintain world states that persist across agents and evolve across views. Existing autoregressive video diffusion pipelines carry forward...",
       "event_cluster_id": "327d865c2eaa",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "327d865c2eaa3ac310f2",
       "image_url": "",
       "is_breaking": false,
@@ -1044,6 +1011,7 @@
       "url": "https://arxiv.org/abs/2607.21594v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Aaron Feller",
         "Kris Deibler",
@@ -1055,7 +1023,7 @@
       ],
       "description": "Molecular property prediction from structure often uses a single representative conformation, even though many molecules exist as conformational ensembles in solution. We introduce EnsembleEGNN, a molecular ensemble foundation model that...",
       "event_cluster_id": "25047f22926c",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "25047f22926ce7627f22",
       "image_url": "",
       "is_breaking": false,
@@ -1078,6 +1046,7 @@
       "url": "https://arxiv.org/abs/2607.21561v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Moshiur Rahman Tonmoy",
         "Dunren Che",
@@ -1090,7 +1059,7 @@
       ],
       "description": "Concept Bottleneck Models provide interpretable-by-design predictions by mediating diagnosis through human-understandable concepts, but in medical imaging, their trustworthiness is often limited by the quality and granularity of...",
       "event_cluster_id": "824605710fc3",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "824605710fc35f45995b",
       "image_url": "",
       "is_breaking": false,
@@ -1113,6 +1082,7 @@
       "url": "https://arxiv.org/abs/2607.20691v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zhi Chen",
         "Le Zhang"
@@ -1123,7 +1093,7 @@
       ],
       "description": "Medical image super-resolution (MedSR) requires recovering fine anatomical structures from degraded observations while avoiding unsupported details introduced by generative priors. Large-scale pre-trained multimodal diffusion...",
       "event_cluster_id": "81f908cda2d1",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "81f908cda2d1cfd95aa3",
       "image_url": "",
       "is_breaking": false,
@@ -1146,6 +1116,7 @@
       "url": "https://arxiv.org/abs/2607.20598v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Guillermo Rubiños Rodríguez",
         "Martín Ottavianelli",
@@ -1181,6 +1152,41 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification",
       "url": "https://arxiv.org/abs/2607.21186v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Elderly People with Frailty or Dementia Azul Debenedetti",
+        "David Gamez",
+        "Franco Such",
+        "Nik Kairinos"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.21156v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "More than a million people in the UK suffer from frailty or dementia, which severely compromise their ability to travel in urban environments. This paper presents SafeStep, an AI-driven travel system that assists elderly users with their...",
+      "event_cluster_id": "57be482c32fb",
+      "fetched_at": "2026-07-24T07:11:52Z",
+      "id": "57be482c32fb89fb2782",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-23T10:37:28Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: dementia"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "SafeStep: AI-powered Travel Assistance for Elderly People with Frailty or Dementia",
+      "url": "https://arxiv.org/abs/2607.21156v1"
     },
     {
       "also_covered_by": [],
@@ -1222,7 +1228,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The power line that could reshape New York’s grid is hitting snags During a heat wave on July 3, New..",
       "event_cluster_id": "745ada2140c4",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "745ada2140c4fb8c1b0f",
       "image_url": "",
       "is_breaking": false,
@@ -1282,7 +1288,7 @@
       ],
       "description": "",
       "event_cluster_id": "d7a077a72ada",
-      "fetched_at": "2026-07-24T07:11:52Z",
+      "fetched_at": "2026-07-24T12:04:48Z",
       "id": "d7a077a72ada1585f4b3",
       "image_url": "",
       "is_breaking": false,
@@ -1304,11 +1310,11 @@
     }
   ],
   "date_label": "Friday, July 24, 2026",
-  "generated_at": "2026-07-24T07:11:52Z",
+  "generated_at": "2026-07-24T12:04:48Z",
   "summary": {
     "duplicates_removed": 3,
     "failed_sources": 1,
-    "fetched_items": 202,
+    "fetched_items": 200,
     "retained_items": 39,
     "successful_sources": 20
   },
