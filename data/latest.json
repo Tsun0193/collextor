@@ -1,6 +1,40 @@
 {
   "articles": [
     {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+      "event_cluster_id": "9a0069857034",
+      "fetched_at": "2026-07-25T01:05:36Z",
+      "id": "9a00698570340f0b80ba",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-24T18:07:32Z",
+      "research_track": "",
+      "score": 24,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, acquisition",
+        "research relevance: PET",
+        "technical relevance: agent",
+        "startup/product signal: acquisition"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
@@ -32,49 +66,6 @@
       "source_name": "Latent Space",
       "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
       "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal"
-    },
-    {
-      "also_covered_by": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "authors": [
-        "Soroosh Tayebi Arasteh",
-        "Sebastian Ziegelmayer",
-        "Mahshad Lotfinia",
-        "Lisa Adams",
-        "Sven Nebelung",
-        "Jakob Nikolas Kather",
-        "Daniel Truhn"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20274v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical image encoders from different groups are increasingly treated as interchangeable, on the assumption that scale and clinical supervision concentrate their representations onto a shared structure. Whether this convergence is real,...",
-      "event_cluster_id": "a9477024cc79",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "a9477024cc799201e281",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T15:25:05Z",
-      "research_track": "medical_neuroimaging",
-      "score": 22,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image, medical foundation model",
-        "technical relevance: foundation model",
-        "covered by multiple configured sources"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Self-supervision drives representational convergence in medical foundation models more than clinical supervision",
-      "url": "https://arxiv.org/abs/2607.20274v1"
     },
     {
       "also_covered_by": [],
@@ -109,68 +100,35 @@
       "url": "https://www.latent.space/p/poolside"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek",
+      "canonical_url": "https://www.anthropic.com/news/claude-opus-5",
       "cluster_sources": [
-        "Simon Willison"
+        "Anthropic News"
       ],
-      "description": "I genuinely believe that if you took an open weights model from 2025 and built a pentest harness for it, it could do this kind of sandbox escape and scan/hack in most networks. This is only surprising because you assume OpenAI has sounder..",
-      "event_cluster_id": "22a1099aca4e",
-      "fetched_at": "2026-07-23T01:06:37Z",
-      "id": "22a1099aca4ee0f3db23",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T23:59:01Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: open weights"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Thomas Ptacek",
-      "url": "https://simonwillison.net/2026/Jul/22/thomas-ptacek"
-    },
-    {
-      "also_covered_by": [
-        "Hacker News"
-      ],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Are AI labs pelicanmaxxing? Excellent piece of work by Dylan Castillo, who took a deep-dive into the frequently pondered question of whether the AI labs have been deliberately training models to draw pelicans riding bicycles in response...",
-      "event_cluster_id": "61d3a1749b19",
-      "fetched_at": "2026-07-23T01:06:37Z",
-      "id": "61d3a1749b19a7d913e4",
-      "image_url": "https://static.simonwillison.net/static/2026/pelican-grid.webp",
+      "description": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "event_cluster_id": "c34a327604b5",
+      "fetched_at": "2026-07-25T01:05:36Z",
+      "id": "c34a327604b5be4a7c98",
+      "image_url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png&w=3840&q=75",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-22T23:01:00Z",
+      "published_at": "2026-07-24T00:00:00Z",
       "research_track": "",
-      "score": 20,
+      "score": 19,
       "score_reasons": [
         "critical source",
-        "published within 6 hours",
-        "major-event keyword: model, training",
-        "covered by multiple configured sources"
+        "published within 48 hours",
+        "major-event keyword: introducing",
+        "technical relevance: agent",
+        "startup/product signal: product"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Are AI labs pelicanmaxxing?",
-      "url": "https://simonwillison.net/2026/Jul/22/are-ai-labs-pelicanmaxxing"
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Introducing Claude Opus 5 Product Jul 24, 2026 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "url": "https://www.anthropic.com/news/claude-opus-5"
     },
     {
       "also_covered_by": [
@@ -283,6 +241,64 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Sparse Concept Channels in Frozen 3D CT Vision Encoders",
       "url": "https://arxiv.org/abs/2607.20993v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/25/boris-cherny",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt...",
+      "event_cluster_id": "19ec33d3c212",
+      "fetched_at": "2026-07-25T01:05:36Z",
+      "id": "19ec33d3c212238bb6d7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-25T00:42:59Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model, system card"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as...",
+      "event_cluster_id": "7ad7adb78cc0",
+      "fetched_at": "2026-07-25T01:05:36Z",
+      "id": "7ad7adb78cc0b27856b7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-24T23:48:50Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: introducing, model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Introducing Claude Opus 5",
+      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5"
     },
     {
       "authors": [
@@ -441,65 +457,36 @@
       "url": "https://simonwillison.net/2026/Jul/23/seth-larson"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nunchaku-diffusers",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Russell Brandom"
       ],
-      "description": "",
-      "event_cluster_id": "96f5dc656a14",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "96f5dc656a14a806246f",
+      "canonical_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
+      "event_cluster_id": "2686459fefe3",
+      "fetched_at": "2026-07-25T01:05:36Z",
+      "id": "2686459fefe3f4cde712",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-23T00:00:00Z",
+      "published_at": "2026-07-24T17:00:00Z",
       "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
+        "major-event keyword: launch",
+        "startup/product signal: launches"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Bringing Nunchaku 4-bit Diffusion Inference to Diffusers",
-      "url": "https://huggingface.co/blog/nunchaku-diffusers"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "This story is wild. The short version: OpenAI were running a cybersecurity test against an unreleased model, with the model's guardrail features turned off. Rather than solve the test, the model broke its way out of OpenAI's sandbox, then..",
-      "event_cluster_id": "cb0acfe20091",
-      "fetched_at": "2026-07-23T01:06:37Z",
-      "id": "cb0acfe200913bdbcee5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T23:51:33Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: release, released, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "OpenAI’s accidental cyberattack against Hugging Face is science fiction that happened",
-      "url": "https://simonwillison.net/2026/Jul/22/openai-cyberattack"
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic launches Opus 5",
+      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5"
     },
     {
       "also_covered_by": [],
@@ -605,149 +592,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: Watchlist – AI monitors competitors, briefs you every Monday",
       "url": "https://watchlist-ten-gamma.vercel.app"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Yope, a fast-growing social app focused on private groups of friends and family, has raised $12.3 million in seed funding. Instead of chasing creators and algorithmic feeds, the startup is betting that the future of social networking lies..",
-      "event_cluster_id": "62453b09677a",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "62453b09677afb25c983",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T18:13:58Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: funding",
-        "startup/product signal: startup, seed, funding"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Yope raises $12.3M to build a private social network without algorithms or ads",
-      "url": "https://techcrunch.com/2026/07/22/yope-raises-12-3m-to-build-a-private-social-network-without-algorithms-or-ads"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "As Chinese AI models grow in capability and popularity among U.S. companies, the arguing over what should be done about them has reached a fever pitch.",
-      "event_cluster_id": "6b54e67eb8c8",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "6b54e67eb8c899e367b2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T16:24:08Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, open source",
-        "startup/product signal: open source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Arcee, a US open source AI lab, says Chinese models are not inherently dangerous",
-      "url": "https://techcrunch.com/2026/07/22/arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Qiwei Ma",
-        "Chunping Qiu",
-        "Xinjun Cheng",
-        "Xiaoyu Zhang",
-        "Puhong Duan",
-        "Ke Yang",
-        "Xudong Kang",
-        "Shutao Li"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20284v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "The rapid development of multimodal large language models (MLLMs) has introduced a flexible paradigm for remote sensing image scene understanding (RSISU), enabling natural-language interaction with remote sensing imagery. However, a...",
-      "event_cluster_id": "8f5e47176ce0",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "8f5e47176ce0a7e211aa",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T15:30:08Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal",
-        "startup/product signal: API"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Multimodal Large Language Models for Remote Sensing Image Understanding: Domain-Specific or General-Purpose?",
-      "url": "https://arxiv.org/abs/2607.20284v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Andreas Happe",
-        "Jürgen Cito",
-        "Jasmin Wachter"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20255v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "LLM-driven autonomous agents are reshaping offensive security. Unlike traditional penetration-testing tooling -- deterministic, narrowly scoped, and operated by trained practitioners -- agentic security tools exhibit...",
-      "event_cluster_id": "33cc21c9daff",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "33cc21c9daff14151feb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T15:13:15Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: security",
-        "technical relevance: agent",
-        "startup/product signal: API"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "The Ethics of Autonomous AI Agents for Offensive Security",
-      "url": "https://arxiv.org/abs/2607.20255v1"
     },
     {
       "authors": [
@@ -942,36 +786,35 @@
       "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Kirsten Korosec"
+        "Charlotte Jee"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved",
+      "canonical_url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips",
       "cluster_sources": [
-        "TechCrunch AI"
+        "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "The final approval settles one case, but it doesn't resolve the broader issue of using copyrighted works to train AI models.",
-      "event_cluster_id": "a6909a9e1841",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "a6909a9e1841ec86f6a2",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to...",
+      "event_cluster_id": "bab0de58d1f8",
+      "fetched_at": "2026-07-25T01:05:36Z",
+      "id": "bab0de58d1f85915898d",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-07-21T00:12:24Z",
+      "published_at": "2026-07-24T12:10:00Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
+        "published within 24 hours",
+        "major-event keyword: chip"
       ],
       "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
-      "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved"
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
+      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips"
     },
     {
       "also_covered_by": [],
@@ -1048,72 +891,76 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Moshiur Rahman Tonmoy",
-        "Dunren Che",
-        "Haitham Y. Adarbah",
-        "Afzel Noore"
+        "Baihui Wang",
+        "Bernard Koch"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.20691v1",
+      "canonical_url": "https://arxiv.org/abs/2607.21558v1",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Concept Bottleneck Models provide interpretable-by-design predictions by mediating diagnosis through human-understandable concepts, but in medical imaging, their trustworthiness is often limited by the quality and granularity of...",
-      "event_cluster_id": "824605710fc3",
+      "description": "Building socially calibrated large language models, which can learn from others without simply yielding to them, requires more than reducing sycophancy as a one-dimensional failure mode. Models must distinguish when to incorporate...",
+      "event_cluster_id": "6ec459c8f1da",
       "fetched_at": "2026-07-24T12:04:48Z",
-      "id": "824605710fc35f45995b",
+      "id": "6ec459c8f1daca269cbc",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-22T19:45:59Z",
-      "research_track": "medical_neuroimaging",
+      "published_at": "2026-07-23T17:40:07Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
+        "published within 24 hours",
         "major-event keyword: model",
-        "research relevance: medical imaging"
+        "technical relevance: reasoning"
       ],
-      "section": "medical_neuroimaging",
+      "section": "multimodal_foundation",
       "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Spatially Grounded Concept Bottleneck Models for Trustworthy Breast Ultrasound Diagnosis",
-      "url": "https://arxiv.org/abs/2607.20691v1"
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning",
+      "url": "https://arxiv.org/abs/2607.21558v1"
     },
     {
       "also_covered_by": [],
       "authors": [
-        "Zhi Chen",
-        "Le Zhang"
+        "Xiao Yu",
+        "Baolin Peng",
+        "Ruize Xu",
+        "Hao Zou",
+        "Qianhui Wu",
+        "Hao Cheng",
+        "Wenlin Yao",
+        "Nikhil Singh"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.20598v1",
+      "canonical_url": "https://arxiv.org/abs/2607.21557v1",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Medical image super-resolution (MedSR) requires recovering fine anatomical structures from degraded observations while avoiding unsupported details introduced by generative priors. Large-scale pre-trained multimodal diffusion...",
-      "event_cluster_id": "81f908cda2d1",
+      "description": "Modern AI agents rely on elaborate inference harnesses such as Claude Code, Codex, and OpenClaw to drive multi-turn reasoning, tool use, and access to external systems. While powerful, these complex harnesses also make agents hard to...",
+      "event_cluster_id": "e3da40c8fb23",
       "fetched_at": "2026-07-24T12:04:48Z",
-      "id": "81f908cda2d1cfd95aa3",
+      "id": "e3da40c8fb2368784ba8",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-22T17:57:17Z",
-      "research_track": "medical_neuroimaging",
+      "published_at": "2026-07-23T17:38:30Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
-        "research relevance: medical image",
-        "technical relevance: multimodal"
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: agent, tool use, reasoning"
       ],
-      "section": "medical_neuroimaging",
+      "section": "multimodal_foundation",
       "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MedDiT4SR: Tri-Stream Joint Adaptation of Pre-Trained Diffusion Transformers for Medical Image Super-Resolution",
-      "url": "https://arxiv.org/abs/2607.20598v1"
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "OpenForgeRL: Train Harness-native Agents in Any Environment",
+      "url": "https://arxiv.org/abs/2607.21557v1"
     },
     {
       "also_covered_by": [],
@@ -1190,35 +1037,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "San Francisco tip: it only costs around $15 ($10 in quarters plus a $5 bill for the self-playing violin) to activate every single Orchestrion in Musée Mécanique . And because most people are bad at allocating their funds you may well be...",
-      "event_cluster_id": "82c3e17de64e",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "82c3e17de64ebd78f25d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T14:48:52Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Orchestrions",
-      "url": "https://simonwillison.net/2026/Jul/22/all-the-orchestrions"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Charlotte Jee"
       ],
@@ -1278,45 +1096,16 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "How AI helps scientists design the next generation of medicines",
       "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "d7a077a72ada",
-      "fetched_at": "2026-07-24T12:04:48Z",
-      "id": "d7a077a72ada1585f4b3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-23T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Helion on TPU: Towards Hardware Heterogeneous Kernel Authoring",
-      "url": "https://pytorch.org/blog/helion-on-tpu-towards-hardware-heterogeneous-kernel-authoring"
     }
   ],
-  "date_label": "Friday, July 24, 2026",
-  "generated_at": "2026-07-24T12:04:48Z",
+  "date_label": "Saturday, July 25, 2026",
+  "generated_at": "2026-07-25T01:05:36Z",
   "summary": {
-    "duplicates_removed": 3,
-    "failed_sources": 1,
-    "fetched_items": 200,
-    "retained_items": 39,
-    "successful_sources": 20
+    "duplicates_removed": 2,
+    "failed_sources": 3,
+    "fetched_items": 172,
+    "retained_items": 33,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
