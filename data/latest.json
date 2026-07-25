@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -10,10 +11,10 @@
       ],
       "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
       "event_cluster_id": "9a0069857034",
-      "fetched_at": "2026-07-25T01:05:36Z",
+      "fetched_at": "2026-07-25T11:47:03Z",
       "id": "9a00698570340f0b80ba",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-07-24T18:07:32Z",
@@ -68,38 +69,50 @@
       "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/poolside",
+      "also_covered_by": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "authors": [
+        "Soroosh Tayebi Arasteh",
+        "Sebastian Ziegelmayer",
+        "Mahshad Lotfinia",
+        "Lisa Adams",
+        "Sven Nebelung",
+        "Jakob Nikolas Kather",
+        "Daniel Truhn"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.20274v1",
       "cluster_sources": [
-        "Latent Space"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Poolside's co-CEO on how his small team of top researchers built a model factory capable of training Laguna S - a 118B MOE beating Thinky's ~1T open weights model... and this is just the beginning.",
-      "event_cluster_id": "7b83ab134e17",
-      "fetched_at": "2026-07-23T07:10:08Z",
-      "id": "7b83ab134e17e024f909",
+      "description": "Medical image encoders from different groups are increasingly treated as interchangeable, on the assumption that scale and clinical supervision concentrate their representations onto a shared structure. Whether this convergence is real,...",
+      "event_cluster_id": "a9477024cc79",
+      "fetched_at": "2026-07-23T12:11:58Z",
+      "id": "a9477024cc799201e281",
       "image_url": "",
-      "is_breaking": true,
-      "is_long_read": true,
+      "is_breaking": false,
+      "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-23T05:09:14Z",
-      "research_track": "",
-      "score": 20,
+      "published_at": "2026-07-22T15:25:05Z",
+      "research_track": "medical_neuroimaging",
+      "score": 22,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model, training",
-        "technical relevance: open weights",
-        "long-read source"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image, medical foundation model",
+        "technical relevance: foundation model",
+        "covered by multiple configured sources"
       ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "Inside the Model Factory — Eiso Kant, Poolside AI",
-      "url": "https://www.latent.space/p/poolside"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Self-supervision drives representational convergence in medical foundation models more than clinical supervision",
+      "url": "https://arxiv.org/abs/2607.20274v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/claude-opus-5",
       "cluster_sources": [
@@ -107,7 +120,7 @@
       ],
       "description": "Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
       "event_cluster_id": "c34a327604b5",
-      "fetched_at": "2026-07-25T01:05:36Z",
+      "fetched_at": "2026-07-25T11:47:03Z",
       "id": "c34a327604b5be4a7c98",
       "image_url": "https://www.anthropic.com/_next/image?url=https%3A%2F%2Fwww-cdn.anthropic.com%2Fimages%2F4zrzovbb%2Fwebsite%2F54b7ab1d2c2521f83ae5d2da5f9d99321c370d24-2880x1620.png&w=3840&q=75",
       "is_breaking": false,
@@ -243,6 +256,42 @@
       "url": "https://arxiv.org/abs/2607.20993v1"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Jonghun Kim"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.18763v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Magnetic resonance imaging comes in various modality contrasts that provide complementary anatomical and pathological information. Complete multimodal acquisitions are often unavailable due to time and protocol constraints. This leads to...",
+      "event_cluster_id": "aa21e715b10d",
+      "fetched_at": "2026-07-22T12:14:14Z",
+      "id": "aa21e715b10df4d774e1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-21T06:41:44Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: acquisition",
+        "research relevance: medical image",
+        "technical relevance: multimodal",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Posterior Samplings are Missing Modalities Generators for Medical Image Translation",
+      "url": "https://arxiv.org/abs/2607.18763v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/25/boris-cherny",
       "cluster_sources": [
@@ -272,6 +321,7 @@
       "url": "https://simonwillison.net/2026/Jul/25/boris-cherny"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5",
       "cluster_sources": [
@@ -397,66 +447,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "a quiet day lets us highlight a new neolab win.",
-      "event_cluster_id": "b84094e090b7",
-      "fetched_at": "2026-07-23T07:10:08Z",
-      "id": "b84094e090b7831fc535",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/9_0hs2sxHHo",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-07-23T05:18:47Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, released",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] \"Laguna S 2.1 Released: Cheaper than Deepseek v4 Flash, Better than V4 Pro\"",
-      "url": "https://www.latent.space/p/ainews-laguna-s-21-released-cheaper"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/23/seth-larson",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "The Python Package Index (PyPI) now rejects new files being uploaded to releases that are older than 14 days. This restriction was put in place to prevent old and long-stable releases from being poisoned in case publishing tokens or...",
-      "event_cluster_id": "0eb1d0626c54",
-      "fetched_at": "2026-07-23T07:10:08Z",
-      "id": "0eb1d0626c5499bfffa7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-23T04:50:36Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: release"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Seth Larson",
-      "url": "https://simonwillison.net/2026/Jul/23/seth-larson"
-    },
-    {
       "authors": [
         "Russell Brandom"
       ],
@@ -466,7 +456,7 @@
       ],
       "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
       "event_cluster_id": "2686459fefe3",
-      "fetched_at": "2026-07-25T01:05:36Z",
+      "fetched_at": "2026-07-25T11:47:03Z",
       "id": "2686459fefe3f4cde712",
       "image_url": "",
       "is_breaking": false,
@@ -786,6 +776,36 @@
       "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "ain't nobody beats Anthropic at distilling Fable!",
+      "event_cluster_id": "013aaa4c6738",
+      "fetched_at": "2026-07-25T11:47:03Z",
+      "id": "013aaa4c67382290fea9",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!FqD_!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOBjK6cbIAA2Yph.jpg",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-07-25T07:25:38Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Claude Opus 5: Fable-level performance at Opus price (half Fable)",
+      "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Charlotte Jee"
       ],
@@ -795,7 +815,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to...",
       "event_cluster_id": "bab0de58d1f8",
-      "fetched_at": "2026-07-25T01:05:36Z",
+      "fetched_at": "2026-07-25T11:47:03Z",
       "id": "bab0de58d1f85915898d",
       "image_url": "",
       "is_breaking": false,
@@ -965,79 +985,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Guillermo Rubiños Rodríguez",
-        "Martín Ottavianelli",
-        "Mateo Alonso",
-        "Gonzalo Blázquez Gil",
-        "Boris-Stephan Rauchmann",
-        "Pablo Díez-Valle",
-        "Sergio Altares-López"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.21186v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Numerous studies have analyzed the use of hybrid quantum-classical convolutional neural networks as a promising alternative to classical deep learning. However, network components on quantum hardware impose fundamental limitations, while...",
-      "event_cluster_id": "49bb19b73837",
-      "fetched_at": "2026-07-24T07:11:52Z",
-      "id": "49bb19b738370f01d928",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-23T11:15:35Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification",
-      "url": "https://arxiv.org/abs/2607.21186v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Elderly People with Frailty or Dementia Azul Debenedetti",
-        "David Gamez",
-        "Franco Such",
-        "Nik Kairinos"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.21156v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "More than a million people in the UK suffer from frailty or dementia, which severely compromise their ability to travel in urban environments. This paper presents SafeStep, an AI-driven travel system that assists elderly users with their...",
-      "event_cluster_id": "57be482c32fb",
-      "fetched_at": "2026-07-24T07:11:52Z",
-      "id": "57be482c32fb89fb2782",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-23T10:37:28Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: dementia"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "SafeStep: AI-powered Travel Assistance for Elderly People with Frailty or Dementia",
-      "url": "https://arxiv.org/abs/2607.21156v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Charlotte Jee"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai",
@@ -1099,13 +1046,13 @@
     }
   ],
   "date_label": "Saturday, July 25, 2026",
-  "generated_at": "2026-07-25T01:05:36Z",
+  "generated_at": "2026-07-25T11:47:03Z",
   "summary": {
-    "duplicates_removed": 2,
-    "failed_sources": 3,
-    "fetched_items": 172,
-    "retained_items": 33,
-    "successful_sources": 18
+    "duplicates_removed": 3,
+    "failed_sources": 1,
+    "fetched_items": 199,
+    "retained_items": 31,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
