@@ -36,37 +36,38 @@
       "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage"
     },
     {
-      "also_covered_by": [],
+      "also_covered_by": [
+        "Hacker News"
+      ],
       "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal",
+      "canonical_url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models",
       "cluster_sources": [
-        "Latent Space"
+        "Simon Willison"
       ],
-      "description": "A HUGE win for BFL!",
-      "event_cluster_id": "2e07e31fd0ed",
-      "fetched_at": "2026-07-24T07:11:52Z",
-      "id": "2e07e31fd0edeba2b364",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!3n0x!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2080308957898481664.jpg",
-      "is_breaking": true,
-      "is_long_read": true,
+      "description": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more...",
+      "event_cluster_id": "01d9c6d72a8d",
+      "fetched_at": "2026-07-21T12:10:51Z",
+      "id": "01d9c6d72a8d0c6ebf2c",
+      "image_url": "https://static.simonwillison.net/static/2026/qwen-3.8-max-pelican.png",
+      "is_breaking": false,
+      "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-24T04:30:12Z",
+      "published_at": "2026-07-20T17:09:19Z",
       "research_track": "",
-      "score": 22,
+      "score": 24,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal",
-        "startup/product signal: seed",
-        "long-read source"
+        "critical source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "research relevance: PET",
+        "covered by multiple configured sources"
       ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Black Forest Labs FLUX 3 - Multimodal Flow Models that beat Seedance 2.0, Gemini Omni and Grok Imagine, and FLUX-mimic video-action robotics model",
-      "url": "https://www.latent.space/p/ainews-black-forest-labs-flux-3-multimodal"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Who’s Afraid of Chinese Models?",
+      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models"
     },
     {
       "also_covered_by": [
@@ -395,70 +396,6 @@
       "url": "https://arxiv.org/abs/2607.21595v1"
     },
     {
-      "authors": [
-        "sbulaev"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20723",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7c45ee786521",
-      "fetched_at": "2026-07-24T07:11:52Z",
-      "id": "hn-49032137",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T07:07:06Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Leaky Language Models: Stealing Architecture and Inference Optimizations",
-      "url": "https://arxiv.org/abs/2607.20723"
-    },
-    {
-      "authors": [
-        "wertyk"
-      ],
-      "canonical_url": "https://huggingface.co/badtheorylabs/BTL-3",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "921e364cfbd0",
-      "fetched_at": "2026-07-24T07:11:52Z",
-      "id": "hn-49031938",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T06:40:52Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, open-weight",
-        "technical relevance: agent, tool use"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "BTL-3: A 27B open-weight agent model for agentic coding and structural tool use",
-      "url": "https://huggingface.co/badtheorylabs/BTL-3"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
@@ -491,6 +428,71 @@
       "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system"
     },
     {
+      "authors": [
+        "g58892881"
+      ],
+      "canonical_url": "https://inflect-tts.geronimo-labs.com",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "b4daccaf3fb2",
+      "fetched_at": "2026-07-26T07:13:23Z",
+      "id": "hn-49055475",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-26T06:58:44Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Inflect TTS v2+ONNX, 9M/4M text-to-speech models running in the browser",
+      "url": "https://inflect-tts.geronimo-labs.com"
+    },
+    {
+      "authors": [
+        "G3819"
+      ],
+      "canonical_url": "https://github.com/puffinsoft/mousecrack",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f778018cdf0f",
+      "fetched_at": "2026-07-26T07:13:23Z",
+      "id": "hn-49055418",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-26T06:46:21Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Mousecrack – Bypass agent mouse detection with deep learning",
+      "url": "https://github.com/puffinsoft/mousecrack"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Axtary"
       ],
@@ -555,6 +557,7 @@
       "url": "https://marketplace.visualstudio.com/items?itemName=petar-s-dimov.argus-worktree-agent-sessions"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/25/ruff",
       "cluster_sources": [
@@ -583,6 +586,7 @@
       "url": "https://simonwillison.net/2026/Jul/25/ruff"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim De Chant"
       ],
@@ -592,7 +596,7 @@
       ],
       "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
       "event_cluster_id": "cc04af0507f4",
-      "fetched_at": "2026-07-26T01:10:34Z",
+      "fetched_at": "2026-07-26T07:13:23Z",
       "id": "cc04af0507f4f94d16e9",
       "image_url": "",
       "is_breaking": false,
@@ -773,13 +777,13 @@
     }
   ],
   "date_label": "Sunday, July 26, 2026",
-  "generated_at": "2026-07-26T01:10:34Z",
+  "generated_at": "2026-07-26T07:13:23Z",
   "summary": {
-    "duplicates_removed": 2,
-    "failed_sources": 3,
-    "fetched_items": 180,
+    "duplicates_removed": 3,
+    "failed_sources": 1,
+    "fetched_items": 204,
     "retained_items": 23,
-    "successful_sources": 18
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
