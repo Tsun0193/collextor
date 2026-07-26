@@ -37,40 +37,6 @@
     },
     {
       "also_covered_by": [
-        "Hacker News"
-      ],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Who’s Afraid of Chinese Models? Interesting proposal from Ben Thompson that both addresses the hypocrisy of labs outlawing distillation against their models despite training on unlicensed data, and could help US open models compete more...",
-      "event_cluster_id": "01d9c6d72a8d",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "01d9c6d72a8d0c6ebf2c",
-      "image_url": "https://static.simonwillison.net/static/2026/qwen-3.8-max-pelican.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-20T17:09:19Z",
-      "research_track": "",
-      "score": 24,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "research relevance: PET",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Who’s Afraid of Chinese Models?",
-      "url": "https://simonwillison.net/2026/Jul/20/afraid-of-chinese-models"
-    },
-    {
-      "also_covered_by": [
         "arXiv - Multimodal and Foundation Models"
       ],
       "authors": [
@@ -396,6 +362,38 @@
       "url": "https://arxiv.org/abs/2607.21595v1"
     },
     {
+      "authors": [
+        "birdculture"
+      ],
+      "canonical_url": "https://sebsite.pw/w/20260725-auto.html",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2f50cd963721",
+      "fetched_at": "2026-07-26T11:46:15Z",
+      "id": "hn-49056892",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-26T11:12:22Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "The perils of parsing type inference declarations in C",
+      "url": "https://sebsite.pw/w/20260725-auto.html"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
@@ -429,53 +427,53 @@
     },
     {
       "authors": [
-        "g58892881"
+        "krishnakantk876"
       ],
-      "canonical_url": "https://inflect-tts.geronimo-labs.com",
+      "canonical_url": "https://github.com/kunal12203/swafra",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "b4daccaf3fb2",
-      "fetched_at": "2026-07-26T07:13:23Z",
-      "id": "hn-49055475",
+      "event_cluster_id": "2bb1bcce48d1",
+      "fetched_at": "2026-07-26T11:46:15Z",
+      "id": "hn-49057003",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-26T06:58:44Z",
+      "published_at": "2026-07-26T11:28:31Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: model",
-        "startup/product signal: Show HN"
+        "major-event keyword: open source",
+        "startup/product signal: open source"
       ],
-      "section": "startup_product",
+      "section": "ai_engineering",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Inflect TTS v2+ONNX, 9M/4M text-to-speech models running in the browser",
-      "url": "https://inflect-tts.geronimo-labs.com"
+      "title": "We achieved 94.7% in Longmemeval with no hacks lol, everything open sourced",
+      "url": "https://github.com/kunal12203/swafra"
     },
     {
       "authors": [
-        "G3819"
+        "wong2kim"
       ],
-      "canonical_url": "https://github.com/puffinsoft/mousecrack",
+      "canonical_url": "https://github.com/openwong2kim/wmux",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "f778018cdf0f",
-      "fetched_at": "2026-07-26T07:13:23Z",
-      "id": "hn-49055418",
+      "event_cluster_id": "228e45b4ed9f",
+      "fetched_at": "2026-07-26T11:46:15Z",
+      "id": "hn-49056854",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-26T06:46:21Z",
+      "published_at": "2026-07-26T11:06:16Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
@@ -488,73 +486,40 @@
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Mousecrack – Bypass agent mouse detection with deep learning",
-      "url": "https://github.com/puffinsoft/mousecrack"
+      "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
+      "url": "https://github.com/openwong2kim/wmux"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Axtary"
+        "mingshi_tz"
       ],
-      "canonical_url": "https://axtary.com",
+      "canonical_url": "https://github.com/Fluxara-GOD/fluxara1-audit-verification-pack",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "5e75d3d74f2e",
-      "fetched_at": "2026-07-26T01:10:34Z",
-      "id": "hn-49053543",
+      "event_cluster_id": "7e173c557e2e",
+      "fetched_at": "2026-07-26T11:46:15Z",
+      "id": "hn-49055927",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-26T01:02:04Z",
+      "published_at": "2026-07-26T08:28:49Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "technical relevance: agent",
+        "major-event keyword: model, benchmark",
         "startup/product signal: Show HN"
       ],
       "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Axtary – Content Authorization for AI Agents",
-      "url": "https://axtary.com"
-    },
-    {
-      "authors": [
-        "pdcd"
-      ],
-      "canonical_url": "https://marketplace.visualstudio.com/items?itemName=petar-s-dimov.argus-worktree-agent-sessions",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "327f0c6914a8",
-      "fetched_at": "2026-07-26T01:10:34Z",
-      "id": "hn-49053523",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-26T00:58:30Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Argus – VSCode Worktree Agent Session Manager",
-      "url": "https://marketplace.visualstudio.com/items?itemName=petar-s-dimov.argus-worktree-agent-sessions"
+      "title": "Show HN: Reproducibility Benchmark a Risk Quantitative Model",
+      "url": "https://github.com/Fluxara-GOD/fluxara1-audit-verification-pack"
     },
     {
       "also_covered_by": [],
@@ -596,7 +561,7 @@
       ],
       "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
       "event_cluster_id": "cc04af0507f4",
-      "fetched_at": "2026-07-26T07:13:23Z",
+      "fetched_at": "2026-07-26T11:46:15Z",
       "id": "cc04af0507f4f94d16e9",
       "image_url": "",
       "is_breaking": false,
@@ -777,12 +742,12 @@
     }
   ],
   "date_label": "Sunday, July 26, 2026",
-  "generated_at": "2026-07-26T07:13:23Z",
+  "generated_at": "2026-07-26T11:46:15Z",
   "summary": {
     "duplicates_removed": 3,
     "failed_sources": 1,
-    "fetched_items": 204,
-    "retained_items": 23,
+    "fetched_items": 206,
+    "retained_items": 22,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
