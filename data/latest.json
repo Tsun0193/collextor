@@ -79,6 +79,40 @@
       "url": "https://arxiv.org/abs/2607.20274v1"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Jagmeet Singh"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+      "event_cluster_id": "2f8bbdd66f0b",
+      "fetched_at": "2026-07-22T12:14:14Z",
+      "id": "2f8bbdd66f0bd93a83ac",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-22T10:00:00Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security",
+        "technical relevance: agent",
+        "startup/product signal: API, developer tool"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era"
+    },
+    {
       "also_covered_by": [
         "arXiv - Medical AI and Neuroimaging"
       ],
@@ -229,97 +263,66 @@
       "url": "https://arxiv.org/abs/2607.18763v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/25/boris-cherny",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "More than any of these eval scores, what is most exciting to me is something else: Opus 5 is our least prompt injectable model yet. It is a bit buried in the system card, but across PI evals and red teaming, Opus 5 is very hard to prompt...",
-      "event_cluster_id": "19ec33d3c212",
-      "fetched_at": "2026-07-25T01:05:36Z",
-      "id": "19ec33d3c212238bb6d7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-25T00:42:59Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model, system card"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Boris Cherny",
-      "url": "https://simonwillison.net/2026/Jul/25/boris-cherny"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Introducing Claude Opus 5 I've been offline kayaking with sea otters for much of today so I haven't had a chance to put Anthropic's new model Claude Opus 5 through its paces yet. The buzz is positive, and Anthropic's description of it as...",
-      "event_cluster_id": "7ad7adb78cc0",
-      "fetched_at": "2026-07-25T01:05:36Z",
-      "id": "7ad7adb78cc0b27856b7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-24T23:48:50Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: introducing, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Introducing Claude Opus 5",
-      "url": "https://simonwillison.net/2026/Jul/24/introducing-claude-opus-5"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Russell Brandom"
+        "scottcodie"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5",
+      "canonical_url": "https://github.com/RelativeDB/RelQL",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Hacker News"
       ],
-      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "event_cluster_id": "2686459fefe3",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "2686459fefe3f4cde712",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "485baceb109c",
+      "fetched_at": "2026-07-27T01:13:24Z",
+      "id": "hn-49063842",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-24T17:00:00Z",
+      "published_at": "2026-07-27T00:32:52Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: RelativeDB – OSS query engine for relational foundation models",
+      "url": "https://github.com/RelativeDB/RelQL"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/26/relay-market",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources. This...",
+      "event_cluster_id": "b68ab22c7225",
+      "fetched_at": "2026-07-27T01:13:24Z",
+      "id": "b68ab22c72256d97944e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-26T19:30:54Z",
       "research_track": "",
       "score": 16,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch",
-        "startup/product signal: launches"
+        "critical source",
+        "published within 6 hours",
+        "startup/product signal: API"
       ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic launches Opus 5",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
+      "url": "https://simonwillison.net/2026/Jul/26/relay-market"
     },
     {
       "also_covered_by": [],
@@ -360,6 +363,37 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
       "url": "https://arxiv.org/abs/2607.21595v1"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
+      "event_cluster_id": "ea53099c818b",
+      "fetched_at": "2026-07-27T01:13:24Z",
+      "id": "ea53099c818be8003111",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T00:19:14Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Are brain waves the next unlock for physical AI?",
+      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai"
     },
     {
       "authors": [
@@ -427,6 +461,133 @@
     },
     {
       "authors": [
+        "piogryko"
+      ],
+      "canonical_url": "https://svetoviz.com",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "0ef8eb9c7a36",
+      "fetched_at": "2026-07-22T07:15:25Z",
+      "id": "hn-49002924",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-22T07:13:49Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: GPU",
+        "technical relevance: PyTorch"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "I build WebGPU PyTorch debugger, dataset browser and NumPy viewer",
+      "url": "https://svetoviz.com"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Christine McGuiness and Devang Khariwala"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "The conversation about AI often centers on algorithms, computing power, or huge investments in new semiconductor fabrication plants and hyperscale data centers. But beneath each of these advances is another layer of innovation that makes...",
+      "event_cluster_id": "257f75d3ef78",
+      "fetched_at": "2026-07-21T12:10:51Z",
+      "id": "257f75d3ef784a683d5e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-07-21T10:37:34Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Advancing next-gen AI with materials science innovation",
+      "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation"
+    },
+    {
+      "authors": [
+        "ekduman"
+      ],
+      "canonical_url": "https://github.com/orca-gamedev/img2blockbench",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "88de5135971c",
+      "fetched_at": "2026-07-27T01:13:24Z",
+      "id": "hn-49063753",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T00:18:53Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Turn an image into a 3D blockbench model",
+      "url": "https://github.com/orca-gamedev/img2blockbench"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
+      "event_cluster_id": "c4b36408fd95",
+      "fetched_at": "2026-07-27T01:13:24Z",
+      "id": "c4b36408fd9507a6a542",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-26T16:33:13Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
+      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack"
+    },
+    {
+      "authors": [
         "krishnakantk876"
       ],
       "canonical_url": "https://github.com/kunal12203/swafra",
@@ -456,70 +617,6 @@
       "source_name": "Hacker News",
       "title": "We achieved 94.7% in Longmemeval with no hacks lol, everything open sourced",
       "url": "https://github.com/kunal12203/swafra"
-    },
-    {
-      "authors": [
-        "wong2kim"
-      ],
-      "canonical_url": "https://github.com/openwong2kim/wmux",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "228e45b4ed9f",
-      "fetched_at": "2026-07-26T11:46:15Z",
-      "id": "hn-49056854",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-26T11:06:16Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Wmux – A workspace multiplexer for AI agents",
-      "url": "https://github.com/openwong2kim/wmux"
-    },
-    {
-      "authors": [
-        "mingshi_tz"
-      ],
-      "canonical_url": "https://github.com/Fluxara-GOD/fluxara1-audit-verification-pack",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7e173c557e2e",
-      "fetched_at": "2026-07-26T11:46:15Z",
-      "id": "hn-49055927",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-26T08:28:49Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, benchmark",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Reproducibility Benchmark a Risk Quantitative Model",
-      "url": "https://github.com/Fluxara-GOD/fluxara1-audit-verification-pack"
     },
     {
       "also_covered_by": [],
@@ -613,142 +710,106 @@
       "url": "https://www.latent.space/p/ainews-claude-opus-5-fable-level"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Rebecca Bellan"
+        "Anthony Ha"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions",
+      "canonical_url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "event_cluster_id": "04aa753d0df2",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "04aa753d0df2117c5690",
+      "description": "On the latest episode of Equity, we discussed why Moonshot AI's Kimi seemed to panic Silicon Valley and Wall Street.",
+      "event_cluster_id": "b95a9468e816",
+      "fetched_at": "2026-07-27T01:13:24Z",
+      "id": "b95a9468e816ab8137f8",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-24T15:51:49Z",
+      "published_at": "2026-07-26T19:40:57Z",
       "research_track": "",
-      "score": 14,
+      "score": 12,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "major-event keyword: model, open-weight"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "event_cluster_id": "360ca539d8bd",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "360ca539d8bd298a2596",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T15:13:57Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: tool use"
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool"
+      "title": "Making sense of the panic over Chinese AI",
+      "url": "https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai"
     },
     {
       "also_covered_by": [],
       "authors": [
-        "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane"
+        "Rebecca Bellan, Connie Loizos"
       ],
-      "canonical_url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street",
+      "canonical_url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its...",
-      "event_cluster_id": "402e7f786d3b",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "402e7f786d3ba247d549",
+      "description": "A running look — in reverse chronological order — at the bigger tech companies that have announced significant layoffs this year with AI as a stated factor.",
+      "event_cluster_id": "e447243a68e0",
+      "fetched_at": "2026-07-26T07:13:23Z",
+      "id": "e447243a68e0619ea5ce",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-24T14:00:00Z",
+      "published_at": "2026-07-26T01:30:00Z",
       "research_track": "",
-      "score": 14,
+      "score": 12,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "major-event keyword: release, released, model"
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street"
+      "title": "Monday.com is the latest tech company to blame AI for layoffs — here are 20 others",
+      "url": "https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai"
     },
     {
       "also_covered_by": [],
       "authors": [
-        "Charlotte Jee"
+        "Amanda Silberling"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips",
+      "canonical_url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "TechCrunch AI"
       ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Supercooled kidneys have been transplanted into pigs in a “landmark achievement” When it comes to...",
-      "event_cluster_id": "bab0de58d1f8",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "bab0de58d1f85915898d",
+      "description": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+      "event_cluster_id": "f2fa2f0eee8d",
+      "fetched_at": "2026-07-26T11:46:15Z",
+      "id": "f2fa2f0eee8dc12fcd54",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": true,
+      "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-24T12:10:00Z",
+      "published_at": "2026-07-25T16:00:00Z",
       "research_track": "",
-      "score": 14,
+      "score": 11,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "major-event keyword: chip"
+        "published within 24 hours"
       ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: an organ transplant breakthrough, and homegrown Chinese chips",
-      "url": "https://www.technologyreview.com/2026/07/24/1140776/the-download-organ-transplant-breakthrough-chinese-chips"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+      "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech"
     }
   ],
-  "date_label": "Sunday, July 26, 2026",
-  "generated_at": "2026-07-26T11:46:15Z",
+  "date_label": "Monday, July 27, 2026",
+  "generated_at": "2026-07-27T01:13:24Z",
   "summary": {
-    "duplicates_removed": 3,
-    "failed_sources": 1,
-    "fetched_items": 206,
-    "retained_items": 22,
-    "successful_sources": 20
+    "duplicates_removed": 2,
+    "failed_sources": 3,
+    "fetched_items": 171,
+    "retained_items": 24,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
