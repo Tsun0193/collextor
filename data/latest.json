@@ -1,116 +1,43 @@
 {
   "articles": [
     {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-      "event_cluster_id": "9a0069857034",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "9a00698570340f0b80ba",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-24T18:07:32Z",
-      "research_track": "",
-      "score": 24,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, acquisition",
-        "research relevance: PET",
-        "technical relevance: agent",
-        "startup/product signal: acquisition"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage"
-    },
-    {
       "also_covered_by": [
-        "arXiv - Multimodal and Foundation Models"
+        "Ars Technica AI"
       ],
       "authors": [
-        "Soroosh Tayebi Arasteh",
-        "Sebastian Ziegelmayer",
-        "Mahshad Lotfinia",
-        "Lisa Adams",
-        "Sven Nebelung",
-        "Jakob Nikolas Kather",
-        "Daniel Truhn"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20274v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical image encoders from different groups are increasingly treated as interchangeable, on the assumption that scale and clinical supervision concentrate their representations onto a shared structure. Whether this convergence is real,...",
-      "event_cluster_id": "a9477024cc79",
-      "fetched_at": "2026-07-23T12:11:58Z",
-      "id": "a9477024cc799201e281",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T15:25:05Z",
-      "research_track": "medical_neuroimaging",
-      "score": 22,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image, medical foundation model",
-        "technical relevance: foundation model",
-        "covered by multiple configured sources"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Self-supervision drives representational convergence in medical foundation models more than clinical supervision",
-      "url": "https://arxiv.org/abs/2607.20274v1"
-    },
-    {
-      "authors": [
-        "Dan Goodin"
+        "joozio"
       ],
       "canonical_url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms",
       "cluster_sources": [
-        "Ars Technica AI"
+        "Hacker News"
       ],
-      "description": "Microsoft says tools cost less than competing ones and outperform them, too.",
+      "description": "Hacker News discussion",
       "event_cluster_id": "1c8a63fbb847",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "1c8a63fbb8476d30a2fc",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2025/09/microsoft-logo-500x500.jpg",
-      "is_breaking": true,
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "hn-49080345",
+      "image_url": "",
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-27T21:56:14Z",
+      "published_at": "2026-07-28T07:02:33Z",
       "research_track": "",
       "score": 20,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 6 hours",
         "major-event keyword: security",
-        "research relevance: PET"
+        "research relevance: PET",
+        "covered by multiple configured sources"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
       "title": "Microsoft unveils AI security tools it says outperform competing platforms",
       "url": "https://arstechnica.com/security/2026/07/microsoft-unveils-ai-security-tools-it-says-outperform-competing-platforms"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -120,10 +47,10 @@
       ],
       "description": "Microsoft bolstered its AI cybersecurity offerings this week with the launch of its first AI security model and a new security platform.",
       "event_cluster_id": "d4d9e8d950b1",
-      "fetched_at": "2026-07-28T01:00:07Z",
+      "fetched_at": "2026-07-28T07:18:15Z",
       "id": "d4d9e8d950b1e49ad1a4",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-07-27T18:32:11Z",
@@ -144,156 +71,71 @@
       "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system"
     },
     {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
       "authors": [
-        "Rafsan Jany",
-        "Shadab Tanjeed Ahmad",
-        "Ahsan Bulbul",
-        "Tahsinul Islam",
-        "Md Azam Hossain",
-        "Abu Raihan Mostofa Kamal"
+        "Latent.Space"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.21546v1",
+      "canonical_url": "https://www.latent.space/p/ainews-much-ado-about-open-weights",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Latent Space"
       ],
-      "description": "Multimodal based approaches often outperform single modality approaches in downstream tasks as the different modalities provide complementary information, yet acquiring paired clinical data remains a significant challenge in real world...",
-      "event_cluster_id": "383f36b29dc2",
-      "fetched_at": "2026-07-24T12:04:48Z",
-      "id": "383f36b29dc272607dc8",
-      "image_url": "",
+      "description": "Everyone is writing a lot, but only Kimi K3 shipped today",
+      "event_cluster_id": "2b7537498fec",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "2b7537498fec0e7e34b0",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!90od!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOR8_rBbEAAhTr6.jpg",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-07-23T17:33:29Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
+      "published_at": "2026-07-28T06:20:13Z",
+      "research_track": "",
+      "score": 17,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical imaging",
-        "technical relevance: multimodal",
-        "covered by multiple configured sources"
+        "high source",
+        "published within 6 hours",
+        "technical relevance: open weights",
+        "long-read source"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "UnDA: Unpaired Domain Alignment for Cross-Modal Knowledge Transfer in Medical Imaging",
-      "url": "https://arxiv.org/abs/2607.21546v1"
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Much ado about Open Weights",
+      "url": "https://www.latent.space/p/ainews-much-ado-about-open-weights"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Farhad Nooralahzadeh",
-        "Lea Bogensperger",
-        "Christian Bluethgen",
-        "Michael Krauthammer"
+        "Jagmeet Singh"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.20993v1",
+      "canonical_url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "TechCrunch AI"
       ],
-      "description": "Large vision-language models are becoming increasingly dominant in 3D medical image interpretation, but we rarely know which internal units encode clinical findings or where that information lives in the representation. We first study...",
-      "event_cluster_id": "af1038de62ba",
-      "fetched_at": "2026-07-24T07:11:52Z",
-      "id": "af1038de62bad5ad25f8",
+      "description": "Cursor says India is now its third-largest market globally and plans to expand local hiring and enterprise sales.",
+      "event_cluster_id": "b74ab88693ae",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "b74ab88693ae4f37ae2e",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-23T07:17:11Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
+      "published_at": "2026-07-28T04:30:00Z",
+      "research_track": "",
+      "score": 17,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: vision-language"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Sparse Concept Channels in Frozen 3D CT Vision Encoders",
-      "url": "https://arxiv.org/abs/2607.20993v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lizhe Fang",
-        "Weizhou Shen",
-        "Tianyi Tang",
-        "Yisen Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.19345v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language models that generate step-by-step reasoning traces have achieved strong performance on complex tasks, and extending them to long-context settings has emerged as an important frontier. However, we identify a critical...",
-      "event_cluster_id": "f556f41c22fc",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "f556f41c22fc8b3cb819",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-21T17:59:21Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2607.19345v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jonghun Kim"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18763v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Magnetic resonance imaging comes in various modality contrasts that provide complementary anatomical and pathological information. Complete multimodal acquisitions are often unavailable due to time and protocol constraints. This leads to...",
-      "event_cluster_id": "aa21e715b10d",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "aa21e715b10df4d774e1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-21T06:41:44Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
+        "high source",
+        "published within 6 hours",
         "major-event keyword: acquisition",
-        "research relevance: medical image",
-        "technical relevance: multimodal",
         "startup/product signal: acquisition"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Posterior Samplings are Missing Modalities Generators for Medical Image Translation",
-      "url": "https://arxiv.org/abs/2607.18763v1"
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing",
+      "url": "https://techcrunch.com/2026/07/27/cursor-makes-its-biggest-india-push-yet-ahead-of-spacex-acquisition-with-localized-pricing"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/27/kimi-k3",
       "cluster_sources": [
@@ -321,6 +163,49 @@
       "source_name": "Simon Willison",
       "title": "moonshotai/Kimi-K3",
       "url": "https://simonwillison.net/2026/Jul/27/kimi-k3"
+    },
+    {
+      "also_covered_by": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "authors": [
+        "Hangjie Yuan",
+        "Yichen Qian",
+        "Zhiwei Tang",
+        "Xianzhe Xu",
+        "Lirong Wu",
+        "Sicheng Yang",
+        "Jinwang Wang",
+        "Pengju Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.24743v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multimodal large language models (MLLMs) hold immense potential to revolutionize clinical practice, yet deploying them in the medical domain is fundamentally a vision-centric challenge: models must absorb knowledge from heterogeneous 2D...",
+      "event_cluster_id": "9c53f0e70bc1",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "9c53f0e70bc1b9081c71",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T17:59:49Z",
+      "research_track": "medical_neuroimaging",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal",
+        "covered by multiple configured sources"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "url": "https://arxiv.org/abs/2607.24743v1"
     },
     {
       "authors": [
@@ -390,6 +275,40 @@
     },
     {
       "authors": [
+        "fionaattelnyx"
+      ],
+      "canonical_url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "5e6e27d01cc4",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "hn-49076505",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-27T22:46:28Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference",
+        "startup/product signal: API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Kimi K3 Now Available via Telnyx Inference API",
+      "url": "https://telnyx.com/release-notes/kimi-k3-telnyx-inference"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control",
@@ -398,7 +317,7 @@
       ],
       "description": "OpenAI's Hugging Face breach has reignited debate over AI alignment and control, exposing competing views on whether increasingly capable AI should be better aligned, better contained, or both.",
       "event_cluster_id": "dca84da5e02b",
-      "fetched_at": "2026-07-28T01:00:07Z",
+      "fetched_at": "2026-07-28T07:18:15Z",
       "id": "dca84da5e02b32398678",
       "image_url": "",
       "is_breaking": false,
@@ -452,45 +371,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Wenhao Li",
-        "Xueying Jiang",
-        "Quanhao Qian",
-        "Deli Zhao",
-        "Ran Xu",
-        "Shijian Lu",
-        "Gongjie Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.21595v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Despite rapid progress, most existing vision-language models (VLMs) built from 2D visual inputs often struggle when handling various 3D tasks that require fine-grained spatial understanding and reasoning. To bridge this gap, we present...",
-      "event_cluster_id": "2a285cf7ee5b",
-      "fetched_at": "2026-07-24T12:04:48Z",
-      "id": "2a285cf7ee5b659f3228",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-23T17:59:59Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, VLM, reasoning",
-        "startup/product signal: API"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
-      "url": "https://arxiv.org/abs/2607.21595v1"
-    },
-    {
-      "authors": [
         "Julie Bort"
       ],
       "canonical_url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
@@ -521,41 +401,7 @@
       "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai"
     },
     {
-      "also_covered_by": [
-        "Anthropic News"
-      ],
-      "authors": [
-        "surprisetalk"
-      ],
-      "canonical_url": "https://www.anthropic.com/news/position-open-weights-models",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "688b06fb84f5",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "hn-49076057",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-27T22:03:49Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, open-weight",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Our position on open-weights models",
-      "url": "https://www.anthropic.com/news/position-open-weights-models"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -683,38 +529,6 @@
       "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai"
     },
     {
-      "authors": [
-        "birdculture"
-      ],
-      "canonical_url": "https://sebsite.pw/w/20260725-auto.html",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "2f50cd963721",
-      "fetched_at": "2026-07-26T11:46:15Z",
-      "id": "hn-49056892",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-26T11:12:22Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "The perils of parsing type inference declarations in C",
-      "url": "https://sebsite.pw/w/20260725-auto.html"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
@@ -811,6 +625,7 @@
       "url": "https://www.technologyreview.com/2026/07/21/1140602/advancing-next-gen-ai-with-materials-science-innovation"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff",
       "cluster_sources": [
@@ -839,6 +654,7 @@
       "url": "https://simonwillison.net/2026/Jul/27/an-opinionated-guide-to-which-ai-to-use-to-do-stuff"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Will Douglas Heaven"
       ],
@@ -848,7 +664,7 @@
       ],
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Reading OpenAI’s account last week of how some of its models broke their containment and hacked into..",
       "event_cluster_id": "0580f6421ced",
-      "fetched_at": "2026-07-28T01:00:07Z",
+      "fetched_at": "2026-07-28T07:18:15Z",
       "id": "0580f6421ced3b84a390",
       "image_url": "",
       "is_breaking": false,
@@ -870,36 +686,287 @@
       "url": "https://www.technologyreview.com/2026/07/27/1140836/openai-hugging-face-attack-precedent"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Anthony Ha"
+        "Yifan Ye",
+        "Yankai Fu",
+        "Yaoxu Lv",
+        "Bohan Hou",
+        "Jun Cen",
+        "Lingdong Kong",
+        "Duo Zheng",
+        "Tianxing Chen"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack",
+      "canonical_url": "https://arxiv.org/abs/2607.24744v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "\"The first autonomous agent cyberattack is an unprecedented event. It deserves an unprecedented response!\"",
-      "event_cluster_id": "c4b36408fd95",
-      "fetched_at": "2026-07-27T13:26:23Z",
-      "id": "c4b36408fd9507a6a542",
+      "description": "Multimodal foundation models learned to see and to speak by consuming the whole internet. Embodied agents admit no such shortcut, since they require data that couple observations with physical states and actions. These signals can be...",
+      "event_cluster_id": "8d19d29eaedc",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "8d19d29eaedcbdc6386f",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-26T16:33:13Z",
-      "research_track": "",
+      "published_at": "2026-07-27T17:59:58Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "technical relevance: agent"
+        "major-event keyword: model",
+        "technical relevance: multimodal, foundation model, agent"
       ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack",
-      "url": "https://techcrunch.com/2026/07/26/hugging-face-ceo-calls-for-radical-transparency-after-unprecedented-openai-hack"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Data Pyramid for Embodied Manipulation",
+      "url": "https://arxiv.org/abs/2607.24744v1"
+    },
+    {
+      "authors": [
+        "Krithi Shailya",
+        "Ananya Lakshmi Ravi",
+        "Venkatanathan K. V.",
+        "Sowmya S. Sundaram",
+        "Gokul S. Krishnan",
+        "Aditi Anand",
+        "Balaraman Ravindran"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.24730v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Computer vision models have become highly effective for medical applications, yet their black-box nature continues to undermine clinician trust. In clinical workflows, chest X-ray classifiers are increasingly paired with Vision-Language...",
+      "event_cluster_id": "58183fb0e2d0",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "58183fb0e2d0fb64ec87",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T17:57:02Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+      "url": "https://arxiv.org/abs/2607.24730v1"
+    },
+    {
+      "authors": [
+        "Tianyi Men",
+        "Zhuoran Jin",
+        "Kang Liu",
+        "Jun Zhao"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.24720v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Multi-turn long-horizon planning is critical for foundation model agents, yet how to fundamentally improve it remains unclear. Existing models are trained on uncontrollable and opaque Internet data, making it difficult to identify how...",
+      "event_cluster_id": "f9e4ac9cae08",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "f9e4ac9cae08e59c0163",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T17:55:03Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: foundation model, agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation",
+      "url": "https://arxiv.org/abs/2607.24720v1"
+    },
+    {
+      "authors": [
+        "Ali Ansari",
+        "Yasmin Mohammadi",
+        "Farnoush Nili",
+        "Parsa Esmaeilkhani",
+        "Longin Jan Latecki",
+        "Eduard Dragut"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.24707v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Entity-Relationship Diagrams (ERDs) are central to conceptual database design, yet they are typically available only as rendered images rather than machine-readable schemas, limiting AI-assisted database engineering. We introduce...",
+      "event_cluster_id": "7cbc4d2c27ee",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "7cbc4d2c27eee27f089d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T17:46:43Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, RAG"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "ERUnderstand: Evaluating Vision-Language Models on Structured ER Diagrams",
+      "url": "https://arxiv.org/abs/2607.24707v1"
+    },
+    {
+      "authors": [
+        "Yanhao Jia",
+        "Jiepeng Wang",
+        "Haibin Huang",
+        "Chi Zhang",
+        "Erik Cambria",
+        "Xuelong Li"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.24665v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Modern large language models scale successfully by pairing capacity growth with efficiency, keeping per-token and deployment costs under control as capacity grows. AIGC Foundation Models (AFMs), especially diffusion-transformer...",
+      "event_cluster_id": "cd61cd5245d9",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "cd61cd5245d901319f94",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T17:05:04Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "MMOE: Modernizing Diffusion Transformers with Efficient Expert Design",
+      "url": "https://arxiv.org/abs/2607.24665v1"
+    },
+    {
+      "authors": [
+        "Atharva Pandey",
+        "Gautam Jajoo"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.24649v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Large language models are increasingly used as social simulators, including as synthetic survey respondents. Most evaluations ask whether simulated outcomes resemble human outcomes. We argue that this is necessary but too weak: a...",
+      "event_cluster_id": "144ad30dc097",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "144ad30dc0973adca43c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T16:47:27Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Reason-Mediated Behavioral Models for Auditing LLM Social Simulators",
+      "url": "https://arxiv.org/abs/2607.24649v1"
+    },
+    {
+      "authors": [
+        "Marzieh Zare"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.24519v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Pretrained EEG foundation models are increasingly proposed for clinical decoding, but their transfer across populations and robustness to negative controls remain unclear. We benchmark six models (LaBraM, EEGMamba, CBraMod, REVE, BENDR,...",
+      "event_cluster_id": "8ea3132fa7a9",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "8ea3132fa7a9b80241d2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T14:59:42Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: foundation model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Stress-Testing EEG Foundation Models for Clinical Decoding: Dataset Identity and Targeted Negative Controls",
+      "url": "https://arxiv.org/abs/2607.24519v1"
+    },
+    {
+      "authors": [
+        "Mingzhi Xu",
+        "Yizhe Zhang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.24453v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Learning from minimal human supervision is a long-standing goal in medical image analysis, where dense expert annotations are costly. We study retinal vessel segmentation in an extreme semi-supervised setting with one annotated image and...",
+      "event_cluster_id": "8a5840369d78",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "8a5840369d7832b48571",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T13:57:07Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "ESRVS: Extreme Semi-Supervised Retinal Vessel Segmentation with a Single Annotated Image",
+      "url": "https://arxiv.org/abs/2607.24453v1"
     },
     {
       "also_covered_by": [],
@@ -962,6 +1029,45 @@
       "url": "https://huggingface.co/blog/nvidia/cosmos-h-dreams"
     },
     {
+      "authors": [
+        "Liu He",
+        "Yuanchao Li",
+        "Yin-Long Liu",
+        "Rui Feng",
+        "Yiming Wang",
+        "Jiaxin Chen",
+        "Yizhe Wang",
+        "Jiahong Yuan"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.23977v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Acoustic biomarkers show promise for detecting Alzheimer's Disease (AD), yet whether the cues driving diagnostic AI align with those salient to human listeners is underexplored across languages and genders, where pathological markers and...",
+      "event_cluster_id": "e042cb440ee2",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "e042cb440ee20e81b211",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-27T04:02:57Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: Alzheimer, Alzheimer's disease"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Disentangling Acoustic Cues in Alzheimer's Pathology and Perception: The Roles of Language and Gender",
+      "url": "https://arxiv.org/abs/2607.23977v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/cognizant-anthropic",
       "cluster_sources": [
@@ -969,7 +1075,7 @@
       ],
       "description": "",
       "event_cluster_id": "7b68f4f0be7a",
-      "fetched_at": "2026-07-28T01:00:07Z",
+      "fetched_at": "2026-07-28T07:18:15Z",
       "id": "7b68f4f0be7a0fcc3726",
       "image_url": "",
       "is_breaking": false,
@@ -988,15 +1094,47 @@
       "source_name": "Anthropic News",
       "title": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
       "url": "https://www.anthropic.com/news/cognizant-anthropic"
+    },
+    {
+      "authors": [
+        "Nathanael Ren",
+        "Saagar Arya"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.23883v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "In this paper, we examine the difficulties of using standard techniques for medical image classification due to long-tailed distributions (wherein rarer conditions have very few samples) resulting in bias towards diagnosing common...",
+      "event_cluster_id": "af3f26dc8191",
+      "fetched_at": "2026-07-28T07:18:15Z",
+      "id": "af3f26dc81918d4af57b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-26T23:04:49Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Long-Tailed Medical Image Classification",
+      "url": "https://arxiv.org/abs/2607.23883v1"
     }
   ],
   "date_label": "Tuesday, July 28, 2026",
-  "generated_at": "2026-07-28T01:00:07Z",
+  "generated_at": "2026-07-28T07:18:15Z",
   "summary": {
     "duplicates_removed": 4,
     "failed_sources": 1,
-    "fetched_items": 198,
-    "retained_items": 30,
+    "fetched_items": 207,
+    "retained_items": 34,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
