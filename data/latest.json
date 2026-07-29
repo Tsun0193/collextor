@@ -2,6 +2,73 @@
   "articles": [
     {
       "also_covered_by": [
+        "Hugging Face Blog"
+      ],
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their infrastructure ....",
+      "event_cluster_id": "2c795bbc8434",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "2c795bbc8434d4813d4e",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-28T21:28:54Z",
+      "research_track": "",
+      "score": 23,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, released",
+        "technical relevance: agent",
+        "covered by multiple configured sources"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
+      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion"
+    },
+    {
+      "authors": [
+        "Marina Temkin"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The deal is Cyera's third acquisition this year.",
+      "event_cluster_id": "1236a4d8bb11",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "1236a4d8bb1155bda238",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-29T00:09:05Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: acquisition, security",
+        "technical relevance: agent",
+        "startup/product signal: acquisition"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents"
+    },
+    {
+      "also_covered_by": [
         "Ars Technica AI"
       ],
       "authors": [
@@ -69,6 +136,188 @@
       "source_name": "TechCrunch AI",
       "title": "Microsoft launches its first cybersecurity model, plus a new agentic cybersecurity system",
       "url": "https://techcrunch.com/2026/07/27/microsoft-launches-its-first-cyber-model-and-a-new-agentic-cybersecurity-system"
+    },
+    {
+      "authors": [
+        "apetuskey"
+      ],
+      "canonical_url": "https://github.com/reflex-dev/xy",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2546c963ca95",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "hn-49085798",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-28T15:54:55Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: GPU",
+        "research relevance: PET",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
+      "url": "https://github.com/reflex-dev/xy"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/chatgpt-work",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
+      "event_cluster_id": "60a8b00e51bc",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "60a8b00e51bcf718d397",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-07-28T15:26:30Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent",
+        "startup/product signal: product",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
+      "url": "https://www.latent.space/p/chatgpt-work"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/28/akshat-bubna",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were not ​compromised...",
+      "event_cluster_id": "5e9618da1ab3",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "5e9618da1ab3ad8b41cc",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-28T22:05:55Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Akshat Bubna",
+      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/28/uv",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "uv 0.12.0 Some interesting breaking changes in this release of uv , in particular to the default project produced by the uv init command. uv init is the uv shortcut for creating a new project. The previous version of uv , version 0.11.x,...",
+      "event_cluster_id": "88d7aa66eaa5",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "88d7aa66eaa5db4064fd",
+      "image_url": "https://static.simonwillison.net/static/2026/uv-diff.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-28T21:51:38Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "uv 0.12.0",
+      "url": "https://simonwillison.net/2026/Jul/28/uv"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "9c980868c23c",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "9c980868c23ca002eb7f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-28T16:27:42Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
+      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "a5bc54280bf2",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "a5bc54280bf29efc8ba4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-28T15:01:45Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
     },
     {
       "authors": [
@@ -277,36 +526,35 @@
     },
     {
       "authors": [
-        "scottcodie"
+        "Ivan Mehta"
       ],
-      "canonical_url": "https://github.com/RelativeDB/RelQL",
+      "canonical_url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises",
       "cluster_sources": [
-        "Hacker News"
+        "TechCrunch AI"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "485baceb109c",
-      "fetched_at": "2026-07-27T01:13:24Z",
-      "id": "hn-49063842",
+      "description": "Since launching last year, the startup today has more than 8 million people using the open source or hosted version of its models, and now generates annual recurring revenue of $21 million.",
+      "event_cluster_id": "e06e94375ec6",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "e06e94375ec64ac45c11",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-27T00:32:52Z",
+      "published_at": "2026-07-28T14:00:00Z",
       "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model",
-        "startup/product signal: Show HN"
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: launch, model, open source",
+        "startup/product signal: startup, seed, open source"
       ],
       "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: RelativeDB – OSS query engine for relational foundation models",
-      "url": "https://github.com/RelativeDB/RelQL"
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Fish Audio raises $52M seed to build AI voice models for creators and enterprises",
+      "url": "https://techcrunch.com/2026/07/28/fish-audio-raises-50m-seed-to-build-ai-voice-models-for-creators-and-enterprises"
     },
     {
       "also_covered_by": [],
@@ -341,98 +589,66 @@
       "url": "https://techcrunch.com/2026/07/27/openais-hugging-face-breach-has-reignited-the-debate-over-alignment-and-control"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/26/relay-market",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "An Inside Look at the Relay Market Powering Token Resellers and Fraud Fascinating investigation by Matt Lenhard into the market that has grown up around reselling LLM tokens at a discount by pooling API keys from various sources. This...",
-      "event_cluster_id": "b68ab22c7225",
-      "fetched_at": "2026-07-27T01:13:24Z",
-      "id": "b68ab22c72256d97944e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-26T19:30:54Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "An Inside Look at the Relay Market Powering Token Resellers and Fraud",
-      "url": "https://simonwillison.net/2026/Jul/26/relay-market"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Julie Bort"
+        "Dan Goodin"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai",
+      "canonical_url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Ars Technica AI"
       ],
-      "description": "Anthropic founder and CEO Dario Amodei made his views clear about open-weight models and China's growing AI capabilities.",
-      "event_cluster_id": "dd7e50322775",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "dd7e50322775ce712058",
-      "image_url": "",
+      "description": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
+      "event_cluster_id": "cca9d437cc4e",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "cca9d437cc4ea4a04ede",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-28T00:13:33Z",
+      "published_at": "2026-07-28T21:36:39Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: model, open-weight"
+        "major-event keyword: release, model"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic’s Dario Amodei responds: doesn’t oppose open-weight models, but fears Chinese AI",
-      "url": "https://techcrunch.com/2026/07/27/anthropics-dario-amodei-responds-doesnt-oppose-open-weight-models-but-fears-chinese-ai"
+      "source_id": "ars_ai",
+      "source_name": "Ars Technica AI",
+      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
+      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Julie Bort"
+        "Tim Fernholz"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive",
+      "canonical_url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Companies without their own models — or without a layer of AI infrastructure known as AI gateways to separate their prompts from the model itself — will be in trouble, Nadella says.",
-      "event_cluster_id": "4c82c2589879",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "4c82c25898792233404e",
+      "description": "His change of position comes after \"the first security incident that I have felt very viscerally.\"",
+      "event_cluster_id": "e5f32018a401",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "e5f32018a401d49d89b2",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-27T21:17:11Z",
+      "published_at": "2026-07-28T20:17:08Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: model"
+        "major-event keyword: security"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Satya Nadella says companies that trust one AI for everything may not survive",
-      "url": "https://techcrunch.com/2026/07/27/satya-nadella-says-companies-that-trust-one-ai-for-everything-may-not-survive"
+      "title": "Sam Altman is ready to decelerate",
+      "url": "https://techcrunch.com/2026/07/28/sam-altman-is-ready-to-decelerate"
     },
     {
       "also_covered_by": [],
@@ -501,38 +717,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Forget YouTube videos—frontier physical AI models need multiple camera angles, dense annotation, and soon, brain wave readings.",
-      "event_cluster_id": "ea53099c818b",
-      "fetched_at": "2026-07-27T01:13:24Z",
-      "id": "ea53099c818be8003111",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-27T00:19:14Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Are brain waves the next unlock for physical AI?",
-      "url": "https://techcrunch.com/2026/07/26/are-brain-waves-the-next-unlock-for-physical-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Lucas Ropek"
       ],
       "canonical_url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system",
@@ -593,6 +777,96 @@
       "source_name": "Hacker News",
       "title": "I build WebGPU PyTorch debugger, dataset browser and NumPy viewer",
       "url": "https://svetoviz.com"
+    },
+    {
+      "authors": [
+        "Latent.Space"
+      ],
+      "canonical_url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "The Big Pause is coming.",
+      "event_cluster_id": "f6d0815aa9af",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "f6d0815aa9af8b943f06",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!u8gQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87c30d45-da74-47aa-80c6-77903e4c9cbf_2094x1890.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-07-29T00:46:52Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+      "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo ) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither of these...",
+      "event_cluster_id": "f03c61538314",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "f03c61538314beb0a559",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-28T22:45:37Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Discovering cryptographic weaknesses with Claude",
+      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude"
+    },
+    {
+      "authors": [
+        "Tim De Chant"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
+      "event_cluster_id": "08634371ee1f",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "08634371ee1fa30a8252",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-28T15:42:26Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
+      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid"
     },
     {
       "also_covered_by": [],
@@ -916,38 +1190,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Tim De Chant"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "event_cluster_id": "cc04af0507f4",
-      "fetched_at": "2026-07-26T11:46:15Z",
-      "id": "cc04af0507f4f94d16e9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-25T13:05:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Mingzhi Xu",
         "Yizhe Zhang"
       ],
@@ -979,6 +1221,7 @@
       "url": "https://arxiv.org/abs/2607.24453v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Charlotte Jee"
       ],
@@ -1007,6 +1250,35 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
       "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "81edb01431e7",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "81edb01431e729bfec10",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-28T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "PyTorch Foundation Flare Pin Community Design Contest",
+      "url": "https://pytorch.org/blog/pytorch-foundation-flare-pin-community-design-contest"
     },
     {
       "also_covered_by": [],
@@ -1106,78 +1378,16 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Disentangling Acoustic Cues in Alzheimer's Pathology and Perception: The Roles of Language and Gender",
       "url": "https://arxiv.org/abs/2607.23977v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/cognizant-anthropic",
-      "cluster_sources": [
-        "Anthropic News"
-      ],
-      "description": "",
-      "event_cluster_id": "7b68f4f0be7a",
-      "fetched_at": "2026-07-28T12:23:23Z",
-      "id": "7b68f4f0be7a0fcc3726",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-27T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "critical source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Jul 27, 2026 Announcements Cognizant and Anthropic expand their partnership to bring Claude to enterprise clients",
-      "url": "https://www.anthropic.com/news/cognizant-anthropic"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Nathanael Ren",
-        "Saagar Arya"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.23883v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "In this paper, we examine the difficulties of using standard techniques for medical image classification due to long-tailed distributions (wherein rarer conditions have very few samples) resulting in bias towards diagnosing common...",
-      "event_cluster_id": "af3f26dc8191",
-      "fetched_at": "2026-07-28T12:23:23Z",
-      "id": "af3f26dc81918d4af57b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-26T23:04:49Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Long-Tailed Medical Image Classification",
-      "url": "https://arxiv.org/abs/2607.23883v1"
     }
   ],
-  "date_label": "Tuesday, July 28, 2026",
-  "generated_at": "2026-07-28T12:23:23Z",
+  "date_label": "Wednesday, July 29, 2026",
+  "generated_at": "2026-07-29T01:03:19Z",
   "summary": {
-    "duplicates_removed": 3,
-    "failed_sources": 1,
-    "fetched_items": 208,
-    "retained_items": 35,
-    "successful_sources": 20
+    "duplicates_removed": 2,
+    "failed_sources": 3,
+    "fetched_items": 180,
+    "retained_items": 42,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
