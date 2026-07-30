@@ -136,6 +136,7 @@
       "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Siddharth Vohra"
       ],
@@ -145,7 +146,7 @@
       ],
       "description": "When asked to describe a medical image that was never attached, frontier vision-language models do not abstain: they confabulate a diagnosis. We show that this confabulation is not random. It is structured by who the patient is said to...",
       "event_cluster_id": "08c4a7851a81",
-      "fetched_at": "2026-07-30T07:16:36Z",
+      "fetched_at": "2026-07-30T12:13:53Z",
       "id": "08c4a7851a81d67647fb",
       "image_url": "",
       "is_breaking": false,
@@ -169,6 +170,7 @@
       "url": "https://arxiv.org/abs/2607.26886v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "David Hagerman",
         "Roman Naeem",
@@ -180,7 +182,7 @@
       ],
       "description": "Many high-performing volumetric segmentation models maintain dense multi-scale feature maps, leading to high activation memory and inference cost. We present BATS (Boundary-Aware Token Selection), a 3D medical image segmentation...",
       "event_cluster_id": "ee4a5c0b9870",
-      "fetched_at": "2026-07-30T07:16:36Z",
+      "fetched_at": "2026-07-30T12:13:53Z",
       "id": "ee4a5c0b98701293261f",
       "image_url": "",
       "is_breaking": false,
@@ -204,6 +206,7 @@
       "url": "https://arxiv.org/abs/2607.26829v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yitao Zhu",
         "Mengjun Liu",
@@ -344,6 +347,38 @@
       "source_name": "Latent Space",
       "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
       "url": "https://www.latent.space/p/chatgpt-work"
+    },
+    {
+      "authors": [
+        "Richard MacManus"
+      ],
+      "canonical_url": "https://www.latent.space/p/ontologies-agentic-systems",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "AI engineers are rediscovering ontologies as a way to keep probabilistic agents inside deterministic boundaries.",
+      "event_cluster_id": "99fb06084380",
+      "fetched_at": "2026-07-30T12:13:53Z",
+      "id": "99fb060843803783f813",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!180z!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F33011df5-c14f-4770-9b91-efa55618b6eb_1672x941.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-07-30T11:17:55Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
+      "url": "https://www.latent.space/p/ontologies-agentic-systems"
     },
     {
       "also_covered_by": [],
@@ -566,39 +601,7 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
     },
     {
-      "authors": [
-        "tajd"
-      ],
-      "canonical_url": "https://tajd.github.io/projektor",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "a19a73e37a17",
-      "fetched_at": "2026-07-28T12:23:23Z",
-      "id": "hn-49081887",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-28T10:33:57Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: open-source",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Open-source Cloudflare deployed agent native task management and wiki",
-      "url": "https://tajd.github.io/projektor"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "Peter Kirgis",
         "Sayash Kapoor",
@@ -615,7 +618,7 @@
       ],
       "description": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes...",
       "event_cluster_id": "11dd47a1c88b",
-      "fetched_at": "2026-07-30T07:16:36Z",
+      "fetched_at": "2026-07-30T12:13:53Z",
       "id": "11dd47a1c88bbcefb629",
       "image_url": "",
       "is_breaking": false,
@@ -638,6 +641,7 @@
       "url": "https://arxiv.org/abs/2607.27191v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Peter Tisnikar",
         "Maja Swieczkowska",
@@ -651,7 +655,7 @@
       ],
       "description": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed task and that the partner's...",
       "event_cluster_id": "74e5b3e5003b",
-      "fetched_at": "2026-07-30T07:16:36Z",
+      "fetched_at": "2026-07-30T12:13:53Z",
       "id": "74e5b3e5003bb420a18f",
       "image_url": "",
       "is_breaking": false,
@@ -712,6 +716,37 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "A systematic evaluation of machine learning classifiers for event-by-event background rejection in LAFOV PET scanners",
       "url": "https://arxiv.org/abs/2607.25732v1"
+    },
+    {
+      "authors": [
+        "Will Douglas Heaven"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "It is impossible to make large language models fully secure against hacks because of a fundamental flaw in how they work, a team of researchers argue in a paper presented at the International Conference on Machine Learning, a top AI...",
+      "event_cluster_id": "272316a1a726",
+      "fetched_at": "2026-07-30T12:13:53Z",
+      "id": "272316a1a7265e99b05a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-07-30T10:15:19Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "A fundamental flaw leaves LLMs strikingly vulnerable to attack",
+      "url": "https://www.technologyreview.com/2026/07/30/1140927/a-fundamental-flaw-leaves-llms-vulnerable-to-attack"
     },
     {
       "also_covered_by": [],
@@ -876,6 +911,39 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "funador"
+      ],
+      "canonical_url": "https://github.com/funador/claude-code-merge-queue",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "1437405ffd8a",
+      "fetched_at": "2026-07-30T00:58:15Z",
+      "id": "hn-49104747",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T00:20:16Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: A local merge queue for parallel Claude Code agents",
+      "url": "https://github.com/funador/claude-code-merge-queue"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
       "cluster_sources": [
@@ -934,6 +1002,7 @@
       "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Hengyi Xie",
         "Chenfei Yao",
@@ -950,7 +1019,7 @@
       ],
       "description": "Vision-language-action (VLA) models commonly adopt an LLM-centric $V \\to L \\to A$ pathway, where visual observations are projected into the representation space of a large language model before being decoded into robot actions. Although...",
       "event_cluster_id": "956fb57f1b82",
-      "fetched_at": "2026-07-30T07:16:36Z",
+      "fetched_at": "2026-07-30T12:13:53Z",
       "id": "956fb57f1b8270decf2e",
       "image_url": "",
       "is_breaking": false,
@@ -973,6 +1042,7 @@
       "url": "https://arxiv.org/abs/2607.27205v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Siyao Li",
         "Jiawei Gu",
@@ -989,7 +1059,7 @@
       ],
       "description": "Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard to tell whether the VLM made a bad...",
       "event_cluster_id": "9d874e2fef5d",
-      "fetched_at": "2026-07-30T07:16:36Z",
+      "fetched_at": "2026-07-30T12:13:53Z",
       "id": "9d874e2fef5d99861f0c",
       "image_url": "",
       "is_breaking": false,
@@ -1012,6 +1082,7 @@
       "url": "https://arxiv.org/abs/2607.27180v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yihao Chen",
         "Shi Chang",
@@ -1027,7 +1098,7 @@
       ],
       "description": "LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only...",
       "event_cluster_id": "699a0691c137",
-      "fetched_at": "2026-07-30T07:16:36Z",
+      "fetched_at": "2026-07-30T12:13:53Z",
       "id": "699a0691c137c11eb8b9",
       "image_url": "",
       "is_breaking": false,
@@ -1223,7 +1294,7 @@
       ],
       "description": "AI Worming through Word Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places hidden instructions in a document that..",
       "event_cluster_id": "3000631c4580",
-      "fetched_at": "2026-07-30T07:16:36Z",
+      "fetched_at": "2026-07-30T12:13:53Z",
       "id": "3000631c4580bfced1f1",
       "image_url": "",
       "is_breaking": false,
@@ -1244,6 +1315,7 @@
       "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Harshiddhi Pathak",
         "Gowtham Reddy N",
@@ -1337,46 +1409,15 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The AI Hype Index: Unsexy AI",
       "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Charlotte Jee"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. OpenAI called the Hugging Face attack unprecedented. But we’ve been here before. —Will Douglas...",
-      "event_cluster_id": "52e67519c2c8",
-      "fetched_at": "2026-07-28T12:23:23Z",
-      "id": "52e67519c2c8be476d34",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-07-28T12:10:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: OpenAI’s predictable hack, and an AI stock sell-off",
-      "url": "https://www.technologyreview.com/2026/07/28/1140868/the-download-openai-hack-ai-stock-sell-off"
     }
   ],
   "date_label": "Thursday, July 30, 2026",
-  "generated_at": "2026-07-30T07:16:36Z",
+  "generated_at": "2026-07-30T12:13:53Z",
   "summary": {
-    "duplicates_removed": 3,
+    "duplicates_removed": 2,
     "failed_sources": 1,
-    "fetched_items": 197,
-    "retained_items": 41,
+    "fetched_items": 203,
+    "retained_items": 42,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
