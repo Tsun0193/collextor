@@ -1,38 +1,34 @@
 {
   "articles": [
     {
-      "also_covered_by": [
-        "Hugging Face Blog"
-      ],
       "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion",
+      "canonical_url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents",
       "cluster_sources": [
         "Simon Willison"
       ],
-      "description": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident Hugging Face just released this extremely detailed technical description of OpenAI's recent accidental cyberattack against their infrastructure ....",
-      "event_cluster_id": "2c795bbc8434",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "2c795bbc8434d4813d4e",
+      "description": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of...",
+      "event_cluster_id": "60d2e5eea804",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "60d2e5eea80421a1c92d",
       "image_url": "",
       "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-28T21:28:54Z",
+      "published_at": "2026-07-30T23:41:29Z",
       "research_track": "",
-      "score": 23,
+      "score": 20,
       "score_reasons": [
         "critical source",
         "published within 6 hours",
-        "major-event keyword: release, released",
-        "technical relevance: agent",
-        "covered by multiple configured sources"
+        "major-event keyword: model, security",
+        "technical relevance: evaluation"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "simon_willison",
       "source_name": "Simon Willison",
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Technical Timeline of the July 2026 Incident",
-      "url": "https://simonwillison.net/2026/Jul/28/anatomy-of-a-frontier-lab-agent-intrusion"
+      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents"
     },
     {
       "also_covered_by": [],
@@ -102,38 +98,37 @@
       "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Marina Temkin"
+        "Jagmeet Singh"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
+      "canonical_url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "The deal is Cyera's third acquisition this year.",
-      "event_cluster_id": "1236a4d8bb11",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "1236a4d8bb1155bda238",
+      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
+      "event_cluster_id": "b5aabe6bc6ce",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "b5aabe6bc6ce58e28c0d",
       "image_url": "",
       "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-29T00:09:05Z",
+      "published_at": "2026-07-30T16:09:42Z",
       "research_track": "",
-      "score": 20,
+      "score": 19,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: acquisition, security",
+        "published within 24 hours",
+        "major-event keyword: security",
         "technical relevance: agent",
-        "startup/product signal: acquisition"
+        "startup/product signal: startup"
       ],
       "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents"
+      "title": "Okta buys AI security startup Permiso — source says for about $200M",
+      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m"
     },
     {
       "also_covered_by": [],
@@ -244,111 +239,47 @@
       "url": "https://arxiv.org/abs/2607.26554v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Malena Loza",
-        "David Chushig-Muzo",
-        "Eva Milara",
-        "Luis Bote-Curiel",
-        "Luis Estrada-Petrocelli",
-        "Felipe Grijalva"
+        "Mingdai Yang",
+        "Shicheng Fan",
+        "Kejing Yu",
+        "Duohao Wang",
+        "Li Sun",
+        "Hao Peng",
+        "Philip S. Yu",
+        "Zhiwei Liu"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.26000v1",
+      "canonical_url": "https://arxiv.org/abs/2607.28330v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Tabular Foundation Models (TFMs) have emerged as novel approaches for tabular predictive tasks, demonstrating competitive predictive performance to ensemble tree-based models. Most TFMs are trained and evaluated on independent and...",
-      "event_cluster_id": "45c48c3e2a25",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "45c48c3e2a25bdd5cebc",
+      "description": "LLM agents increasingly act as autonomous merchants that write their own product listings, and under competitive pressure, they fabricate attributes to win sales. Even under instructions to be honest, they fabricate attributes in a...",
+      "event_cluster_id": "3828926b87f0",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "3828926b87f006f1a773",
       "image_url": "",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-28T17:16:01Z",
+      "published_at": "2026-07-30T14:59:29Z",
       "research_track": "multimodal_foundation",
-      "score": 19,
+      "score": 18,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model",
         "research relevance: PET",
-        "technical relevance: foundation model, evaluation"
+        "technical relevance: agent",
+        "startup/product signal: product"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models",
-      "url": "https://arxiv.org/abs/2607.26000v1"
+      "title": "Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents",
+      "url": "https://arxiv.org/abs/2607.28330v1"
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "apetuskey"
-      ],
-      "canonical_url": "https://github.com/reflex-dev/xy",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "2546c963ca95",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "hn-49085798",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-28T15:54:55Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: GPU",
-        "research relevance: PET",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: XY – A Fast, composable, GPU-accelerated interactive plotting library",
-      "url": "https://github.com/reflex-dev/xy"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/chatgpt-work",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "OpenAI's core product engineering lead on how they are building ChatGPT Work to make AGI accessible to all of humanity: Sites, OpenClaw, Memory, Subagents, Finance, No-Code and advice.",
-      "event_cluster_id": "60a8b00e51bc",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "60a8b00e51bcf718d397",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-07-28T15:26:30Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent",
-        "startup/product signal: product",
-        "long-read source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "Codex from 0 to 10M Users: Building ChatGPT Work — Akshay Nathan, OpenAI",
-      "url": "https://www.latent.space/p/chatgpt-work"
-    },
-    {
       "authors": [
         "Richard MacManus"
       ],
@@ -379,6 +310,36 @@
       "source_name": "Latent Space",
       "title": "Ontologies Are So Back: Why AI Agents Are Reviving the Semantic Web",
       "url": "https://www.latent.space/p/ontologies-agentic-systems"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "8b96329aed14",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "8b96329aed14643e23bf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-30T00:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours",
+        "major-event keyword: security",
+        "technical relevance: evaluation"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations",
+      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
     },
     {
       "also_covered_by": [],
@@ -479,126 +440,38 @@
       "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/28/akshat-bubna",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Bowen Wang",
+        "Youwen Zhang",
+        "Ritesh Mehta"
       ],
-      "description": "We’re aware a Modal customer published an unauthenticated endpoint that allowed ​anyone on the internet to use ​their ⁠sandboxes for code execution. This was used by the rogue agent. Modal’s ⁠platform ​or isolation were not ​compromised...",
-      "event_cluster_id": "5e9618da1ab3",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "5e9618da1ab3ad8b41cc",
+      "canonical_url": "https://arxiv.org/abs/2607.27763v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "We describe the DS@GT submissions to the ImageCLEFmedical Caption 2026 challenge, which continues a long-running benchmark on the ROCOv2 dataset with two tracks: Concept Detection (Task 1), assigning UMLS Concept Unique Identifiers...",
+      "event_cluster_id": "a92989f274c2",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "a92989f274c2d9eec218",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-28T22:05:55Z",
-      "research_track": "",
-      "score": 17,
+      "published_at": "2026-07-30T07:01:49Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Akshat Bubna",
-      "url": "https://simonwillison.net/2026/Jul/28/akshat-bubna"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/28/uv",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "uv 0.12.0 Some interesting breaking changes in this release of uv , in particular to the default project produced by the uv init command. uv init is the uv shortcut for creating a new project. The previous version of uv , version 0.11.x,...",
-      "event_cluster_id": "88d7aa66eaa5",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "88d7aa66eaa5db4064fd",
-      "image_url": "https://static.simonwillison.net/static/2026/uv-diff.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-28T21:51:38Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: release"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "uv 0.12.0",
-      "url": "https://simonwillison.net/2026/Jul/28/uv"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "9c980868c23c",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "9c980868c23ca002eb7f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-28T16:27:42Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
+        "major-event keyword: model, benchmark",
+        "research relevance: medical image"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "The OlmoEarth Platform: Geospatial inference at planetary scale",
-      "url": "https://huggingface.co/blog/allenai/olmoearth-infrastructure"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "a5bc54280bf2",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "a5bc54280bf29efc8ba4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-28T15:01:45Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "DS@GT ARC at ImageCLEFmedical 2026: Architectural Diversity for Concept Detection and Foundation-Model Scaling for Caption Prediction in Medical Image Analysis",
+      "url": "https://arxiv.org/abs/2607.27763v1"
     },
     {
       "also_covered_by": [],
@@ -678,46 +551,38 @@
       "url": "https://arxiv.org/abs/2607.27177v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Konrad Klimaszewski",
-        "Michał Obara",
-        "Mateusz Bala",
-        "Beatrix C. Hiesmayr",
-        "Lech Raczyński",
-        "Roman Y. Shopa",
-        "Wojciech Zdeb",
-        "Wojciech Krzemien"
+        "Russell Brandom"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.25732v1",
+      "canonical_url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "TechCrunch AI"
       ],
-      "description": "The introduction of LAFOV PET scanners brings significant sensitivity gains but also a substantial increase in the background rate from accidental coincidences, phantom-scattered and detector-scattered photons. While machine learning...",
-      "event_cluster_id": "a8f75cf60bac",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "a8f75cf60bacfd4b5eef",
+      "description": "Amazon isn't slowing down on data center spending — but investors don't seem to mind.",
+      "event_cluster_id": "66e8d3ae7c5c",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "66e8d3ae7c5c81b2e4c7",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-28T13:57:20Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-07-30T22:41:41Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: PET",
-        "technical relevance: evaluation"
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A systematic evaluation of machine learning classifiers for event-by-event background rejection in LAFOV PET scanners",
-      "url": "https://arxiv.org/abs/2607.25732v1"
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Investors love AI, as long as you’re a cloud host",
+      "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Will Douglas Heaven"
       ],
@@ -782,132 +647,200 @@
     },
     {
       "authors": [
-        "jhales"
+        "qwikhost"
       ],
-      "canonical_url": "https://marble.glass.bio",
+      "canonical_url": "https://www.usagentleads.com",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "ce52ab2ec705",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "hn-49092032",
+      "event_cluster_id": "668377bf599e",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "hn-49117758",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-29T00:49:09Z",
+      "published_at": "2026-07-31T00:45:25Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Real Estate Agent Email List – 1.1M+ US Realtor Contacts",
+      "url": "https://www.usagentleads.com"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/30/luna-price-drop",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier...",
+      "event_cluster_id": "9dc864b95fc6",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "9dc864b95fc6be0d0510",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T23:58:42Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Advancing the price-performance frontier with GPT‑5.6",
+      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "859cdcef3df0",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "859cdcef3df01ae8d929",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T15:09:09Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: GPU"
+      ],
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+    },
+    {
+      "authors": [
+        "Zongyi Chen",
+        "Yu Liang",
+        "Jie Lin",
+        "Liansheng Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.28318v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Multimodal large language models (MLLMs) are increasingly used to analyze pathology images. However, dominant multimodal benchmarks in pathology mainly score final diagnostic answers, captions, or reports. These evaluations provide...",
+      "event_cluster_id": "093a7d2c62cf",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "093a7d2c62cf1f630529",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T14:53:51Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: multimodal, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "PathView-Bench: Can Multimodal Large Language Models Achieve Fine-grained Multiscale Understanding of Pathology Images?",
+      "url": "https://arxiv.org/abs/2607.28318v1"
+    },
+    {
+      "authors": [
+        "Cesare Zavattari",
+        "Alessandro Tommasi",
+        "Giuseppe Prencipe"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.28317v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "A single human must audit $N$ LLM agents under a budget of $B \\ll N$ audits per round, guided by self-reported confidence that may be adversarially miscalibrated and by correlated errors. We model this as budgeted noisy inspection over a...",
+      "event_cluster_id": "747365395028",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "747365395028f0aadda6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T14:52:36Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
         "major-event keyword: model",
         "technical relevance: agent"
       ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Marble – a model-agnostic agent harness for life sciences",
-      "url": "https://marble.glass.bio"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "One Human, $N$ Agents: Audit-Budget Allocation for LLM Agent Fleets under Miscalibrated, Correlated Confidence",
+      "url": "https://arxiv.org/abs/2607.28317v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "handfuloflight"
+        "Rong Wu",
+        "Daocheng Fu",
+        "Licheng Wen",
+        "Xuemeng Yang",
+        "Shu Zou",
+        "Jianbiao Mei",
+        "Yuxin Wang",
+        "Hairong Zhang"
       ],
-      "canonical_url": "https://www.hubble.md",
+      "canonical_url": "https://arxiv.org/abs/2607.28272v1",
       "cluster_sources": [
-        "Hacker News"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "67b4a3f1a57e",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "hn-49091730",
+      "description": "Retrieving past experiences has become a common strategy to enhance large language model agents. However, most existing memory-augmented agents treat retrieved experiences as static records to be replayed verbatim, injecting them into...",
+      "event_cluster_id": "746b56322d87",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "746b56322d87ca49ab59",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-29T00:11:23Z",
-      "research_track": "",
-      "score": 15,
+      "published_at": "2026-07-30T14:25:49Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 6 hours",
-        "major-event keyword: open-source",
+        "published within 24 hours",
+        "major-event keyword: model",
         "technical relevance: agent"
       ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Hubbele: Open-source notetaking app for you and your agents",
-      "url": "https://www.hubble.md"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Dan Goodin"
-      ],
-      "canonical_url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story",
-      "cluster_sources": [
-        "Ars Technica AI"
-      ],
-      "description": "10 days passed from OpenAI models exploiting JFrog Artifactory 0-day to release of a patch.",
-      "event_cluster_id": "cca9d437cc4e",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "cca9d437cc4ea4a04ede",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-28T21:36:39Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "We now have a better understanding how OpenAI hacked into Hugging Face",
-      "url": "https://arstechnica.com/security/2026/07/jfrog-tries-to-spin-openai-0-day-exploit-of-its-app-into-a-success-story"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lucas Ropek"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "AMD is challenging its chipmaker rival with a new rack-scale system that will start shipping to customers later this year.",
-      "event_cluster_id": "b2bbc1548504",
-      "fetched_at": "2026-07-24T01:01:37Z",
-      "id": "b2bbc1548504765e25a0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-23T20:33:02Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: chip"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AMD takes on Nvidia with its Helios AI rack-scale system",
-      "url": "https://techcrunch.com/2026/07/23/amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "MemHarness: Memory Is Reconstructed, Not Replayed",
+      "url": "https://arxiv.org/abs/2607.28272v1"
     },
     {
       "also_covered_by": [],
@@ -973,6 +906,70 @@
       "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc"
     },
     {
+      "authors": [
+        "quantbagel"
+      ],
+      "canonical_url": "https://useglass.up.railway.app",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "3ea42fd1b17e",
+      "fetched_at": "2026-07-30T00:58:15Z",
+      "id": "hn-49103904",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-29T22:26:38Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Always on visual context for your agents",
+      "url": "https://useglass.up.railway.app"
+    },
+    {
+      "authors": [
+        "AdamGleave"
+      ],
+      "canonical_url": "https://leaderboard.far.ai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "030eccddcee0",
+      "fetched_at": "2026-07-30T00:58:15Z",
+      "id": "hn-49103367",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-29T21:33:45Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: security",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: AI Security Leaderboard – comparing cyber and CBRN safeguards",
+      "url": "https://leaderboard.far.ai"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp",
@@ -1002,288 +999,105 @@
       "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Hengyi Xie",
-        "Chenfei Yao",
-        "Xianjin Wu",
-        "Xuanyang Xi",
-        "Yiping Tang",
-        "Di Xu",
-        "Yingying Zhu",
-        "Dingkang Liang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27205v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-language-action (VLA) models commonly adopt an LLM-centric $V \\to L \\to A$ pathway, where visual observations are projected into the representation space of a large language model before being decoded into robot actions. Although...",
-      "event_cluster_id": "956fb57f1b82",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "956fb57f1b8270decf2e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:59:58Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
-      "url": "https://arxiv.org/abs/2607.27205v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Siyao Li",
-        "Jiawei Gu",
-        "Shuai Liu",
-        "Kairui Hu",
-        "Zekun Li",
-        "Linjie Li",
-        "Chengcheng Tang",
-        "Po-Chen Wu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27180v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard to tell whether the VLM made a bad...",
-      "event_cluster_id": "9d874e2fef5d",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "9d874e2fef5d99861f0c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:51:36Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, VLM"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
-      "url": "https://arxiv.org/abs/2607.27180v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yihao Chen",
-        "Shi Chang",
-        "Feng Lin",
-        "Khaled Chawa",
-        "Boyuan Chen",
-        "Shaowei Wang",
-        "Ahmed E. Hassan"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27167v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only...",
-      "event_cluster_id": "699a0691c137",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "699a0691c137c11eb8b9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:42:47Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch",
-      "url": "https://arxiv.org/abs/2607.27167v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Latent.Space"
-      ],
-      "canonical_url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "The Big Pause is coming.",
-      "event_cluster_id": "f6d0815aa9af",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "f6d0815aa9af8b943f06",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!u8gQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F87c30d45-da74-47aa-80c6-77903e4c9cbf_2094x1890.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-07-29T00:46:52Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
-      "url": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude",
+      "canonical_url": "https://simonwillison.net/2026/Jul/30/bruce-schneier",
       "cluster_sources": [
         "Simon Willison"
       ],
-      "description": "Discovering cryptographic weaknesses with Claude The best part of this article (here's the repo ) about how Anthropic researchers used Claude Mythos to find mathematical flaws in both HAWK and a weaker version of AES (\"neither of these...",
-      "event_cluster_id": "f03c61538314",
-      "fetched_at": "2026-07-29T01:03:19Z",
-      "id": "f03c61538314beb0a559",
+      "description": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining..",
+      "event_cluster_id": "5b37cc1e046a",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "5b37cc1e046a431cf984",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-28T22:45:37Z",
+      "published_at": "2026-07-30T18:25:26Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "critical source",
-        "published within 6 hours"
+        "published within 24 hours"
       ],
-      "section": "ai_engineering",
+      "section": "business_policy",
       "source_category": "engineering",
       "source_id": "simon_willison",
       "source_name": "Simon Willison",
-      "title": "Discovering cryptographic weaknesses with Claude",
-      "url": "https://simonwillison.net/2026/Jul/28/discovering-cryptographic-weaknesses-with-claude"
+      "title": "Quoting Bruce Schneier",
+      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Rui Yang",
-        "Weihao Xuan",
-        "Yi Lin",
-        "Zhuhan Bao",
-        "Jonathan Chong Kai Liew",
-        "Matthew Yu Heng Wong",
-        "Nicolás Lescano",
-        "Nikita R. Paripati"
+        "Yiheng Xiong",
+        "Luisa Gallée",
+        "Daniel Santak Wolf",
+        "Heiko Hillenhagen",
+        "Michael Götz"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.25933v1",
+      "canonical_url": "https://arxiv.org/abs/2607.28125v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Clinical diagnostic evaluation should not only assess whether models can provide correct diagnoses, but also reflect the realities of clinical practice, including progressive disclosure of multimodal information, dynamic updating of...",
-      "event_cluster_id": "350af479fb02",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "350af479fb021d0d3b27",
+      "description": "Numerous unsupervised domain adaptation (UDA) algori-thms exist, but for clinical practice, selecting the best-suited one along with proper hyperparameters often remains unclear, as the unlabeled deployment (target) domain prevents...",
+      "event_cluster_id": "011b660cca43",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "011b660cca4352e86b8e",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-28T16:19:03Z",
+      "published_at": "2026-07-30T12:34:07Z",
       "research_track": "medical_neuroimaging",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, reasoning, evaluation"
+        "research relevance: medical imaging"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Evaluating Multi-Turn Multimodal Diagnostic Reasoning on Challenging Real-World Clinical Cases",
-      "url": "https://arxiv.org/abs/2607.25933v1"
+      "title": "Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging",
+      "url": "https://arxiv.org/abs/2607.28125v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Tim De Chant"
+        "Jianwei He",
+        "Kailin Lyu",
+        "Junhao Dong",
+        "Long Xiao",
+        "Wenjie Hou",
+        "Jingze Lu",
+        "Di Wu",
+        "Lin Shu"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid",
+      "canonical_url": "https://arxiv.org/abs/2607.27620v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "The decision arrives as the breakneck pace of data center construction has grid operators scrambling to generate power.",
-      "event_cluster_id": "08634371ee1f",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "08634371ee1fa30a8252",
+      "description": "Deep learning has shown strong potential in medical image analysis, but most existing methods rely on large-scale annotations and a closed-world assumption that rarely holds in clinical practice. Although Generalized Category Discovery...",
+      "event_cluster_id": "795009f81a27",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "795009f81a270df5f8a1",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-28T15:42:26Z",
-      "research_track": "",
-      "score": 14,
+      "published_at": "2026-07-30T03:15:26Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "major-event keyword: data center"
+        "research relevance: medical imaging, medical image"
       ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Data centers may face temporary power cuts to prevent blackouts on largest US grid",
-      "url": "https://techcrunch.com/2026/07/28/data-centers-may-face-temporary-power-cuts-to-prevent-blackouts-on-largest-us-grid"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Tim De Chant"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-      "event_cluster_id": "cc04af0507f4",
-      "fetched_at": "2026-07-26T11:46:15Z",
-      "id": "cc04af0507f4f94d16e9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-25T13:05:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-      "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MedXplore: Towards Reliable and Unbiased Generalized Category Discovery in Medical Imaging",
+      "url": "https://arxiv.org/abs/2607.27620v1"
     },
     {
       "also_covered_by": [],
@@ -1316,38 +1130,32 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Harshiddhi Pathak",
-        "Gowtham Reddy N",
-        "Mrinal Acharya",
-        "Manjunatha Mahadevappa"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.26746v1",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/29/matthew-green",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Simon Willison"
       ],
-      "description": "Accurate identification of Alzheimers disease (AD) using resting-state functional magnetic resonance imaging (rs-fMRI) remains challenging due to the high dimensionality, noise, and complex inter-regional dependencies inherent in...",
-      "event_cluster_id": "e4fd0bccf59e",
-      "fetched_at": "2026-07-30T07:16:36Z",
-      "id": "e4fd0bccf59ed004e3c5",
+      "description": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there are so many...",
+      "event_cluster_id": "c2be95c4524a",
+      "fetched_at": "2026-07-30T12:13:53Z",
+      "id": "c2be95c4524aebfdd6ff",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-29T10:38:21Z",
-      "research_track": "medical_neuroimaging",
+      "published_at": "2026-07-29T18:18:15Z",
+      "research_track": "",
       "score": 13,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: Alzheimer, MRI, fMRI"
+        "critical source",
+        "published within 24 hours"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "An Attention-Based Framework for Alzheimers Disease Classification Using Resting-State fMRI",
-      "url": "https://arxiv.org/abs/2607.26746v1"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Jul/29/matthew-green"
     },
     {
       "authors": [
@@ -1409,14 +1217,158 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The AI Hype Index: Unsexy AI",
       "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai"
+    },
+    {
+      "authors": [
+        "Charlotte Jee"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large...",
+      "event_cluster_id": "b1a87fb7018f",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "b1a87fb7018f69dbc0fc",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-07-30T12:10:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: tricking LLMs, and reviving geothermal plants",
+      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "1f2d9040d07a",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "1f2d9040d07a35603fde",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Echoverse: Deep, evolving environments for computer-use agents",
+      "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
+      "event_cluster_id": "8479edade87c",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "8479edade87c05f7ad28",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "9eb8763d8b86",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "9eb8763d8b8625bb75c6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities",
+      "url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "July 30, 2026",
+      "event_cluster_id": "b718c754e1fc",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "b718c754e1fc2a84522d",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T00:00:00Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "July 30, 2026 Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science · Machine Intelligence · Natural Language Processing",
+      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence"
     }
   ],
-  "date_label": "Thursday, July 30, 2026",
-  "generated_at": "2026-07-30T12:13:53Z",
+  "date_label": "Friday, July 31, 2026",
+  "generated_at": "2026-07-31T01:08:33Z",
   "summary": {
-    "duplicates_removed": 2,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 203,
+    "fetched_items": 200,
     "retained_items": 42,
     "successful_sources": 20
   },
