@@ -2,6 +2,41 @@
   "articles": [
     {
       "also_covered_by": [],
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
+      "event_cluster_id": "9a0069857034",
+      "fetched_at": "2026-07-25T11:47:03Z",
+      "id": "9a00698570340f0b80ba",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-24T18:07:32Z",
+      "research_track": "",
+      "score": 24,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, acquisition",
+        "research relevance: PET",
+        "technical relevance: agent",
+        "startup/product signal: acquisition"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
+      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents",
       "cluster_sources": [
@@ -109,7 +144,7 @@
       ],
       "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
       "event_cluster_id": "b5aabe6bc6ce",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "b5aabe6bc6ce58e28c0d",
       "image_url": "",
       "is_breaking": false,
@@ -167,80 +202,6 @@
       "url": "https://arxiv.org/abs/2607.26886v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "David Hagerman",
-        "Roman Naeem",
-        "Fredrik Kahl"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.26829v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Many high-performing volumetric segmentation models maintain dense multi-scale feature maps, leading to high activation memory and inference cost. We present BATS (Boundary-Aware Token Selection), a 3D medical image segmentation...",
-      "event_cluster_id": "ee4a5c0b9870",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "ee4a5c0b98701293261f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T12:21:40Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "research relevance: medical image",
-        "technical relevance: inference"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens",
-      "url": "https://arxiv.org/abs/2607.26829v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yitao Zhu",
-        "Mengjun Liu",
-        "Yingji Fu",
-        "Haowen Pang",
-        "Anqi Qiu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.26554v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Integrating 3D medical images with vision-language models (VLMs) holds substantial promise for computer-aided diagnosis. However, volumetric images generate prohibitively long visual-token sequences with considerable spatial and...",
-      "event_cluster_id": "8d830b2e8c5d",
-      "fetched_at": "2026-07-30T07:16:36Z",
-      "id": "8d830b2e8c5d1e4d92d2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T07:27:09Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "research relevance: medical image",
-        "technical relevance: vision-language, VLM"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MedARC: Training-Free Adaptive Redundancy Compression of Visual Tokens for 3D Medical Vision-Language Models",
-      "url": "https://arxiv.org/abs/2607.26554v1"
-    },
-    {
       "authors": [
         "Mingdai Yang",
         "Shicheng Fan",
@@ -279,6 +240,38 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents",
       "url": "https://arxiv.org/abs/2607.28330v1"
+    },
+    {
+      "authors": [
+        "Lin YC, Chiu SC, Massey R, Fang YD, Alzheimer's Disease Neuroimaging Initiative."
+      ],
+      "canonical_url": "https://doi.org/10.1002/alz.71683",
+      "cluster_sources": [
+        "Europe PMC - Medical AI and Neuroimaging"
+      ],
+      "description": "",
+      "event_cluster_id": "e242a3baed75",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "epmc-42533677",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-01T00:00:00Z",
+      "research_track": "medical_neuroimaging",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "research relevance: Alzheimer, Alzheimer's disease, neuroimaging"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "europe_pmc",
+      "source_name": "Europe PMC - Medical AI and Neuroimaging",
+      "title": "Classification of tau status with machine learning models in amyloid-positive cohorts.",
+      "url": "https://doi.org/10.1002/alz.71683"
     },
     {
       "also_covered_by": [],
@@ -322,7 +315,7 @@
       ],
       "description": "",
       "event_cluster_id": "8b96329aed14",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "8b96329aed14643e23bf",
       "image_url": "",
       "is_breaking": false,
@@ -412,38 +405,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "event_cluster_id": "d8e4be597a9a",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "d8e4be597a9ace8398d3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T11:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, released, model",
-        "startup/product signal: startup, raised"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "url": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it"
-    },
-    {
-      "authors": [
         "Xiangning Lin",
         "Shenzhe Zhu",
         "Shu Yang",
@@ -459,7 +420,7 @@
       ],
       "description": "System prompts are instructions configured by developers to govern the behaviors of foundation models in AI applications. They are used throughout commercial AI products, but are rarely disclosed to the public or regulators, creating a...",
       "event_cluster_id": "ff0e507e4097",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "ff0e507e40976a789648",
       "image_url": "",
       "is_breaking": false,
@@ -483,6 +444,7 @@
       "url": "https://arxiv.org/abs/2607.28617v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Qiushi Sun",
         "Kanzhi Cheng",
@@ -499,7 +461,7 @@
       ],
       "description": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data...",
       "event_cluster_id": "9315071781db",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "9315071781dbde7cb10d",
       "image_url": "",
       "is_breaking": false,
@@ -523,6 +485,7 @@
       "url": "https://arxiv.org/abs/2607.28609v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yunzhan Fu",
         "Xiangyu Shen",
@@ -537,7 +500,7 @@
       ],
       "description": "Medical image fusion aims to integrate complementary information from diverse imaging modalities to support clinical diagnosis. Existing methods typically apply uniform fusion rules globally, lacking a deep understanding of diagnostic...",
       "event_cluster_id": "e631a8144dd2",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "e631a8144dd272032e7b",
       "image_url": "",
       "is_breaking": false,
@@ -558,6 +521,39 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion",
       "url": "https://arxiv.org/abs/2607.28565v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
+      "event_cluster_id": "4e7e3688547f",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "4e7e3688547ff7a7d565",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-30T15:41:16Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: launch",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta says AI is making it easier to build new apps — and more are coming",
+      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming"
     },
     {
       "also_covered_by": [],
@@ -670,6 +666,70 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
       "url": "https://arxiv.org/abs/2607.27177v1"
+    },
+    {
+      "authors": [
+        "wek"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.26819",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2ada66b8b3a7",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "hn-49122245",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T12:28:22Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Study: Coding agents rarely retrieve open-source contribution rules",
+      "url": "https://arxiv.org/abs/2607.26819"
+    },
+    {
+      "authors": [
+        "theanonymousone"
+      ],
+      "canonical_url": "https://radekmie.dev/blog/on-type-inference",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f8168d322eae",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "hn-49122214",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T12:23:42Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "On Type Inference",
+      "url": "https://radekmie.dev/blog/on-type-inference"
     },
     {
       "authors": [
@@ -832,70 +892,7 @@
       "url": "https://getslaide.com"
     },
     {
-      "authors": [
-        "TrungTin"
-      ],
-      "canonical_url": "https://blackflare.dev",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "52c0357c97c7",
-      "fetched_at": "2026-07-31T07:24:52Z",
-      "id": "hn-49119935",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T07:05:26Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: I stopped babysitting my AI agents by pushing them to Telegram",
-      "url": "https://blackflare.dev"
-    },
-    {
-      "authors": [
-        "akbabu"
-      ],
-      "canonical_url": "https://marbleos.com/demo",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "399bdff0d1aa",
-      "fetched_at": "2026-07-31T07:24:52Z",
-      "id": "hn-49119274",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T05:17:29Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: What should the GUI for AI agents look like?",
-      "url": "https://marbleos.com/demo"
-    },
-    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
       "cluster_sources": [
@@ -954,6 +951,7 @@
       "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yao Xiao",
         "Reuben Tan",
@@ -968,7 +966,7 @@
       ],
       "description": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints. We present ReToken,...",
       "event_cluster_id": "cd7447e6fab5",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "cd7447e6fab5d9e48be8",
       "image_url": "",
       "is_breaking": false,
@@ -999,7 +997,7 @@
       ],
       "description": "",
       "event_cluster_id": "859cdcef3df0",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "859cdcef3df01ae8d929",
       "image_url": "",
       "is_breaking": false,
@@ -1088,7 +1086,7 @@
       ],
       "description": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining..",
       "event_cluster_id": "5b37cc1e046a",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "5b37cc1e046a431cf984",
       "image_url": "",
       "is_breaking": false,
@@ -1109,6 +1107,7 @@
       "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ruman Wang",
         "Hangting Ye"
@@ -1119,7 +1118,7 @@
       ],
       "description": "Classifying pathological scars from clinical photographs requires distinguishing keloids from hypertrophic scars despite limited expert-labeled data and substantial acquisition variation across hospitals. End-to-end image models remain...",
       "event_cluster_id": "bad2db534470",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "bad2db53447025e95142",
       "image_url": "",
       "is_breaking": false,
@@ -1140,6 +1139,81 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs",
       "url": "https://arxiv.org/abs/2607.28538v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Yiheng Xiong",
+        "Luisa Gallée",
+        "Daniel Santak Wolf",
+        "Heiko Hillenhagen",
+        "Michael Götz"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.28125v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Numerous unsupervised domain adaptation (UDA) algori-thms exist, but for clinical practice, selecting the best-suited one along with proper hyperparameters often remains unclear, as the unlabeled deployment (target) domain prevents...",
+      "event_cluster_id": "011b660cca43",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "011b660cca4352e86b8e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T12:34:07Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical imaging"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging",
+      "url": "https://arxiv.org/abs/2607.28125v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Jianwei He",
+        "Kailin Lyu",
+        "Junhao Dong",
+        "Long Xiao",
+        "Wenjie Hou",
+        "Jingze Lu",
+        "Di Wu",
+        "Lin Shu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.27620v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Deep learning has shown strong potential in medical image analysis, but most existing methods rely on large-scale annotations and a closed-world assumption that rarely holds in clinical practice. Although Generalized Category Discovery...",
+      "event_cluster_id": "795009f81a27",
+      "fetched_at": "2026-07-31T01:08:33Z",
+      "id": "795009f81a270df5f8a1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T03:15:26Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical imaging, medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MedXplore: Towards Reliable and Unbiased Generalized Category Discovery in Medical Imaging",
+      "url": "https://arxiv.org/abs/2607.27620v1"
     },
     {
       "also_covered_by": [],
@@ -1234,37 +1308,6 @@
       "authors": [
         "Charlotte Jee"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "It feels bad enough when an open letter signed by leading economists warns that AI might steal your job. The fact it may soon be better than you at making dinner? Insult to injury. But that’s exactly what the company 1X promised when it...",
-      "event_cluster_id": "f3ba6426979f",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "f3ba6426979fb08a9d87",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-07-29T08:42:57Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The AI Hype Index: Unsexy AI",
-      "url": "https://www.technologyreview.com/2026/07/29/1140795/the-ai-hype-index-unsexy-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Charlotte Jee"
-      ],
       "canonical_url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal",
       "cluster_sources": [
         "MIT Technology Review - Artificial Intelligence"
@@ -1294,42 +1337,13 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "9eb8763d8b86",
-      "fetched_at": "2026-07-31T07:24:52Z",
-      "id": "9eb8763d8b8625bb75c6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities",
-      "url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
       "canonical_url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents",
       "cluster_sources": [
         "Microsoft Research Blog"
       ],
       "description": "",
       "event_cluster_id": "1f2d9040d07a",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "1f2d9040d07a35603fde",
       "image_url": "",
       "is_breaking": false,
@@ -1359,7 +1373,7 @@
       ],
       "description": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
       "event_cluster_id": "8479edade87c",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "8479edade87c05f7ad28",
       "image_url": "",
       "is_breaking": false,
@@ -1383,13 +1397,42 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "9eb8763d8b86",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "9eb8763d8b8625bb75c6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities",
+      "url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
       "cluster_sources": [
         "Google Research Blog"
       ],
       "description": "July 30, 2026",
       "event_cluster_id": "b718c754e1fc",
-      "fetched_at": "2026-07-31T07:24:52Z",
+      "fetched_at": "2026-07-31T12:30:35Z",
       "id": "b718c754e1fc2a84522d",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
       "is_breaking": false,
@@ -1411,12 +1454,12 @@
     }
   ],
   "date_label": "Friday, July 31, 2026",
-  "generated_at": "2026-07-31T07:24:52Z",
+  "generated_at": "2026-07-31T12:30:35Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 2,
     "failed_sources": 1,
-    "fetched_items": 199,
-    "retained_items": 43,
+    "fetched_items": 202,
+    "retained_items": 44,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
