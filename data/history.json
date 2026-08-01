@@ -2,6 +2,132 @@
   "articles": [
     {
       "authors": [
+        "spetschinka"
+      ],
+      "canonical_url": "https://www.richresults.ai/evidence.html",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "7a54061269a5",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49130131",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-01T00:56:35Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "AI Visibility Evidence Model: Five Factors, Graded by Evidence",
+      "url": "https://www.richresults.ai/evidence.html"
+    },
+    {
+      "authors": [
+        "piesauce"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.27372",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "df92117fa31d",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49130123",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T00:54:49Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, training"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Explorative Modeling – A new axis for pre-training",
+      "url": "https://arxiv.org/abs/2607.27372"
+    },
+    {
+      "authors": [
+        "megadragon9"
+      ],
+      "canonical_url": "https://www.henrypan.com/blog/2026-07-18-harness-training",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "b21a0489427c",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49130109",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T00:52:55Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: RAG"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Freeze the model, train the harness: gains transfer across LLMs and benchmarks",
+      "url": "https://www.henrypan.com/blog/2026-07-18-harness-training"
+    },
+    {
+      "authors": [
+        "shreybirmiwal"
+      ],
+      "canonical_url": "https://jwlabs.vercel.app/post/speculative-decoding-first-principles",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "4a9ca2c73c0b",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49130093",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T00:48:35Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "LLM speculative decoding explained simply",
+      "url": "https://jwlabs.vercel.app/post/speculative-decoding-first-principles"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Lin YC, Chiu SC, Massey R, Fang YD, Alzheimer's Disease Neuroimaging Initiative."
       ],
       "canonical_url": "https://doi.org/10.1002/alz.71683",
@@ -10,7 +136,7 @@
       ],
       "description": "",
       "event_cluster_id": "e242a3baed75",
-      "fetched_at": "2026-07-31T12:30:35Z",
+      "fetched_at": "2026-08-01T01:08:51Z",
       "id": "epmc-42533677",
       "image_url": "",
       "is_breaking": false,
@@ -31,6 +157,467 @@
       "source_name": "Europe PMC - Medical AI and Neuroimaging",
       "title": "Classification of tau status with machine learning models in amyloid-positive cohorts.",
       "url": "https://doi.org/10.1002/alz.71683"
+    },
+    {
+      "also_covered_by": [
+        "Hacker News"
+      ],
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight....",
+      "event_cluster_id": "3b4d0b686ffb",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "3b4d0b686ffbe7f44bac",
+      "image_url": "https://static.simonwillison.net/static/2026/deepseek-flash-chart.webp",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-31T23:59:44Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/stateless-mcp",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched,...",
+      "event_cluster_id": "c91e9c9718a5",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "c91e9c9718a58754cc3c",
+      "image_url": "https://static.simonwillison.net/static/2026/mermaid-example.svg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-31T23:13:22Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: launch, model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp"
+    },
+    {
+      "authors": [
+        "samuel_kx0"
+      ],
+      "canonical_url": "https://github.com/lace-ai/gai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "0bd4853d51ce",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49129430",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T22:53:26Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: GAI – A Go runtime for typed, tool-using LLM agents",
+      "url": "https://github.com/lace-ai/gai"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "event_cluster_id": "f5a4ae47748d",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "f5a4ae47748de73380ae",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T22:47:26Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Oxide and Friends: The Open Weight Revolution with Simon Willison On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the wild week we've had - with Kimi K3 showing open weight models can stand...",
+      "event_cluster_id": "a7581fdd4462",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "a7581fdd4462c35bb768",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-31T21:33:13Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/smevals",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of...",
+      "event_cluster_id": "3985605a150f",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "3985605a150f6e7664c4",
+      "image_url": "https://static.simonwillison.net/static/2026/smevals-report.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-31T21:15:23Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals"
+    },
+    {
+      "authors": [
+        "Jagmeet Singh"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "India's app market generated a record $345 million in Q2.",
+      "event_cluster_id": "da83b80fd0ac",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "da83b80fd0ac4d0e1ba2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T21:07:45Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "India is starting to pay for apps, not just download them",
+      "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them"
+    },
+    {
+      "authors": [
+        "solsol94"
+      ],
+      "canonical_url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "73903313d9d6",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49128177",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T20:27:28Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: How to build and self-host a code review agent",
+      "url": "https://www.trytilde.ai/blog/how-to-build-code-review-agent"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "event_cluster_id": "2415c92a08d1",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "2415c92a08d1af7e5d62",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T19:47:28Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation"
+    },
+    {
+      "authors": [
+        "Theresa Loconsolo"
+      ],
+      "canonical_url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled..",
+      "event_cluster_id": "c30ca681ec92",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "c30ca681ec92534b8211",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T17:26:32Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai"
+    },
+    {
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Snapchat has adjusted its recommendation systems to ensure that only videos created by real people are eligible for Spotlight recommendations, taking a stance against AI slop.",
+      "event_cluster_id": "4ef9ae48129b",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "4ef9ae48129ba7b1f039",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T16:49:08Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Snapchat no longer rewards fully AI-generated Spotlight content",
+      "url": "https://techcrunch.com/2026/07/31/snapchat-no-longer-rewards-fully-ai-generated-spotlight-content"
+    },
+    {
+      "authors": [
+        "Amanda Silberling"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
+      "event_cluster_id": "6d211736bf9f",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "6d211736bf9f26d27dcb",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T16:08:18Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Siri AI could come with a paywall for power users",
+      "url": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users"
+    },
+    {
+      "authors": [
+        "Tim De Chant"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "event_cluster_id": "1a14764d0ca4",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "1a14764d0ca472bf8f5d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T15:16:17Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year"
+    },
+    {
+      "authors": [
+        "Marina Temkin"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "event_cluster_id": "2abe1b57e7b3",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "2abe1b57e7b3f781819b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-31T14:47:11Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human"
+    },
+    {
+      "authors": [
+        "Kirsten Korosec, Sean O'Kane, Anthony Ha, Theresa Loconsolo"
+      ],
+      "canonical_url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled..",
+      "event_cluster_id": "ee29d7a0ffe0",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "ee29d7a0ffe06230af99",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T14:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off"
     },
     {
       "authors": [
@@ -186,36 +773,6 @@
       "source_name": "Hacker News",
       "title": "High school axes plans to deploy AI robot called Sally after ties to sex dolls",
       "url": "https://www.dailymail.com/news/article-16017467/humanoid-robot-teacher-new-york-axes-plan.html"
-    },
-    {
-      "authors": [
-        "Philpax"
-      ],
-      "canonical_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "a1a747f4e122",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "hn-49122153",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T12:16:08Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "DeepSeek-AI/DeepSeek-V4-Flash-0731",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4-Flash-0731"
     },
     {
       "also_covered_by": [
@@ -6450,6 +7007,36 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "A systematic evaluation of machine learning classifiers for event-by-event background rejection in LAFOV PET scanners",
       "url": "https://arxiv.org/abs/2607.25732v1"
+    },
+    {
+      "authors": [
+        "aweeraman"
+      ],
+      "canonical_url": "https://weeraman.com/because-we-can",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "884da56f14eb",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49083599",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-28T13:31:25Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Twenty-five years ago it was cryptography, today it's model weights",
+      "url": "https://weeraman.com/because-we-can"
     },
     {
       "also_covered_by": [],
@@ -19120,645 +19707,7 @@
       "source_name": "TechCrunch AI",
       "title": "Anthropic’s landmark $1.5B copyright settlement is approved",
       "url": "https://techcrunch.com/2026/07/20/anthropics-landmark-1-5b-copyright-settlement-is-approved"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "497461993ec5",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "497461993ec5157e04b0",
-      "image_url": "https://secure.gravatar.com/avatar/0bd53fc563e2fd47807578f67b82fe9265860573f919d6e353d0686fc5423551?s=70&d=mm&r=g",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T00:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "PyTorch Conference North America Schedule Is Live",
-      "url": "https://pytorch.org/blog/pytorch-conference-north-america-schedule-is-live"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/donation-public-first-action",
-      "cluster_sources": [
-        "Anthropic News"
-      ],
-      "description": "",
-      "event_cluster_id": "9d9e4fbe80b2",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "9d9e4fbe80b29906125a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "critical source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Jul 21, 2026 Announcements Anthropic is donating another $20 million to Public First Action",
-      "url": "https://www.anthropic.com/news/donation-public-first-action"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/grabette",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "8549f9ed22c4",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "8549f9ed22c455abd8a6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Grabette: an open system to record robot-manipulation data",
-      "url": "https://huggingface.co/blog/grabette"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The director role for the Center for AI Standards and Innovation (CAISI) has become a revolving door since David Sacks left his position as czar.",
-      "event_cluster_id": "04ed37ca5667",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "04ed37ca5667c3024552",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T22:21:04Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Trump’s latest AI czar has already resigned",
-      "url": "https://techcrunch.com/2026/07/20/trumps-latest-ai-czar-has-already-resigned"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lucas Ropek"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Alphabet, Google's parent company, is reportedly working on a new chip designed to make its Gemini models run much more efficiently.",
-      "event_cluster_id": "91446a6fdee3",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "91446a6fdee3f6090a63",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T21:21:15Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model, chip"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Google is working on a new AI chip designed to make Gemini more efficient",
-      "url": "https://techcrunch.com/2026/07/20/google-is-working-on-a-new-ai-chip-designed-to-make-gemini-more-efficient"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Under the new system, the protocol will take a looser, \"stateless\" approach to session IDs on the server side, similar to how most ordinary websites already work.",
-      "event_cluster_id": "975e96dac98c",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "975e96dac98ca3666438",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T20:50:40Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AI’s most important protocol is getting a little bit easier to use",
-      "url": "https://techcrunch.com/2026/07/20/ais-most-important-protocol-is-getting-a-little-bit-easier-to-use"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "X says the rebuilt version of its Android app is now available globally.",
-      "event_cluster_id": "71ea3ea3fafc",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "71ea3ea3fafcbf993251",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-20T19:37:39Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "startup/product signal: launches"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "X relaunches a rebuilt Android app after year-long effort",
-      "url": "https://techcrunch.com/2026/07/20/x-relaunches-a-rebuilt-android-app-after-year-long-effort"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Talk of banning Chinese-made open-weight LLMs reveals the challenge of turning AI into a business.",
-      "event_cluster_id": "f9a392b77b19",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "f9a392b77b19926c6720",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T19:33:25Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model, open-weight"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI is scared of open-weight models. Should the US be?",
-      "url": "https://techcrunch.com/2026/07/20/openai-is-scared-of-open-weight-models-should-the-us-be"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "I keep hearing anecdotes from people who used coding agents to reverse-engineer and automate devices in their homes. I think this is an interesting illustration of the impact of the reduced cost of writing code. Prior to agents, it was...",
-      "event_cluster_id": "4a109a49342a",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "4a109a49342ab49db4aa",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-20T19:24:05Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Reverse-engineering is cheap now",
-      "url": "https://simonwillison.net/2026/Jul/20/cheap-reverse-engineering"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "aratahikaru5"
-      ],
-      "canonical_url": "https://blaizzy.github.io/nativ",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "3f960571fab3",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "hn-48982681",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T18:16:08Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Nativ: Run frontier open models locally on your Mac",
-      "url": "https://blaizzy.github.io/nativ"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "jlaneve"
-      ],
-      "canonical_url": "https://cursor.com/blog/agent-swarm-model-economics",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "8b346f57130e",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "hn-48982535",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T18:06:13Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Agent swarms and the new model economics",
-      "url": "https://cursor.com/blog/agent-swarm-model-economics"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sheng-Yu Wang",
-        "Yotam Nitzan",
-        "Aaron Hertzmann",
-        "Jun-Yan Zhu",
-        "Eli Shechtman",
-        "Alexei A. Efros",
-        "Richard Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18237v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Human visual similarity judgments are context-dependent. For example, two images may be similar in shape but distinct in color. Existing perceptual similarity metrics, however, collapse these nuances into a single scalar value, offering...",
-      "event_cluster_id": "fd31b22d68ff",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "fd31b22d68ffed5a21e3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T17:59:51Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
-      "url": "https://arxiv.org/abs/2607.18237v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Gaoyue Zhou",
-        "Zichen Jeff Cui",
-        "Ada Langford",
-        "Bowen Tan",
-        "Yann LeCun",
-        "Lerrel Pinto"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18236v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Pretrained dense visual features from Vision Transformers (ViTs) are powerful yet have been underutilized in robot learning. Modern robot policies either compress each observation into a single global token, or rely on visual backbones...",
-      "event_cluster_id": "a339695819d2",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "a339695819d2bd44ee72",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T17:59:41Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Patch Policy: Efficient Embodied Control via Dense Visual Representations",
-      "url": "https://arxiv.org/abs/2607.18236v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yi Tang",
-        "Xinyi Shang",
-        "Jiacheng Cui",
-        "Sondos Mahmoud Bsharat",
-        "Jiacheng Liu",
-        "Xiaohan Zhao",
-        "Tran Dinh Tien",
-        "Ahmed Elhagry"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18230v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Modern vision-language models (VLMs) have significantly improved image generation and editing capabilities, making pixel-level image tampering detection increasingly important yet challenging under cross-model and out-of-distribution...",
-      "event_cluster_id": "ff9ab916b841",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "ff9ab916b841d4cd6d29",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T17:58:13Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, VLM"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs",
-      "url": "https://arxiv.org/abs/2607.18230v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Brian K Chen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18228v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "To test how correct logical judgments respond to learned context, we prepend a soft prefix to an exactly labeled syllogistic reasoning benchmark while keeping the model fixed. Soft prefixes are opaque continuous vectors, so we...",
-      "event_cluster_id": "72484d505b36",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "72484d505b36a344aaf3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T17:58:05Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes",
-      "url": "https://arxiv.org/abs/2607.18228v1"
-    },
-    {
-      "authors": [
-        "flashfilter"
-      ],
-      "canonical_url": "https://flashfilter.app",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ab4d169c81ee",
-      "fetched_at": "2026-07-21T01:03:01Z",
-      "id": "hn-48982322",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T17:55:11Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: GPU",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: GPU Accelerated Desktop Screen Flash Filter (Photosensitive Epilepsy)",
-      "url": "https://flashfilter.app"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Naoto Usuyama",
-        "Jeya Maria Jose Valanarasu",
-        "Sicong Yao",
-        "Hanwen Xu",
-        "Jaspreet Bagga",
-        "Guanghui Qin",
-        "Robert E. Kramer",
-        "Cliff Wong"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18218v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Foundation models have emerged as a driving force in computational pathology, with the potential to transform cancer diagnosis, prognosis, and treatment selection by learning transferable representations from large-scale histopathology...",
-      "event_cluster_id": "7385496b26dc",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "7385496b26dc1b25cf18",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T17:52:33Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis",
-      "url": "https://arxiv.org/abs/2607.18218v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yiyang Cai",
-        "Nan Chen",
-        "Rongchang Xie",
-        "Junwen Pan",
-        "Chunyang Jiang",
-        "Cheng Chen",
-        "Wen Zhou",
-        "Zhenbang Sun"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18217v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Human-object centric video personalization (HOCVP) is a core task within subject-driven video generation. However, existing methods suffer from two key limitations. First, most approaches focusing on inter-subject personalization still...",
-      "event_cluster_id": "e52576cf433e",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "e52576cf433ebc6d6c60",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T17:51:35Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: multimodal"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "HOMIE: Human-object Centric Video Personalization via Multimodal Intelligent Enchancement",
-      "url": "https://arxiv.org/abs/2607.18217v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yuhang Wang",
-        "Yuling Shi",
-        "Shaoqiu Zhang",
-        "Jialiang Liang",
-        "Shilin He",
-        "Siyu Ye",
-        "Yuting Chen",
-        "Kai Cai"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.18213v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Pruning long context for coding agents has been a vital technology for efficient context management. While existing context pruning methods such as SWE-Pruner realize this by attaching a separate code classifier, we find the agent itself...",
-      "event_cluster_id": "b24ace66c697",
-      "fetched_at": "2026-07-21T12:10:51Z",
-      "id": "b24ace66c697be7e6743",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-20T17:47:44Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SWE-Pruner Pro: The Coder LLM Already Knows What to Prune",
-      "url": "https://arxiv.org/abs/2607.18213v1"
     }
   ],
-  "generated_at": "2026-07-31T12:30:35Z"
+  "generated_at": "2026-08-01T01:08:51Z"
 }

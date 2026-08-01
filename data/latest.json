@@ -1,39 +1,37 @@
 {
   "articles": [
     {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
+      "also_covered_by": [
+        "Hacker News"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Simon Willison"
       ],
-      "description": "The acquisition brings Poke’s conversational style and interaction model to Cognition’s coding agent Devin, reflecting a growing belief that how AI assistants interact with users is as important as the models powering them.",
-      "event_cluster_id": "9a0069857034",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "9a00698570340f0b80ba",
-      "image_url": "",
-      "is_breaking": false,
+      "description": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight....",
+      "event_cluster_id": "3b4d0b686ffb",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "3b4d0b686ffbe7f44bac",
+      "image_url": "https://static.simonwillison.net/static/2026/deepseek-flash-chart.webp",
+      "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-24T18:07:32Z",
+      "published_at": "2026-07-31T23:59:44Z",
       "research_track": "",
-      "score": 24,
+      "score": 20,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, acquisition",
-        "research relevance: PET",
-        "technical relevance: agent",
-        "startup/product signal: acquisition"
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release",
+        "technical relevance: agent"
       ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Why Cognition bought Poke: AI personality is becoming a competitive advantage",
-      "url": "https://techcrunch.com/2026/07/24/why-cognition-bought-poke-ai-personality-is-becoming-a-competitive-advantage"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
+      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731"
     },
     {
       "also_covered_by": [],
@@ -65,39 +63,6 @@
       "source_name": "Simon Willison",
       "title": "Investigating three real-world incidents in our cybersecurity evaluations",
       "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Microsoft pitched its own homegrown AI models, harnesses, and even a Mythos competitor on Wednesday, telling Wall Street it plans for continued growth.",
-      "event_cluster_id": "97d8a1a9c72a",
-      "fetched_at": "2026-07-30T00:58:15Z",
-      "id": "97d8a1a9c72a6d1d459d",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-30T00:21:06Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "research relevance: PET"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Microsoft is openly competing with OpenAI, Anthropic more than ever",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-is-openly-competing-with-openai-anthropic-more-than-ever"
     },
     {
       "also_covered_by": [],
@@ -168,40 +133,6 @@
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Siddharth Vohra"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.26886v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "When asked to describe a medical image that was never attached, frontier vision-language models do not abstain: they confabulate a diagnosis. We show that this confabulation is not random. It is structured by who the patient is said to...",
-      "event_cluster_id": "08c4a7851a81",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "08c4a7851a81d67647fb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T13:15:23Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: vision-language"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Hearsay: Vision-Language Medical Diagnoses Without an Image",
-      "url": "https://arxiv.org/abs/2607.26886v1"
-    },
-    {
       "authors": [
         "Mingdai Yang",
         "Shicheng Fan",
@@ -243,6 +174,39 @@
     },
     {
       "authors": [
+        "spetschinka"
+      ],
+      "canonical_url": "https://www.richresults.ai/evidence.html",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "7a54061269a5",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49130131",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-01T00:56:35Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "AI Visibility Evidence Model: Five Factors, Graded by Evidence",
+      "url": "https://www.richresults.ai/evidence.html"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Lin YC, Chiu SC, Massey R, Fang YD, Alzheimer's Disease Neuroimaging Initiative."
       ],
       "canonical_url": "https://doi.org/10.1002/alz.71683",
@@ -251,7 +215,7 @@
       ],
       "description": "",
       "event_cluster_id": "e242a3baed75",
-      "fetched_at": "2026-07-31T12:30:35Z",
+      "fetched_at": "2026-08-01T01:08:51Z",
       "id": "epmc-42533677",
       "image_url": "",
       "is_breaking": false,
@@ -272,6 +236,93 @@
       "source_name": "Europe PMC - Medical AI and Neuroimaging",
       "title": "Classification of tau status with machine learning models in amyloid-positive cohorts.",
       "url": "https://doi.org/10.1002/alz.71683"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/stateless-mcp",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched,...",
+      "event_cluster_id": "c91e9c9718a5",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "c91e9c9718a58754cc3c",
+      "image_url": "https://static.simonwillison.net/static/2026/mermaid-example.svg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-31T23:13:22Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: launch, model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
+      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Oxide and Friends: The Open Weight Revolution with Simon Willison On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the wild week we've had - with Kimi K3 showing open weight models can stand...",
+      "event_cluster_id": "a7581fdd4462",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "a7581fdd4462c35bb768",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-31T21:33:13Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
+      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/smevals",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of...",
+      "event_cluster_id": "3985605a150f",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "3985605a150f6e7664c4",
+      "image_url": "https://static.simonwillison.net/static/2026/smevals-report.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-31T21:15:23Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals"
     },
     {
       "also_covered_by": [],
@@ -307,100 +358,36 @@
       "url": "https://www.latent.space/p/ontologies-agentic-systems"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals",
-      "cluster_sources": [
-        "Anthropic News"
-      ],
-      "description": "",
-      "event_cluster_id": "8b96329aed14",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "8b96329aed14643e23bf",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-30T00:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 48 hours",
-        "major-event keyword: security",
-        "technical relevance: evaluation"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Jul 30, 2026 Frontier Red Team Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://www.anthropic.com/news/investigating-incidents-cybersecurity-evals"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Julie Bort"
+        "Marina Temkin"
       ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag",
+      "canonical_url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
-      "event_cluster_id": "a84733288b2d",
-      "fetched_at": "2026-07-30T00:58:15Z",
-      "id": "a84733288b2dc674eb77",
+      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
+      "event_cluster_id": "2abe1b57e7b3",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "2abe1b57e7b3f781819b",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-07-29T22:46:03Z",
+      "published_at": "2026-07-31T14:47:11Z",
       "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "research relevance: PET"
+        "published within 24 hours",
+        "major-event keyword: model",
+        "startup/product signal: startup"
       ],
-      "section": "ai_engineering",
+      "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
-      "url": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
-      "event_cluster_id": "b2cd9a16967e",
-      "fetched_at": "2026-07-30T00:58:15Z",
-      "id": "b2cd9a16967eea57a4c5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T22:23:12Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
-      "url": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents"
+      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
+      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human"
     },
     {
       "also_covered_by": [],
@@ -558,6 +545,39 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Ram Iyer"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
+      "event_cluster_id": "84b2e4276807",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "84b2e42768079b823137",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-30T15:19:15Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: data center",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
+      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Bowen Wang",
         "Youwen Zhang",
         "Ritesh Mehta"
@@ -591,81 +611,98 @@
       "url": "https://arxiv.org/abs/2607.27763v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Peter Kirgis",
-        "Sayash Kapoor",
-        "Andrew Schwartz",
-        "Stephan Rabanser",
-        "David Africa",
-        "Konstantinos Voudouris",
-        "Viet Nguyen",
-        "Toby Pilditch"
+        "megadragon9"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.27191v1",
+      "canonical_url": "https://www.henrypan.com/blog/2026-07-18-harness-training",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Hacker News"
       ],
-      "description": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes...",
-      "event_cluster_id": "11dd47a1c88b",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "11dd47a1c88bbcefb629",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "b21a0489427c",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "hn-49130109",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T17:57:19Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-08-01T00:52:55Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "research relevance: PET",
-        "technical relevance: agent, evaluation"
+        "published within 6 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: RAG"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-      "url": "https://arxiv.org/abs/2607.27191v1"
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Freeze the model, train the harness: gains transfer across LLMs and benchmarks",
+      "url": "https://www.henrypan.com/blog/2026-07-18-harness-training"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Peter Tisnikar",
-        "Maja Swieczkowska",
-        "Benteng Ma",
-        "Gerard Canal",
-        "Matteo Leonetti"
+        "Lucas Ropek"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.27177v1",
+      "canonical_url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "TechCrunch AI"
       ],
-      "description": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed task and that the partner's...",
-      "event_cluster_id": "74e5b3e5003b",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "74e5b3e5003bb420a18f",
+      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
+      "event_cluster_id": "f5a4ae47748d",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "f5a4ae47748de73380ae",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T17:50:39Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-07-31T22:47:26Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: PET",
+        "high source",
+        "published within 6 hours",
         "technical relevance: agent"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
-      "url": "https://arxiv.org/abs/2607.27177v1"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
+      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+      "event_cluster_id": "2415c92a08d1",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "2415c92a08d1af7e5d62",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T19:47:28Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation"
     },
     {
       "authors": [
@@ -730,38 +767,6 @@
       "source_name": "Hacker News",
       "title": "On Type Inference",
       "url": "https://radekmie.dev/blog/on-type-inference"
-    },
-    {
-      "authors": [
-        "TangoBee"
-      ],
-      "canonical_url": "https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "010627a791a0",
-      "fetched_at": "2026-07-31T07:24:52Z",
-      "id": "hn-49119800",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T06:46:54Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: benchmark, safety",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Benchmarking Guardrails for AI Agent Safety",
-      "url": "https://blog.mozilla.ai/can-open-source-guardrails-really-protect-ai-agents"
     },
     {
       "also_covered_by": [],
@@ -861,35 +866,34 @@
     },
     {
       "authors": [
-        "ppiper"
+        "Tim De Chant"
       ],
-      "canonical_url": "https://getslaide.com",
+      "canonical_url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year",
       "cluster_sources": [
-        "Hacker News"
+        "TechCrunch AI"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "58587247789b",
-      "fetched_at": "2026-07-31T07:24:52Z",
-      "id": "hn-49120039",
+      "description": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
+      "event_cluster_id": "1a14764d0ca4",
+      "fetched_at": "2026-08-01T01:08:51Z",
+      "id": "1a14764d0ca472bf8f5d",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-31T07:21:17Z",
+      "published_at": "2026-07-31T15:16:17Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: open-source",
-        "startup/product signal: Show HN"
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: data center"
       ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Slaide, open-source Markdown slides AI writes and PowerPoint opens",
-      "url": "https://getslaide.com"
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
+      "url": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year"
     },
     {
       "also_covered_by": [],
@@ -990,6 +994,86 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Qixun Wang",
+        "Yang Shi",
+        "Letian Cheng",
+        "Zhuoran Zhang",
+        "Yan He",
+        "Yuqi Tang",
+        "Qi Zhang",
+        "Xinlei Yu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.28595v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "The fundamental goal of agentic visual reasoning is to improve the success rate of multimodal large language models (MLLMs) on complex tasks, rather than merely equipping them with a sophisticated yet inefficient reasoning paradigm. In...",
+      "event_cluster_id": "784ff2cd9ce5",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "784ff2cd9ce5a78fb844",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T17:46:55Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal, agent, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
+      "url": "https://arxiv.org/abs/2607.28595v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Haomin Qi",
+        "Xingliang Wang",
+        "Xuanqi Gao",
+        "Baihui Sang",
+        "Xin Zhang",
+        "Minghua Ma",
+        "Pengfei Gao",
+        "Yu Kang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.28591v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, development tools, and reliable...",
+      "event_cluster_id": "c40f6ebb64a0",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "c40f6ebb64a017f960c0",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-30T17:44:31Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: benchmark, training",
+        "technical relevance: agent, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
+      "url": "https://arxiv.org/abs/2607.28591v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "cluster_sources": [
@@ -1017,94 +1101,6 @@
       "source_name": "Hugging Face Blog",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding.",
-      "event_cluster_id": "67da035349e3",
-      "fetched_at": "2026-07-30T00:58:15Z",
-      "id": "67da035349e3126a6879",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/L1hB6Nz16Fw",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-07-29T23:32:12Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] AI is eating Finance; AIE NYC now open",
-      "url": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Years ago, we didn’t have SQL. There were people whose job was to generate software that would query large data sets. Their job title was COBOL programmer. Then SQL comes along—I’m simplifying this only a little bit—and it gives you this...",
-      "event_cluster_id": "1ccc572c8eb0",
-      "fetched_at": "2026-07-30T00:58:15Z",
-      "id": "1ccc572c8eb08e34453a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T21:15:21Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting D. Richard Hipp",
-      "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/30/bruce-schneier",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "The writing assignments I give my students are gym tasks, not work tasks. I ask them to write policy memos not because the world needs more policy memos. I assign them because the very act of writing, which includes thinking and outlining..",
-      "event_cluster_id": "5b37cc1e046a",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "5b37cc1e046a431cf984",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T18:25:26Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Bruce Schneier",
-      "url": "https://simonwillison.net/2026/Jul/30/bruce-schneier"
     },
     {
       "also_covered_by": [],
@@ -1217,91 +1213,40 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "AI Worming through Word Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places hidden instructions in a document that..",
-      "event_cluster_id": "3000631c4580",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "3000631c4580bfced1f1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T18:43:03Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "AI Worming through Word",
-      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/29/matthew-green",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there are so many...",
-      "event_cluster_id": "c2be95c4524a",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "c2be95c4524aebfdd6ff",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T18:18:15Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Matthew Green",
-      "url": "https://simonwillison.net/2026/Jul/29/matthew-green"
-    },
-    {
       "authors": [
-        "Dan Goodin"
+        "Longxia Gao",
+        "Linan Wang",
+        "Yuhe Han",
+        "Junze Geng",
+        "Meng Zhang",
+        "Hanqing Zhao"
       ],
-      "canonical_url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years",
+      "canonical_url": "https://arxiv.org/abs/2607.28148v1",
       "cluster_sources": [
-        "Ars Technica AI"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Separating the chaff from the wheat in Anthropic results is hard. We take a stab anyway.",
-      "event_cluster_id": "644500d3f071",
-      "fetched_at": "2026-07-30T00:58:15Z",
-      "id": "644500d3f071dce6fad9",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/broken-encryption-lock-500x500.jpg",
+      "description": "Deep learning has shown promise for automated tongue diagnosis in traditional Chinese medicine (TCM), yet the design space remains underexplored. We conducted a systematic ablation study spanning 20+ model versions under rigorous 5-fold...",
+      "event_cluster_id": "36736eff9237",
+      "fetched_at": "2026-07-31T12:30:35Z",
+      "id": "36736eff92379bf0cee8",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-07-29T22:07:06Z",
-      "research_track": "",
-      "score": 12,
+      "published_at": "2026-07-30T12:55:05Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
       "score_reasons": [
-        "high source",
-        "published within 6 hours"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
       ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "Mythos uncovers crypto weaknesses that went unknown for years",
-      "url": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "What Makes Deep Learning Work for Traditional Chinese Medicine Tongue Diagnosis? A Comprehensive Ablation Study",
+      "url": "https://arxiv.org/abs/2607.28148v1"
     },
     {
       "also_covered_by": [],
@@ -1333,134 +1278,16 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: tricking LLMs, and reviving geothermal plants",
       "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "1f2d9040d07a",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "1f2d9040d07a35603fde",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Echoverse: Deep, evolving environments for computer-use agents",
-      "url": "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "LLMs do not get smarter just by remembering more. EvoLib turns experience into evolving knowledge, taking reusable skills and insights that help models learn and adapt across tasks long after deployment.",
-      "event_cluster_id": "8479edade87c",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "8479edade87c05f7ad28",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "EvoLib: Turning experience into evolving knowledge",
-      "url": "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "9eb8763d8b86",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "9eb8763d8b8625bb75c6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "FBTriton Infra: Upstream Ingestion, Hierarchical Validation, Ideals vs Realities",
-      "url": "https://pytorch.org/blog/fbtriton-infra-upstream-ingestion-hierarchical-validation-ideals-vs-realities"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "July 30, 2026",
-      "event_cluster_id": "b718c754e1fc",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "b718c754e1fc2a84522d",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Science-One-1-final.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T00:00:00Z",
-      "research_track": "",
-      "score": 6,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "July 30, 2026 Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science · Machine Intelligence · Natural Language Processing",
-      "url": "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence"
     }
   ],
-  "date_label": "Friday, July 31, 2026",
-  "generated_at": "2026-07-31T12:30:35Z",
+  "date_label": "Saturday, August 1, 2026",
+  "generated_at": "2026-08-01T01:08:51Z",
   "summary": {
-    "duplicates_removed": 2,
-    "failed_sources": 1,
-    "fetched_items": 202,
-    "retained_items": 44,
-    "successful_sources": 20
+    "duplicates_removed": 1,
+    "failed_sources": 3,
+    "fetched_items": 175,
+    "retained_items": 38,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
