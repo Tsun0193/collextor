@@ -35,37 +35,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Investigating three real-world incidents in our cybersecurity evaluations It happened again! This is turning into something of a pattern. Last week OpenAI accidentally exploited Hugging Face when one of their frontier models broke out of...",
-      "event_cluster_id": "60d2e5eea804",
-      "fetched_at": "2026-07-31T01:08:33Z",
-      "id": "60d2e5eea80421a1c92d",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-30T23:41:29Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model, security",
-        "technical relevance: evaluation"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Investigating three real-world incidents in our cybersecurity evaluations",
-      "url": "https://simonwillison.net/2026/Jul/30/three-real-world-incidents"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "TechCrunch Events"
       ],
@@ -101,6 +70,40 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Marina Temkin"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The deal is Cyera's third acquisition this year.",
+      "event_cluster_id": "1236a4d8bb11",
+      "fetched_at": "2026-07-29T01:03:19Z",
+      "id": "1236a4d8bb1155bda238",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-29T00:09:05Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: acquisition, security",
+        "technical relevance: agent",
+        "startup/product signal: acquisition"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+      "url": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Jagmeet Singh"
       ],
       "canonical_url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m",
@@ -131,6 +134,115 @@
       "source_name": "TechCrunch AI",
       "title": "Okta buys AI security startup Permiso — source says for about $200M",
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Siddharth Vohra"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.26886v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "When asked to describe a medical image that was never attached, frontier vision-language models do not abstain: they confabulate a diagnosis. We show that this confabulation is not random. It is structured by who the patient is said to...",
+      "event_cluster_id": "08c4a7851a81",
+      "fetched_at": "2026-07-30T12:13:53Z",
+      "id": "08c4a7851a81d67647fb",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-29T13:15:23Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: vision-language"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Hearsay: Vision-Language Medical Diagnoses Without an Image",
+      "url": "https://arxiv.org/abs/2607.26886v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "David Hagerman",
+        "Roman Naeem",
+        "Fredrik Kahl"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.26829v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Many high-performing volumetric segmentation models maintain dense multi-scale feature maps, leading to high activation memory and inference cost. We present BATS (Boundary-Aware Token Selection), a 3D medical image segmentation...",
+      "event_cluster_id": "ee4a5c0b9870",
+      "fetched_at": "2026-07-30T12:13:53Z",
+      "id": "ee4a5c0b98701293261f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-29T12:21:40Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, inference",
+        "research relevance: medical image",
+        "technical relevance: inference"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens",
+      "url": "https://arxiv.org/abs/2607.26829v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Malena Loza",
+        "David Chushig-Muzo",
+        "Eva Milara",
+        "Luis Bote-Curiel",
+        "Luis Estrada-Petrocelli",
+        "Felipe Grijalva"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.26000v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Tabular Foundation Models (TFMs) have emerged as novel approaches for tabular predictive tasks, demonstrating competitive predictive performance to ensemble tree-based models. Most TFMs are trained and evaluated on independent and...",
+      "event_cluster_id": "45c48c3e2a25",
+      "fetched_at": "2026-07-29T12:32:35Z",
+      "id": "45c48c3e2a25bdd5cebc",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-28T17:16:01Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: PET",
+        "technical relevance: foundation model, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Empirical Evaluation of Out-Of-Distribution Performance of Tabular Foundation Models",
+      "url": "https://arxiv.org/abs/2607.26000v1"
     },
     {
       "authors": [
@@ -299,36 +411,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/31/smevals",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "smevals - a small eval suite for evaluating models, prompts, and harnesses I've been working with Jesse Vincent's Prime Radiant applied AI research lab building out this evals framework to help answer questions about the capabilities of...",
-      "event_cluster_id": "3985605a150f",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "3985605a150f6e7664c4",
-      "image_url": "https://static.simonwillison.net/static/2026/smevals-report.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-31T21:15:23Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "smevals - a small eval suite for evaluating models, prompts, and harnesses",
-      "url": "https://simonwillison.net/2026/Jul/31/smevals"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Marina Temkin"
       ],
@@ -402,149 +484,39 @@
       "url": "https://arxiv.org/abs/2607.28617v1"
     },
     {
-      "also_covered_by": [],
+      "also_covered_by": [
+        "Simon Willison"
+      ],
       "authors": [
-        "Qiushi Sun",
-        "Kanzhi Cheng",
-        "Yian Wang",
-        "Bowen Yang",
-        "Hang Yan",
-        "Liheng Chen",
-        "Fangzhi Xu",
-        "Zichen Ding"
+        "seahorseemoji"
       ],
-      "canonical_url": "https://arxiv.org/abs/2607.28609v1",
+      "canonical_url": "https://simonwillison.net/2026/Jul/31/smevals",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Hacker News"
       ],
-      "description": "Computer-using agents (CUAs) are advancing rapidly across the digital world. A CUA trajectory records the agent's actions, states, and reasoning. Verifying whether it fulfilled the task instruction is central to CUA evaluation, data...",
-      "event_cluster_id": "9315071781db",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "9315071781dbde7cb10d",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "3985605a150f",
+      "fetched_at": "2026-08-02T01:10:24Z",
+      "id": "hn-49140081",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-30T17:57:41Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent, reasoning, evaluation",
-        "startup/product signal: API"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
-      "url": "https://arxiv.org/abs/2607.28609v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yunzhan Fu",
-        "Xiangyu Shen",
-        "Yifei Sun",
-        "Yuhan Chen",
-        "Jian Wu",
-        "Hongxia Xu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.28565v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical image fusion aims to integrate complementary information from diverse imaging modalities to support clinical diagnosis. Existing methods typically apply uniform fusion rules globally, lacking a deep understanding of diagnostic...",
-      "event_cluster_id": "e631a8144dd2",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "e631a8144dd272032e7b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-30T17:30:21Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MIND: Multimodal Intent-Driven Network via Diffusion Transformers for Medical Image Fusion",
-      "url": "https://arxiv.org/abs/2607.28565v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Meta says AI is making it dramatically easier to build and launch new consumer apps, with CEO Mark Zuckerberg telling investors the company has more new consumer products on the way.",
-      "event_cluster_id": "4e7e3688547f",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "4e7e3688547ff7a7d565",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-30T15:41:16Z",
+      "is_must_read": false,
+      "published_at": "2026-08-02T01:02:05Z",
       "research_track": "",
-      "score": 16,
+      "score": 15,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch",
-        "startup/product signal: product"
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "covered by multiple configured sources"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta says AI is making it easier to build new apps — and more are coming",
-      "url": "https://techcrunch.com/2026/07/30/meta-says-ai-is-making-it-easier-to-build-new-apps-and-more-are-coming"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ram Iyer"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "British AI neocloud Nscale is buying software startup Anyscale, which helps companies scale their AI workloads across data centers and servers.",
-      "event_cluster_id": "84b2e4276807",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "84b2e42768079b823137",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-30T15:19:15Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: data center",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nscale buys Anyscale as it seeks to own more of the AI compute stack",
-      "url": "https://techcrunch.com/2026/07/30/nscale-buys-anyscale-as-it-seeks-to-own-more-of-the-ai-compute-stack"
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Smevals: A small eval suite for evaluating models, prompts, and harnesses",
+      "url": "https://simonwillison.net/2026/Jul/31/smevals"
     },
     {
       "authors": [
@@ -675,38 +647,6 @@
       "url": "https://arxiv.org/abs/2607.26819"
     },
     {
-      "authors": [
-        "theanonymousone"
-      ],
-      "canonical_url": "https://radekmie.dev/blog/on-type-inference",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "f8168d322eae",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "hn-49122214",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T12:23:42Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "On Type Inference",
-      "url": "https://radekmie.dev/blog/on-type-inference"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Russell Brandom"
@@ -771,6 +711,62 @@
       "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "at openai, many people hook their chatgpt up to slack. people really don't like when a coworker's chatgpt contacts them asking for help with a task, even when they'd be perfectly happy doing that same work if asked by that coworker....",
+      "event_cluster_id": "0ac685b1a763",
+      "fetched_at": "2026-08-02T01:10:24Z",
+      "id": "0ac685b1a7639af3fc90",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T22:29:44Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Greg Brockman",
+      "url": "https://simonwillison.net/2026/Aug/1/greg-brockman"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are...",
+      "event_cluster_id": "be2d9af15405",
+      "fetched_at": "2026-08-02T01:10:24Z",
+      "id": "be2d9af154057573398a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T20:34:49Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
@@ -799,6 +795,38 @@
       "source_name": "Latent Space",
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-038"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Theresa Loconsolo"
+      ],
+      "canonical_url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled..",
+      "event_cluster_id": "c30ca681ec92",
+      "fetched_at": "2026-08-01T11:45:14Z",
+      "id": "c30ca681ec92534b8211",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T17:26:32Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
+      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai"
     },
     {
       "also_covered_by": [],
@@ -834,6 +862,38 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Kirsten Korosec, Sean O'Kane, Anthony Ha, Theresa Loconsolo"
+      ],
+      "canonical_url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled..",
+      "event_cluster_id": "ee29d7a0ffe0",
+      "fetched_at": "2026-08-01T11:45:14Z",
+      "id": "ee29d7a0ffe06230af99",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-07-31T14:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-gpt-56-price-cut-by-20-80",
       "cluster_sources": [
@@ -865,153 +925,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/30/luna-price-drop",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Advancing the price-performance frontier with GPT‑5.6 Huge price drop from OpenAI today: GPT-5.6 Terra got a 20% reduction, and GPT-5.6 Luna got a massive 80% drop. OpenAI credit 5.6 Sol with enabling this: in How GPT‑5.6 fuses frontier...",
-      "event_cluster_id": "9dc864b95fc6",
-      "fetched_at": "2026-07-31T01:08:33Z",
-      "id": "9dc864b95fc6be0d0510",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T23:58:42Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Advancing the price-performance frontier with GPT‑5.6",
-      "url": "https://simonwillison.net/2026/Jul/30/luna-price-drop"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yao Xiao",
-        "Reuben Tan",
-        "Zhen Zhu",
-        "Yuqun Wu",
-        "Jianfeng Gao",
-        "Derek Hoiem"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.28627v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Long visual context poses a challenge for vision-language models: performance degrades as the number of distractors grows, and processing all tokens at once is computationally infeasible under GPU memory constraints. We present ReToken,...",
-      "event_cluster_id": "cd7447e6fab5",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "cd7447e6fab5d9e48be8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T17:59:56Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, GPU",
-        "technical relevance: vision-language"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
-      "url": "https://arxiv.org/abs/2607.28627v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Qixun Wang",
-        "Yang Shi",
-        "Letian Cheng",
-        "Zhuoran Zhang",
-        "Yan He",
-        "Yuqi Tang",
-        "Qi Zhang",
-        "Xinlei Yu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.28595v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "The fundamental goal of agentic visual reasoning is to improve the success rate of multimodal large language models (MLLMs) on complex tasks, rather than merely equipping them with a sophisticated yet inefficient reasoning paradigm. In...",
-      "event_cluster_id": "784ff2cd9ce5",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "784ff2cd9ce5a78fb844",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T17:46:55Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, agent, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Beacon: Knowing When and How to Perform Agentic Visual Reasoning",
-      "url": "https://arxiv.org/abs/2607.28595v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Haomin Qi",
-        "Xingliang Wang",
-        "Xuanqi Gao",
-        "Baihui Sang",
-        "Xin Zhang",
-        "Minghua Ma",
-        "Pengfei Gao",
-        "Yu Kang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.28591v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Scaling coding agents requires a continuing supply of executable data for training, benchmarking, and continuous evaluation. Each task must couple a realistic software state with a specification, development tools, and reliable...",
-      "event_cluster_id": "c40f6ebb64a0",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "c40f6ebb64a017f960c0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T17:44:31Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark, training",
-        "technical relevance: agent, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Change2Task: From Repository Changes to Executable Coding Agent Tasks and Environments",
-      "url": "https://arxiv.org/abs/2607.28591v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
       "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "cluster_sources": [
         "Hugging Face Blog"
@@ -1038,153 +951,15 @@
       "source_name": "Hugging Face Blog",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ruman Wang",
-        "Hangting Ye"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.28538v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Classifying pathological scars from clinical photographs requires distinguishing keloids from hypertrophic scars despite limited expert-labeled data and substantial acquisition variation across hospitals. End-to-end image models remain...",
-      "event_cluster_id": "bad2db534470",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "bad2db53447025e95142",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T17:05:20Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, acquisition",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "ScaFE: Data-Efficient Scar Classification with LLM-Generated Clinical Feature Programs",
-      "url": "https://arxiv.org/abs/2607.28538v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yiheng Xiong",
-        "Luisa Gallée",
-        "Daniel Santak Wolf",
-        "Heiko Hillenhagen",
-        "Michael Götz"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.28125v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Numerous unsupervised domain adaptation (UDA) algori-thms exist, but for clinical practice, selecting the best-suited one along with proper hyperparameters often remains unclear, as the unlabeled deployment (target) domain prevents...",
-      "event_cluster_id": "011b660cca43",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "011b660cca4352e86b8e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T12:34:07Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical imaging"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Towards Practical Algorithm Selection for Unsupervised Domain Adaptation in Medical Imaging",
-      "url": "https://arxiv.org/abs/2607.28125v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Longxia Gao",
-        "Linan Wang",
-        "Yuhe Han",
-        "Junze Geng",
-        "Meng Zhang",
-        "Hanqing Zhao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.28148v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Deep learning has shown promise for automated tongue diagnosis in traditional Chinese medicine (TCM), yet the design space remains underexplored. We conducted a systematic ablation study spanning 20+ model versions under rigorous 5-fold...",
-      "event_cluster_id": "36736eff9237",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "36736eff92379bf0cee8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-30T12:55:05Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "What Makes Deep Learning Work for Traditional Chinese Medicine Tongue Diagnosis? A Comprehensive Ablation Study",
-      "url": "https://arxiv.org/abs/2607.28148v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Charlotte Jee"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. A fundamental flaw leaves LLMs strikingly vulnerable to attack It is impossible to make large...",
-      "event_cluster_id": "b1a87fb7018f",
-      "fetched_at": "2026-07-31T07:24:52Z",
-      "id": "b1a87fb7018f69dbc0fc",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-07-30T12:10:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: tricking LLMs, and reviving geothermal plants",
-      "url": "https://www.technologyreview.com/2026/07/30/1140936/the-download-tricking-llms-reviving-geothermal"
     }
   ],
-  "date_label": "Saturday, August 1, 2026",
-  "generated_at": "2026-08-01T11:45:14Z",
+  "date_label": "Sunday, August 2, 2026",
+  "generated_at": "2026-08-02T01:10:24Z",
   "summary": {
-    "duplicates_removed": 3,
+    "duplicates_removed": 2,
     "failed_sources": 1,
-    "fetched_items": 203,
-    "retained_items": 35,
+    "fetched_items": 209,
+    "retained_items": 29,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
