@@ -2,6 +2,98 @@
   "articles": [
     {
       "authors": [
+        "theanonymousone"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.20349",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "49d7dc398e17",
+      "fetched_at": "2026-08-02T11:44:19Z",
+      "id": "hn-49143289",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-02T11:06:07Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Generative AI floods and dilutes the market for books",
+      "url": "https://arxiv.org/abs/2607.20349"
+    },
+    {
+      "authors": [
+        "lascauje"
+      ],
+      "canonical_url": "https://github.com/lascauje/callmar",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f67176c960be",
+      "fetched_at": "2026-08-02T11:44:19Z",
+      "id": "hn-49143176",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-02T10:45:02Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: CaLLMar – play a text-based adventure game in an LLM chat",
+      "url": "https://github.com/lascauje/callmar"
+    },
+    {
+      "authors": [
+        "bbayer"
+      ],
+      "canonical_url": "https://github.com/bbayer/DocuMan",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "e7532382c364",
+      "fetched_at": "2026-08-02T11:44:19Z",
+      "id": "hn-49143132",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-02T10:38:26Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Documan – AI Powered Requirement Management Workspace",
+      "url": "https://github.com/bbayer/DocuMan"
+    },
+    {
+      "authors": [
         "joozio"
       ],
       "canonical_url": "https://www.lesswrong.com/posts/GPbWyHgx9hCLMdAjc/mud-as-ai-evaluation-and-llm-judge-distortion-in-ways",
@@ -125,6 +217,7 @@
       "url": "https://ai.2it.onl/posts/concurrency-sweep"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/2/open-letters",
       "cluster_sources": [
@@ -154,6 +247,7 @@
       "url": "https://simonwillison.net/2026/Aug/2/open-letters"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/2/july-newsletter",
       "cluster_sources": [
@@ -843,7 +937,7 @@
       ],
       "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
       "event_cluster_id": "3c161e10a37d",
-      "fetched_at": "2026-08-02T07:10:06Z",
+      "fetched_at": "2026-08-02T11:44:19Z",
       "id": "3c161e10a37d7c1589a2",
       "image_url": "",
       "is_breaking": false,
@@ -874,7 +968,7 @@
       ],
       "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
       "event_cluster_id": "0c2024ac62a3",
-      "fetched_at": "2026-08-02T07:10:06Z",
+      "fetched_at": "2026-08-02T11:44:19Z",
       "id": "0c2024ac62a37e44cfe3",
       "image_url": "",
       "is_breaking": false,
@@ -19527,125 +19621,7 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "ExpertVerse: A General-Purpose Benchmark for Expert-Level Reasoning in Knowledge-Intensive Visual Synthesis",
       "url": "https://arxiv.org/abs/2607.19341v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yu Chen",
-        "Caorui Li",
-        "Ziyu Xiong",
-        "Yidong Wang",
-        "Mingqi Gao",
-        "Shuman Liu",
-        "Biao Liu",
-        "Chunfeng Yang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.19339v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Long audio-video reasoning is difficult for omnimodal LLMs because the decisive evidence is often sparse, cross-modal, and too expensive to preserve with uniformly high-fidelity inputs. We introduce OmniReasoner, a tool-use post-training...",
-      "event_cluster_id": "3f66711009bb",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "3f66711009bb6f57f876",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T17:57:50Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: training",
-        "technical relevance: tool use, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "OmniReasoner: Thinking with Long Audio-Video via Native Tool Use",
-      "url": "https://arxiv.org/abs/2607.19339v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Qijia He",
-        "Jiayi Cheng",
-        "Chenqian Le",
-        "Rui Wang",
-        "Xunmei Liu",
-        "Yixian Chen",
-        "Jie Mei",
-        "Zhihao Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.19338v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Coding agents increasingly operate in executable environments where a failed attempt produces actionable feedback rather than merely an incorrect answer. Existing cost-aware systems typically treat such failures as cascade decisions: try...",
-      "event_cluster_id": "b1ff5bd695cb",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "b1ff5bd695cb36e40e22",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-21T17:56:49Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents",
-      "url": "https://arxiv.org/abs/2607.19338v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Grace Hui Yang",
-        "Pranav N. Venkit",
-        "Hooman Sedghamiz",
-        "Enrico Santus",
-        "Victor Dibia",
-        "Ioana Baldini"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.19336v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Agentic systems large language model (LLM) based architectures capable of reasoning, planning, acting, and coordinating with tools and other agents are rapidly transitioning from research prototypes to production scale deployments across...",
-      "event_cluster_id": "abd16b06e900",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "abd16b06e900ff0fc75b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-21T17:55:10Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent, reasoning",
-        "startup/product signal: product, API"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Agents in the Wild: Where Research Meets Deployment",
-      "url": "https://arxiv.org/abs/2607.19336v1"
     }
   ],
-  "generated_at": "2026-08-02T07:10:06Z"
+  "generated_at": "2026-08-02T11:44:19Z"
 }
