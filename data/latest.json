@@ -1,39 +1,6 @@
 {
   "articles": [
     {
-      "also_covered_by": [
-        "Hacker News"
-      ],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "deepseek-ai/DeepSeek-V4-Flash-0731 The latest release in DeepSeek's V4 family, \"with substantially enhanced agentic capabilities\". It's 304 billion parameters - 167GB on Hugging Face - but it appears to punch well above its weight....",
-      "event_cluster_id": "3b4d0b686ffb",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "3b4d0b686ffbe7f44bac",
-      "image_url": "https://static.simonwillison.net/static/2026/deepseek-flash-chart.webp",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-31T23:59:44Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: release",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "deepseek-ai/DeepSeek-V4-Flash-0731",
-      "url": "https://simonwillison.net/2026/Jul/31/deepseek-v4-flash-0731"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "TechCrunch Events"
@@ -104,40 +71,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Jagmeet Singh"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The deal gives Okta identity threat detection capabilities as enterprises seek to secure AI agents and other non-human identities across cloud environments.",
-      "event_cluster_id": "b5aabe6bc6ce",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "b5aabe6bc6ce58e28c0d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-30T16:09:42Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: security",
-        "technical relevance: agent",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Okta buys AI security startup Permiso — source says for about $200M",
-      "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Siddharth Vohra"
       ],
       "canonical_url": "https://arxiv.org/abs/2607.26886v1",
@@ -204,6 +137,44 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "BATS: Resource-Efficient Volumetric Segmentation with Boundary-Aware Mixed-Resolution Tokens",
       "url": "https://arxiv.org/abs/2607.26829v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Yitao Zhu",
+        "Mengjun Liu",
+        "Yingji Fu",
+        "Haowen Pang",
+        "Anqi Qiu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2607.26554v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Integrating 3D medical images with vision-language models (VLMs) holds substantial promise for computer-aided diagnosis. However, volumetric images generate prohibitively long visual-token sequences with considerable spatial and...",
+      "event_cluster_id": "8d830b2e8c5d",
+      "fetched_at": "2026-07-30T07:16:36Z",
+      "id": "8d830b2e8c5d1e4d92d2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-29T07:27:09Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "research relevance: medical image",
+        "technical relevance: vision-language, VLM"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MedARC: Training-Free Adaptive Redundancy Compression of Visual Tokens for 3D Medical Vision-Language Models",
+      "url": "https://arxiv.org/abs/2607.26554v1"
     },
     {
       "also_covered_by": [],
@@ -345,164 +316,6 @@
       "url": "https://simonwillison.net/2026/Aug/2/july-newsletter"
     },
     {
-      "authors": [
-        "spetschinka"
-      ],
-      "canonical_url": "https://www.richresults.ai/evidence.html",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7a54061269a5",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "hn-49130131",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-01T00:56:35Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "research relevance: PET"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "AI Visibility Evidence Model: Five Factors, Graded by Evidence",
-      "url": "https://www.richresults.ai/evidence.html"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lin YC, Chiu SC, Massey R, Fang YD, Alzheimer's Disease Neuroimaging Initiative."
-      ],
-      "canonical_url": "https://doi.org/10.1002/alz.71683",
-      "cluster_sources": [
-        "Europe PMC - Medical AI and Neuroimaging"
-      ],
-      "description": "",
-      "event_cluster_id": "e242a3baed75",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "epmc-42533677",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-01T00:00:00Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "research relevance: Alzheimer, Alzheimer's disease, neuroimaging"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "europe_pmc",
-      "source_name": "Europe PMC - Medical AI and Neuroimaging",
-      "title": "Classification of tau status with machine learning models in amyloid-positive cohorts.",
-      "url": "https://doi.org/10.1002/alz.71683"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/31/stateless-mcp",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Tuesday was Stateless MCP day - the rollout of MCP 2.0, or the 2026-07-28 Model Context Protocol specification to use the more formal but less memorable name. This is the most significant change to the MCP spec since it first launched,...",
-      "event_cluster_id": "c91e9c9718a5",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "c91e9c9718a58754cc3c",
-      "image_url": "https://static.simonwillison.net/static/2026/mermaid-example.svg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-31T23:13:22Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: launch, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Stateless MCP has recaptured my interest (and inspired mcp-explorer and datasette-mcp)",
-      "url": "https://simonwillison.net/2026/Jul/31/stateless-mcp"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Oxide and Friends: The Open Weight Revolution with Simon Willison On Monday Bryan Cantrill and Adam Leventhal invited me to join their podcast to talk about the wild week we've had - with Kimi K3 showing open weight models can stand...",
-      "event_cluster_id": "a7581fdd4462",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "a7581fdd4462c35bb768",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-31T21:33:13Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Oxide and Friends: The Open Weight Revolution with Simon Willison",
-      "url": "https://simonwillison.net/2026/Jul/31/oxide-and-friends"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The startup is building voice models designed to make AI phone calls pass the Turing test.",
-      "event_cluster_id": "2abe1b57e7b3",
-      "fetched_at": "2026-08-01T11:45:14Z",
-      "id": "2abe1b57e7b3f781819b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-31T14:47:11Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human",
-      "url": "https://techcrunch.com/2026/07/31/smallest-ai-raises-13m-to-build-ultra-fast-voice-ai-that-sounds-genuinely-human"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Xiangning Lin",
@@ -611,102 +424,6 @@
       "url": "https://simonwillison.net/2026/Jul/31/smevals"
     },
     {
-      "authors": [
-        "megadragon9"
-      ],
-      "canonical_url": "https://www.henrypan.com/blog/2026-07-18-harness-training",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "b21a0489427c",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "hn-49130109",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-01T00:52:55Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: RAG"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Freeze the model, train the harness: gains transfer across LLMs and benchmarks",
-      "url": "https://www.henrypan.com/blog/2026-07-18-harness-training"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lucas Ropek"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI has reportedly found evidence of additional agent misbehavior as it looks into the incident that occurred with Hugging Face.",
-      "event_cluster_id": "f5a4ae47748d",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "f5a4ae47748de73380ae",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T22:47:26Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
-      "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lucas Ropek"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-      "event_cluster_id": "2415c92a08d1",
-      "fetched_at": "2026-08-01T01:08:51Z",
-      "id": "2415c92a08d1af7e5d62",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T19:47:28Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-      "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Russell Brandom"
@@ -771,6 +488,70 @@
       "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype"
     },
     {
+      "authors": [
+        "MirrorEthic"
+      ],
+      "canonical_url": "https://cl33.t3atlas.dev",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "4a0fc37767d1",
+      "fetched_at": "2026-08-03T01:10:51Z",
+      "id": "hn-49148932",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-02T22:10:42Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Cl33-opLM, a 236M language model with a reversible operator bottleneck",
+      "url": "https://cl33.t3atlas.dev"
+    },
+    {
+      "authors": [
+        "asim"
+      ],
+      "canonical_url": "https://github.com/micro/mu",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "301d0233c347",
+      "fetched_at": "2026-08-03T01:10:51Z",
+      "id": "hn-49148899",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-02T22:06:34Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Mu – Tools for Agents",
+      "url": "https://github.com/micro/mu"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/1/greg-brockman",
@@ -802,6 +583,35 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Ten advances in mathematics and theoretical computer science A few days ago it was Anthropic discovering cryptographic weaknesses with Claude using Mythos Preview, spending $100,000 on tokens and with prompts that included \"again we are...",
+      "event_cluster_id": "be2d9af15405",
+      "fetched_at": "2026-08-02T01:10:24Z",
+      "id": "be2d9af154057573398a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T20:34:49Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Ten advances in mathematics and theoretical computer science",
+      "url": "https://simonwillison.net/2026/Aug/1/ten-advances-in-mathematics"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-not-much-happened-today-038",
       "cluster_sources": [
         "Latent Space"
@@ -828,38 +638,6 @@
       "source_name": "Latent Space",
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-038"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Theresa Loconsolo"
-      ],
-      "canonical_url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled..",
-      "event_cluster_id": "c30ca681ec92",
-      "fetched_at": "2026-08-01T11:45:14Z",
-      "id": "c30ca681ec92534b8211",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T17:26:32Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Sam Altman isn’t the only one who wants to pump the brakes on AI",
-      "url": "https://techcrunch.com/video/sam-altman-isnt-the-only-one-who-wants-to-pump-the-brakes-on-ai"
     },
     {
       "also_covered_by": [],
@@ -895,38 +673,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Kirsten Korosec, Sean O'Kane, Anthony Ha, Theresa Loconsolo"
-      ],
-      "canonical_url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled..",
-      "event_cluster_id": "ee29d7a0ffe0",
-      "fetched_at": "2026-08-01T11:45:14Z",
-      "id": "ee29d7a0ffe06230af99",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-31T14:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-      "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management",
       "cluster_sources": [
@@ -954,16 +700,170 @@
       "source_name": "Hugging Face Blog",
       "title": "GPU Management: Why Idle GPUs Are the New Grounded Aircraft",
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "On the latest episode of Equity, we discuss why Sam Altman has calling on the industry to \"pace the rate of AI development.\"",
+      "event_cluster_id": "db774c5d36f2",
+      "fetched_at": "2026-08-03T01:10:51Z",
+      "id": "db774c5d36f25269b367",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-02T20:54:22Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Sam Altman and AI’s decel debate",
+      "url": "https://techcrunch.com/2026/08/02/sam-altman-and-ais-decel-debate"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+      "event_cluster_id": "98be0e19cdf3",
+      "fetched_at": "2026-08-02T01:10:24Z",
+      "id": "98be0e19cdf38616e190",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T20:26:04Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+      "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "event_cluster_id": "51a39ba98374",
+      "fetched_at": "2026-08-02T01:10:24Z",
+      "id": "51a39ba98374de358ea5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T19:45:45Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "event_cluster_id": "3c161e10a37d",
+      "fetched_at": "2026-08-02T11:44:19Z",
+      "id": "3c161e10a37d7c1589a2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T17:07:34Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "url": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "This $9 NFC key requires you to physically scan it to unlock distracting apps on your phone.",
+      "event_cluster_id": "0c2024ac62a3",
+      "fetched_at": "2026-08-02T11:44:19Z",
+      "id": "0c2024ac62a37e44cfe3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-01T15:58:17Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "This $9 key physically locks your most addictive apps",
+      "url": "https://techcrunch.com/2026/08/01/this-9-key-physically-locks-your-most-addictive-apps"
     }
   ],
-  "date_label": "Sunday, August 2, 2026",
-  "generated_at": "2026-08-02T11:44:19Z",
+  "date_label": "Monday, August 3, 2026",
+  "generated_at": "2026-08-03T01:10:51Z",
   "summary": {
-    "duplicates_removed": 1,
-    "failed_sources": 1,
-    "fetched_items": 195,
-    "retained_items": 29,
-    "successful_sources": 20
+    "duplicates_removed": 0,
+    "failed_sources": 2,
+    "fetched_items": 179,
+    "retained_items": 26,
+    "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
 }
