@@ -2,6 +2,319 @@
   "articles": [
     {
       "authors": [
+        "fhiltscher"
+      ],
+      "canonical_url": "https://github.com/fhiltscher/awesome-ai-coding-sandboxes",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "def950eb7f12",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "hn-49155416",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-03T13:18:04Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: security",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "A list of sandboxes for running AI coding agents, ranked by security posture",
+      "url": "https://github.com/fhiltscher/awesome-ai-coding-sandboxes"
+    },
+    {
+      "authors": [
+        "walldad2"
+      ],
+      "canonical_url": "https://github.com/wallidsaydi-creator/HOM-AIMOS",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "bcb7d499e000",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "hn-49155409",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-03T13:17:37Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "I built agent memory that retains poisoned data instead of deleting it",
+      "url": "https://github.com/wallidsaydi-creator/HOM-AIMOS"
+    },
+    {
+      "authors": [
+        "Charlotte Jee"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging...",
+      "event_cluster_id": "5b982a06ba04",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "5b982a06ba04ac844d25",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-08-03T12:08:00Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+      "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks"
+    },
+    {
+      "authors": [
+        "Anon84"
+      ],
+      "canonical_url": "https://github.com/lyogavin/airllm",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "759119abe3ff",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "hn-49154228",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-03T11:15:48Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: GPU, inference",
+        "technical relevance: inference"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "AirLLM 70B inference with single 4GB GPU",
+      "url": "https://github.com/lyogavin/airllm"
+    },
+    {
+      "authors": [
+        "NickySlicks"
+      ],
+      "canonical_url": "https://github.com/garagehq/nightcrawler",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "e5ea647e2e29",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "hn-49154127",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-03T11:06:15Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Nightcrawler – A local AI pentesting agent running on a smartphone",
+      "url": "https://github.com/garagehq/nightcrawler"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+      "event_cluster_id": "66e6d69f92ae",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "66e6d69f92aec79ce8cb",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-03T10:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: startup, seed"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+      "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem"
+    },
+    {
+      "authors": [
+        "mpweiher"
+      ],
+      "canonical_url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "bd0c05a966cb",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "hn-49153374",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-03T09:32:07Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Prevent cognitive debt by manually retyping LLM-generated code",
+      "url": "https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code"
+    },
+    {
+      "authors": [
+        "mohamed_am83"
+      ],
+      "canonical_url": "https://github.com/mohamed--abdel-maksoud/pisiguard",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "15a8f4d034ea",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "hn-49153029",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-03T08:54:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "PISIGuard: Protect your personal and sensitive info when you chat with AI",
+      "url": "https://github.com/mohamed--abdel-maksoud/pisiguard"
+    },
+    {
+      "authors": [
+        "Grace Huckins"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. When two OpenAI models hacked into the website Hugging Face..",
+      "event_cluster_id": "eb30092f0b07",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "eb30092f0b074cec681a",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-08-03T08:30:05Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Here’s why AI agents lie and cheat to reach their goals",
+      "url": "https://www.technologyreview.com/2026/08/03/1141009/heres-why-ai-agents-lie-and-cheat-to-reach-their-goals"
+    },
+    {
+      "authors": [
+        "nnx"
+      ],
+      "canonical_url": "https://octanejs.dev",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "6ab59417a44a",
+      "fetched_at": "2026-08-03T13:27:00Z",
+      "id": "hn-49152640",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-03T08:04:04Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Octane – React's programming model, compiled",
+      "url": "https://octanejs.dev"
+    },
+    {
+      "authors": [
         "harrymachura"
       ],
       "canonical_url": "https://pipe-lang.com",
@@ -2880,6 +3193,7 @@
       "url": "https://arxiv.org/abs/2607.29592v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "eatonphil"
       ],
@@ -2889,7 +3203,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "f907581a5203",
-      "fetched_at": "2026-08-03T08:00:06Z",
+      "fetched_at": "2026-08-03T13:27:00Z",
       "id": "hn-49125065",
       "image_url": "",
       "is_breaking": false,
@@ -19373,322 +19687,7 @@
       "source_name": "Hacker News",
       "title": "Spend the AI Dividend on Quality",
       "url": "https://ronaknathani.com/blog/2026/07/spend-the-ai-dividend-on-quality"
-    },
-    {
-      "authors": [
-        "edf13"
-      ],
-      "canonical_url": "https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "6fb9213f9854",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "hn-49005491",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T12:12:09Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "An AI Model Escaped Its Eval and Breached Hugging Face. Every Step Was a Syscall",
-      "url": "https://grith.ai/blog/openai-model-breached-hugging-face-eval-breakout"
-    },
-    {
-      "authors": [
-        "tiago-im"
-      ],
-      "canonical_url": "https://github.com/menot-you/n-memory",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "603c51947075",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "hn-49005476",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T12:10:38Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "NMEMORY – A memory for AI agents that refuses to answer without evidence",
-      "url": "https://github.com/menot-you/n-memory"
-    },
-    {
-      "authors": [
-        "vinni2"
-      ],
-      "canonical_url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "f772afc8bb1d",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "hn-49005398",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T12:03:32Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: launch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "OpenAI says its AI went rogue and launched 'unprecedented' cyber-attack",
-      "url": "https://www.bbc.com/news/articles/c3ek3gvdnj3o"
-    },
-    {
-      "authors": [
-        "giuliomagnifico"
-      ],
-      "canonical_url": "https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "18dfb0923ca8",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "hn-49005352",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T11:59:57Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Jensen Huang defends Chinese AI amid Kimi panic",
-      "url": "https://www.axios.com/2026/07/22/nvidia-jensen-huang-china-open-source-ai"
-    },
-    {
-      "authors": [
-        "1vuio0pswjnm7"
-      ],
-      "canonical_url": "https://www.ft.com/content/1ab00e18-995a-4cda-b76b-00ba6c043863",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "070054ff1dfe",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "hn-49005350",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T11:59:43Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "UK businesses are not deepening their use of AI, suggests ONS data",
-      "url": "https://www.ft.com/content/1ab00e18-995a-4cda-b76b-00ba6c043863"
-    },
-    {
-      "authors": [
-        "mashally"
-      ],
-      "canonical_url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "b88e9492c791",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "hn-49005337",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T11:58:45Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "How AI may drive union-resistant tech workers to the bargaining table",
-      "url": "https://www.theguardian.com/technology/2026/jul/21/ai-tech-workers-unionize"
-    },
-    {
-      "authors": [
-        "Akili28"
-      ],
-      "canonical_url": "https://github.com/irenee28/akili-runtime",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "acead84fe9d0",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "hn-49005322",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T11:57:41Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Akili – gated skill updates and rollback receipts for deployed models",
-      "url": "https://github.com/irenee28/akili-runtime"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Oliver Mills",
-        "Philip Conaghan",
-        "Samuel Relton"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.20028v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Robust out-of-the-box performance is essential for the clinical deployment of deep learning models in medical imaging. An important but underexplored factor affecting model generalisability is intensity normalisation, particularly for...",
-      "event_cluster_id": "3605d129a2d4",
-      "fetched_at": "2026-07-23T07:10:08Z",
-      "id": "3605d129a2d415fa2e21",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T11:14:45Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "research relevance: MRI, medical imaging"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A Systematic Benchmark of Intensity Normalisation Methods for 3D Knee MRI Segmentation and Cross-Domain Generalisability",
-      "url": "https://arxiv.org/abs/2607.20028v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jagmeet Singh"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
-      "event_cluster_id": "2f8bbdd66f0b",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "2f8bbdd66f0bd93a83ac",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-22T10:00:00Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: security",
-        "technical relevance: agent",
-        "startup/product signal: API, developer tool"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
-      "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Synthesia launched AI Roleplay Sessions, an interactive enterprise training platform where employees practice workplace conversations with AI avatars that provide feedback, scoring, and analytics to help companies measure training...",
-      "event_cluster_id": "31b4bd18e27a",
-      "fetched_at": "2026-07-22T12:14:14Z",
-      "id": "31b4bd18e27a02425472",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-22T08:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch, training"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Synthesia’s AI training platform is moving beyond videos into live coaching",
-      "url": "https://techcrunch.com/2026/07/22/synthesias-ai-training-platform-is-moving-beyond-videos-into-live-coaching"
     }
   ],
-  "generated_at": "2026-08-03T08:00:06Z"
+  "generated_at": "2026-08-03T13:27:00Z"
 }
