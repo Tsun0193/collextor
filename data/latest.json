@@ -34,6 +34,7 @@
       "url": "https://www.latent.space/p/inference-eng"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sina Wendrich",
         "Lukas Förner",
@@ -50,7 +51,7 @@
       ],
       "description": "Longitudinal multiparametric MRI is central to follow-up imaging in oncology, yet real-world clinical data are characterised by missing sequences, heterogeneous acquisition protocols, and varying spatial resolutions across time points....",
       "event_cluster_id": "12f1b1550bda",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "12f1b1550bda11de6708",
       "image_url": "",
       "is_breaking": false,
@@ -75,6 +76,7 @@
       "url": "https://arxiv.org/abs/2608.02324v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
       "cluster_sources": [
@@ -106,6 +108,41 @@
       "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "TechCrunch Events"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "event_cluster_id": "21a36b13bbad",
+      "fetched_at": "2026-07-30T00:58:15Z",
+      "id": "21a36b13bbad66e5abe1",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-07-29T21:16:39Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security",
+        "technical relevance: agent",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Masahiro Oda"
       ],
@@ -115,7 +152,7 @@
       ],
       "description": "In recent years, generative AI has attracted significant public attention, and its use has been rapidly expanding across a wide range of domains. From creative tasks such as text summarization, idea generation, and source code...",
       "event_cluster_id": "09a7caa17457",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "09a7caa17457f189fc13",
       "image_url": "",
       "is_breaking": false,
@@ -305,6 +342,7 @@
       "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Siam Tahsin Bhuiyan",
         "Rashedur Rahman",
@@ -320,7 +358,7 @@
       ],
       "description": "Deep learning models for medical image analysis typically apply a fixed amount of computation to every input, regardless of case difficulty. Anatomy-guided dual-stream architectures have been shown to improve diagnostic performance, but...",
       "event_cluster_id": "a06d5bba2d7e",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "a06d5bba2d7ed917a08f",
       "image_url": "",
       "is_breaking": false,
@@ -344,6 +382,7 @@
       "url": "https://arxiv.org/abs/2608.01808v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Rahul Venkataramani",
         "Rachana Sathish"
@@ -354,7 +393,7 @@
       ],
       "description": "Promptable segmentation foundation models (FMs) such as SAM3 and Medical SAM3 promise few-shot, interactively-specified segmentation for medical imaging through a natural language interface, yet their performance on clinical tasks falls...",
       "event_cluster_id": "9bb0a7a0cf37",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "9bb0a7a0cf37a2eecae3",
       "image_url": "",
       "is_breaking": false,
@@ -376,6 +415,69 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Few-Shot Concept Prompt Learning for Segmentation Foundation Models via Visual Grounding",
       "url": "https://arxiv.org/abs/2608.01663v1"
+    },
+    {
+      "authors": [
+        "eigenBasis"
+      ],
+      "canonical_url": "https://machinelearningmastery.com/static-vs-dynamic-vs-continuous-batching-in-llm-inference",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "209a2c7c524c",
+      "fetched_at": "2026-08-04T12:28:00Z",
+      "id": "hn-49167694",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-04T12:20:27Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Static vs. Dynamic vs. Continuous Batching in LLM Inference",
+      "url": "https://machinelearningmastery.com/static-vs-dynamic-vs-continuous-batching-in-llm-inference"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Endeavour Optical Networks is planning to launch the fastest space laser communications system yet built.",
+      "event_cluster_id": "7f9f62a8e00b",
+      "fetched_at": "2026-08-04T12:28:00Z",
+      "id": "7f9f62a8e00ba51279ee",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-04T12:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "EON wants to move the data superhighway from ocean fiber to space lasers",
+      "url": "https://techcrunch.com/2026/08/04/eon-wants-to-move-the-data-superhighway-from-ocean-fiber-to-space-lasers"
     },
     {
       "authors": [
@@ -506,38 +608,6 @@
       "url": "https://www.technologyreview.com/2026/07/29/1140884/the-download-chip-talent-battle-deflating-ai-hype"
     },
     {
-      "authors": [
-        "antonyragleap"
-      ],
-      "canonical_url": "https://github.com/antonyrag/ragleap-core",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "57dfa2b25585",
-      "fetched_at": "2026-08-04T07:17:08Z",
-      "id": "hn-49165268",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-04T07:13:19Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: RAG",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Ragleap-RAG – RAG engine that documents what it doesn't do yet",
-      "url": "https://github.com/antonyrag/ragleap-core"
-    },
-    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/4/steve-yegge",
@@ -596,6 +666,7 @@
       "url": "https://simonwillison.net/2026/Aug/3/dont-be-a-meat-proxy"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zhaoxin Yu",
         "Qi Shen",
@@ -611,7 +682,7 @@
       ],
       "description": "Optimization-based latent reasoning improves large language model outputs by optimizing instance-specific continuous states at test time while keeping model parameters frozen. Existing methods, however, typically connect these states to...",
       "event_cluster_id": "de66ca4ad646",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "de66ca4ad6463f5eee2d",
       "image_url": "",
       "is_breaking": false,
@@ -634,6 +705,7 @@
       "url": "https://arxiv.org/abs/2608.02585v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Taye Akinrele",
         "Sindhuja Penchala",
@@ -647,7 +719,7 @@
       ],
       "description": "Cognitive AI seeks to move beyond language generation and autonomous task execution toward systems capable of sustained reasoning, adaptive behavior, persistent memory, and self-regulation. While generative and agentic AI have...",
       "event_cluster_id": "87a539db594e",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "87a539db594ec04fc6eb",
       "image_url": "",
       "is_breaking": false,
@@ -670,6 +742,7 @@
       "url": "https://arxiv.org/abs/2608.02553v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Natalie Isak",
         "Matthew Dressman"
@@ -680,7 +753,7 @@
       ],
       "description": "The most capable AI deployments are not single models but ensembles of specialized agents that delegate and act in coordination. This architecture unlocks powerful new capabilities, and it also introduces risks that existing frameworks...",
       "event_cluster_id": "d4c52c577b81",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "d4c52c577b8131f926e0",
       "image_url": "",
       "is_breaking": false,
@@ -703,6 +776,7 @@
       "url": "https://arxiv.org/abs/2608.02518v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zhichen Liu",
         "Ruihan Sun",
@@ -718,7 +792,7 @@
       ],
       "description": "Long-running assistants and agents consume interaction streams that eventually outgrow the context. Existing context retention, summarization, and retrieval preserve access to selected history, but do not provide a persistent state over...",
       "event_cluster_id": "783f224798d5",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "783f224798d575c485e0",
       "image_url": "",
       "is_breaking": false,
@@ -815,7 +889,7 @@
       ],
       "description": "House spending records show OpenAI's ChatGPT dominates paid AI use on Capitol Hill, with congressional offices relying on the chatbot to draft memos, summarize legislation, and assist constituent communications.",
       "event_cluster_id": "0207a85f8617",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "0207a85f8617785e87bc",
       "image_url": "",
       "is_breaking": false,
@@ -845,7 +919,7 @@
       ],
       "description": "Set up a nightly cron job that executes the prompt: fetch upstream changes to the and rebase all local changes on top of upstream. Check that the software works as intended and replace the current version. — David Crawshaw's...",
       "event_cluster_id": "b99df1165a5d",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "b99df1165a5d0347b637",
       "image_url": "",
       "is_breaking": false,
@@ -866,6 +940,7 @@
       "url": "https://simonwillison.net/2026/Aug/3/david-crawshaw"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Onur Ali Zeybekoglu",
         "David Tilly",
@@ -877,7 +952,7 @@
       ],
       "description": "Deformable image registration (DIR) is a core problem in medical image analysis; but, unlike labeling decision problems such as classification and segmentation, registration is a problem class that involves stringent physical...",
       "event_cluster_id": "44a0ac8d1b4c",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "44a0ac8d1b4c99e7243f",
       "image_url": "",
       "is_breaking": false,
@@ -932,36 +1007,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Dominic-Madori Davis"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI’s first-ever influencer brand trip is sparking online backlash as tensions over the use of AI continue.",
-      "event_cluster_id": "fdcd30e16640",
-      "fetched_at": "2026-08-04T01:03:13Z",
-      "id": "fdcd30e1664003b1a011",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-03T19:09:56Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Influencers draw backlash for attending OpenAI’s first luxury trip",
-      "url": "https://techcrunch.com/2026/08/03/influencers-draw-backlash-for-attending-openais-first-luxury-trip"
-    },
-    {
-      "authors": [
         "Chao Ji",
         "Shiyu Xuan",
         "Zechao Li"
@@ -972,7 +1017,7 @@
       ],
       "description": "Aerial-ground person re-identification is a challenging task due to cross-platform viewpoint variations, which cause severe occlusion and geometric deformation. Existing methods attempt to learn view-invariant representations exclusively...",
       "event_cluster_id": "63f8387407c9",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "63f8387407c9123ec50d",
       "image_url": "",
       "is_breaking": false,
@@ -994,6 +1039,7 @@
       "url": "https://arxiv.org/abs/2608.02598v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Brandon Wang",
         "Andrei S. Tyrin",
@@ -1005,7 +1051,7 @@
       ],
       "description": "Language models are playing an increasingly important role in laboratory science, performing tasks such as experiment planning, execution, and post-hoc analysis. However, precisely measuring their abilities is difficult, as scientific...",
       "event_cluster_id": "2b5235c3a4e7",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "2b5235c3a4e702a3397e",
       "image_url": "",
       "is_breaking": false,
@@ -1035,7 +1081,7 @@
       ],
       "description": "",
       "event_cluster_id": "a8dbd4f6642c",
-      "fetched_at": "2026-08-04T07:17:08Z",
+      "fetched_at": "2026-08-04T12:28:00Z",
       "id": "a8dbd4f6642c381b4aa8",
       "image_url": "",
       "is_breaking": false,
@@ -1057,6 +1103,7 @@
       "url": "https://www.microsoft.com/en-us/research/blog/orchard-an-open-framework-for-scalable-agentic-ai"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Andrea Brigliadori",
         "Leevi Kerkela",
@@ -1090,12 +1137,12 @@
     }
   ],
   "date_label": "Tuesday, August 4, 2026",
-  "generated_at": "2026-08-04T07:17:08Z",
+  "generated_at": "2026-08-04T12:28:00Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 203,
-    "retained_items": 33,
+    "fetched_items": 204,
+    "retained_items": 34,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
