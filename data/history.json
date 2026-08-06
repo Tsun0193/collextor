@@ -2,6 +2,696 @@
   "articles": [
     {
       "authors": [
+        "greenfish6"
+      ],
+      "canonical_url": "https://www.raymondyxu.com/blog/labelYourAIWritingAsAIWriting",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "247dc5f1808b",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49191056",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T00:56:44Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Label your AI writing as AI writing",
+      "url": "https://www.raymondyxu.com/blog/labelYourAIWritingAsAIWriting"
+    },
+    {
+      "also_covered_by": [
+        "Simon Willison"
+      ],
+      "authors": [
+        "simonw"
+      ],
+      "canonical_url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a81a69ba0b3f",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49190997",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T00:47:57Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "covered by multiple configured sources"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "An AI model from Meta also hacked another company during testing",
+      "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking"
+    },
+    {
+      "also_covered_by": [
+        "Hugging Face Blog"
+      ],
+      "authors": [
+        "gmays"
+      ],
+      "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a5bc54280bf2",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49190994",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T00:47:04Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
+    },
+    {
+      "authors": [
+        "vektormemory"
+      ],
+      "canonical_url": "https://medium.com/@vektormemory/how-to-give-ai-agent-a-memory-that-survives-the-session-116f69c23eaf",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "3f4f499ed948",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49190975",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T00:43:35Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "How to Give AI Agent a Memory That Survives the Session",
+      "url": "https://medium.com/@vektormemory/how-to-give-ai-agent-a-memory-that-survives-the-session-116f69c23eaf"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse...",
+      "event_cluster_id": "a73147b00fa8",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "a73147b00fa87689c5d0",
+      "image_url": "https://static.simonwillison.net/static/2026/muse-spark-1.2.png",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-05T23:58:35Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: introducing, model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Introducing Muse Code and Muse Spark 1.2",
+      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12"
+    },
+    {
+      "also_covered_by": [
+        "Hacker News"
+      ],
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Third-party cyber evaluations involving OpenAI models And another one . I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my previous post )...",
+      "event_cluster_id": "f01531ee4722",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "f01531ee47225e86936d",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-05T23:45:32Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model, safety",
+        "technical relevance: evaluation"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Third-party cyber evaluations involving OpenAI models",
+      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/5/incident-report",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again . This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the...",
+      "event_cluster_id": "a04397131d4e",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "a04397131d4e41894aa2",
+      "image_url": "https://static.simonwillison.net/static/2026/uk-aisi-incident.webp",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-05T23:32:06Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model, security",
+        "technical relevance: agent, evaluation"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
+      "url": "https://simonwillison.net/2026/Aug/5/incident-report"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta expanded its AI coding offerings with a new agent that, it promises, can handle complex tasks with complex software.",
+      "event_cluster_id": "7292944e61ba",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "7292944e61ba5b05b253",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-05T21:21:28Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta launches Muse Code, an AI agent for large code bases",
+      "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases"
+    },
+    {
+      "authors": [
+        "Xeophon"
+      ],
+      "canonical_url": "https://www.primeintellect.ai/blog/prime-agent",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2c19ce14b791",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49189075",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T21:11:57Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Prime Agent: A self-improving RLM agent",
+      "url": "https://www.primeintellect.ai/blog/prime-agent"
+    },
+    {
+      "authors": [
+        "Marina Temkin"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
+      "event_cluster_id": "a263efd65da6",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "a263efd65da673efce7f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T20:05:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
+      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web )...",
+      "event_cluster_id": "b023d4b3644f",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "b023d4b3644fdebca1a0",
+      "image_url": "https://static.simonwillison.net/static/2026/raccoon-heist-tweet.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T19:42:38Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
+      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The legendary Google executive is joined by other outgoing Google execs in a joint mission to use AI to push forward the process of scientific discovery.",
+      "event_cluster_id": "f404780aaf78",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "f404780aaf783ec9f0fd",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-05T19:30:19Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Jeff Dean and other top AI researchers are leaving Google to launch their own startup",
+      "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup"
+    },
+    {
+      "authors": [
+        "lladnar"
+      ],
+      "canonical_url": "https://blog.fogus.me/llm/born-against.html",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "9527c3055c05",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49187061",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T18:37:49Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Born Against, or why hobby programming communities are against LLM usage",
+      "url": "https://blog.fogus.me/llm/born-against.html"
+    },
+    {
+      "authors": [
+        "moonikakiss"
+      ],
+      "canonical_url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a55b16f64642",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49186762",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T18:18:56Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
+      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency"
+    },
+    {
+      "authors": [
+        "shailendraht"
+      ],
+      "canonical_url": "https://www.hyperprobe.co",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "8d9a0a437f67",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49185389",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T16:47:15Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod",
+      "url": "https://www.hyperprobe.co"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Shopify says AI isn’t cannibalizing search traffic the way it has for publishers. Instead, AI-driven traffic and orders to Shopify stores tripled year over year in Q2.",
+      "event_cluster_id": "1ca2eb754759",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "1ca2eb754759eaaa9993",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T15:56:14Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Shopify says AI search is driving more traffic and sales, not replacing Google",
+      "url": "https://techcrunch.com/2026/08/05/shopify-says-ai-search-is-driving-more-traffic-and-sales-not-replacing-google"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Hark claims that its browser use agent is faster and cheaper than competition.",
+      "event_cluster_id": "01816a9beba2",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "01816a9beba266f62bde",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-05T15:46:27Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "research relevance: PET",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Hark previews its browser use agent for completing tasks",
+      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks"
+    },
+    {
+      "authors": [
+        "TechCrunch Events"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "On our new Real World AI stage, we’ll be focusing on the intersection between the digital and physical, and all the ways we’ll continue to see a blending of the two.",
+      "event_cluster_id": "c0bcc974ea56",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "c0bcc974ea561e01dd86",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T15:05:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "TechCrunch Disrupt 2026’s Real World AI Stage features robots, automated factories, and extinct animals",
+      "url": "https://techcrunch.com/2026/08/05/techcrunch-disrupt-2026s-real-world-ai-stage-features-robots-automated-factories-and-extinct-animals"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
+      "event_cluster_id": "9cccdd1f1ddf",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "9cccdd1f1ddfe7afbfa8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T14:13:18Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, chip"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic is hiring an AI chip design team",
+      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team"
+    },
+    {
+      "authors": [
+        "speckx"
+      ],
+      "canonical_url": "https://blog.cloudflare.com/cloudflare-os",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "6fd49dfa9491",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49182996",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T13:58:53Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Cloudflare OS: an open platform for agents, apps, and work",
+      "url": "https://blog.cloudflare.com/cloudflare-os"
+    },
+    {
+      "authors": [
+        "henryzhangpku"
+      ],
+      "canonical_url": "https://quantsignals.xyz/fst",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "628772e92a01",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "hn-49182263",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T13:01:29Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: An AI agent that trades inside limits you set, starting on paper",
+      "url": "https://quantsignals.xyz/fst"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
+      "event_cluster_id": "d13c8f68e0b6",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "d13c8f68e0b600cee120",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-05T12:28:38Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
+      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store"
+    },
+    {
+      "authors": [
         "zeristor"
       ],
       "canonical_url": "https://www.bbc.co.uk/news/articles/c1w1lvn7d9go",
@@ -93,6 +783,7 @@
       "url": "https://github.com/makethisbetter/makethisbetter-js"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
@@ -684,38 +1375,6 @@
       "source_name": "Hacker News",
       "title": "AI fuels more than half of cybercrime in Africa as scams surge – Interpol",
       "url": "https://www.africanews.com/2026/08/04/ai-fuels-more-than-half-of-cybercrime-in-africa-as-digital-scams-surge-interpol"
-    },
-    {
-      "authors": [
-        "glub"
-      ],
-      "canonical_url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "c99ec862b4e7",
-      "fetched_at": "2026-08-05T00:58:18Z",
-      "id": "hn-49175248",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-04T21:14:19Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: evaluation"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://openai.com/index/third-party-cyber-evaluations-involving-openai-models"
     },
     {
       "also_covered_by": [],
@@ -2472,7 +3131,7 @@
       ],
       "description": "Neuro-oncology decisions require coordinated interpretation of serial MRI, pathology, molecular markers, treatment history, performance status, and evolving guidelines. We present TumorBoard, a multi-agent decision-support system built...",
       "event_cluster_id": "350864a06932",
-      "fetched_at": "2026-08-05T12:25:12Z",
+      "fetched_at": "2026-08-06T00:58:41Z",
       "id": "350864a06932c7d0ddfc",
       "image_url": "",
       "is_breaking": false,
@@ -2510,7 +3169,7 @@
       ],
       "description": "Multimodal medical large language models remain structurally weak for neuro-oncology because volumetric evidence is compressed into generic visual tokens and diagnostic conclusions often lack an auditable link to MRI regions. We present...",
       "event_cluster_id": "01e2ebd52ad5",
-      "fetched_at": "2026-08-05T12:25:12Z",
+      "fetched_at": "2026-08-06T00:58:41Z",
       "id": "01e2ebd52ad510eea269",
       "image_url": "",
       "is_breaking": false,
@@ -2549,7 +3208,7 @@
       ],
       "description": "Focal cortical dysplasia (FCD) type II is an important structural cause of drug-resistant focal epilepsy, but its small size, heterogeneous appearance, and subtle MRI characteristics make automated segmentation challenging. Conventional...",
       "event_cluster_id": "3fce8a33091e",
-      "fetched_at": "2026-08-05T12:25:12Z",
+      "fetched_at": "2026-08-06T00:58:41Z",
       "id": "3fce8a33091e9f7555a2",
       "image_url": "",
       "is_breaking": false,
@@ -14346,37 +15005,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "a5bc54280bf2",
-      "fetched_at": "2026-07-29T12:32:35Z",
-      "id": "a5bc54280bf29efc8ba4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-28T15:01:45Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "LFM2.5-Encoders for Fast Long-Context Inference on CPU",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Ivan Mehta"
       ],
@@ -19060,688 +19688,7 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
       "url": "https://arxiv.org/abs/2607.22534v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kaixiong Gong",
-        "Xin Cai",
-        "Bin Lin",
-        "Hao Wang",
-        "Yunlong Lin",
-        "Mingzhe Zheng",
-        "Bohao Li",
-        "Jian-Wei Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22531v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Unified multimodal models seek a shared visual token space that supports both multimodal understanding and image generation. Discrete methods unify the interface via a shared codebook, whereas continuous pipelines often rely on two...",
-      "event_cluster_id": "fe37da2ec9f4",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "fe37da2ec9f47f7b3591",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T17:59:39Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: model",
-        "technical relevance: multimodal"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
-      "url": "https://arxiv.org/abs/2607.22531v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Siyuan Huang",
-        "Pengyu Cheng",
-        "Haotian Liu",
-        "Tao Chen",
-        "Yihao Liu",
-        "Jingwei Ni",
-        "Shijie Zhou",
-        "Ziyi Yang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22529v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "LLM training is shifting from manual design and annotation to interaction-driven self-evolution. However, existing self-evolutionary methods face a fundamental dilemma between task diversity and verification reliability:...",
-      "event_cluster_id": "b55b43da3ef4",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "b55b43da3ef48294a024",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T17:59:22Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: training"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
-      "url": "https://arxiv.org/abs/2607.22529v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anduel Mehmeti",
-        "Gabriella Gigante",
-        "Salvatore Venticinque"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22525v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "To effectively integrate AI into high-stakes, critical environments such as healthcare, autonomous driving, and aviation--and to advance toward higher levels of automation and seamless human-AI collaboration--building trust in AI-driven...",
-      "event_cluster_id": "0f6391212792",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "0f63912127926f4780e7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T17:56:38Z",
-      "research_track": "multimodal_foundation",
-      "score": 5,
-      "score_reasons": [
-        "medium source"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Explainable Reinforcement Learning for assisting Air Traffic Controllers",
-      "url": "https://arxiv.org/abs/2607.22525v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Darshan Tank",
-        "Baran Nama"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22520v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Adding procedural skills to an LLM agent is typically evaluated by average improvement in task success. However, this metric hides an important cost: skills can also make agents worse. We measure both sides by comparing agents with and...",
-      "event_cluster_id": "e06b1a744ccc",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "e06b1a744ccccd56b65c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T17:50:03Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "technical relevance: agent, RAG"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents",
-      "url": "https://arxiv.org/abs/2607.22520v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jiyuan Tan",
-        "Vasilis Syrgkanis"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22511v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Automating theoretical research is constrained not only by the generation of candidate results, but also by their reliable evaluation. A common approach is to close the research loop with a large language model (LLM) reviewer. However,...",
-      "event_cluster_id": "5ad096eee42b",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "5ad096eee42bc65408d4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T17:32:35Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: model, inference",
-        "technical relevance: agent, inference, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "CausalForge: A Formally Grounded, Self-Improving Agentic Framework for Automated Research in Causal Inference",
-      "url": "https://arxiv.org/abs/2607.22511v1"
-    },
-    {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "authors": [
-        "Athanasios Papastathopoulos-Katsaros",
-        "Steven T. Lee",
-        "Lin Yao",
-        "Ajay Thomas",
-        "Junseok Park",
-        "Matthew J. McGinley",
-        "Zhandong Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22508v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Electroencephalography (EEG) is widely used to diagnose neurological conditions, but its analysis usually relies on either predefined spectral features or deep neural networks. Predefined features carry a strong bias, since they fix in...",
-      "event_cluster_id": "3ded31547ad0",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "3ded31547ad0ea9b0530",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T17:27:43Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "covered by multiple configured sources"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Interpretable EEG biomarkers with bag-of-waves: Spatial and temporal waveform dictionaries for low-data regimes",
-      "url": "https://arxiv.org/abs/2607.22508v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Zhishan Tao",
-        "Ruoyu Wang",
-        "Yucheng Wu",
-        "Enjun Du",
-        "Yilei Yuan",
-        "Sherwin Ho",
-        "Yue Su",
-        "Jinbo Su"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22494v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Collision anticipation in autonomous driving requires not only accurate early warnings but also interpretable reasoning about what risk factors are being tracked and how risk evolves over time. Existing methods fall short in this regard:...",
-      "event_cluster_id": "3805e5420a4c",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "3805e5420a4c9c881499",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T17:06:05Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation",
-      "url": "https://arxiv.org/abs/2607.22494v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Opus 5 will be both cheaper and less restrictive than Fable, likely making it preferable in most use cases.",
-      "event_cluster_id": "2686459fefe3",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "2686459fefe3f4cde712",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-24T17:00:00Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch",
-        "startup/product signal: launches"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic launches Opus 5",
-      "url": "https://techcrunch.com/2026/07/24/anthropic-launches-opus-5"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ritik Raj",
-        "Souvik Kundu",
-        "Sarbartha Banerjee",
-        "Dheemanth Joshi",
-        "Ishita Vohra",
-        "Tushar Krishna"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22465v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Routing to select large language models (LLMs) with different cost-quality trade-offs has become a fundamental deployment feature of enterprise AI. Existing routers, primarily make independent routing decisions for each LLM call....",
-      "event_cluster_id": "104bab60ec30",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "104bab60ec30b5649139",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T16:29:06Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "TRACE-ROUTER: Task-Consistent and Adaptive Online Routing for Agentic AI",
-      "url": "https://arxiv.org/abs/2607.22465v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Víctor Rincón Yepes"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22458v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Do learned audio embeddings encode structure that nobody told them to encode? We probe four large pretrained audio models (AST, CLAP, BEATs-bio and BirdNET) with a downstream task none of them saw during training: recovering phylogenetic...",
-      "event_cluster_id": "2fd7b2450361",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "2fd7b2450361ddf2c0fe",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T16:19:04Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: model, training",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Phylogenetic signal in marine mammal and bird vocalizations captured by audio foundation models: the limited benefit of domain-specific pretraining",
-      "url": "https://arxiv.org/abs/2607.22458v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Halil Burak Noyan"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22445v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Enterprise AI agents are typically granted static credential sets at configuration time, holding every tool the role might need for every task they perform. This persistent over-privilege expands the attack surface. We argue that...",
-      "event_cluster_id": "9c1f8068e517",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "9c1f8068e5178b8ff81e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T16:08:03Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Dynamic Capability Scoping for Enterprise AI Agents: A Synthetic Dataset and Three-Source Permission Architecture",
-      "url": "https://arxiv.org/abs/2607.22445v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Danyang Yan",
-        "Boyuan Wang",
-        "Jiaxun Liu",
-        "Boyuan Chen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22434v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Humans routinely communicate through abstractions of their bodies, including shadows, silhouettes, and reflections. Yet robots remain largely confined to expressing themselves through their physical morphology. Enabling robots to...",
-      "event_cluster_id": "25b8ceb8deb9",
-      "fetched_at": "2026-07-28T01:00:07Z",
-      "id": "25b8ceb8deb9270b2333",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T15:52:36Z",
-      "research_track": "multimodal_foundation",
-      "score": 5,
-      "score_reasons": [
-        "medium source"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Robot Learning to Communicate through Projected Visual Abstractions",
-      "url": "https://arxiv.org/abs/2607.22434v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "AI companies, including Nvidia and Mistral, urge policymakers to avoid broad restrictions on open-weight AI models as Washington debates responses to Chinese AI and alleged model distillation.",
-      "event_cluster_id": "04aa753d0df2",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "04aa753d0df2117c5690",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T15:51:49Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, open-weight"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "As US weighs response to Chinese AI, industry urges against broad open-weight restrictions",
-      "url": "https://techcrunch.com/2026/07/24/as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-restrictions"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Users can now ask Attie questions about news, trends, and conversations on Bluesky and other apps on the AT Protocol.",
-      "event_cluster_id": "360ca539d8bd",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "360ca539d8bd298a2596",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T15:13:57Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: tool use"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Bluesky’s AI assistant Attie expands into an open social research tool",
-      "url": "https://techcrunch.com/2026/07/24/blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Amanda Silberling"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The AI lab Midjourney continues to expand its purview beyond image and video generation.",
-      "event_cluster_id": "d102f30487db",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "d102f30487db04bc8928",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T15:09:55Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Midjourney acquired the astrology app Co-Star",
-      "url": "https://techcrunch.com/2026/07/24/midjourney-acquired-the-astrology-app-co-star"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Sean O'Kane"
-      ],
-      "canonical_url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Chinese AI lab Moonshot’s open model Kimi went viral this week for reasons that had less to do with the model itself and more to do with how the U.S. AI industry reacted to it. Meanwhile, an unreleased OpenAI model wandered outside its...",
-      "event_cluster_id": "402e7f786d3b",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "402e7f786d3ba247d549",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T14:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: release, released, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street",
-      "url": "https://techcrunch.com/podcast/ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ivan Mehta"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "ChatGPT Voice on desktop can work with both ChatGPT Work and Codex to complete tasks and control agents.",
-      "event_cluster_id": "15113e472fa2",
-      "fetched_at": "2026-07-25T11:47:03Z",
-      "id": "15113e472fa2fe7afe24",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T13:36:42Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI’s new voice mode makes it to the ChatGPT desktop app",
-      "url": "https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jianqin Liu",
-        "Weiwei Cao",
-        "Wanxing Chang",
-        "Ruifeng Yuan",
-        "Bowen Shi",
-        "Zhilin Zheng",
-        "Xianjie Zhang",
-        "Ling Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22293v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical multimodal large language models (MLLMs) are increasingly expected to perform complex image understanding tasks, yet their reliability is often compromised by frequent errors in visual interpretation. To systematically trace...",
-      "event_cluster_id": "68451894d930",
-      "fetched_at": "2026-07-28T12:23:23Z",
-      "id": "68451894d930d2b3a4eb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T13:35:12Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: model",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "RadSight: Towards Perceptually Reliable Multimodal Radiology Image Understanding",
-      "url": "https://arxiv.org/abs/2607.22293v1"
-    },
-    {
-      "authors": [
-        "louiereederson"
-      ],
-      "canonical_url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "f9e7da6ddbf8",
-      "fetched_at": "2026-07-25T01:05:36Z",
-      "id": "hn-49035303",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T13:32:30Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, open-weight"
-      ],
-      "section": "business_policy",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Nvidia, Microsoft, Meta warn against overregulating open-weight models",
-      "url": "https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Laura M. Montaldo",
-        "Ricardo A. Borsoi",
-        "Sebastian Miron",
-        "Tulay Adali"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.22262v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Modeling shared and subject-specific structure in multisubject spatiotemporal data remains challenging, particularly in neuroimaging, where both spatial and temporal patterns exhibit rich variability across subjects. Existing matrix and...",
-      "event_cluster_id": "04f97484d9ae",
-      "fetched_at": "2026-07-28T12:23:23Z",
-      "id": "04f97484d9ae2f1ff183",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-24T12:55:09Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: model",
-        "research relevance: neuroimaging"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Variational Low-rank Tensor Decomposition for Multisubject Spatiotemporal Data Analysis",
-      "url": "https://arxiv.org/abs/2607.22262v1"
     }
   ],
-  "generated_at": "2026-08-05T12:25:12Z"
+  "generated_at": "2026-08-06T00:58:41Z"
 }
