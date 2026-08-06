@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12",
       "cluster_sources": [
@@ -64,6 +65,7 @@
       "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/5/incident-report",
       "cluster_sources": [
@@ -94,6 +96,7 @@
       "url": "https://simonwillison.net/2026/Aug/5/incident-report"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -159,37 +162,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Qwen is so back!",
-      "event_cluster_id": "c09b9b5f698d",
-      "fetched_at": "2026-08-04T07:17:08Z",
-      "id": "c09b9b5f698dc2331747",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!W0RB!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHOw1F2ebgAAkpJJ.jpg",
-      "is_breaking": true,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-08-04T03:49:14Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: open weights",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Qwen 3.8 Max(2.4T) and 27B, new open weights models for Coding and Cowork",
-      "url": "https://www.latent.space/p/ainews-qwen-38-max24t-and-27b-new"
-    },
-    {
       "authors": [
         "Ivan Mehta"
       ],
@@ -199,10 +171,10 @@
       ],
       "description": "Hark claims that its browser use agent is faster and cheaper than competition.",
       "event_cluster_id": "01816a9beba2",
-      "fetched_at": "2026-08-06T00:58:41Z",
+      "fetched_at": "2026-08-06T07:20:03Z",
       "id": "01816a9beba266f62bde",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-08-05T15:46:27Z",
@@ -334,6 +306,7 @@
       "url": "https://techcrunch.com/2026/07/30/okta-buys-ai-security-startup-permiso-source-says-for-about-200m"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -366,6 +339,7 @@
       "url": "https://techcrunch.com/2026/08/05/jeff-dean-and-other-top-ai-researchers-are-leaving-google-to-launch-their-own-startup"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ivan Mehta"
       ],
@@ -375,7 +349,7 @@
       ],
       "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
       "event_cluster_id": "d13c8f68e0b6",
-      "fetched_at": "2026-08-06T00:58:41Z",
+      "fetched_at": "2026-08-06T07:20:03Z",
       "id": "d13c8f68e0b600cee120",
       "image_url": "",
       "is_breaking": false,
@@ -561,43 +535,39 @@
       "url": "https://gainz.fast"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Yantong Liu",
-        "Zheyu Zhang",
-        "Runpeng Liu",
-        "Mu Xitang",
-        "Seong-Yoon Shin",
-        "Hyun-Ae Lee"
+        "Maria Monzon",
+        "Thomas Iff",
+        "Ender Konukoglu",
+        "Catherine R. Jutzeler"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.03187v1",
+      "canonical_url": "https://arxiv.org/abs/2608.04906v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Multimodal medical large language models remain structurally weak for neuro-oncology because volumetric evidence is compressed into generic visual tokens and diagnostic conclusions often lack an auditable link to MRI regions. We present...",
-      "event_cluster_id": "01e2ebd52ad5",
-      "fetched_at": "2026-08-06T00:58:41Z",
-      "id": "01e2ebd52ad510eea269",
+      "description": "This study introduces a diffusion-based framework for robust and accurate semantic segmentation of lumbar spine MRI scans from patients with low back pain (LBP), regardless of whether the scans are T1- or T2-weighted. We compared with...",
+      "event_cluster_id": "345649123702",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "34564912370238c1d7e1",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-04T06:26:50Z",
+      "published_at": "2026-08-05T14:35:27Z",
       "research_track": "medical_neuroimaging",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
+        "published within 24 hours",
         "major-event keyword: model",
-        "research relevance: MRI, multimodal medical",
-        "technical relevance: multimodal, reasoning"
+        "research relevance: MRI"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives",
-      "url": "https://arxiv.org/abs/2608.03187v1"
+      "title": "Enhancing Low Back Pain Assessment with Diffusion Models for Lumbar Spine MRI Segmentation",
+      "url": "https://arxiv.org/abs/2608.04906v1"
     },
     {
       "also_covered_by": [],
@@ -703,6 +673,7 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Marina Temkin"
       ],
@@ -764,6 +735,38 @@
       "source_name": "TechCrunch AI",
       "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
       "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress"
+    },
+    {
+      "authors": [
+        "eigenBasis"
+      ],
+      "canonical_url": "https://machinelearningmastery.com/static-vs-dynamic-vs-continuous-batching-in-llm-inference",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "209a2c7c524c",
+      "fetched_at": "2026-08-04T12:28:00Z",
+      "id": "hn-49167694",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-04T12:20:27Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Static vs. Dynamic vs. Continuous Batching in LLM Inference",
+      "url": "https://machinelearningmastery.com/static-vs-dynamic-vs-continuous-batching-in-llm-inference"
     },
     {
       "authors": [
@@ -830,6 +833,38 @@
       "url": "https://techcrunch.com/2026/07/30/investors-love-ai-as-long-as-youre-a-cloud-host"
     },
     {
+      "authors": [
+        "Latent.Space"
+      ],
+      "canonical_url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "The end of an era.",
+      "event_cluster_id": "f98620a14048",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "f98620a14048adad3865",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!1S7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57c9d273-aa50-4bc7-a7c4-caaf9b4952c2_1540x1624.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-06T04:34:11Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
+      "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
       "cluster_sources": [
@@ -858,200 +893,257 @@
       "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Yang Yang",
-        "Qinyu Zhao",
-        "Mouxiang Chen",
-        "Xiaohui Li",
-        "Lixin Gu",
-        "Wenhai Wang",
-        "Hongjie Zhang",
-        "Wenwei Zhang"
+        "Damien Sileo",
+        "Valentin Lacombe",
+        "Dimitri Kachler"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.04010v1",
+      "canonical_url": "https://arxiv.org/abs/2608.05148v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing...",
-      "event_cluster_id": "a8af109175bd",
-      "fetched_at": "2026-08-05T12:25:12Z",
-      "id": "a8af109175bd3e25493e",
+      "description": "Procedural generators produce useful verifiable reasoning problems at scale, but have received less attention as data for completion-supervised fine-tuning. We introduce Reasoning Core, a collection of 50 generators spanning mathematics,...",
+      "event_cluster_id": "4be793c8273d",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "4be793c8273d7d1018dc",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-04T17:59:58Z",
+      "published_at": "2026-08-05T17:59:44Z",
       "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: multimodal, inference"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2608.04010v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Zhenran Wang",
-        "Zhonghan Bian",
-        "Jinsong Li",
-        "Zhangyang Qi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.04009v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language models (LLMs), and the agents built on top of them, are now benchmarked heavily on whether they can finish a task -- fix a bug, drive a browser, operate a GUI. A complementary social ability, namely how well a model...",
-      "event_cluster_id": "bd7d5244850a",
-      "fetched_at": "2026-08-05T12:25:12Z",
-      "id": "bd7d5244850ac2d4b449",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-04T17:59:56Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SocietyBench: Forecasting Counterfactual Social-World Evolution",
-      "url": "https://arxiv.org/abs/2608.04009v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Shuhan Xue",
-        "Zixin Ding",
-        "Yichen Shen",
-        "Yinjie Wang",
-        "Zhenfei Yin",
-        "Yingcheng Wu",
-        "Yuxin Chen",
-        "Mengdi Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.04003v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Recursive self-improvement requires agents to turn accumulated experience into better future behavior. Personal AI agents offer a concrete setting for studying this capability because they retain preferences, task histories, tool...",
-      "event_cluster_id": "3e5d5c05192c",
-      "fetched_at": "2026-08-05T12:25:12Z",
-      "id": "3e5d5c05192cbacc28ac",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-04T17:58:05Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents",
-      "url": "https://arxiv.org/abs/2608.04003v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Mohsen Hariri",
-        "Weicong Chen",
-        "Nahal Shahini",
-        "Vikash Singh",
-        "Kai Ye",
-        "Amirhossein Samandar",
-        "Debargha Ganguly",
-        "Sreehari Sankar"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.04001v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language models can solve substantially harder reasoning problems with more inference-time compute. The term \"test-time scaling,\" however, now covers diverse inference algorithms that extend deliberation along a single trajectory,...",
-      "event_cluster_id": "0a5a098d6f2d",
-      "fetched_at": "2026-08-05T12:25:12Z",
-      "id": "0a5a098d6f2d01ba23d0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-04T17:57:20Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: reasoning, inference, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility",
-      "url": "https://arxiv.org/abs/2608.04001v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jinhe Bi",
-        "Chennan Zhou",
-        "Zengjie Jin",
-        "Aniri",
-        "Shuo Lu",
-        "Wenke Huang",
-        "Hu Cao",
-        "Xun Xiao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.03972v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "On-policy training has emerged as a powerful post-training paradigm for improving the reasoning capabilities of large language models, and is often enhanced by golden trajectories from stronger expert models. However, when the expert...",
-      "event_cluster_id": "f262dbb4dd3d",
-      "fetched_at": "2026-08-05T12:25:12Z",
-      "id": "f262dbb4dd3de681c85a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-04T17:40:08Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
+        "major-event keyword: training",
         "technical relevance: reasoning"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning",
-      "url": "https://arxiv.org/abs/2608.03972v1"
+      "title": "Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training",
+      "url": "https://arxiv.org/abs/2608.05148v1"
+    },
+    {
+      "authors": [
+        "Indraneil Paul",
+        "Falko Helm",
+        "Goran Glavaš",
+        "Iryna Gurevych"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.05141v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Context lengths of language models (LMs) have dramatically increased, driven by the demands for in-context learning, self-improvement, and long-horizon agentic workflows. Existing long-context corpora, however, are dominated by books,...",
+      "event_cluster_id": "a0a859470205",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "a0a859470205fccb3c47",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T17:58:15Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling",
+      "url": "https://arxiv.org/abs/2608.05141v1"
+    },
+    {
+      "authors": [
+        "Yinghui He",
+        "Ling Yang",
+        "Jiarui Liu",
+        "Yongjin Yang",
+        "Lechen Zhang",
+        "Yingcheng Wu",
+        "Zhenfei Yin",
+        "Mengdi Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.05139v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Long-horizon reasoning in recent LLMs demands that the model switch between distinct skills inside a reasoning chain, such as first doing a math derivation, then using the result to plan a schedule. We call such problems cross-skill...",
+      "event_cluster_id": "37f114baed55",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "37f114baed55bfd63c40",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T17:57:16Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark, training",
+        "technical relevance: reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning",
+      "url": "https://arxiv.org/abs/2608.05139v1"
+    },
+    {
+      "authors": [
+        "Aniri",
+        "Jinhe Bi",
+        "Peng Liao",
+        "Zengjie Jin",
+        "Volker Tresp",
+        "Fei Shen",
+        "Yunpu Ma",
+        "Tat-Seng Chua"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.05131v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "On-Policy Self-Distillation (OPSD) has become a standard post-training approach for improving visual reasoning in multimodal large language models (MLLMs). Existing methods draw privileged information from diverse input sources to guide...",
+      "event_cluster_id": "2a0accec128f",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "2a0accec128f524f8252",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T17:53:06Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: multimodal, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "OPD-V: Visual On-Policy Self-Distillation with Modality Balance",
+      "url": "https://arxiv.org/abs/2608.05131v1"
+    },
+    {
+      "authors": [
+        "Yuezhang Peng",
+        "Yuxin Liu",
+        "Changfeng Gao",
+        "Zhifu Gao",
+        "Xiangang Li",
+        "Xie Chen"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.05126v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Spoken Language Understanding (SLU) is the core component of task-oriented dialogue systems and a pivotal link in achieving seamless human-agent interaction. While traditional SLU can effectively extract user semantics for closed-set...",
+      "event_cluster_id": "5218456571e5",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "5218456571e5fd64a11c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-05T17:50:31Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models",
+      "url": "https://arxiv.org/abs/2608.05126v1"
+    },
+    {
+      "authors": [
+        "Lujia Zhong",
+        "Xinkai Wang",
+        "Shuo Huang",
+        "Yonggang Shi"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.04254v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Longitudinal prediction of Alzheimer's disease biomarkers increasingly informs clinical decisions, and a forecast is only useful if it also reports how much to trust it. Conformal prediction supplies this by wrapping any forecaster in a...",
+      "event_cluster_id": "48039856d391",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "48039856d3917b4a333a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-04T22:20:44Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: Alzheimer, Alzheimer's disease",
+        "technical relevance: RAG"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "When Is a Conformal Guarantee Fair? Auditing Silent Subgroup Under-Coverage in Alzheimer's Disease Longitudinal Prediction",
+      "url": "https://arxiv.org/abs/2608.04254v1"
+    },
+    {
+      "authors": [
+        "Abhishek Moturu",
+        "Babak Taati",
+        "Anna Goldenberg"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.04147v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Label noise is common in medical imaging datasets due to factors such as inter-rater variability, annotation errors, and ambiguous cases. This can severely undermine the reliability and clinical effectiveness of machine learning models...",
+      "event_cluster_id": "10fd40913e36",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "10fd40913e368dfb18f5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-04T18:55:53Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: medical imaging"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "LiNC: Lightweight Noise Correction via Per-Sample Trust and Gaussian Mixture Modeling",
+      "url": "https://arxiv.org/abs/2608.04147v1"
     },
     {
       "also_covered_by": [],
@@ -1084,42 +1176,37 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-2-6b"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Yantong Liu",
-        "Zheyu Zhang",
-        "Runpeng Liu",
-        "Mu Xitang",
-        "Seong-Yoon Shin",
-        "Hyun-Ae Lee"
+        "Dileepa Pitawela",
+        "Gustavo Carneiro",
+        "Hsiang-Ting Chen"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.03190v1",
+      "canonical_url": "https://arxiv.org/abs/2608.04652v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Neuro-oncology decisions require coordinated interpretation of serial MRI, pathology, molecular markers, treatment history, performance status, and evolving guidelines. We present TumorBoard, a multi-agent decision-support system built...",
-      "event_cluster_id": "350864a06932",
-      "fetched_at": "2026-08-06T00:58:41Z",
-      "id": "350864a06932c7d0ddfc",
+      "description": "Image mixup is a widely adopted data augmentation strategy, yet it is ill-suited for ordinal classification tasks such as medical disease grading, where labels encode a progression of severity. By indiscriminately blending...",
+      "event_cluster_id": "10038387f04d",
+      "fetched_at": "2026-08-06T07:20:03Z",
+      "id": "10038387f04d90256dc6",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-04T06:32:25Z",
+      "published_at": "2026-08-05T10:10:21Z",
       "research_track": "medical_neuroimaging",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
-        "research relevance: MRI",
-        "technical relevance: agent"
+        "published within 24 hours",
+        "research relevance: medical imaging"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "TumorBoard: Evidence-Grounded Multi-Agent Decision Support for Longitudinal Neuro-Oncology",
-      "url": "https://arxiv.org/abs/2608.03190v1"
+      "title": "DisMix: Order-Aware Mixup for Medical Imaging via Disentangling Ordinal and Non-Ordinal Features",
+      "url": "https://arxiv.org/abs/2608.04652v1"
     },
     {
       "also_covered_by": [],
@@ -1163,75 +1250,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Julia Machnio",
-        "Mads Nielsen",
-        "Mostafa Mehdipour Ghazi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.03511v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Active learning (AL) promises to reduce the cost of medical imaging projects by lowering the number of clinical labels required. However, practical deployment requires committing to a sampling strategy before the full annotation budget...",
-      "event_cluster_id": "dc35be84fced",
-      "fetched_at": "2026-08-05T07:18:13Z",
-      "id": "dc35be84fced599845c8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-04T11:53:02Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical imaging, medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "How Many Labels Are Enough? ALDA: Active Learning Deployment Advisor for Medical Image Classification",
-      "url": "https://arxiv.org/abs/2608.03511v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Hanqin Cai",
-        "Longxiu Huang",
-        "Jing Qin",
-        "Chengyue Wu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.03928v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Tensor cross-concentrated sampling (t-CCS) bridges entrywise sampling and t-CUR slice-wise sampling by observing entries only within selected horizontal and lateral slices. Existing t-CCS completion methods, however, assume that the...",
-      "event_cluster_id": "d18e4c95bd3c",
-      "fetched_at": "2026-08-05T12:25:12Z",
-      "id": "d18e4c95bd3cdd1ce701",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-04T16:59:58Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: serving"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Robust Low-Tubal-Rank Tensor Completion under Cross-Concentrated Sampling",
-      "url": "https://arxiv.org/abs/2608.03928v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Charlotte Jee"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/08/04/1141098/the-download-robot-restrictions-ice-dna",
@@ -1262,12 +1280,12 @@
     }
   ],
   "date_label": "Thursday, August 6, 2026",
-  "generated_at": "2026-08-06T00:58:41Z",
+  "generated_at": "2026-08-06T07:20:03Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
     "fetched_items": 200,
-    "retained_items": 37,
+    "retained_items": 38,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
