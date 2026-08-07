@@ -1,6 +1,37 @@
 {
   "articles": [
     {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-amd-buys-taalas",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "The Inference Inflection is HEATING up.",
+      "event_cluster_id": "25f0af2b3ded",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "25f0af2b3dedb35ba4de",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!qA0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b60b0e-d47f-4723-bb40-be9594e9bab4_786x754.png",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-08-07T05:13:46Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] AMD buys Taalas",
+      "url": "https://www.latent.space/p/ainews-amd-buys-taalas"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12",
@@ -130,6 +161,7 @@
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Théo Danielou",
         "Antoine Saporta",
@@ -142,7 +174,7 @@
       ],
       "description": "Radiology foundation models learn transferable representations that can be adapted to new tasks by training only small layers on top of a frozen encoder. Dense prediction tasks such as 3D segmentation are, however, underrepresented in...",
       "event_cluster_id": "30ec06fc8670",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "30ec06fc86706a0d6911",
       "image_url": "",
       "is_breaking": false,
@@ -199,6 +231,7 @@
       "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Aisha Malik"
       ],
@@ -208,7 +241,7 @@
       ],
       "description": "The launch of these new features reflects Google’s ambitions to transform Google Maps from a navigation tool into an assistant that's capable of helping users complete real-world tasks.",
       "event_cluster_id": "d8dcc0c82dc7",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "d8dcc0c82dc7c54808a5",
       "image_url": "",
       "is_breaking": false,
@@ -396,6 +429,36 @@
       "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "cdd8d819f485",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "cdd8d819f4855db7d80d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-07T00:00:00Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
+      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Attila Simkó"
       ],
@@ -405,7 +468,7 @@
       ],
       "description": "Medical images are routinely de-identified---names, dates, and other metadata removed---and then shared for research, teaching, and public benchmarks under the assumption that this renders them anonymous. Such de-identification protects...",
       "event_cluster_id": "648cbbf62c68",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "648cbbf62c6882224e89",
       "image_url": "",
       "is_breaking": false,
@@ -428,6 +491,7 @@
       "url": "https://arxiv.org/abs/2608.05938v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Songpan Gao",
         "Yajie Zhang",
@@ -444,7 +508,7 @@
       ],
       "description": "Deep learning models applied to medical image analysis suffer from severe catastrophic forgetting when continually adapting to new clinical tasks in dynamic environments. Mainstream incremental learning methods typically mitigate this by...",
       "event_cluster_id": "9785907fe6ca",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "9785907fe6cad3dedc82",
       "image_url": "",
       "is_breaking": false,
@@ -467,6 +531,7 @@
       "url": "https://arxiv.org/abs/2608.05808v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jiaxuan Li",
         "Qing Xu",
@@ -482,7 +547,7 @@
       ],
       "description": "Cross-modal alignment of visual and textual representations is fundamental to multimodal medical image understanding, yet remains hindered by uncertainty in both modalities under real-world clinical conditions. Existing vision-language...",
       "event_cluster_id": "d14308de787d",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "d14308de787d69d07e0d",
       "image_url": "",
       "is_breaking": false,
@@ -605,6 +670,7 @@
       "url": "https://www.aleksagordic.com/blog/vllm"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "itvision"
       ],
@@ -704,6 +770,7 @@
       "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/baseten",
       "cluster_sources": [
@@ -711,7 +778,7 @@
       ],
       "description": "",
       "event_cluster_id": "23ccd9ff0c11",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "23ccd9ff0c11ef81ec23",
       "image_url": "",
       "is_breaking": false,
@@ -831,176 +898,24 @@
     },
     {
       "authors": [
-        "Zhiheng Wang",
-        "Bo Peng",
-        "Lai Wei",
-        "Chaochao Lu"
+        "Ishan Patel",
+        "Sahil Sen",
+        "Elias Lumer",
+        "Vamse Kumar Subbiah"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.06270v1",
+      "canonical_url": "https://arxiv.org/abs/2608.06370v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "The \"thinking-with-images\" paradigm equips multimodal LLMs with active visual operations such as crop-and-zoom. However, models using these operations often achieve only marginal or negative gains over direct inference at substantially...",
-      "event_cluster_id": "9c23cfc9aa2f",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "9c23cfc9aa2f95063652",
+      "description": "Tool use transforms LLMs into agents that act beyond their training data, and for code-capable models, programmatic tool calling extends this further by replacing rigid JSON calls with scripts that chain and parallelize naturally....",
+      "event_cluster_id": "a3ca880b0fd8",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "a3ca880b0fd8014b2d8e",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-06T17:01:08Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: multimodal, inference"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images",
-      "url": "https://arxiv.org/abs/2608.06270v1"
-    },
-    {
-      "authors": [
-        "Omid Bazgir",
-        "Md Nasir",
-        "Jacob Hoffman",
-        "Yang Yang",
-        "Manu Agrawal",
-        "Anusua Trivedi",
-        "Vinay Rao Dandin",
-        "Chris Gibbons"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.06265v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Synthetic clinical benchmarks for enterprise AI agents can pass existing utility checks and still remain structurally unrealistic, especially in privacy-sensitive healthcare settings where operational data are hard to access. We study...",
-      "event_cluster_id": "47a2a3cc9acc",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "47a2a3cc9acc9ecb6054",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-06T16:56:44Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Improving the Realism of Synthetic Clinical Benchmarks Under Utility Constraints",
-      "url": "https://arxiv.org/abs/2608.06265v1"
-    },
-    {
-      "authors": [
-        "Yiting Zheng",
-        "Cheng Fang",
-        "Anthony Donofrio",
-        "Haote Li"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.06259v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Reaction yield prediction remains challenging because labeled data are scarce and reaction space is both combinatorially large and sparsely populated, limiting the generalization of existing reaction representations. String-,...",
-      "event_cluster_id": "03a438455688",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "03a43845568855d34f35",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-06T16:51:23Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "RxnCLF: Contrastive Transformation-Aware Reaction Foundation Model for Improved Reactivity Prediction",
-      "url": "https://arxiv.org/abs/2608.06259v1"
-    },
-    {
-      "authors": [
-        "ZhiYan Hou",
-        "Xinyu Tang",
-        "Hongyan An",
-        "Jianjin Zhang",
-        "Weizhen Wang",
-        "Yunyun Han",
-        "Gengsheng Li",
-        "Xiangzhao Hao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.06243v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Reinforcement learning with verifiable rewards (RLVR) improves the reasoning capabilities of large language models using automatically verifiable outcome signals, but these signals are typically sparse and at the sequence-level....",
-      "event_cluster_id": "ffadf81c79ff",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "ffadf81c79ff0a7587f5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-06T16:29:24Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "DASH: Divergence-Adaptive Supervision Horizons for On-Policy Self-Distillation of Reasoning Models",
-      "url": "https://arxiv.org/abs/2608.06243v1"
-    },
-    {
-      "authors": [
-        "Zishan Xu",
-        "Zhiyuan Yao",
-        "Yuxin Chen",
-        "Yifu Guo",
-        "Zhengxi Lu",
-        "Yuquan Lu",
-        "Jinyang Huang",
-        "Yan Xu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.06197v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Training large language model agents for long-horizon tool use typically relies on interactions with real or synthesized executable environments, whose construction and verification are costly, or on external simulators that are...",
-      "event_cluster_id": "06b9ca7cc5e7",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "06b9ca7cc5e7773fa79a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-06T15:54:36Z",
+      "published_at": "2026-08-06T17:58:32Z",
       "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
@@ -1013,29 +928,101 @@
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2608.06197v1"
+      "title": "The Bitter Lesson of Tool Calling",
+      "url": "https://arxiv.org/abs/2608.06370v1"
     },
     {
       "authors": [
-        "Jiaming Wei",
-        "Zekun Wu",
-        "Adriano Koshiyama",
-        "Maria Perez-Ortiz"
+        "Boning Li",
+        "Yu Chen",
+        "Longbo Huang"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.06171v1",
+      "canonical_url": "https://arxiv.org/abs/2608.06362v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Web agents observe a browser through text, pixels, or both, and the choice is usually fixed once for all tasks. We measure six observation modes across eight site-model combinations (cells) on VisualWebArena and WebArena and ask what...",
-      "event_cluster_id": "5d55f9f00e84",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "5d55f9f00e8495a42956",
+      "description": "Deciding which of two agents is stronger means playing games until skill outweighs luck, and every game costs money, model inference, or expert time. Since the number of games needed is unknown, fixed-budget evaluations either keep...",
+      "event_cluster_id": "d40e3db04b98",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "d40e3db04b98d4ca8baa",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-06T15:37:04Z",
+      "published_at": "2026-08-06T17:57:11Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: agent, inference, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "AV-AIVAT: 74x Cheaper Agent Evaluation with Certified Anytime-Valid Stopping in Imperfect-Information Games",
+      "url": "https://arxiv.org/abs/2608.06362v1"
+    },
+    {
+      "authors": [
+        "Sarvesh Baskar",
+        "Zikui Cai",
+        "Shayan Shabihi",
+        "Anirudh Satheesh",
+        "Muhammad R. Islam",
+        "Udari Madhushani Sehwag",
+        "Tom Goldstein",
+        "Furong Huang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.06361v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Real-world video benchmarks provide broad coverage, but their fixed clips entangle event count, rate, duration, and visual complexity, making failure modes hard to isolate. While existing programmatic benchmarks offer better control,...",
+      "event_cluster_id": "7b16ffe70ac1",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "7b16ffe70ac1c0968e4b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T17:57:06Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: RAG"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "The Low Frequency Trap: Video Language Models Fail at Simple Event Bookkeeping",
+      "url": "https://arxiv.org/abs/2608.06361v1"
+    },
+    {
+      "authors": [
+        "Praphul Chandra",
+        "Sujit Gujar",
+        "Ganesh Ghalme"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.06353v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We give a formal mechanism design model for the continuous participatory governance of a deployed AI agent. The mechanism is built on the principle that governance should control an AI agent through resource allocation so as to make...",
+      "event_cluster_id": "b47a3fcae8e8",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "b47a3fcae8e857e3d1a8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T17:53:24Z",
       "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
@@ -1048,8 +1035,81 @@
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Routing Is Least Learnable Where It Is Most Valuable: Bounds on Representation Routing for Web Agents",
-      "url": "https://arxiv.org/abs/2608.06171v1"
+      "title": "Resourced Authority A Mechanism-Design Model for Participatory Governance of Deployed AI Agents",
+      "url": "https://arxiv.org/abs/2608.06353v1"
+    },
+    {
+      "authors": [
+        "Fanzhe Meng",
+        "Guoxin Chen",
+        "Jiale Zhao",
+        "Shuang Sun",
+        "Zhiyu Lin",
+        "Wayne Xin Zhao",
+        "Ruihua Song",
+        "Ji-Rong Wen"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.06352v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Training terminal agents requires executable and verifiable tasks that are not merely solvable, but appropriately challenging for learning. Executable validation establishes feasibility, yet does not reveal how a task behaves relative to...",
+      "event_cluster_id": "49c69fde6786",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "49c69fde678658d9e63e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T17:53:18Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: training",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks",
+      "url": "https://arxiv.org/abs/2608.06352v1"
+    },
+    {
+      "authors": [
+        "Xinye Wang",
+        "Junxiao Liu",
+        "Shujian Huang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.06347v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Multilingual reasoning transfer is crucial for extending reasoning capabilities of large language models (LLMs) beyond high-resource languages. On-policy self-distillation (OPSD) and its variants have emerged as a promising paradigm,...",
+      "event_cluster_id": "f178d166a2f6",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "f178d166a2f6f4e0767c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T17:52:06Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "RP-OPSD: Reasoning-Pivot-Guided On-Policy Self-Distillation for Multilingual Reasoning Transfer",
+      "url": "https://arxiv.org/abs/2608.06347v1"
     },
     {
       "also_covered_by": [],
@@ -1145,6 +1205,7 @@
       "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging",
       "cluster_sources": [
@@ -1152,7 +1213,7 @@
       ],
       "description": "Simon Willison on Technical Blogging I was interviewed by Cynthia Dunlop for her \"Write that blog!\" series back in January, but I just realized I never linked to the interview from my own blog! It includes my answers to the following...",
       "event_cluster_id": "433a672ed01d",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "433a672ed01df8eed38c",
       "image_url": "",
       "is_breaking": false,
@@ -1174,37 +1235,44 @@
     },
     {
       "authors": [
-        "Robin Trombetta",
-        "Carole Lartizien"
+        "Omar Curiel",
+        "Jing-Yuan Huang",
+        "Po-Chih Chen",
+        "Ji Ma",
+        "Qing Dai",
+        "Wenqi Zhou",
+        "David Lu",
+        "Holden H. Wu"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.06264v1",
+      "canonical_url": "https://arxiv.org/abs/2608.06354v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Data augmentation is a technique widely...",
-      "event_cluster_id": "f415791de4df",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "f415791de4df7762cde5",
+      "description": "We present a MR safe, master-slave robot manipulator for abdominal interventions in the MRI chamber. A human operated 2+1-DoF master controller manipulator transmits motion and force to a 2+1-DoF slave manipulator via fluid transmission....",
+      "event_cluster_id": "5d352b6b7d74",
+      "fetched_at": "2026-08-07T05:57:07Z",
+      "id": "5d352b6b7d742c561257",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-06T16:54:15Z",
+      "published_at": "2026-08-06T17:53:32Z",
       "research_track": "medical_neuroimaging",
       "score": 13,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "research relevance: medical imaging"
+        "research relevance: MRI"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
-      "url": "https://arxiv.org/abs/2608.06264v1"
+      "title": "A Master-Salve Robot Manipulator for Needle-Based Teleoperation in MRI Chamber",
+      "url": "https://arxiv.org/abs/2608.06354v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes",
       "cluster_sources": [
@@ -1212,7 +1280,7 @@
       ],
       "description": "",
       "event_cluster_id": "ee31838f68f8",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "ee31838f68f896ba665a",
       "image_url": "",
       "is_breaking": false,
@@ -1234,6 +1302,7 @@
       "url": "https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup",
       "cluster_sources": [
@@ -1241,7 +1310,7 @@
       ],
       "description": "",
       "event_cluster_id": "e2c2eba480a3",
-      "fetched_at": "2026-08-07T01:52:23Z",
+      "fetched_at": "2026-08-07T05:57:07Z",
       "id": "e2c2eba480a3dcecf000",
       "image_url": "",
       "is_breaking": false,
@@ -1264,12 +1333,12 @@
     }
   ],
   "date_label": "Friday, August 7, 2026",
-  "generated_at": "2026-08-07T01:52:23Z",
+  "generated_at": "2026-08-07T05:57:07Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 203,
-    "retained_items": 38,
+    "fetched_items": 200,
+    "retained_items": 40,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
