@@ -77,7 +77,7 @@
       ],
       "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "event_cluster_id": "780caa8efe66",
-      "fetched_at": "2026-08-08T05:21:47Z",
+      "fetched_at": "2026-08-08T11:03:35Z",
       "id": "780caa8efe66e203040e",
       "image_url": "",
       "is_breaking": false,
@@ -99,43 +99,6 @@
       "source_name": "TechCrunch AI",
       "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
       "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Théo Danielou",
-        "Antoine Saporta",
-        "Léo Alberge",
-        "Corentin Dancette"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.05844v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Radiology foundation models learn transferable representations that can be adapted to new tasks by training only small layers on top of a frozen encoder. Dense prediction tasks such as 3D segmentation are, however, underrepresented in...",
-      "event_cluster_id": "30ec06fc8670",
-      "fetched_at": "2026-08-07T05:57:07Z",
-      "id": "30ec06fc86706a0d6911",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-06T10:17:23Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "research relevance: medical image",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Curia-MAE: Multi-Modal Multi-Anatomy MAE Pre-Training for 3D Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2608.05844v1"
     },
     {
       "authors": [
@@ -170,6 +133,7 @@
       "url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
       "cluster_sources": [
@@ -200,6 +164,7 @@
       "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
       "cluster_sources": [
@@ -424,85 +389,6 @@
       "url": "https://arxiv.org/abs/2608.05938v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Songpan Gao",
-        "Yajie Zhang",
-        "Guanxing Chen",
-        "Jiayu Qian",
-        "Zhenzhen Liu",
-        "Shijun Li",
-        "Xiaowei Zhu",
-        "Yao Hu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.05808v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Deep learning models applied to medical image analysis suffer from severe catastrophic forgetting when continually adapting to new clinical tasks in dynamic environments. Mainstream incremental learning methods typically mitigate this by...",
-      "event_cluster_id": "9785907fe6ca",
-      "fetched_at": "2026-08-07T05:57:07Z",
-      "id": "9785907fe6cad3dedc82",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-06T09:42:13Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical imaging, medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "STAIL: Semantic Text-Anchored Incremental Learning for Medical Imaging via Large Language Models",
-      "url": "https://arxiv.org/abs/2608.05808v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jiaxuan Li",
-        "Qing Xu",
-        "Xiangjian He",
-        "Yue Li",
-        "Daokun Zhang",
-        "Fiseha B. Tesema",
-        "Rong Qu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.05683v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Cross-modal alignment of visual and textual representations is fundamental to multimodal medical image understanding, yet remains hindered by uncertainty in both modalities under real-world clinical conditions. Existing vision-language...",
-      "event_cluster_id": "d14308de787d",
-      "fetched_at": "2026-08-07T05:57:07Z",
-      "id": "d14308de787d69d07e0d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-06T07:17:14Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image, multimodal medical",
-        "technical relevance: multimodal, vision-language"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "DistMedVL: Distributional Vision-Language Alignment for Uncertainty-Aware Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2608.05683v1"
-    },
-    {
       "authors": [
         "cheikhdev"
       ],
@@ -695,6 +581,7 @@
       "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/8/john-gruber",
       "cluster_sources": [
@@ -794,7 +681,7 @@
       ],
       "description": "Meta's total fine has racked up to $942 million in this case.",
       "event_cluster_id": "a73be5838e2d",
-      "fetched_at": "2026-08-08T05:21:47Z",
+      "fetched_at": "2026-08-08T11:03:35Z",
       "id": "a73be5838e2da249566f",
       "image_url": "",
       "is_breaking": false,
@@ -1178,7 +1065,7 @@
       ],
       "description": "",
       "event_cluster_id": "624979042481",
-      "fetched_at": "2026-08-08T05:21:47Z",
+      "fetched_at": "2026-08-08T11:03:35Z",
       "id": "624979042481ff504b8c",
       "image_url": "",
       "is_breaking": false,
@@ -1209,7 +1096,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years,...",
       "event_cluster_id": "d66aca2589b4",
-      "fetched_at": "2026-08-08T05:21:47Z",
+      "fetched_at": "2026-08-08T11:03:35Z",
       "id": "d66aca2589b41217dd60",
       "image_url": "",
       "is_breaking": false,
@@ -1240,7 +1127,7 @@
       ],
       "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been...",
       "event_cluster_id": "40bf836f19ab",
-      "fetched_at": "2026-08-08T05:21:47Z",
+      "fetched_at": "2026-08-08T11:03:35Z",
       "id": "40bf836f19ab11259518",
       "image_url": "",
       "is_breaking": false,
@@ -1261,6 +1148,113 @@
       "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy"
     },
     {
+      "also_covered_by": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "authors": [
+        "Zahra Khodakarami",
+        "Yue Li",
+        "Pulkit Khandelwal",
+        "John Detre",
+        "Sandhitsu Das",
+        "Christopher Brown",
+        "David Wolk",
+        "Paul Yushkevich"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.06311v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "White matter hyperintensities (WMH), bright regions on Fluid-attenuated Inversion Recovery (FLAIR) scans are associated with cerebrovascular pathology and neurodegeneration. FLAIR is usually acquired with thick slices in clinical...",
+      "event_cluster_id": "638bdaaa42b7",
+      "fetched_at": "2026-08-07T11:26:14Z",
+      "id": "638bdaaa42b79297b24e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T17:26:01Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "covered by multiple configured sources"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Does FLAIR super-resolution erase or hallucinate small white-matter lesions?",
+      "url": "https://arxiv.org/abs/2608.06311v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Farzana Nasrin"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.06276v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Persistence diagrams (PDs) provide stable and interpretable summaries of multiscale topological structure. While substantial progress has been made in the statistical analysis of PDs, existing literature often treats diagrams as static...",
+      "event_cluster_id": "e87a7c08a24f",
+      "fetched_at": "2026-08-07T11:26:14Z",
+      "id": "e87a7c08a24f184dd028",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T17:05:19Z",
+      "research_track": "medical_neuroimaging",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Stochastic Dynamics on Persistence Diagram Space via Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2608.06276v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Binze Wang",
+        "Jinyu Tian",
+        "Xingrun Wang",
+        "Xiaochen Yuan",
+        "Jianqing Li"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.06211v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Significant advancements in deep learning have been made possible by the utilization of large datasets, underscoring the critical importance of copyright protection. Adding meticulously designed perturbations to examples, making them...",
+      "event_cluster_id": "2c65510f3910",
+      "fetched_at": "2026-08-07T11:26:14Z",
+      "id": "2c65510f391029b3a1d1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T16:04:05Z",
+      "research_track": "medical_neuroimaging",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Reversible Unlearnable Examples: Towards the Copyright Protection in Deep Learning Era",
+      "url": "https://arxiv.org/abs/2608.06211v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
@@ -1269,7 +1263,7 @@
       ],
       "description": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of...",
       "event_cluster_id": "57cc8718f944",
-      "fetched_at": "2026-08-08T05:21:47Z",
+      "fetched_at": "2026-08-08T11:03:35Z",
       "id": "57cc8718f9446eb47597",
       "image_url": "",
       "is_breaking": false,
@@ -1292,11 +1286,11 @@
     }
   ],
   "date_label": "Saturday, August 8, 2026",
-  "generated_at": "2026-08-08T05:21:47Z",
+  "generated_at": "2026-08-08T11:03:35Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 205,
+    "fetched_items": 202,
     "retained_items": 39,
     "successful_sources": 20
   },
