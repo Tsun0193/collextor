@@ -67,6 +67,7 @@
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -76,10 +77,10 @@
       ],
       "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
       "event_cluster_id": "780caa8efe66",
-      "fetched_at": "2026-08-08T00:02:54Z",
+      "fetched_at": "2026-08-08T05:21:47Z",
       "id": "780caa8efe66e203040e",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-08-07T16:16:09Z",
@@ -135,6 +136,97 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Curia-MAE: Multi-Modal Multi-Anatomy MAE Pre-Training for 3D Medical Image Segmentation",
       "url": "https://arxiv.org/abs/2608.05844v1"
+    },
+    {
+      "authors": [
+        "peter_d_sherman"
+      ],
+      "canonical_url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ac46bc012b61",
+      "fetched_at": "2026-08-08T05:21:47Z",
+      "id": "hn-49218894",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-08T04:27:56Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: release",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "JEDEC releases new SPHBM4 standard to slash AI memory costs – 512-bit interface",
+      "url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "a quiet day lets us find some connections among recent themes",
+      "event_cluster_id": "101adad35d4b",
+      "fetched_at": "2026-08-08T05:21:47Z",
+      "id": "101adad35d4b0a053859",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/87DyyMV0kCY",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-08-08T01:12:07Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Zawinski's Law of MultiAgents",
+      "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" ( previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in...",
+      "event_cluster_id": "2c2b6790f37b",
+      "fetched_at": "2026-08-08T05:21:47Z",
+      "id": "2c2b6790f37b6b08da5f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-07T23:55:58Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
+      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
     },
     {
       "also_covered_by": [],
@@ -412,6 +504,39 @@
     },
     {
       "authors": [
+        "cheikhdev"
+      ],
+      "canonical_url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2c2676fec160",
+      "fetched_at": "2026-08-08T05:21:47Z",
+      "id": "hn-49218997",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-08T04:54:32Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Cross platform, portable and CPU accelerated AI inference with Go 1.27",
+      "url": "https://blog.devgenius.io/achieving-local-ai-inference-with-go-1-27s-simd-package-e8875f567e35?sk=5162348584951937a84caba3ca9a1fc0"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Kirsten Korosec"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
@@ -508,39 +633,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "itvision"
-      ],
-      "canonical_url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7c0d4eb2283c",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "hn-49201970",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-06T20:23:11Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
-      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Thomas Macaulay"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model",
@@ -569,41 +661,6 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: Google’s AI shake-up and Meta’s rogue model",
       "url": "https://www.technologyreview.com/2026/08/06/1141278/the-download-google-ai-shake-up-meta-rogue-model"
-    },
-    {
-      "also_covered_by": [
-        "Simon Willison"
-      ],
-      "authors": [
-        "simonw"
-      ],
-      "canonical_url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "a81a69ba0b3f",
-      "fetched_at": "2026-08-06T00:58:41Z",
-      "id": "hn-49190997",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-06T00:47:57Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "An AI model from Meta also hacked another company during testing",
-      "url": "https://www.cnn.com/2026/08/05/tech/meta-ai-hacking"
     },
     {
       "also_covered_by": [],
@@ -638,6 +695,35 @@
       "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/8/john-gruber",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Me, I try to get into the mindset of playing live music, not recording a studio album. Except when I’m writing a piece where I really want it to be an album. Those aren’t rare , per se, but they’re occasional . If I tried to make every...",
+      "event_cluster_id": "7a819568873d",
+      "fetched_at": "2026-08-08T05:21:47Z",
+      "id": "7a819568873d61266214",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-08T00:10:40Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting John Gruber",
+      "url": "https://simonwillison.net/2026/Aug/8/john-gruber"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -669,6 +755,7 @@
       "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem",
       "cluster_sources": [
@@ -697,6 +784,7 @@
       "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ivan Mehta"
       ],
@@ -706,7 +794,7 @@
       ],
       "description": "Meta's total fine has racked up to $942 million in this case.",
       "event_cluster_id": "a73be5838e2d",
-      "fetched_at": "2026-08-08T00:02:54Z",
+      "fetched_at": "2026-08-08T05:21:47Z",
       "id": "a73be5838e2da249566f",
       "image_url": "",
       "is_breaking": false,
@@ -982,38 +1070,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Latent.Space"
-      ],
-      "canonical_url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "The end of an era.",
-      "event_cluster_id": "f98620a14048",
-      "fetched_at": "2026-08-06T07:20:03Z",
-      "id": "f98620a14048adad3865",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!1S7v!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F57c9d273-aa50-4bc7-a7c4-caaf9b4952c2_1540x1624.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-06T04:34:11Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
-      "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/6/simon-willison-on-technical-blogging",
       "cluster_sources": [
@@ -1114,6 +1170,7 @@
       "url": "https://arxiv.org/abs/2608.06264v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/allenai/tutormoments",
       "cluster_sources": [
@@ -1121,7 +1178,7 @@
       ],
       "description": "",
       "event_cluster_id": "624979042481",
-      "fetched_at": "2026-08-08T00:02:54Z",
+      "fetched_at": "2026-08-08T05:21:47Z",
       "id": "624979042481ff504b8c",
       "image_url": "",
       "is_breaking": false,
@@ -1142,6 +1199,7 @@
       "url": "https://huggingface.co/blog/allenai/tutormoments"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -1151,7 +1209,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years,...",
       "event_cluster_id": "d66aca2589b4",
-      "fetched_at": "2026-08-08T00:02:54Z",
+      "fetched_at": "2026-08-08T05:21:47Z",
       "id": "d66aca2589b41217dd60",
       "image_url": "",
       "is_breaking": false,
@@ -1172,6 +1230,7 @@
       "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Eileen Guo, Gisela Perez de Acha, Martin Sona"
       ],
@@ -1181,7 +1240,7 @@
       ],
       "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been...",
       "event_cluster_id": "40bf836f19ab",
-      "fetched_at": "2026-08-08T00:02:54Z",
+      "fetched_at": "2026-08-08T05:21:47Z",
       "id": "40bf836f19ab11259518",
       "image_url": "",
       "is_breaking": false,
@@ -1202,6 +1261,7 @@
       "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
       "cluster_sources": [
@@ -1209,7 +1269,7 @@
       ],
       "description": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of...",
       "event_cluster_id": "57cc8718f944",
-      "fetched_at": "2026-08-08T00:02:54Z",
+      "fetched_at": "2026-08-08T05:21:47Z",
       "id": "57cc8718f9446eb47597",
       "image_url": "",
       "is_breaking": false,
@@ -1232,13 +1292,13 @@
     }
   ],
   "date_label": "Saturday, August 8, 2026",
-  "generated_at": "2026-08-08T00:02:54Z",
+  "generated_at": "2026-08-08T05:21:47Z",
   "summary": {
-    "duplicates_removed": 0,
-    "failed_sources": 3,
-    "fetched_items": 178,
-    "retained_items": 37,
-    "successful_sources": 18
+    "duplicates_removed": 1,
+    "failed_sources": 1,
+    "fetched_items": 205,
+    "retained_items": 39,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
