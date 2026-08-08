@@ -34,101 +34,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Introducing Muse Code and Muse Spark 1.2 Yet more evidence that the most important characteristic of any model these days is long-sequence agentic tool calling. Meta shipped their own coding agent as part of getting that to work! Muse...",
-      "event_cluster_id": "a73147b00fa8",
-      "fetched_at": "2026-08-06T00:58:41Z",
-      "id": "a73147b00fa87689c5d0",
-      "image_url": "https://static.simonwillison.net/static/2026/muse-spark-1.2.png",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-05T23:58:35Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: introducing, model",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Introducing Muse Code and Muse Spark 1.2",
-      "url": "https://simonwillison.net/2026/Aug/5/muse-code-and-muse-spark-12"
-    },
-    {
-      "also_covered_by": [
-        "Hacker News"
-      ],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Third-party cyber evaluations involving OpenAI models And another one . I had to create a accidental-cyberattacks tag to keep track of them all! This post from OpenAI covers both the UK AI Safety Institute attack (see my previous post )...",
-      "event_cluster_id": "f01531ee4722",
-      "fetched_at": "2026-08-06T00:58:41Z",
-      "id": "f01531ee47225e86936d",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-05T23:45:32Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model, safety",
-        "technical relevance: evaluation"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Third-party cyber evaluations involving OpenAI models",
-      "url": "https://simonwillison.net/2026/Aug/5/third-party-cyber-evaluations"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/5/incident-report",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Incident Report: unsanctioned agent behaviour during cyber testing It happened again . This time it was the UK government's AI Security Institute who accidentally attacked other companies while running an evaluation with models with the...",
-      "event_cluster_id": "a04397131d4e",
-      "fetched_at": "2026-08-06T00:58:41Z",
-      "id": "a04397131d4e41894aa2",
-      "image_url": "https://static.simonwillison.net/static/2026/uk-aisi-incident.webp",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-05T23:32:06Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model, security",
-        "technical relevance: agent, evaluation"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Incident Report: unsanctioned agent behaviour during cyber testing",
-      "url": "https://simonwillison.net/2026/Aug/5/incident-report"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -160,6 +65,39 @@
       "source_name": "TechCrunch AI",
       "title": "Meta launches Muse Code, an AI agent for large code bases",
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
+      "event_cluster_id": "780caa8efe66",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "780caa8efe66e203040e",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-07T16:16:09Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
+      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents"
     },
     {
       "also_covered_by": [],
@@ -197,39 +135,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Curia-MAE: Multi-Modal Multi-Anatomy MAE Pre-Training for 3D Medical Image Segmentation",
       "url": "https://arxiv.org/abs/2608.05844v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ivan Mehta"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Hark claims that its browser use agent is faster and cheaper than competition.",
-      "event_cluster_id": "01816a9beba2",
-      "fetched_at": "2026-08-06T12:28:39Z",
-      "id": "01816a9beba266f62bde",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-05T15:46:27Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "research relevance: PET",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Hark previews its browser use agent for completing tasks",
-      "url": "https://techcrunch.com/2026/08/05/hark-previews-its-browser-use-agent-for-completing-tasks"
     },
     {
       "also_covered_by": [],
@@ -300,39 +205,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Ivan Mehta"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "MacPaw is building a local version of its AI assistant Eney using Liquid AI's models.",
-      "event_cluster_id": "d13c8f68e0b6",
-      "fetched_at": "2026-08-06T07:20:03Z",
-      "id": "d13c8f68e0b600cee120",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-05T12:28:38Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "MacPaw taps Liquid AI to offer on-device inference to devs building for its app store",
-      "url": "https://techcrunch.com/2026/08/05/macpaw-taps-liquid-ai-to-offer-on-device-inference-to-devs-building-for-its-app-store"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Dominic-Madori Davis"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out",
@@ -395,39 +267,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: Gainz.fast – Local Inference, Faster",
       "url": "https://gainz.fast"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "AWS now allows vibe-coding tool Superblocks to be embedded into the private clouds of AWS customers. It's another step toward decoupling apps from models.",
-      "event_cluster_id": "f6d9a33a213b",
-      "fetched_at": "2026-08-04T01:03:13Z",
-      "id": "f6d9a33a213bce67b84f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-03T20:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AWS is helping vibe-coding startup Superblocks, and the implications are big",
-      "url": "https://techcrunch.com/2026/08/03/aws-is-helping-vibe-coding-startup-superblocks-and-the-implications-are-big"
     },
     {
       "also_covered_by": [],
@@ -572,40 +411,35 @@
       "url": "https://arxiv.org/abs/2608.05683v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Maria Monzon",
-        "Thomas Iff",
-        "Ender Konukoglu",
-        "Catherine R. Jutzeler"
+        "Kirsten Korosec"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.04906v1",
+      "canonical_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "TechCrunch AI"
       ],
-      "description": "This study introduces a diffusion-based framework for robust and accurate semantic segmentation of lumbar spine MRI scans from patients with low back pain (LBP), regardless of whether the scans are T1- or T2-weighted. We compared with...",
-      "event_cluster_id": "345649123702",
-      "fetched_at": "2026-08-06T12:28:39Z",
-      "id": "34564912370238c1d7e1",
+      "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "event_cluster_id": "07c8fd08b015",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "07c8fd08b0156bf92974",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-05T14:35:27Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-08-07T22:48:24Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI"
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model, security"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Enhancing Low Back Pain Assessment with Diffusion Models for Lumbar Spine MRI Segmentation",
-      "url": "https://arxiv.org/abs/2608.04906v1"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns"
     },
     {
       "authors": [
@@ -773,69 +607,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/baseten",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "23ccd9ff0c11",
-      "fetched_at": "2026-08-07T11:26:14Z",
-      "id": "23ccd9ff0c11ef81ec23",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-06T00:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Baseten on Hugging Face Inference Providers 🔥",
-      "url": "https://huggingface.co/blog/baseten"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The serial entrepreneur joins the e-commerce company as CPO to lead its AI agents.",
-      "event_cluster_id": "a263efd65da6",
-      "fetched_at": "2026-08-06T00:58:41Z",
-      "id": "a263efd65da673efce7f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-05T20:05:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Klaviyo acquires Elias Torres’ Agency in full-circle reunion for tech founders",
-      "url": "https://techcrunch.com/2026/08/05/klaviyo-acquires-elias-torres-agency-in-full-circle-reunion-for-tech-founders"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -868,35 +639,93 @@
     },
     {
       "authors": [
-        "Anon84"
+        "Julie Bort"
       ],
-      "canonical_url": "https://github.com/lyogavin/airllm",
+      "canonical_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
       "cluster_sources": [
-        "Hacker News"
+        "TechCrunch AI"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "759119abe3ff",
-      "fetched_at": "2026-08-03T13:27:00Z",
-      "id": "hn-49154228",
+      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
+      "event_cluster_id": "fcf0473d04de",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "fcf0473d04deab1a28a0",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-03T11:15:48Z",
+      "published_at": "2026-08-07T21:30:11Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 6 hours",
-        "major-event keyword: GPU, inference",
-        "technical relevance: inference"
+        "startup/product signal: product"
       ],
-      "section": "business_policy",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "AirLLM 70B inference with single 4GB GPU",
-      "url": "https://github.com/lyogavin/airllm"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
+      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3..",
+      "event_cluster_id": "eee2b82f56e2",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "eee2b82f56e264e78ce3",
+      "image_url": "https://static.simonwillison.net/static/2026/raccoon-heist-codex-bug.jpg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-07T19:18:09Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
+      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta's total fine has racked up to $942 million in this case.",
+      "event_cluster_id": "a73be5838e2d",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "a73be5838e2da249566f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-07T11:40:37Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: safety"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
+      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case"
     },
     {
       "also_covered_by": [],
@@ -1122,6 +951,38 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Newly filed court exhibits show OpenAI’s legal strategy in Apple’s trade secrets lawsuit: argue that Apple’s own security and offboarding practices — including allowing an Apple manager to access a former engineer’s iCloud account after...",
+      "event_cluster_id": "a27c4314010d",
+      "fetched_at": "2026-08-07T11:26:14Z",
+      "id": "a27c4314010d951783e3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-06T15:10:32Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI says Apple’s own security practices undermine its trade secrets case",
+      "url": "https://techcrunch.com/2026/08/06/openai-says-apples-own-security-practices-undermine-its-trade-secrets-case"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Latent.Space"
       ],
       "canonical_url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc",
@@ -1150,67 +1011,6 @@
       "source_name": "Latent Space",
       "title": "[AINews] Jeff, Sanjay, Oriol, and Quoc depart DeepMind; Demis to Chair; Koray to SVP — what is going on at GDM???",
       "url": "https://www.latent.space/p/ainews-jeff-sanjay-oriol-and-quoc"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/5/raccoon-heist",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Back in 2024 I tweeted screenshots of a game concept generated by GPT-3 and some concept \"art\" created using DALL-E. Today, on the fourth anniversary of that tweet, I decided to see if Claude Fable 5 (running in Claude Code for web )...",
-      "event_cluster_id": "b023d4b3644f",
-      "fetched_at": "2026-08-06T00:58:41Z",
-      "id": "b023d4b3644fdebca1a0",
-      "image_url": "https://static.simonwillison.net/static/2026/raccoon-heist-tweet.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-05T19:42:38Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "One-shotting a Raccoon Heist game using Claude Fable 5",
-      "url": "https://simonwillison.net/2026/Aug/5/raccoon-heist"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Anthropic is building a team for designing its own custom AI chips. The Claude maker said it would co-design hardware and models to help its technology run faster and more efficiently.",
-      "event_cluster_id": "9cccdd1f1ddf",
-      "fetched_at": "2026-08-06T12:28:39Z",
-      "id": "9cccdd1f1ddfe7afbfa8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-05T14:13:18Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, chip"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic is hiring an AI chip design team",
-      "url": "https://techcrunch.com/2026/08/05/anthropic-is-hiring-an-ai-chip-design-team"
     },
     {
       "also_covered_by": [],
@@ -1282,73 +1082,163 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes",
-      "cluster_sources": [
-        "PyTorch Blog"
+      "authors": [
+        "Robin Trombetta",
+        "Carole Lartizien"
       ],
-      "description": "",
-      "event_cluster_id": "ee31838f68f8",
+      "canonical_url": "https://arxiv.org/abs/2608.06264v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "The development of deep learning over the past decade has revolutionized medical imaging segmentation, allowing the extraction of precise descriptors from large volumes to characterize pathologies. Data augmentation is a technique widely...",
+      "event_cluster_id": "f415791de4df",
       "fetched_at": "2026-08-07T11:26:14Z",
-      "id": "ee31838f68f896ba665a",
+      "id": "f415791de4df7762cde5",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-06T00:00:00Z",
-      "research_track": "",
-      "score": 12,
+      "published_at": "2026-08-06T16:54:15Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
       "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical imaging"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "PyTorch Conference North America Announces 2026 Keynotes",
-      "url": "https://pytorch.org/blog/pytorch-conference-north-america-announces-2026-keynotes"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
+      "url": "https://arxiv.org/abs/2608.06264v1"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup",
+      "canonical_url": "https://huggingface.co/blog/allenai/tutormoments",
       "cluster_sources": [
-        "PyTorch Blog"
+        "Hugging Face Blog"
       ],
       "description": "",
-      "event_cluster_id": "e2c2eba480a3",
-      "fetched_at": "2026-08-07T11:26:14Z",
-      "id": "e2c2eba480a3dcecf000",
+      "event_cluster_id": "624979042481",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "624979042481ff504b8c",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-06T00:00:00Z",
+      "published_at": "2026-08-07T17:53:32Z",
       "research_track": "",
-      "score": 12,
+      "score": 11,
       "score_reasons": [
         "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "PyTorch by the Sea: The inaugural Santa Cruz PyTorch Meetup",
-      "url": "https://pytorch.org/blog/pytorch-by-the-sea-the-inaugural-santa-cruz-pytorch-meetup"
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
+      "url": "https://huggingface.co/blog/allenai/tutormoments"
+    },
+    {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years,...",
+      "event_cluster_id": "d66aca2589b4",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "d66aca2589b41217dd60",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-07T14:20:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
+      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus"
+    },
+    {
+      "authors": [
+        "Eileen Guo, Gisela Perez de Acha, Martin Sona"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been...",
+      "event_cluster_id": "40bf836f19ab",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "40bf836f19ab11259518",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-07T14:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
+      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of...",
+      "event_cluster_id": "57cc8718f944",
+      "fetched_at": "2026-08-08T00:02:54Z",
+      "id": "57cc8718f9446eb47597",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-07T16:18:51Z",
+      "research_track": "",
+      "score": 7,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "negative signal: leaked"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
+      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible"
     }
   ],
-  "date_label": "Friday, August 7, 2026",
-  "generated_at": "2026-08-07T11:26:14Z",
+  "date_label": "Saturday, August 8, 2026",
+  "generated_at": "2026-08-08T00:02:54Z",
   "summary": {
-    "duplicates_removed": 1,
-    "failed_sources": 1,
-    "fetched_items": 201,
-    "retained_items": 40,
-    "successful_sources": 20
+    "duplicates_removed": 0,
+    "failed_sources": 3,
+    "fetched_items": 178,
+    "retained_items": 37,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
