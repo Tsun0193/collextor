@@ -44,38 +44,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-amd-buys-taalas",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "The Inference Inflection is HEATING up.",
-      "event_cluster_id": "25f0af2b3ded",
-      "fetched_at": "2026-08-07T05:57:07Z",
-      "id": "25f0af2b3dedb35ba4de",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!qA0L!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd3b60b0e-d47f-4723-bb40-be9594e9bab4_786x754.png",
-      "is_breaking": true,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-08-07T05:13:46Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference",
-        "long-read source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] AMD buys Taalas",
-      "url": "https://www.latent.space/p/ainews-amd-buys-taalas"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -259,6 +227,39 @@
     },
     {
       "authors": [
+        "dimneo24"
+      ],
+      "canonical_url": "https://github.com/ifixai-ai/iFixAi",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "e64fad2fcb76",
+      "fetched_at": "2026-08-09T05:30:11Z",
+      "id": "hn-49228582",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-09T05:02:15Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open source",
+        "technical relevance: agent",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Open Source, third-party auditing for AI Agents",
+      "url": "https://github.com/ifixai-ai/iFixAi"
+    },
+    {
+      "authors": [
         "peter_d_sherman"
       ],
       "canonical_url": "https://www.tomshardware.com/pc-components/dram/jedec-releases-new-sphbm4-standard-to-slash-ai-memory-costs-narrow-512-bit-interface-enables-dropping-expensive-interposers-for-organic-substrates",
@@ -385,35 +386,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards",
-      "cluster_sources": [
-        "Anthropic News"
-      ],
-      "description": "",
-      "event_cluster_id": "cdd8d819f485",
-      "fetched_at": "2026-08-07T05:57:07Z",
-      "id": "cdd8d819f4855db7d80d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-07T00:00:00Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "startup/product signal: product"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Aug 7, 2026 Product Improving Fable 5's biology safeguards",
-      "url": "https://www.anthropic.com/news/improving-fable-5-s-biology-safeguards"
-    },
-    {
       "authors": [
         "Anthony Ha"
       ],
@@ -510,37 +482,38 @@
     },
     {
       "authors": [
-        "GavinAnderegg"
+        "PJHkorea"
       ],
-      "canonical_url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations",
+      "canonical_url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "39a38a3eed7c",
-      "fetched_at": "2026-08-07T01:52:23Z",
-      "id": "hn-49204905",
+      "event_cluster_id": "2e61081aef0f",
+      "fetched_at": "2026-08-09T05:30:11Z",
+      "id": "hn-49228660",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-07T01:35:56Z",
+      "published_at": "2026-08-09T05:22:44Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: model, benchmark, safety",
-        "technical relevance: evaluation"
+        "major-event keyword: GPU",
+        "startup/product signal: Show HN"
       ],
-      "section": "ai_engineering",
+      "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Chinese Model Kimi K3 Breaks UK AI Safety Institute Benchmark Evaluations",
-      "url": "https://blog.frontier.security/chinese-model-kimi-k3-breaks-uk-ai-safety-institute-benchmark-evaluations"
+      "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
+      "url": "https://github.com/PJHkorea/photonic-mesh-fng-router"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/8/auto-mode",
       "cluster_sources": [
@@ -569,6 +542,7 @@
       "url": "https://simonwillison.net/2026/Aug/8/auto-mode"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -598,38 +572,6 @@
       "source_name": "TechCrunch AI",
       "title": "OpenAI acquires presentation startup NextSlide",
       "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide"
-    },
-    {
-      "authors": [
-        "waqasai123"
-      ],
-      "canonical_url": "https://github.com/muhammadwaqasai/agent_acid",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "8cd8eac9f9ba",
-      "fetched_at": "2026-08-08T05:21:47Z",
-      "id": "hn-49219014",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-08T05:00:26Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Agent_acid – ACID rollbacks and dry-run guardrails for AI agents",
-      "url": "https://github.com/muhammadwaqasai/agent_acid"
     },
     {
       "also_covered_by": [],
@@ -947,12 +889,12 @@
     }
   ],
   "date_label": "Sunday, August 9, 2026",
-  "generated_at": "2026-08-08T23:58:39Z",
+  "generated_at": "2026-08-09T05:30:11Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 1,
     "fetched_items": 201,
-    "retained_items": 29,
+    "retained_items": 27,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
