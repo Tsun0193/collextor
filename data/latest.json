@@ -43,6 +43,37 @@
       "url": "https://arxiv.org/abs/2608.02324v1"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/muse-glimmer",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "dfb586131bf3",
+      "fetched_at": "2026-08-10T11:32:06Z",
+      "id": "dfb586131bf3d3cb04b4",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-10T00:00:00Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: open source",
+        "technical relevance: multimodal, agent",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
+      "url": "https://huggingface.co/blog/muse-glimmer"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Rebecca Bellan"
@@ -53,7 +84,7 @@
       ],
       "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
       "event_cluster_id": "c6578f3dce99",
-      "fetched_at": "2026-08-10T05:57:34Z",
+      "fetched_at": "2026-08-10T11:32:06Z",
       "id": "c6578f3dce99176c7d0e",
       "image_url": "",
       "is_breaking": false,
@@ -192,6 +223,7 @@
       "url": "https://arxiv.org/abs/2608.03322v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "timerwin"
       ],
@@ -417,6 +449,7 @@
       "url": "https://techcrunch.com/2026/08/04/is-the-future-of-data-centers-portable-runware-builds-a-pod-to-find-out"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/10/openclaw",
       "cluster_sources": [
@@ -446,6 +479,7 @@
       "url": "https://simonwillison.net/2026/Aug/10/openclaw"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yan Zhou",
         "Yue Ouyang",
@@ -458,7 +492,7 @@
       ],
       "description": "Test-time scaling is often implemented by spending more compute along one axis: sampling more solutions, extending a chain of thought, or applying a stronger evaluator. Under a fixed inference budget, these choices compete. This paper...",
       "event_cluster_id": "c9d6881a2f0e",
-      "fetched_at": "2026-08-10T05:57:34Z",
+      "fetched_at": "2026-08-10T11:32:06Z",
       "id": "c9d6881a2f0ee28a8dc4",
       "image_url": "",
       "is_breaking": false,
@@ -479,6 +513,69 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "CoBa: Cost-Effective Test-Time Scaling via Compute-Balanced Routing",
       "url": "https://arxiv.org/abs/2608.07424v1"
+    },
+    {
+      "authors": [
+        "bakigul"
+      ],
+      "canonical_url": "https://twitter.com/finkd/status/2086754845218726027",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "97fe86f759da",
+      "fetched_at": "2026-08-10T11:32:06Z",
+      "id": "hn-49242038",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T10:55:03Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, open-weight",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Meta's new open-weight model targets local agentic AI",
+      "url": "https://twitter.com/finkd/status/2086754845218726027"
+    },
+    {
+      "authors": [
+        "Eric Schmidt, Suhas Mahesh"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Every few decades, someone announces that science has reached its end. In 1903, the revered physicist Albert Michelson wrote that the “facts of physical science have all been discovered.” In the 1980s, Stephen Hawking predicted that...",
+      "event_cluster_id": "ab1a6f84a044",
+      "fetched_at": "2026-08-10T11:32:06Z",
+      "id": "ab1a6f84a0444402bad3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-10T09:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: reasoning"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "AI for science needs reasoning, not just data",
+      "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science"
     },
     {
       "also_covered_by": [],
@@ -546,35 +643,34 @@
     },
     {
       "authors": [
-        "rahulgolwalkar"
+        "Will Douglas Heaven"
       ],
-      "canonical_url": "https://medium.com/@rahulgolwalkar/the-support-agent-that-actually-reads-your-code-and-your-production-data-b3d9ee03ec0a",
+      "canonical_url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms",
       "cluster_sources": [
-        "Hacker News"
+        "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "955847e8568f",
-      "fetched_at": "2026-08-10T05:57:34Z",
-      "id": "hn-49239679",
+      "description": "MIT Technology Review’s What’s Next series looks across industries, trends, and technologies to give you a first look at the future. You can read the rest of them here. Way back in the summer of 2017, AI researchers at Google put out a...",
+      "event_cluster_id": "95a48cb6f6be",
+      "fetched_at": "2026-08-10T11:32:06Z",
+      "id": "95a48cb6f6be3fc00d60",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-08-10T05:50:34Z",
+      "published_at": "2026-08-10T09:00:00Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: product"
+        "startup/product signal: startup"
       ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Production support agents that read your code and your database, via MCP",
-      "url": "https://medium.com/@rahulgolwalkar/the-support-agent-that-actually-reads-your-code-and-your-production-data-b3d9ee03ec0a"
+      "section": "startup_product",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "These startups are chasing the next big thing in LLMs",
+      "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms"
     },
     {
       "also_covered_by": [],
@@ -674,6 +770,34 @@
       "url": "https://arxiv.org/abs/2608.06370v1"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "815edfe63832",
+      "fetched_at": "2026-08-10T11:32:06Z",
+      "id": "815edfe6383208a72cfe",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T10:05:36Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Making Knowledge Distillation Cheap Enough to Run at Scale",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Anthony Ha"
@@ -715,7 +839,7 @@
       ],
       "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
       "event_cluster_id": "3f98d7032462",
-      "fetched_at": "2026-08-10T05:57:34Z",
+      "fetched_at": "2026-08-10T11:32:06Z",
       "id": "3f98d7032462ba7b9cb7",
       "image_url": "",
       "is_breaking": false,
@@ -737,12 +861,12 @@
     }
   ],
   "date_label": "Monday, August 10, 2026",
-  "generated_at": "2026-08-10T05:57:34Z",
+  "generated_at": "2026-08-10T11:32:06Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 202,
-    "retained_items": 22,
+    "fetched_items": 203,
+    "retained_items": 26,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
