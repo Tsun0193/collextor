@@ -77,38 +77,37 @@
       "url": "https://techcrunch.com/2026/08/05/meta-launches-muse-code-an-ai-agent-for-large-code-bases"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Sarah Perez"
+        "Rebecca Bellan"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents",
+      "canonical_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-      "event_cluster_id": "780caa8efe66",
-      "fetched_at": "2026-08-08T11:03:35Z",
-      "id": "780caa8efe66e203040e",
+      "description": "AI agents are escaping cybersecurity testing environments and reaching real-world systems, raising questions about whether safety infrastructure, industry standards and regulation can keep pace with increasingly powerful models.",
+      "event_cluster_id": "c6578f3dce99",
+      "fetched_at": "2026-08-10T00:01:36Z",
+      "id": "c6578f3dce99176c7d0e",
       "image_url": "",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-07T16:16:09Z",
+      "published_at": "2026-08-09T14:30:00Z",
       "research_track": "",
       "score": 19,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: launch",
+        "major-event keyword: model, regulation, safety",
         "technical relevance: agent",
-        "startup/product signal: launches"
+        "startup/product signal: API"
       ],
-      "section": "startup_product",
+      "section": "business_policy",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-      "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents"
+      "title": "The AI safety test is becoming a safety risk",
+      "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk"
     },
     {
       "also_covered_by": [],
@@ -226,6 +225,129 @@
       "url": "https://arxiv.org/abs/2608.03322v1"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Claude Fable 5 and Claude Mythos 5 were first released on June 9, 2026. On June 12, 2026, Anthropic suspended access to both models to comply with U.S. Department of Commerce export controls; the Department lifted those controls on June...",
+      "event_cluster_id": "1c4d767bb36a",
+      "fetched_at": "2026-08-10T00:01:36Z",
+      "id": "1c4d767bb36abf17c32d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-09T23:31:39Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, released, model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Claude Opus 5 system prompt",
+      "url": "https://simonwillison.net/2026/Aug/9/claude-opus-5-system-prompt"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "GitHub Models is now retired I missed this news until today, when the GitHub Actions run for my simonw/research repository failed with this error message: GitHub Models is temporarily unavailable as part of a scheduled retirement...",
+      "event_cluster_id": "3cc0e82c60b9",
+      "fetched_at": "2026-08-10T00:01:36Z",
+      "id": "3cc0e82c60b9214c6b80",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-09T22:48:05Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "GitHub Models is now retired",
+      "url": "https://simonwillison.net/2026/Aug/9/github-models-is-now-retired"
+    },
+    {
+      "authors": [
+        "badwx"
+      ],
+      "canonical_url": "https://pacslate.com",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "89341208d5d7",
+      "fetched_at": "2026-08-10T00:01:36Z",
+      "id": "hn-49235865",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-09T21:04:02Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Pacific Slate: a self-hosted, model-agnostic multi-agent AI assistant",
+      "url": "https://pacslate.com"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The AI-focused hedge fund is still making some big bets.",
+      "event_cluster_id": "d2f68b094d46",
+      "fetched_at": "2026-08-10T00:01:36Z",
+      "id": "d2f68b094d4668e52a95",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-09T20:35:17Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: chip",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Embattled hedge fund Situational Awareness invests $400M in chip startup Source Foundry",
+      "url": "https://techcrunch.com/2026/08/09/embattled-hedge-fund-situational-awareness-invests-400m-in-chip-startup-source-foundry"
+    },
+    {
       "authors": [
         "dimneo24"
       ],
@@ -320,36 +442,6 @@
       "source_name": "Latent Space",
       "title": "[AINews] Zawinski's Law of MultiAgents",
       "url": "https://www.latent.space/p/ainews-zawinskis-law-of-multiagents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/7/openai-timeline",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "OpenAI gave a last-minute presentation at the Black Hat security on Wednesday about \"the Hugging Face Incident\" ( previously on this blog). The video was published yesterday. It's short and information dense and well worth watching, in...",
-      "event_cluster_id": "2c2b6790f37b",
-      "fetched_at": "2026-08-08T05:21:47Z",
-      "id": "2c2b6790f37b6b08da5f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-07T23:55:58Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: security"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Now we have a timeline of the OpenAI accidental attack against Hugging Face",
-      "url": "https://simonwillison.net/2026/Aug/7/openai-timeline"
     },
     {
       "also_covered_by": [],
@@ -451,66 +543,34 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Kirsten Korosec"
+        "Julie Bort"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns",
+      "canonical_url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
-      "event_cluster_id": "07c8fd08b015",
-      "fetched_at": "2026-08-08T00:02:54Z",
-      "id": "07c8fd08b0156bf92974",
+      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
+      "event_cluster_id": "7aaa8d6017a1",
+      "fetched_at": "2026-08-05T00:58:18Z",
+      "id": "7aaa8d6017a13cdb8a3c",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-07T22:48:24Z",
+      "published_at": "2026-08-04T19:28:49Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: model, security"
+        "technical relevance: agent"
       ],
-      "section": "ai_engineering",
+      "section": "business_policy",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "OpenAI says it slowed Astra model development over security concerns",
-      "url": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns"
-    },
-    {
-      "authors": [
-        "PJHkorea"
-      ],
-      "canonical_url": "https://github.com/PJHkorea/photonic-mesh-fng-router",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "2e61081aef0f",
-      "fetched_at": "2026-08-09T05:30:11Z",
-      "id": "hn-49228660",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-09T05:22:44Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: GPU",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Fixing optical computing jitter via fluid dynamics in GPU registers",
-      "url": "https://github.com/PJHkorea/photonic-mesh-fng-router"
+      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
+      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress"
     },
     {
       "also_covered_by": [],
@@ -605,99 +665,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "After its own AI usage wake-up call, Rippling this week unveiled AI Spend Console, a product that tracks individual and team employee AI spending.",
-      "event_cluster_id": "fcf0473d04de",
-      "fetched_at": "2026-08-08T00:02:54Z",
-      "id": "fcf0473d04deab1a28a0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-07T21:30:11Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "startup/product signal: product"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
-      "url": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra) On Wednesday I wrote about One-shotting a Raccoon Heist game using Claude Fable 5 , where I had Claude Fable 5 build a full working game from a premise I generated with GPT-3..",
-      "event_cluster_id": "eee2b82f56e2",
-      "fetched_at": "2026-08-08T00:02:54Z",
-      "id": "eee2b82f56e264e78ce3",
-      "image_url": "https://static.simonwillison.net/static/2026/raccoon-heist-codex-bug.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-07T19:18:09Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Moonlight & Mayhem (Raccoon Heist by Codex + GPT-5.6 Sol Ultra)",
-      "url": "https://simonwillison.net/2026/Aug/7/moonlight-mayhem"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ivan Mehta"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Meta's total fine has racked up to $942 million in this case.",
-      "event_cluster_id": "a73be5838e2d",
-      "fetched_at": "2026-08-08T11:03:35Z",
-      "id": "a73be5838e2da249566f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-07T11:40:37Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: safety"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-      "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Ishan Patel",
         "Sahil Sen",
         "Elias Lumer",
@@ -767,21 +734,52 @@
       "url": "https://arxiv.org/abs/2608.06362v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/allenai/tutormoments",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Anthony Ha"
       ],
-      "description": "",
-      "event_cluster_id": "624979042481",
-      "fetched_at": "2026-08-08T11:03:35Z",
-      "id": "624979042481ff504b8c",
+      "canonical_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Programming with Claude Code will soon require even less human oversight.",
+      "event_cluster_id": "b500779b9a8b",
+      "fetched_at": "2026-08-10T00:01:36Z",
+      "id": "b500779b9a8bb3551aed",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-07T17:53:32Z",
+      "published_at": "2026-08-09T19:20:32Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic is turning Claude Code’s auto mode on by default",
+      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
+      "event_cluster_id": "3f98d7032462",
+      "fetched_at": "2026-08-10T00:01:36Z",
+      "id": "3f98d7032462ba7b9cb7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-09T15:00:00Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
@@ -789,112 +787,20 @@
         "published within 24 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "TutorMoments: Do AI tutors know when to help and when to hold back?",
-      "url": "https://huggingface.co/blog/allenai/tutormoments"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How ideas of a vast censorship network moved from the online fringe to Trump policy For years,...",
-      "event_cluster_id": "d66aca2589b4",
-      "fetched_at": "2026-08-08T11:03:35Z",
-      "id": "d66aca2589b41217dd60",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-07T14:20:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: a censorship conspiracy theory and the first virus created by AI",
-      "url": "https://www.technologyreview.com/2026/08/07/1141389/the-download-censorship-conspiracy-theory-first-ai-virus"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Eileen Guo, Gisela Perez de Acha, Martin Sona"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This article was produced in partnership with Type Investigations, with support from the Wayne Barrett Project. One morning in April 2025, employees of a small office in the US State Department got the email many of them had been...",
-      "event_cluster_id": "40bf836f19ab",
-      "fetched_at": "2026-08-08T11:03:35Z",
-      "id": "40bf836f19ab11259518",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-07T14:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "How ideas of a vast censorship network moved from the online fringe to Trump policy",
-      "url": "https://www.technologyreview.com/2026/08/07/1141105/how-ideas-of-a-vast-censorship-network-moved-from-the-online-fringe-to-trump-policy"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI There's a fun anecdote from Accenture (apparently via leaked meeting audio recordings) in this 404 Media piece from June 24th: “We’re seeing from some of...",
-      "event_cluster_id": "57cc8718f944",
-      "fetched_at": "2026-08-08T11:03:35Z",
-      "id": "57cc8718f9446eb47597",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-07T16:18:51Z",
-      "research_track": "",
-      "score": 7,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "negative signal: leaked"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "The Tokenpocalypse Is Here: Companies Are Scrambling To Stop Spending So Much on AI",
-      "url": "https://simonwillison.net/2026/Aug/7/pdfs-are-terrible"
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
+      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy"
     }
   ],
-  "date_label": "Sunday, August 9, 2026",
-  "generated_at": "2026-08-09T11:04:40Z",
+  "date_label": "Monday, August 10, 2026",
+  "generated_at": "2026-08-10T00:01:36Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 3,
     "fetched_items": 176,
-    "retained_items": 27,
+    "retained_items": 24,
     "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
