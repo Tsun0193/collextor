@@ -1,48 +1,37 @@
 {
   "articles": [
     {
-      "also_covered_by": [],
-      "authors": [
-        "Sina Wendrich",
-        "Lukas Förner",
-        "Zoe Reinke",
-        "Kartikay Tehlan",
-        "Ansgar Berlis",
-        "Michael Frühwald",
-        "Matthias Wagner",
-        "Thomas Wendler"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.02324v1",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Simon Willison"
       ],
-      "description": "Longitudinal multiparametric MRI is central to follow-up imaging in oncology, yet real-world clinical data are characterised by missing sequences, heterogeneous acquisition protocols, and varying spatial resolutions across time points....",
-      "event_cluster_id": "12f1b1550bda",
-      "fetched_at": "2026-08-04T12:28:00Z",
-      "id": "12f1b1550bda11de6708",
-      "image_url": "",
-      "is_breaking": false,
+      "description": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). Here's a pelican which I generated using LM Studio's..",
+      "event_cluster_id": "c60b75d4c49e",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "c60b75d4c49e5375c4e0",
+      "image_url": "https://static.simonwillison.net/static/2026/glimmer-pelican.png",
+      "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-03T14:47:10Z",
-      "research_track": "medical_neuroimaging",
-      "score": 21,
+      "published_at": "2026-08-10T23:56:03Z",
+      "research_track": "",
+      "score": 20,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: acquisition",
-        "research relevance: MRI",
-        "technical relevance: multimodal",
-        "startup/product signal: acquisition"
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: introducing, model",
+        "technical relevance: open weights"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Implicit Neural Representations for Multimodal Longitudinal Image Imputation and Interpolation",
-      "url": "https://arxiv.org/abs/2608.02324v1"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/muse-glimmer",
       "cluster_sources": [
@@ -221,6 +210,38 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "LocAnyMed: Vision-Language Grounding for Multimodal Medical Images",
       "url": "https://arxiv.org/abs/2608.03322v1"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "event_cluster_id": "55886623ca9b",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "55886623ca9bcaeb2c5d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-10T23:56:15Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch, model, security",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model"
     },
     {
       "also_covered_by": [],
@@ -450,6 +471,77 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Yantong Liu",
+        "Zheyu Zhang",
+        "Runpeng Liu",
+        "Mu Xitang",
+        "Seong-Yoon Shin",
+        "Hyun-Ae Lee"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.03187v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multimodal medical large language models remain structurally weak for neuro-oncology because volumetric evidence is compressed into generic visual tokens and diagnostic conclusions often lack an auditable link to MRI regions. We present...",
+      "event_cluster_id": "01e2ebd52ad5",
+      "fetched_at": "2026-08-06T00:58:41Z",
+      "id": "01e2ebd52ad510eea269",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-04T06:26:50Z",
+      "research_track": "medical_neuroimaging",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: MRI, multimodal medical",
+        "technical relevance: multimodal, reasoning"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "NeuroMosaic: Anatomically Grounded Multimodal Large Language Modeling for Molecularly Aware Glioma Reasoning from 3D MRI and Clinical Narratives",
+      "url": "https://arxiv.org/abs/2608.03187v1"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "event_cluster_id": "bb6f398a0e84",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "bb6f398a0e840e936bd6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-10T12:00:00Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: chip",
+        "startup/product signal: raised"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/10/openclaw",
       "cluster_sources": [
@@ -516,6 +608,37 @@
     },
     {
       "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "event_cluster_id": "36a4c5df8171",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "36a4c5df817189dc2f5a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T20:04:24Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym"
+    },
+    {
+      "authors": [
         "bakigul"
       ],
       "canonical_url": "https://twitter.com/finkd/status/2086754845218726027",
@@ -547,6 +670,7 @@
       "url": "https://twitter.com/finkd/status/2086754845218726027"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Eric Schmidt, Suhas Mahesh"
       ],
@@ -578,70 +702,98 @@
       "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s",
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Hugging Face Blog"
       ],
-      "description": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-      "event_cluster_id": "3fa81885b902",
-      "fetched_at": "2026-08-08T23:58:39Z",
-      "id": "3fa81885b90271b8a4cd",
+      "description": "",
+      "event_cluster_id": "5890b1cfd4cc",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "5890b1cfd4cc38aa3885",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-08T21:24:02Z",
+      "published_at": "2026-08-10T16:25:36Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: data center"
+        "published within 24 hours",
+        "technical relevance: agent, open weights"
       ],
       "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-      "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s"
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Julie Bort"
+        "Rebecca Bellan"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress",
+      "canonical_url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "The week-old Open Secure AI Alliance, spearheaded by Nvidia and grown to over 120 companies, already has proposals out for defending against AI agents.",
-      "event_cluster_id": "7aaa8d6017a1",
-      "fetched_at": "2026-08-05T00:58:18Z",
-      "id": "7aaa8d6017a13cdb8a3c",
+      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "event_cluster_id": "5252b79b6114",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "5252b79b611438f7da84",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-04T19:28:49Z",
+      "published_at": "2026-08-10T16:20:13Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
+        "published within 24 hours",
+        "major-event keyword: model, open-weight"
       ],
-      "section": "business_policy",
+      "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Nvidia doesn’t mess around: A week after open AI industry group formed, it’s already showing progress",
-      "url": "https://techcrunch.com/2026/08/04/nvidia-doesnt-mess-around-a-week-after-open-ai-industry-group-formed-its-already-showing-progress"
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision"
     },
     {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the...",
+      "event_cluster_id": "1b26128c2791",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "1b26128c27919a839444",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-10T12:10:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent, reasoning"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Will Douglas Heaven"
       ],
@@ -671,67 +823,6 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "These startups are chasing the next big thing in LLMs",
       "url": "https://www.technologyreview.com/2026/08/10/1141511/these-startups-are-chasing-the-next-big-thing-in-llms"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/8/auto-mode",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans Anthropic are really confident in Claude Code's auto mode , to the point that they are making it the default setting for new sessions in most Claude Code plans...",
-      "event_cluster_id": "756be989e03c",
-      "fetched_at": "2026-08-08T23:58:39Z",
-      "id": "756be989e03c60bef5a0",
-      "image_url": "https://static.simonwillison.net/static/2026/auto-mode-comparison.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-08T22:36:03Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Auto mode is now the default in Claude Code for Pro, Max, and Team plans",
-      "url": "https://simonwillison.net/2026/Aug/8/auto-mode"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "NextSlide says its team members are now working on ChatGPT.",
-      "event_cluster_id": "39b28d95fcba",
-      "fetched_at": "2026-08-08T23:58:39Z",
-      "id": "39b28d95fcbaaeae7e25",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-08T19:41:13Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI acquires presentation startup NextSlide",
-      "url": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide"
     },
     {
       "also_covered_by": [],
@@ -770,6 +861,37 @@
       "url": "https://arxiv.org/abs/2608.06370v1"
     },
     {
+      "authors": [
+        "Grace Huckins"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join..",
+      "event_cluster_id": "78fa5480c292",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "78fa5480c2928e961a7e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-10T20:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
       "cluster_sources": [
@@ -798,76 +920,43 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default",
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch",
       "cluster_sources": [
-        "TechCrunch AI"
+        "PyTorch Blog"
       ],
-      "description": "Programming with Claude Code will soon require even less human oversight.",
-      "event_cluster_id": "b500779b9a8b",
-      "fetched_at": "2026-08-10T00:01:36Z",
-      "id": "b500779b9a8bb3551aed",
+      "description": "",
+      "event_cluster_id": "d04be0a12bad",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "d04be0a12bad441b24fb",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-09T19:20:32Z",
+      "published_at": "2026-08-10T00:00:00Z",
       "research_track": "",
       "score": 12,
       "score_reasons": [
         "high source",
-        "published within 6 hours"
+        "published within 48 hours",
+        "technical relevance: agent"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic is turning Claude Code’s auto mode on by default",
-      "url": "https://techcrunch.com/2026/08/09/anthropic-is-turning-claude-codes-auto-mode-on-by-default"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "On the latest episode of Equity, we spoke to Jill Lepore about \"government by machines\" and why Elon Musk is a bad science fiction reader.",
-      "event_cluster_id": "3f98d7032462",
-      "fetched_at": "2026-08-10T11:32:06Z",
-      "id": "3f98d7032462ba7b9cb7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-09T15:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Historian Jill Lepore says Silicon Valley misreads science fiction and undermines democracy",
-      "url": "https://techcrunch.com/2026/08/09/historian-jill-lepore-says-the-tech-industry-is-led-by-bad-readers-who-are-undermining-democracy"
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch",
+      "url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch"
     }
   ],
-  "date_label": "Monday, August 10, 2026",
-  "generated_at": "2026-08-10T11:32:06Z",
+  "date_label": "Tuesday, August 11, 2026",
+  "generated_at": "2026-08-11T00:03:23Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 1,
-    "fetched_items": 203,
-    "retained_items": 26,
-    "successful_sources": 20
+    "failed_sources": 3,
+    "fetched_items": 185,
+    "retained_items": 29,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }

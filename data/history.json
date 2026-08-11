@@ -2,6 +2,686 @@
   "articles": [
     {
       "authors": [
+        "c_f_"
+      ],
+      "canonical_url": "https://blog.cloudflare.com/workers-ai-gateway-unification",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "d5e7959aa030",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49251541",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-11T00:01:46Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Unifying Workers AI and AI Gateway into a Single AI Control Plane",
+      "url": "https://blog.cloudflare.com/workers-ai-gateway-unification"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI is expanding its AI cybersecurity defense program Daybreak, and rolling out a new cyber-trained AI model with it.",
+      "event_cluster_id": "55886623ca9b",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "55886623ca9bcaeb2c5d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-10T23:56:15Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch, model, security",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "As AI-led attacks multiply, OpenAI launches a new cyber model",
+      "url": "https://techcrunch.com/2026/08/10/as-ai-led-attacks-multiply-openai-launches-a-new-cyber-model"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Introducing Muse Glimmer Meta are back in the open weights game! Muse Glimmer is a brand new 30B model under a clean Apache 2.0 license (a step up from the janky Llama licenses of old). Here's a pelican which I generated using LM Studio's..",
+      "event_cluster_id": "c60b75d4c49e",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "c60b75d4c49e5375c4e0",
+      "image_url": "https://static.simonwillison.net/static/2026/glimmer-pelican.png",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-10T23:56:03Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: introducing, model",
+        "technical relevance: open weights"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Introducing Muse Glimmer",
+      "url": "https://simonwillison.net/2026/Aug/10/introducing-muse-glimmer"
+    },
+    {
+      "authors": [
+        "ryanmerket"
+      ],
+      "canonical_url": "https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "fdb09c9e911e",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49251375",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T23:39:53Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "People don't hate AI because of Zuck. They hate the version TechCrunch sells",
+      "url": "https://runtimewire.com/article/people-don-t-hate-ai-because-of-zuckerberg-they-hate-the-version-techcrunch-sell"
+    },
+    {
+      "authors": [
+        "alansaber"
+      ],
+      "canonical_url": "https://lexifina.com/blog/adding-a-multi-agent-write-lock",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a34b77232ba8",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49251347",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T23:36:17Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Multi-agent version control with reactive feedback",
+      "url": "https://lexifina.com/blog/adding-a-multi-agent-write-lock"
+    },
+    {
+      "authors": [
+        "Masama3"
+      ],
+      "canonical_url": "https://github.com/MaximiH-86/GridPulse_Production_Server",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "4df346467bfb",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49251282",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T23:29:57Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "VectorGrid Core – Bare-metal C++ grid orchestration for AI data centers",
+      "url": "https://github.com/MaximiH-86/GridPulse_Production_Server"
+    },
+    {
+      "authors": [
+        "leog_me"
+      ],
+      "canonical_url": "https://github.com/leog/ai-pulse",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "fd0035716089",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49250486",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T22:07:41Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: AI Pulse a fake LED strip beside the macOS Dock that shows agent status",
+      "url": "https://github.com/leog/ai-pulse"
+    },
+    {
+      "authors": [
+        "mochow13"
+      ],
+      "canonical_url": "https://github.com/mochow13/keen-code",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f4ee52a4880e",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49250229",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T21:47:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Keen Code – an agentic-engineered coding agent",
+      "url": "https://github.com/mochow13/keen-code"
+    },
+    {
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "On Monday, Mark Zuckerberg published a 6,500-word manifesto about personal AI, largely about the possibilities for the \"personal superintelligence\" systems Meta AI is building.",
+      "event_cluster_id": "c453e8709228",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "c453e87092289e290d6a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T20:53:02Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI",
+      "url": "https://techcrunch.com/2026/08/10/mark-zuckerbergs-ai-manifesto-is-exactly-why-people-dont-like-ai"
+    },
+    {
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "An OpenClaw agent hacked into a gym's reservation system to bump its human boss higher on a class' waitlist. And the tech industry took notice.",
+      "event_cluster_id": "36a4c5df8171",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "36a4c5df817189dc2f5a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T20:04:24Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Tech industry is buzzing after a Claude agent hacked into a gym",
+      "url": "https://techcrunch.com/2026/08/10/tech-industry-is-buzzing-after-a-claude-agent-hacked-into-a-gym"
+    },
+    {
+      "authors": [
+        "Grace Huckins"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Last week, I headed 30 miles south of San Francisco to a hotel in Mountain View, California, to join..",
+      "event_cluster_id": "78fa5480c292",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "78fa5480c2928e961a7e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-10T20:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "AI professors are negotiating the new realities of academic research",
+      "url": "https://www.technologyreview.com/2026/08/10/1141597/ai-professors-are-negotiating-the-new-realities-of-academic-research"
+    },
+    {
+      "authors": [
+        "sagacity"
+      ],
+      "canonical_url": "https://www.vectorware.com/blog/simd-on-gpu",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "40d777ce10da",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49247477",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T18:12:49Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: GPU"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Rust SIMD on the GPU",
+      "url": "https://www.vectorware.com/blog/simd-on-gpu"
+    },
+    {
+      "authors": [
+        "HenryNdubuaku"
+      ],
+      "canonical_url": "https://cactuscompute.com/needle",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "d7dddac5c9c6",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49246804",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T17:22:07Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots",
+      "url": "https://cactuscompute.com/needle"
+    },
+    {
+      "authors": [
+        "erenberke"
+      ],
+      "canonical_url": "https://www.stoaexchange.com",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2af89bb54fec",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49246057",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T16:35:27Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: launch, GPU"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Stoa Markets (YC S26) – A Marketplace for GPUs and AI Servers",
+      "url": "https://www.stoaexchange.com"
+    },
+    {
+      "authors": [
+        "chaychoong"
+      ],
+      "canonical_url": "http://danluu.com/pl-tokens",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "df3fca194c7b",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49245936",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T16:28:58Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "What's the best programming language for coding agents?",
+      "url": "http://danluu.com/pl-tokens"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "5890b1cfd4cc",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "5890b1cfd4cc38aa3885",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T16:25:36Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent, open weights"
+      ],
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Build Low-Latency Multilingual Voice Agents: Open Weights & Full Deployment Control with NVIDIA Magpie TTS",
+      "url": "https://huggingface.co/blog/nvidia/magpie-tts-multilingual-voice-agents"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta’s new open-weight Muse Glimmer model offers a glimpse of Mark Zuckerberg’s personal superintelligence vision, as well as the emerging divide between AI users can own and access.",
+      "event_cluster_id": "5252b79b6114",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "5252b79b611438f7da84",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T16:20:13Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, open-weight"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision",
+      "url": "https://techcrunch.com/2026/08/10/metas-new-glimmer-ai-model-offers-a-hint-at-zuckerbergs-personal-intelligence-vision"
+    },
+    {
+      "authors": [
+        "ubermon"
+      ],
+      "canonical_url": "https://github.com/AntigmaLabs/ante",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "4ebe2b50e1eb",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49245437",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T15:59:23Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Ante, a coding agent in a single binary that runs offline",
+      "url": "https://github.com/AntigmaLabs/ante"
+    },
+    {
+      "authors": [
+        "root-parent"
+      ],
+      "canonical_url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "b4c0bfda42fc",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49243880",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T14:06:22Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models",
+      "url": "https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878"
+    },
+    {
+      "authors": [
+        "kuberwastaken"
+      ],
+      "canonical_url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "518ffd2b0cf3",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49243474",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T13:35:40Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Humanising LLM Outputs Is Dumb",
+      "url": "https://kuber.studio/blog/Reflections/Humanising-LLM-Outputs-is-Actually-Dumb"
+    },
+    {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI for science needs reasoning, not just data —Eric Schmidt, the former CEO of Google and the...",
+      "event_cluster_id": "1b26128c2791",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "1b26128c27919a839444",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-10T12:10:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent, reasoning"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: AI agents for science, and the “censorship-industrial complex”",
+      "url": "https://www.technologyreview.com/2026/08/10/1141526/the-download-ai-agents-science-censorship-industrial-complex"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "event_cluster_id": "bb6f398a0e84",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "bb6f398a0e840e936bd6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-10T12:00:00Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: chip",
+        "startup/product signal: raised"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips"
+    },
+    {
+      "authors": [
         "cramer4next"
       ],
       "canonical_url": "https://www.cnbc.com/2026/08/10/openai-astra-cybersecurity-risks.html",
@@ -127,6 +807,7 @@
       "url": "https://www.youtube.com/watch?v=sXA77wLF678"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "riordan"
       ],
@@ -159,6 +840,7 @@
       "url": "https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation",
       "cluster_sources": [
@@ -187,6 +869,7 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/efficient-knowledge-distillation"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Eric Schmidt, Suhas Mahesh"
       ],
@@ -218,6 +901,7 @@
       "url": "https://www.technologyreview.com/2026/08/10/1141384/ai-agents-for-science"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Will Douglas Heaven"
       ],
@@ -533,6 +1217,7 @@
       "url": "https://simonwillison.net/2026/Aug/10/openclaw"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/muse-glimmer",
       "cluster_sources": [
@@ -562,6 +1247,35 @@
       "source_name": "Hugging Face Blog",
       "title": "Meta is back with Muse Glimmer: local, agentic, multimodal, and open source",
       "url": "https://huggingface.co/blog/muse-glimmer"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "d04be0a12bad",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "d04be0a12bad441b24fb",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-10T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Fast, On Device Agentic AI with Muse Glimmer on ExecuTorch",
+      "url": "https://pytorch.org/blog/fast-ondevice-agentic-ai-with-executorch"
     },
     {
       "authors": [
@@ -3024,6 +3738,37 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Measurements Automatically Extracted from Zero Echo Time MRI Using Deep Learning Image Segmentation and Geometric Modeling Agree with Expert Manual Readings",
       "url": "https://arxiv.org/abs/2608.07368v1"
+    },
+    {
+      "authors": [
+        "extralongdivisi"
+      ],
+      "canonical_url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "6905eeba9a79",
+      "fetched_at": "2026-08-11T00:03:23Z",
+      "id": "hn-49212449",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-07T15:59:08Z",
+      "research_track": "",
+      "score": 10,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: open source",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Publishing Schematics Before “Open Source” Was a Word",
+      "url": "https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704"
     },
     {
       "also_covered_by": [],
@@ -18923,854 +19668,7 @@
       "source_name": "Simon Willison",
       "title": "Quoting D. Richard Hipp",
       "url": "https://simonwillison.net/2026/Jul/29/d-richard-hipp"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Amanda Silberling"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
-      "event_cluster_id": "c19484788d33",
-      "fetched_at": "2026-07-30T00:58:15Z",
-      "id": "c19484788d338f1ec3d3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T21:07:48Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: safety"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
-      "url": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Arman Rahmim",
-        "Nourhan Bayasi",
-        "Xiaoxiao Li",
-        "Babak Saboury",
-        "Fereshteh Yousefirizi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27428v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical imaging has served as primary proving ground for clinical artificial intelligence (AI), yet a decade of intense research has not translated into proportionate bedside impact. We argue that this gap is not primarily a product of...",
-      "event_cluster_id": "d0389c9be492",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "d0389c9be4924ccd0eaf",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T19:55:49Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "research relevance: medical imaging",
-        "startup/product signal: product"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Rethinking Artificial Intelligence in Medical Imaging: Assumptions, Reality, and Reframing",
-      "url": "https://arxiv.org/abs/2607.27428v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Connie Loizos"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
-      "event_cluster_id": "5287a14df83f",
-      "fetched_at": "2026-07-30T00:58:15Z",
-      "id": "5287a14df83f6543023a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T19:44:49Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
-      "url": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Andon Labs' latest vending machine simulation shows Opus 5 lied and colluded its way to become the best AI capitalist ever.",
-      "event_cluster_id": "0c02a01d9a85",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "0c02a01d9a85c201c424",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T18:45:27Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Claude Opus 5 became downright ruthless when tasked with running a vending machine",
-      "url": "https://techcrunch.com/2026/07/29/claude-opus-5-became-downright-ruthless-when-tasked-with-running-a-vending-machine"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "AI Worming through Word Neat new prompt injection variant by Håkon Måløy, who found a way to upgrade prompt injection attacks against Microsoft Word to full self-replicating worms: An attacker places hidden instructions in a document that..",
-      "event_cluster_id": "3000631c4580",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "3000631c4580bfced1f1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T18:43:03Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "AI Worming through Word",
-      "url": "https://simonwillison.net/2026/Jul/29/ai-worming-through-word"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Jul/29/matthew-green",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Right now we’re in the midst of a historic transition from traditional public-key algorithms based on EC-based cryptography and RSA, moving over to new post-quantum algorithms based on novel problems. This is why there are so many...",
-      "event_cluster_id": "c2be95c4524a",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "c2be95c4524aebfdd6ff",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T18:18:15Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Matthew Green",
-      "url": "https://simonwillison.net/2026/Jul/29/matthew-green"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Hengyi Xie",
-        "Chenfei Yao",
-        "Xianjin Wu",
-        "Xuanyang Xi",
-        "Yiping Tang",
-        "Di Xu",
-        "Yingying Zhu",
-        "Dingkang Liang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27205v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-language-action (VLA) models commonly adopt an LLM-centric $V \\to L \\to A$ pathway, where visual observations are projected into the representation space of a large language model before being decoded into robot actions. Although...",
-      "event_cluster_id": "956fb57f1b82",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "956fb57f1b8270decf2e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:59:58Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
-      "url": "https://arxiv.org/abs/2607.27205v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Hao Fei",
-        "Yiran Zhao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27201v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "World models enable a predictive substrate for planning and action, yet existing formulations merely answer a physical question: what/where it is, and how will it evolve. Human behavior, however, is driven by hidden mental state (what a...",
-      "event_cluster_id": "2a28cec701db",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "2a28cec701db3ae1297f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:59:39Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Mental World Modeling",
-      "url": "https://arxiv.org/abs/2607.27201v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Peter Kirgis",
-        "Sayash Kapoor",
-        "Andrew Schwartz",
-        "Stephan Rabanser",
-        "David Africa",
-        "Konstantinos Voudouris",
-        "Viet Nguyen",
-        "Toby Pilditch"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27191v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Forecasts of explosive AI progress hinge on AI agents automating AI research. But evidence on whether agents can carry out open-ended AI research is thin. Current evaluations either test agents on narrow, verifiable tasks, which excludes...",
-      "event_cluster_id": "11dd47a1c88b",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "11dd47a1c88bbcefb629",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T17:57:19Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: PET",
-        "technical relevance: agent, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Can AI agents conduct open-ended AI research? Early evidence from two case studies",
-      "url": "https://arxiv.org/abs/2607.27191v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Siyao Li",
-        "Jiawei Gu",
-        "Shuai Liu",
-        "Kairui Hu",
-        "Zekun Li",
-        "Linjie Li",
-        "Chengcheng Tang",
-        "Po-Chen Wu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27180v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Evaluating whether a vision-language model (VLM) can act through a physical body is challenging. The outcome of an action couples the VLM's decision with motor control. When a task fails, it is hard to tell whether the VLM made a bad...",
-      "event_cluster_id": "9d874e2fef5d",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "9d874e2fef5d99861f0c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:51:36Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, VLM"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
-      "url": "https://arxiv.org/abs/2607.27180v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Peter Tisnikar",
-        "Maja Swieczkowska",
-        "Benteng Ma",
-        "Gerard Canal",
-        "Matteo Leonetti"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27177v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Effective collaboration with novel and diverse partners is a crucial skill for autonomous agents. Most current ad-hoc teamwork (AHT) approaches assume that agents will collaborate on a single, fixed task and that the partner's...",
-      "event_cluster_id": "74e5b3e5003b",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "74e5b3e5003bb420a18f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T17:50:39Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: PET",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Partner Capability Estimation for Task-Agnostic Adaptation in Ad-Hoc Teamwork",
-      "url": "https://arxiv.org/abs/2607.27177v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yihao Chen",
-        "Shi Chang",
-        "Feng Lin",
-        "Khaled Chawa",
-        "Boyuan Chen",
-        "Shaowei Wang",
-        "Ahmed E. Hassan"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27167v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "LLM-based agents excel at software engineering tasks where an existing codebase provides context, but constructing a program from scratch remains fundamentally harder. Recent benchmarks such as ProgramBench quantify this gap: given only...",
-      "event_cluster_id": "699a0691c137",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "699a0691c137c11eb8b9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:42:47Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch",
-      "url": "https://arxiv.org/abs/2607.27167v1"
-    },
-    {
-      "authors": [
-        "kevo1ution"
-      ],
-      "canonical_url": "https://supapool.io",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "d117ed879467",
-      "fetched_at": "2026-07-31T01:08:33Z",
-      "id": "hn-49100518",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:34:35Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Supapool – a Supabase per coding agent in ~400 ms",
-      "url": "https://supapool.io"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jingbo Zhou",
-        "Yusai Zhao",
-        "Qi Bao",
-        "Jingjia Cao",
-        "Zhenghai Chen",
-        "Chang Gao",
-        "Kaiqi Guo",
-        "Muxin Guo"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27155v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language model (LLM) agents are increasingly expected to assist users in completing tasks. However, existing benchmarks provide limited support for evaluating whether agents can carry out office-suite workflows at a reasonable...",
-      "event_cluster_id": "e273031c6ac5",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "e273031c6ac54ba93f4b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:33:47Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding",
-      "url": "https://arxiv.org/abs/2607.27155v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Roshan Kenia",
-        "Stephanie L McNamara",
-        "William Lotter"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27154v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "CT vision-language foundation models have demonstrated promising performance across downstream tasks, but are typically trained with whole-volume representations that dilute fine-grained anatomical signals. Fine-grained vision-language...",
-      "event_cluster_id": "1cd6703f6356",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "1cd6703f6356431434ec",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:32:57Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Anatomy Contextualized Adaption of CT Foundation Models",
-      "url": "https://arxiv.org/abs/2607.27154v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yihao Chen",
-        "Shi Chang",
-        "Khaled Chawa",
-        "Feng Lin",
-        "Boyuan Chen",
-        "Shaowei Wang",
-        "Ahmed E. Hassan"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27146v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Coding agents have made substantial progress on software engineering tasks that modify existing codebases, including bug fixing and feature implementation. However, constructing a complete program from scratch remains a major challenge:...",
-      "event_cluster_id": "5bd905d1cf8d",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "5bd905d1cf8d9d0f19ef",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:23:02Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis",
-      "url": "https://arxiv.org/abs/2607.27146v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Piyush Jain",
-        "Kousik Dasgupta",
-        "Rajarshi Roy",
-        "Subarna Tripathi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27145v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "As Multimodal Large Language Models (MLLMs) are increasingly deployed in decision-critical pipelines such as robotics, embodied AI, and safety monitoring, the opacity of their spatial judgments limits operator trust and auditability....",
-      "event_cluster_id": "d4e9986b32b9",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "d4e9986b32b9d204c1a1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:20:56Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, safety",
-        "technical relevance: multimodal, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Explainable and Resource-Efficient Spatial Reasoning in Multimodal LLMs for Decision-Critical Applications",
-      "url": "https://arxiv.org/abs/2607.27145v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Álvaro Díaz-Laureano",
-        "Roger Marí",
-        "Elías Masquil",
-        "Pablo Arias",
-        "Gabriele Facciolo"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27139v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Accurate 3D reconstruction from satellite imagery typically relies on near-simultaneous stereo pairs, limiting its applicability to diachronic settings where multi-date images exhibit varying seasonal and illumination conditions....",
-      "event_cluster_id": "ba8c9a8c3c4a",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "ba8c9a8c3c4a35929d7b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:12:03Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SeasonStereo: Robust Dense Stereo Matching for Multi-Date Satellite Imagery via Generative AI",
-      "url": "https://arxiv.org/abs/2607.27139v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Zuojin Tang",
-        "Feifan Luo",
-        "Haoyun Liu",
-        "Botai Yuan",
-        "Dekang Qi",
-        "Ronghan Chen",
-        "Yandan Yang",
-        "Tong Lin"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27138v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-language-action (VLA) models remain constrained by scarce action-labeled robot data, whereas action-free videos offer abundant observations of physical change. Latent action models can extract such priors, but...",
-      "event_cluster_id": "144b15d6dbd3",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "144b15d6dbd30e788e62",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T17:09:48Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "DLAM: Distributional Latent Actions with Temporal Constraints",
-      "url": "https://arxiv.org/abs/2607.27138v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
-      "event_cluster_id": "7fb90907dc18",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "7fb90907dc18444a4b2b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T15:35:09Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
-      "url": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yu Chang",
-        "Anzhe Cheng",
-        "Chenwei Wu",
-        "Zhuoran Wang",
-        "Jiahao Chen",
-        "Tamoghna Chattopadhyay",
-        "Sophia I. Thomopoulos",
-        "Paul M. Thompson"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27289v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "The promise of multimodal fusion lies in combining complementary sources of evidence, yet more evidence does not always yield a better prediction. Recent multimodal models have advanced fusion through richer cross-modal interaction and...",
-      "event_cluster_id": "57c5d2acc5e1",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "57c5d2acc5e13e952226",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T14:55:55Z",
-      "research_track": "medical_neuroimaging",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "TIER-MoE: Trust-Informed Expert Routing via Conditional Modality Risk for Multimodal Fusion in Biomedical Classification",
-      "url": "https://arxiv.org/abs/2607.27289v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ram Iyer"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "event_cluster_id": "3740369ba57f",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "3740369ba57f1602d904",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T14:41:06Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "url": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yogisri Pujitha Chinthoti"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.27286v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Automated classification of pulmonary disease from chest radiographs is a widely studied application of machine learning in medical imaging. This paper presents a pilot study evaluating classical texture- and gradient-based feature...",
-      "event_cluster_id": "034d7e62bbe8",
-      "fetched_at": "2026-07-31T12:30:35Z",
-      "id": "034d7e62bbe813c1b300",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-07-29T14:27:26Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "research relevance: medical imaging"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Toward Multi-Modal Deep Learning for Pulmonary Disease Classification: A Texture-Based Machine Learning Pilot Study on Public Chest X-Ray Data",
-      "url": "https://arxiv.org/abs/2607.27286v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Siddharth Vohra"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2607.26886v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "When asked to describe a medical image that was never attached, frontier vision-language models do not abstain: they confabulate a diagnosis. We show that this confabulation is not random. It is structured by who the patient is said to...",
-      "event_cluster_id": "08c4a7851a81",
-      "fetched_at": "2026-07-30T12:13:53Z",
-      "id": "08c4a7851a81d67647fb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-07-29T13:15:23Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: vision-language"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Hearsay: Vision-Language Medical Diagnoses Without an Image",
-      "url": "https://arxiv.org/abs/2607.26886v1"
     }
   ],
-  "generated_at": "2026-08-10T11:32:06Z"
+  "generated_at": "2026-08-11T00:03:23Z"
 }
