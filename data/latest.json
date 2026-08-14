@@ -1,40 +1,6 @@
 {
   "articles": [
     {
-      "also_covered_by": [
-        "Hacker News"
-      ],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Stealing Reasoning Traces from Proprietary LLM APIs A vanity domain name ( stolen-thoughts.com ) for a neat paper : Anthropic, OpenAI, and Google return encrypted chain-of-thought blocks to clients that can be replayed across sessions,...",
-      "event_cluster_id": "701a34aa4671",
-      "fetched_at": "2026-08-12T00:09:41Z",
-      "id": "701a34aa4671b069c79d",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-11T22:40:45Z",
-      "research_track": "",
-      "score": 22,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "technical relevance: reasoning",
-        "startup/product signal: API",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
-      "url": "https://simonwillison.net/2026/Aug/11/stealing-reasoning-traces"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Kate Park"
@@ -102,47 +68,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Biratal Raj Wagle",
-        "Bashirul Azam Biswas",
-        "Grant Chau",
-        "Matthew E. Maeder",
-        "Muhammad Azeem Arshad",
-        "Michael S. Leapman",
-        "James B. Yu",
-        "Indrani Bhattacharya"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.11076v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Automated lesion segmentation in whole-body PET/CT imaging can assist clinicians with cancer detection, staging, and treatment planning across radiotracers and cancer types. However, training lesion segmentation models that capture...",
-      "event_cluster_id": "47df1c255ffc",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "47df1c255ffc5711a928",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-11T15:38:44Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "research relevance: PET",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Foundation Model-Enabled Efficient Data Sampling (FEEDS): A label-efficient training strategy for pan-cancer, multi-tracer PET/CT datasets",
-      "url": "https://arxiv.org/abs/2608.11076v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
@@ -206,6 +131,103 @@
       "source_name": "TechCrunch AI",
       "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
       "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026"
+    },
+    {
+      "authors": [
+        "megadragon9"
+      ],
+      "canonical_url": "https://github.com/workofart/harness-training",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "bd07ed37ddc6",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "hn-49293267",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-14T00:05:34Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: RAG",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Auto-train the harness, not the LLM. cross-model, cross-benchmark gains",
+      "url": "https://github.com/workofart/harness-training"
+    },
+    {
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
+      "event_cluster_id": "738b25361089",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "738b25361089d8094578",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-13T21:13:24Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model, open source, training",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
+      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
+      "event_cluster_id": "647c46da607a",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "647c46da607af06e7c2b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-13T18:28:14Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: safety",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
+      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war"
     },
     {
       "also_covered_by": [],
@@ -285,7 +307,7 @@
       ],
       "description": "In medical imaging, the clinical value of Computed Tomography (CT) lies not only in depicting current disease status, but crucially in enabling longitudinal comparison of serial scans to determine disease evolution, a process that...",
       "event_cluster_id": "caa0fae61baf",
-      "fetched_at": "2026-08-13T11:23:57Z",
+      "fetched_at": "2026-08-14T00:40:25Z",
       "id": "caa0fae61baf608976ce",
       "image_url": "",
       "is_breaking": false,
@@ -307,39 +329,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "CT-$Δ$Bench: A Benchmark for Longitudinal 3D Medical Imaging Difference Reporting with Vision-Language Models",
       "url": "https://arxiv.org/abs/2608.11534v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lucas Ropek"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI is finally bringing a dedicated ChatGPT desktop app to Linux operating systems.",
-      "event_cluster_id": "687acffc0d36",
-      "fetched_at": "2026-08-12T00:09:41Z",
-      "id": "687acffc0d3640aec194",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-11T19:15:35Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "startup/product signal: launches"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI launches ChatGPT desktop app for Linux",
-      "url": "https://techcrunch.com/2026/08/11/openai-launches-chatgpt-desktop-app-for-linux"
     },
     {
       "also_covered_by": [],
@@ -484,39 +473,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Investors are still waiting for their share of the $250 million windfall, and VideoVerse co-founder Vinayak Shrivastav is now at the center of multiple legal cases.",
-      "event_cluster_id": "3165e9f7bc4b",
-      "fetched_at": "2026-08-13T11:23:57Z",
-      "id": "3165e9f7bc4bfb96de39",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-12T15:44:56Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: acquisition",
-        "startup/product signal: acquisition"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "How a $250 million acquisition collapsed into allegations of fraud and forged signatures",
-      "url": "https://techcrunch.com/2026/08/12/how-a-250-million-acquisition-collapsed-into-allegations-of-fraud-and-forged-signatures"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Vishnu M. Bashyam",
         "Guray Erus",
         "Junhao Wen",
@@ -628,115 +584,36 @@
       "url": "https://arxiv.org/abs/2608.11942v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "RJ Honicky"
+        "Kylejeong21"
       ],
-      "canonical_url": "https://www.latent.space/p/chai-discovery",
+      "canonical_url": "https://kylejeong.com/inference-balls",
       "cluster_sources": [
-        "Latent Space"
+        "Hacker News"
       ],
-      "description": "Pharma is suddenly paying for Bio × AI tools, and Chai is leading the pack with four deals closed this summer. Cofounder Matt McPartlon and Product leader Neil Patil explain why.",
-      "event_cluster_id": "05a48f17b2b8",
-      "fetched_at": "2026-08-12T00:09:41Z",
-      "id": "05a48f17b2b87f756af2",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "9c5cfc17f845",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "hn-49293468",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-08-11T21:03:50Z",
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-14T00:36:21Z",
       "research_track": "",
-      "score": 16,
+      "score": 15,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 6 hours",
-        "startup/product signal: product",
-        "long-read source"
+        "major-event keyword: inference",
+        "technical relevance: inference"
       ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "🔬The BioAI Phase Shift - Matthew McPartlon & Neil Patil, Chai Discovery",
-      "url": "https://www.latent.space/p/chai-discovery"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Wenrui Bao",
-        "Tianyun Jiang",
-        "Zhiben Chen",
-        "Ser-Nam Lim",
-        "Peter D. Peng",
-        "Yuzhang Shang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.11204v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical...",
-      "event_cluster_id": "dd81a324a8fb",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "dd81a324a8fb6fc63d8f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-11T17:59:13Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-      "url": "https://arxiv.org/abs/2608.11204v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Shengzhi Wang",
-        "Jun Yang",
-        "Kai Wu",
-        "Xiaozhong Ji",
-        "Yiwen Ye",
-        "Ziyang Chen",
-        "Mingliang Xiong",
-        "Wen Fang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.10827v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical visual agents can use tools to inspect images and retrieve external knowledge, but indiscriminate tool use may introduce noisy or misleading evidence. Reliable diagnosis therefore requires not only acquiring additional...",
-      "event_cluster_id": "c9af00391eb7",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "c9af00391eb72b5c31c2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-11T11:57:27Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image",
-        "technical relevance: agent, tool use"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MIRA: Medical Image Reflection for Agentic Diagnosis",
-      "url": "https://arxiv.org/abs/2608.10827v1"
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "The programming language speed balls, but for inference (tokens per second)",
+      "url": "https://kylejeong.com/inference-balls"
     },
     {
       "also_covered_by": [],
@@ -773,67 +650,63 @@
     },
     {
       "authors": [
-        "rockeetterark"
+        "MIT Technology Review"
       ],
-      "canonical_url": "https://github.com/rockeet/relational-to-kv",
+      "canonical_url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy",
       "cluster_sources": [
-        "Hacker News"
+        "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "b241ec9f4172",
-      "fetched_at": "2026-08-13T11:23:57Z",
-      "id": "hn-49282960",
+      "description": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing...",
+      "event_cluster_id": "5813e5866973",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "5813e5866973eeb0b626",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-08-13T07:58:16Z",
+      "published_at": "2026-08-13T21:00:00Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 6 hours",
-        "major-event keyword: model",
-        "startup/product signal: Show HN"
+        "startup/product signal: API"
       ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Relational-to-KV – AI maps relational models to ToplingDB/RocksDB",
-      "url": "https://github.com/rockeet/relational-to-kv"
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
+      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy"
     },
     {
-      "authors": [
-        "IreneAI"
-      ],
-      "canonical_url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual",
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
       "cluster_sources": [
-        "Hacker News"
+        "Hugging Face Blog"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "6025c4e3bc9c",
-      "fetched_at": "2026-08-13T06:01:04Z",
-      "id": "hn-49281370",
+      "description": "",
+      "event_cluster_id": "353217afc4f7",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "353217afc4f706b5339d",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-13T03:09:45Z",
+      "published_at": "2026-08-13T17:16:04Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent, RAG"
       ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Agent Memory Leaderboard – first public results for AI memory systems",
-      "url": "https://agentmemoryleaderboard.ai/leaderboard/academic/textual"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
+      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
     },
     {
       "also_covered_by": [],
@@ -1048,32 +921,73 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Alireza Kargarzadeh",
+        "Nariman Khaledian",
+        "Navid Parvini",
+        "Arman Khaledian"
       ],
-      "description": "There are no lossless transformations of natural-language text Sophie Alpert shares her \"internal policy on acceptable use of AI writing by engineers\". It's a short read (supporting its own recommendations) and really good. If you chose...",
-      "event_cluster_id": "852b8aca3966",
-      "fetched_at": "2026-08-12T00:09:41Z",
-      "id": "852b8aca396645168ecc",
+      "canonical_url": "https://arxiv.org/abs/2608.12283v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Large language models can extract richer signals from financial news than fixed sentiment lexicons, and recent work has explored feeding such signals into portfolio construction. We study an uncertainty-aware construction that feeds...",
+      "event_cluster_id": "1f9f82f43422",
+      "fetched_at": "2026-08-13T11:23:57Z",
+      "id": "1f9f82f43422641688e9",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-11T23:48:35Z",
-      "research_track": "",
-      "score": 14,
+      "published_at": "2026-08-12T17:28:03Z",
+      "research_track": "multimodal_foundation",
+      "score": 13,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "startup/product signal: API"
       ],
-      "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "There are no lossless transformations of natural-language text",
-      "url": "https://simonwillison.net/2026/Aug/11/there-are-no-lossless-transformations-of-natural-language-text"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Large Language Model-Driven Small-Capitalization Trading: Integrating Financial News Sentiment, Macroeconomic Indicators, and Technical Signals",
+      "url": "https://arxiv.org/abs/2608.12283v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Jing Zhu",
+        "Ye Wang",
+        "Fumin Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.12196v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Purpose: Deep learning-based medical image segmentation has achieved remarkable success, yet purely data-driven approaches often fail to exploit the rich mathematical structure inherent in medical images. We investigate whether explicit...",
+      "event_cluster_id": "d841c928a3b9",
+      "fetched_at": "2026-08-13T11:23:57Z",
+      "id": "d841c928a3b955143b12",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-12T15:51:07Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "M-Net: Integrating Spectral Features and Physical Field Operators into Deep Learning for Medical Image Segmentation",
+      "url": "https://arxiv.org/abs/2608.12196v1"
     },
     {
       "also_covered_by": [],
@@ -1107,34 +1021,95 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Hiram Zuniga",
+        "Ulises Orozco-Rosas",
+        "Kenia Picos"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.11762v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Alzheimer's disease is a leading cause of death with no cure. Therefore, early detection is critical to slow progression and preserve quality of life. Diagnosis relies on medical history, cognitive tests, physical exams, and MRI brain...",
+      "event_cluster_id": "bff10bcf6f3f",
+      "fetched_at": "2026-08-13T06:01:04Z",
+      "id": "bff10bcf6f3f419f65e2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-12T08:01:15Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: Alzheimer, Alzheimer's disease, MRI"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "A comparison of CNN architectures for Alzheimer's disease detection in single-view MRI scans",
+      "url": "https://arxiv.org/abs/2608.11762v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "77e8863e4449",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "77e8863e44497db238ca",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-13T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: GPU, training"
+      ],
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements",
+      "url": "https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements"
+    },
+    {
+      "authors": [
         "Thomas Macaulay"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting",
+      "canonical_url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice",
       "cluster_sources": [
         "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. These startups are chasing the next big thing in LLMs Nine years after Google researchers introduced..",
-      "event_cluster_id": "d0d5fd4ff289",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "d0d5fd4ff289a5f68c48",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors...",
+      "event_cluster_id": "a71281b97d71",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "a71281b97d710c391412",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-08-11T12:10:00Z",
+      "published_at": "2026-08-13T12:10:00Z",
       "research_track": "",
-      "score": 13,
+      "score": 11,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "startup/product signal: startup"
+        "published within 24 hours"
       ],
-      "section": "startup_product",
+      "section": "long_reads",
       "source_category": "analysis",
       "source_id": "mit_tr_ai",
       "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: the next big thing in LLMs and how AI academic research is shifting",
-      "url": "https://www.technologyreview.com/2026/08/11/1141610/the-download-next-big-thing-llms-ai-academic-research-shifting"
+      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
+      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice"
     },
     {
       "also_covered_by": [],
@@ -1166,94 +1141,32 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-3b"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Eileen Guo"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "I first heard the term “censorship-industrial complex” on April 15, 2025. That’s when I got the tip that a small office in the U.S. State Department, which focused on monitoring and countering foreign disinformation from the likes of...",
-      "event_cluster_id": "f56c352544a0",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "f56c352544a0d7fb129d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-11T17:58:57Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "How the “censorship-industrial complex” is changing the internet and US policy",
-      "url": "https://www.technologyreview.com/2026/08/11/1141635/how-the-censorship-industrial-complex-is-changing-the-internet-and-us-policy"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd",
+      "canonical_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
-      "event_cluster_id": "077b61a0fed0",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "077b61a0fed02bcc2a08",
+      "event_cluster_id": "57f8b7f378e9",
+      "fetched_at": "2026-08-14T00:40:25Z",
+      "id": "57f8b7f378e9c39afee2",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-11T13:37:10Z",
+      "published_at": "2026-08-13T00:00:00Z",
       "research_track": "",
-      "score": 11,
+      "score": 9,
       "score_reasons": [
         "high source",
-        "published within 24 hours"
+        "published within 48 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
-      "title": "Thinking of ACE? We Can Do It with Fewer Tokens",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-sldd"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "8e9779aa6f2a",
-      "fetched_at": "2026-08-13T11:23:57Z",
-      "id": "8e9779aa6f2a2f799b8e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-12T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "technical relevance: VLM, reasoning"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "MindTopo reveals VLMs’ spatial reasoning abilities",
-      "url": "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities"
+      "title": "What We Learned by Reproducing 2,200 papers from ICML",
+      "url": "https://huggingface.co/blog/icml-2026-open-reproductions"
     },
     {
       "also_covered_by": [],
@@ -1286,44 +1199,15 @@
       "source_name": "Ars Technica AI",
       "title": "Terabytes of credentials leaked in massive supply-chain attack",
       "url": "https://arstechnica.com/security/2026/08/terabytes-of-credentials-leaked-in-massive-supply-chain-attack"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "August 12, 2026",
-      "event_cluster_id": "503d2ff076e3",
-      "fetched_at": "2026-08-13T11:23:57Z",
-      "id": "503d2ff076e3c25ffdc5",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/KnowledgeProfiling1_Overview.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-12T00:00:00Z",
-      "research_track": "",
-      "score": 6,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "August 12, 2026 Empty shelves or lost keys? Recall is the bottleneck for parametric factuality Generative AI · Natural Language Processing",
-      "url": "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality"
     }
   ],
-  "date_label": "Thursday, August 13, 2026",
-  "generated_at": "2026-08-13T11:23:57Z",
+  "date_label": "Friday, August 14, 2026",
+  "generated_at": "2026-08-14T00:40:25Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
     "fetched_items": 199,
-    "retained_items": 39,
+    "retained_items": 36,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
