@@ -35,6 +35,7 @@
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anna Heim"
       ],
@@ -44,10 +45,10 @@
       ],
       "description": "The idea that GPUs are poorly suited for agentic workflows may be a misconception, according to French startup Kog.",
       "event_cluster_id": "79f9db340c9b",
-      "fetched_at": "2026-08-14T23:54:18Z",
+      "fetched_at": "2026-08-15T04:58:44Z",
       "id": "79f9db340c9be8f4b85c",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-08-14T14:50:11Z",
@@ -110,37 +111,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "DeepSeek V4 Pro 0813 (on OpenRouter) The latest DeepSeek Pro model is now available, via API only. I had to link to OpenRouter because DeepSeek don't have any obvious announcement page for their new model. I haven't been able to confirm...",
-      "event_cluster_id": "af87c1f98b4c",
-      "fetched_at": "2026-08-13T00:10:17Z",
-      "id": "af87c1f98b4ce7bda274",
-      "image_url": "https://static.simonwillison.net/static/2026/deepseek-pro-low.png",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-12T23:59:23Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "DeepSeek V4 Pro 0813 (on OpenRouter)",
-      "url": "https://simonwillison.net/2026/Aug/12/deepseek-v4-pro-0813"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Rebecca Bellan"
       ],
@@ -172,6 +142,39 @@
       "source_name": "TechCrunch AI",
       "title": "The AI safety test is becoming a safety risk",
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
+      "event_cluster_id": "847e04a73596",
+      "fetched_at": "2026-08-13T11:23:57Z",
+      "id": "847e04a735969f84f125",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-12T14:20:33Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "research relevance: PET",
+        "startup/product signal: Series A"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
+      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026"
     },
     {
       "also_covered_by": [],
@@ -291,7 +294,7 @@
       ],
       "description": "Clinical intelligence requires estimating a patient's underlying condition from incomplete observations rather than learning isolated mappings from scans to answers. Volumetric medical images provide dense observations of anatomy,...",
       "event_cluster_id": "f64341b8e074",
-      "fetched_at": "2026-08-14T23:54:18Z",
+      "fetched_at": "2026-08-15T04:58:44Z",
       "id": "f64341b8e074ba42fc6f",
       "image_url": "",
       "is_breaking": false,
@@ -317,42 +320,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Zhi Qiao",
-        "Xintong Wu",
-        "Yichu He",
-        "Feng Shi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.12689v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Multi-parametric magnetic resonance imaging (mpMRI) is a cornerstone for brain tumor diagnosis and treatment, yet current AI models face critical limitations: their lack of natural language interaction and interpretability impedes...",
-      "event_cluster_id": "3492bb93e6da",
-      "fetched_at": "2026-08-14T23:54:18Z",
-      "id": "3492bb93e6daeb315cc2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-13T01:12:34Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: MRI",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Mr3D-VL: A generalist vision language foundation model for Multiparametric 3D Magnetic Resonance Imaging",
-      "url": "https://arxiv.org/abs/2608.12689v1"
-    },
-    {
-      "authors": [
         "Theresa Loconsolo"
       ],
       "canonical_url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone",
@@ -361,7 +328,7 @@
       ],
       "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a..",
       "event_cluster_id": "23be1c8a10c0",
-      "fetched_at": "2026-08-14T23:54:18Z",
+      "fetched_at": "2026-08-15T04:58:44Z",
       "id": "23be1c8a10c016b60ce6",
       "image_url": "",
       "is_breaking": false,
@@ -384,6 +351,7 @@
       "url": "https://techcrunch.com/video/does-mark-zuckerberg-really-believe-ai-is-for-everyone"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Theresa Loconsolo, Kirsten Korosec, Anthony Ha, Rebecca Bellan"
       ],
@@ -393,7 +361,7 @@
       ],
       "description": "Meta released Glimmer this week, an open-weight AI model anyone can download and run on their own hardware — a contrast to Muse Spark, the company’s more powerful model that stays locked behind its own APIs. The release landed alongside a..",
       "event_cluster_id": "297d6cc2d693",
-      "fetched_at": "2026-08-14T23:54:18Z",
+      "fetched_at": "2026-08-15T04:58:44Z",
       "id": "297d6cc2d693633af177",
       "image_url": "",
       "is_breaking": false,
@@ -451,6 +419,71 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
       "url": "https://arxiv.org/abs/2608.13517v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
+      "event_cluster_id": "bb6f398a0e84",
+      "fetched_at": "2026-08-11T11:24:48Z",
+      "id": "bb6f398a0e840e936bd6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-10T12:00:00Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: chip",
+        "startup/product signal: raised"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
+      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips"
+    },
+    {
+      "authors": [
+        "ksec"
+      ],
+      "canonical_url": "https://rubyonrails.org/2026/8/12/llm-benchmarking-project",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f20da07924ca",
+      "fetched_at": "2026-08-15T04:58:44Z",
+      "id": "hn-49307720",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-15T04:47:24Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Agents on Rails: The LLM Benchmark Project",
+      "url": "https://rubyonrails.org/2026/8/12/llm-benchmarking-project"
     },
     {
       "authors": [
@@ -517,6 +550,39 @@
       "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed"
     },
     {
+      "authors": [
+        "ferryth"
+      ],
+      "canonical_url": "https://www.phoronix.com/news/Comma.ai-PCIe-Gen4-USB4-Dock",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "c356eb1334ba",
+      "fetched_at": "2026-08-15T04:58:44Z",
+      "id": "hn-49307562",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-15T04:11:26Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: launch, open-source",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Comma.ai Launches a PCIe Gen4 X4 to USB4 Dock with Open-Source Firmware",
+      "url": "https://www.phoronix.com/news/Comma.ai-PCIe-Gen4-USB4-Dock"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate",
       "cluster_sources": [
@@ -545,70 +611,7 @@
       "url": "https://simonwillison.net/2026/Aug/14/dont-classify-hallucinate"
     },
     {
-      "authors": [
-        "felipemayamuniz"
-      ],
-      "canonical_url": "https://www.aletheionagi.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "3a8fa827de34",
-      "fetched_at": "2026-08-14T23:54:18Z",
-      "id": "hn-49303499",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-14T19:28:17Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: AletheionAGI – Grounding enforcement for AI agents",
-      "url": "https://www.aletheionagi.com"
-    },
-    {
-      "authors": [
-        "lajosdeme"
-      ],
-      "canonical_url": "https://github.com/lajosdeme/mole",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5a94dd163bfb",
-      "fetched_at": "2026-08-14T23:54:18Z",
-      "id": "hn-49303046",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-14T18:52:48Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Mole – Deep research agent for your terminal",
-      "url": "https://github.com/lajosdeme/mole"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "Jamie John"
       ],
@@ -618,7 +621,7 @@
       ],
       "description": "US groups release cheaper models after new challenges to their trillion-dollar ambitions.",
       "event_cluster_id": "4bc8b8918301",
-      "fetched_at": "2026-08-14T23:54:18Z",
+      "fetched_at": "2026-08-15T04:58:44Z",
       "id": "4bc8b89183018b7cdf4a",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2285566787-500x500.jpg",
       "is_breaking": false,
@@ -670,6 +673,7 @@
       "url": "https://www.latent.space/p/ainews-gemini-37-flash-brings-gdm"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/state-of-open-models-summer-2026",
       "cluster_sources": [
@@ -956,35 +960,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "AI teammate category just had its most significant new entrant yet",
-      "event_cluster_id": "4f97ae52728d",
-      "fetched_at": "2026-08-13T06:01:04Z",
-      "id": "4f97ae52728d37cafc3f",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!HIbH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2087221157787525120.jpg",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-13T01:53:47Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] SpaceXAI Grok 4.6 and Grok @Bot",
-      "url": "https://www.latent.space/p/ainews-spacexai-grok-46-and-grok"
-    },
-    {
-      "authors": [],
       "canonical_url": "https://www.anthropic.com/news/claude-text-watermark",
       "cluster_sources": [
         "Anthropic News"
@@ -1010,36 +985,6 @@
       "source_name": "Anthropic News",
       "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
       "url": "https://www.anthropic.com/news/claude-text-watermark"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "77e8863e4449",
-      "fetched_at": "2026-08-14T23:54:18Z",
-      "id": "77e8863e44497db238ca",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T00:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "major-event keyword: GPU, training"
-      ],
-      "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "FP8 Training on AMD GPUs with TorchTitan and TorchAO: Upstreaming Performance Improvements",
-      "url": "https://pytorch.org/blog/fp8-training-on-amd-gpus-with-torchtitan-and-torchao-upstreaming-performance-improvements"
     },
     {
       "also_covered_by": [],
@@ -1109,83 +1054,15 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
       "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Xiang Guan",
-        "Roger D. Newman-Norlund",
-        "Yong Yang",
-        "Saeed Ahmadi",
-        "Regan Willis",
-        "Nadra Salman",
-        "Kalil Warren",
-        "Srihari Nelakuditi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.12717v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Mechanistic interpretability of large language models lacks spatially resolved, falsifiable tools for testing whether internal components are specialized for distinct cognitive operations. We adapt subtraction analysis, the standard...",
-      "event_cluster_id": "9b0e4f2d0b9f",
-      "fetched_at": "2026-08-14T23:54:18Z",
-      "id": "9b0e4f2d0b9f450f9e05",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T02:02:05Z",
-      "research_track": "medical_neuroimaging",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Perturbation-based Regional Interpretability through Subtraction Mapping (PRISM): naming-error dissociations in language models and post-stroke aphasia",
-      "url": "https://arxiv.org/abs/2608.12717v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/icml-2026-open-reproductions",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "57f8b7f378e9",
-      "fetched_at": "2026-08-14T23:54:18Z",
-      "id": "57f8b7f378e9c39afee2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "What We Learned by Reproducing 2,200 papers from ICML",
-      "url": "https://huggingface.co/blog/icml-2026-open-reproductions"
     }
   ],
   "date_label": "Saturday, August 15, 2026",
-  "generated_at": "2026-08-14T23:54:18Z",
+  "generated_at": "2026-08-15T04:58:44Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 201,
-    "retained_items": 35,
+    "fetched_items": 203,
+    "retained_items": 31,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
