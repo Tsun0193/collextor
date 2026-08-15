@@ -153,6 +153,41 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Saman Rahbar"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.10295v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Frozen foundation-model (FM) embeddings are increasingly used as off-the-shelf brain-MRI representations, on the assumption that they capture anatomy. We audit what they actually encode and find that acquisition site is a large,...",
+      "event_cluster_id": "c1bc5870a37e",
+      "fetched_at": "2026-08-12T11:24:56Z",
+      "id": "c1bc5870a37e23b84b88",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-10T23:03:21Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model, acquisition",
+        "research relevance: MRI",
+        "technical relevance: foundation model",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Frozen Brain-MRI Foundation Models Are Site Fingerprints",
+      "url": "https://arxiv.org/abs/2608.10295v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk",
@@ -183,39 +218,6 @@
       "source_name": "TechCrunch AI",
       "title": "The AI safety test is becoming a safety risk",
       "url": "https://techcrunch.com/2026/08/09/the-ai-safety-test-is-becoming-a-safety-risk"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lauren Forristal"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-      "event_cluster_id": "847e04a73596",
-      "fetched_at": "2026-08-13T11:23:57Z",
-      "id": "847e04a735969f84f125",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-12T14:20:33Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "research relevance: PET",
-        "startup/product signal: Series A"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-      "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026"
     },
     {
       "also_covered_by": [],
@@ -252,70 +254,68 @@
       "url": "https://github.com/workofart/harness-training"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Russell Brandom"
+        "Anthony Ha"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs",
+      "canonical_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Built as a post-training variation on Z.ai's open source model GLM-5.2, Writer says the new system should provide deployment-ready capabilities at a much lower price.",
-      "event_cluster_id": "738b25361089",
-      "fetched_at": "2026-08-14T00:40:25Z",
-      "id": "738b25361089d8094578",
+      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
+      "event_cluster_id": "4c2801492334",
+      "fetched_at": "2026-08-15T23:50:57Z",
+      "id": "4c2801492334bd061e10",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-13T21:13:24Z",
+      "published_at": "2026-08-15T16:30:00Z",
       "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model, open source, training",
-        "startup/product signal: open source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Writer introduces new AI model and upgraded harness to contain token costs",
-      "url": "https://techcrunch.com/2026/08/13/writer-introduces-new-ai-model-and-upgraded-harness-to-contain-token-costs"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Anthropic researchers found AI agents can clash, collude, and coordinate in unexpected ways, raising new questions about whether today’s safety tests capture the risks of multi-agent systems.",
-      "event_cluster_id": "647c46da607a",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "647c46da607af06e7c2b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-13T18:28:14Z",
-      "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: safety",
-        "technical relevance: agent"
+        "major-event keyword: acquisition",
+        "startup/product signal: startup, acquisition"
       ],
-      "section": "ai_engineering",
+      "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Anthropic set AI agents loose on the same task. They started a turf war.",
-      "url": "https://techcrunch.com/2026/08/13/anthropic-set-ai-agents-loose-on-the-same-task-they-started-a-turf-war"
+      "title": "SpaceX officially closes its Cursor acquisition",
+      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition"
+    },
+    {
+      "authors": [
+        "Richard MacManus"
+      ],
+      "canonical_url": "https://www.latent.space/p/flue-2",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
+      "event_cluster_id": "8a940043da46",
+      "fetched_at": "2026-08-15T23:50:57Z",
+      "id": "8a940043da46a71f0edf",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Osie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F131d402d-63bf-4895-b5e7-b8990972a14c_1280x720.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-08-15T15:46:22Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
+      "url": "https://www.latent.space/p/flue-2"
     },
     {
       "also_covered_by": [],
@@ -423,6 +423,85 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Ankita Rajaram Naik",
+        "Anupama Murthi",
+        "Benjamin Elder",
+        "Siyu Huo",
+        "Raavi Gupta",
+        "Abhinav Jain",
+        "Praveen Venkateswaran",
+        "Abdulhamid Adebayo"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.12282v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and...",
+      "event_cluster_id": "89abbce62db5",
+      "fetched_at": "2026-08-13T11:23:57Z",
+      "id": "89abbce62db52680fe5c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-12T17:27:27Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: agent, reasoning",
+        "startup/product signal: API"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
+      "url": "https://arxiv.org/abs/2608.12282v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Wenrui Bao",
+        "Tianyun Jiang",
+        "Zhiben Chen",
+        "Ser-Nam Lim",
+        "Peter D. Peng",
+        "Yuzhang Shang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.11204v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical...",
+      "event_cluster_id": "dd81a324a8fb",
+      "fetched_at": "2026-08-12T11:24:56Z",
+      "id": "dd81a324a8fb6fc63d8f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-11T17:59:13Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: PET"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "url": "https://arxiv.org/abs/2608.11204v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Tim Fernholz"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
@@ -518,54 +597,22 @@
       "url": "https://kylejeong.com/inference-balls"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Lucas Ropek"
+        "httbs"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI is launching a preview of a sped up version of its latest, most powerful model, in an effort to court enterprise users.",
-      "event_cluster_id": "d796dd4f41b1",
-      "fetched_at": "2026-08-14T00:40:25Z",
-      "id": "d796dd4f41b1239bb3cf",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T19:22:40Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI introduces ‘Ultrafast,’ a new mode that makes GPT-5.6 Sol work at 14x the speed",
-      "url": "https://techcrunch.com/2026/08/13/openai-introduces-ultrafast-a-new-mode-that-makes-gpt-5-6-sol-work-at-14x-the-speed"
-    },
-    {
-      "authors": [
-        "lahfir"
-      ],
-      "canonical_url": "https://github.com/lahfir/agent-desktop/tree/main",
+      "canonical_url": "https://github.com/sebastiancarlos/snafu",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "8cc3ee2c5c40",
-      "fetched_at": "2026-08-15T10:53:35Z",
-      "id": "hn-49307819",
+      "event_cluster_id": "1e9ba14c8527",
+      "fetched_at": "2026-08-15T23:50:57Z",
+      "id": "hn-49315282",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-15T05:07:25Z",
+      "published_at": "2026-08-15T23:30:54Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
@@ -578,8 +625,8 @@
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: I spent 3 months making desktop automation stop lying to AI agents",
-      "url": "https://github.com/lahfir/agent-desktop/tree/main"
+      "title": "Show HN: Snafu: Agentic flow to help you with \"naming things\" in source code",
+      "url": "https://github.com/sebastiancarlos/snafu"
     },
     {
       "also_covered_by": [],
@@ -613,6 +660,38 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Turning off this setting won't affect invisible benchmarks used to identify an AI generated file.",
+      "event_cluster_id": "db35a37005ef",
+      "fetched_at": "2026-08-15T10:53:35Z",
+      "id": "db35a37005ef6ed0684d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-14T16:13:40Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: benchmark"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google will now allow users to remove visible watermark from its AI generations",
+      "url": "https://techcrunch.com/2026/08/14/google-will-now-allow-users-to-remove-visible-watermark-from-its-ai-generations"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Jamie John"
       ],
       "canonical_url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground",
@@ -641,6 +720,38 @@
       "source_name": "Ars Technica AI",
       "title": "OpenAI and Anthropic in price war as Chinese AI rivals gain ground",
       "url": "https://arstechnica.com/ai/2026/08/openai-and-anthropic-in-price-war-as-chinese-ai-rivals-gain-ground"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Tim De Chant"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
+      "event_cluster_id": "72878d74ff8a",
+      "fetched_at": "2026-08-15T10:53:35Z",
+      "id": "72878d74ff8ad162a6a6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-14T14:05:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
+      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct"
     },
     {
       "also_covered_by": [],
@@ -704,261 +815,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "MIT Technology Review"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing...",
-      "event_cluster_id": "5813e5866973",
-      "fetched_at": "2026-08-14T00:40:25Z",
-      "id": "5813e5866973eeb0b626",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-13T21:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "startup/product signal: API"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yaxin Luo",
-        "Haobin Jiang",
-        "Jialv Zou",
-        "Xu Huang",
-        "Wenhao Yan",
-        "Haodong Li",
-        "Zhengrong Yue",
-        "Jing Li"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.13560v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Transforming multimodal sources into condensed and structured media outputs can be fundamentally conceptualized as a long-horizon agentic process centered on a model-harness system. While an ideal harness system should align with human...",
-      "event_cluster_id": "f3bdbd4bba52",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "f3bdbd4bba52ffe42f67",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T17:59:57Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
-      "url": "https://arxiv.org/abs/2608.13560v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Bobo Li",
-        "Hao Fei",
-        "Tianjie Ju",
-        "Mong-Li Lee",
-        "Wynne Hsu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.13558v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Recent advances in foundation models have enabled AI scientists to automate increasingly complete research workflows, from hypothesis generation and code execution to manuscript preparation. Yet workflow coverage alone does not provide...",
-      "event_cluster_id": "0c0691567cb1",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "0c0691567cb12b58c555",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T17:59:52Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model, RAG"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
-      "url": "https://arxiv.org/abs/2608.13558v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kaixin Ding",
-        "Xi Chen",
-        "Minghong Cai",
-        "Zhiyuan Xu",
-        "Yiyang Wang",
-        "Yuxiang Lu",
-        "Junyi Li",
-        "Shuyang Chen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.13552v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Video world models simulate future states conditioned on current observations and user actions. Recent systems have demonstrated impressive video consistency and action controllability over long sequences. However, fairly comparing these...",
-      "event_cluster_id": "ecc9d9113bfb",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "ecc9d9113bfb8bb43831",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T17:59:30Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
-      "url": "https://arxiv.org/abs/2608.13552v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Shangao Li",
-        "Yao Zhang",
-        "Volker Tresp",
-        "Yuanyuan Yang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.13547v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "LLM coding agents issue Bash commands through interfaces that may serialize, wrap, and reparse model output. Matched execution scores alone cannot distinguish command-generation errors from failures introduced after generation....",
-      "event_cluster_id": "8114f6e20588",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "8114f6e20588b0dc1e6e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T17:57:20Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "QuoteBench: How Matched Scores Can Hide Command-Path Failures",
-      "url": "https://arxiv.org/abs/2608.13547v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lei Bai",
-        "Jiaqi Cao",
-        "Chiyu Chen",
-        "Guanzhou Chen",
-        "Kai Chen",
-        "Guangran Cheng",
-        "Erfei Cui",
-        "Xuanlang Dai"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.13505v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Scientific discovery increasingly requires AI systems that can reason over scientific evidence of heterogeneous modalities, interact with scientific tools and environments, and sustain progress across long task horizons. We present...",
-      "event_cluster_id": "b6b5fc94f8fe",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "b6b5fc94f8fe3d8f9668",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T17:31:28Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model, agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
-      "url": "https://arxiv.org/abs/2608.13505v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "353217afc4f7",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "353217afc4f706b5339d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T17:16:04Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent, RAG"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Record, train, and deploy from one place with Strands Agents, LeRobot, and Hugging Face Storage Buckets",
-      "url": "https://huggingface.co/blog/amazon/strands-lerobot-streaming-data-loop"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/claude-text-watermark",
       "cluster_sources": [
@@ -985,84 +841,15 @@
       "source_name": "Anthropic News",
       "title": "Aug 14, 2026 Announcements How Claude’s text watermark works",
       "url": "https://www.anthropic.com/news/claude-text-watermark"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yunsung Chung",
-        "Yingshuo Liu",
-        "Abboud F. Hassan",
-        "Han Feng",
-        "Mary M. Maleckar",
-        "Nassir Marrouche",
-        "Jihun Hamm"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.13518v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Many clinical prediction models treat post-intervention outcomes as a one-step mapping from baseline measurements to a future endpoint. However, recovery after a procedure often unfolds as an irregular trajectory: clinical observations,...",
-      "event_cluster_id": "f648866148cb",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "f648866148cb7cb24267",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-13T17:38:13Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Intervention-Aware Clinical World Model for Post-Op Outcome Forecasting in Cardiology",
-      "url": "https://arxiv.org/abs/2608.13518v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors...",
-      "event_cluster_id": "a71281b97d71",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "a71281b97d710c391412",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-13T12:10:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "url": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice"
     }
   ],
-  "date_label": "Saturday, August 15, 2026",
-  "generated_at": "2026-08-15T10:53:35Z",
+  "date_label": "Sunday, August 16, 2026",
+  "generated_at": "2026-08-15T23:50:57Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
     "fetched_items": 200,
-    "retained_items": 31,
+    "retained_items": 25,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
