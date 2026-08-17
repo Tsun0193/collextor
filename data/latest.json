@@ -35,6 +35,37 @@
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "No GPUs, no Agents, just really, really, really good infra and distribution.",
+      "event_cluster_id": "d68239847d75",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "d68239847d75e067ab5c",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/QHBjufYK8TA",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-08-17T23:13:41Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: GPU",
+        "technical relevance: agent",
+        "long-read source"
+      ],
+      "section": "business_policy",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Stripe buys OpenRouter for $7B",
+      "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Wafa Al Ghallabi",
@@ -117,39 +148,37 @@
       "url": "https://arxiv.org/abs/2608.11076v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Saman Rahbar"
+        "couldbeme_"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.10295v1",
+      "canonical_url": "https://github.com/couldbeme/holdline",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Hacker News"
       ],
-      "description": "Frozen foundation-model (FM) embeddings are increasingly used as off-the-shelf brain-MRI representations, on the assumption that they capture anatomy. We audit what they actually encode and find that acquisition site is a large,...",
-      "event_cluster_id": "c1bc5870a37e",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "c1bc5870a37e23b84b88",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "7e8be5a0a9bb",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "hn-49338963",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-10T23:03:21Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
+      "published_at": "2026-08-17T23:11:48Z",
+      "research_track": "",
+      "score": 17,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
-        "major-event keyword: model, acquisition",
-        "research relevance: MRI",
-        "technical relevance: foundation model",
-        "startup/product signal: acquisition"
+        "published within 6 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Frozen Brain-MRI Foundation Models Are Site Fingerprints",
-      "url": "https://arxiv.org/abs/2608.10295v1"
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
+      "url": "https://github.com/couldbeme/holdline"
     },
     {
       "also_covered_by": [],
@@ -218,68 +247,104 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Anthony Ha"
+        "Yunhao Bai",
+        "Zhongwei Qiu",
+        "Guangyu Guo",
+        "Yiming Huang",
+        "Tony C. W. Mok",
+        "Qinji Yu",
+        "Ling Zhang",
+        "Yan Wang"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition",
+      "canonical_url": "https://arxiv.org/abs/2608.12904v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "AI coding startup Cursor is now officially a part of SpaceX.",
-      "event_cluster_id": "4c2801492334",
-      "fetched_at": "2026-08-16T10:53:36Z",
-      "id": "4c2801492334bd061e10",
+      "description": "Clinical intelligence requires estimating a patient's underlying condition from incomplete observations rather than learning isolated mappings from scans to answers. Volumetric medical images provide dense observations of anatomy,...",
+      "event_cluster_id": "f64341b8e074",
+      "fetched_at": "2026-08-15T04:58:44Z",
+      "id": "f64341b8e074ba42fc6f",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-15T16:30:00Z",
+      "published_at": "2026-08-13T07:41:14Z",
+      "research_track": "medical_neuroimaging",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: multimodal"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation",
+      "url": "https://arxiv.org/abs/2608.12904v1"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
+      "event_cluster_id": "d3491d6f12c5",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "d3491d6f12c50e39d397",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-17T16:15:12Z",
       "research_track": "",
       "score": 16,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: acquisition",
-        "startup/product signal: startup, acquisition"
+        "major-event keyword: chip, data center",
+        "startup/product signal: raised"
       ],
-      "section": "startup_product",
+      "section": "business_policy",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "SpaceX officially closes its Cursor acquisition",
-      "url": "https://techcrunch.com/2026/08/15/spacex-officially-closes-its-cursor-acquisition"
+      "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
+      "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Richard MacManus"
-      ],
-      "canonical_url": "https://www.latent.space/p/flue-2",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
       "cluster_sources": [
-        "Latent Space"
+        "Simon Willison"
       ],
-      "description": "Flue 2 takes its inspiration from React. Creator Fred Schott, of Astro fame, tells Latent Space why he added hooks and why agents are defined by their harnesses.",
-      "event_cluster_id": "8a940043da46",
-      "fetched_at": "2026-08-16T10:53:36Z",
-      "id": "8a940043da46a71f0edf",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!Osie!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F131d402d-63bf-4895-b5e7-b8990972a14c_1280x720.png",
+      "description": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from...",
+      "event_cluster_id": "80605906fea6",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "80605906fea60f1ed8c1",
+      "image_url": "https://static.simonwillison.net/static/2026-08-17/IMG_7418.jpeg",
       "is_breaking": false,
-      "is_long_read": true,
+      "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-15T15:46:22Z",
+      "published_at": "2026-08-17T15:21:29Z",
       "research_track": "",
       "score": 16,
       "score_reasons": [
-        "high source",
+        "critical source",
         "published within 24 hours",
-        "technical relevance: agent",
-        "long-read source"
+        "major-event keyword: training"
       ],
       "section": "ai_engineering",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "React for Agents: Astro Creator Brings Hooks to his Meta-Harness, Flue",
-      "url": "https://www.latent.space/p/flue-2"
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
+      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra"
     },
     {
       "also_covered_by": [],
@@ -398,37 +463,160 @@
       "url": "https://arxiv.org/abs/2608.11204v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Tim Fernholz"
+        "akshayl284"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips",
+      "canonical_url": "https://forklane.ai",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Hacker News"
       ],
-      "description": "Discovered Materials raised $9 million to fund the hunt for more novel materials to build more efficient chips.",
-      "event_cluster_id": "bb6f398a0e84",
-      "fetched_at": "2026-08-11T11:24:48Z",
-      "id": "bb6f398a0e840e936bd6",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a08868ad00c2",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "hn-49339145",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-10T12:00:00Z",
+      "is_must_read": false,
+      "published_at": "2026-08-17T23:33:00Z",
       "research_track": "",
-      "score": 16,
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: A multiplayer coding environment for dev teams and agents",
+      "url": "https://forklane.ai"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "\"We have some really ambitious plans to help you work with AI in Chrome to get things done, and I’ll have more to share soon,\" Jacob Bank, Relay founder and CEO, said.",
+      "event_cluster_id": "65be739f4b8b",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "65be739f4b8bdbbb5b91",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T21:27:05Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AI automation startup Relay shuts down, staff joins Google’s Chrome team",
+      "url": "https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team"
+    },
+    {
+      "authors": [
+        "Amanda Silberling"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
+      "event_cluster_id": "da17ceef305c",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "da17ceef305c5eba8c3c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T16:38:44Z",
+      "research_track": "",
+      "score": 14,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: chip",
-        "startup/product signal: raised"
+        "major-event keyword: model, training"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
+      "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models"
+    },
+    {
+      "authors": [
+        "Tim De Chant"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
+      "event_cluster_id": "edd24dd0fb80",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "edd24dd0fb800932eb26",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T15:16:24Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: chip, data center"
       ],
       "section": "business_policy",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Discovered Materials is playing AI whack-a-mole to hunt cooler chips",
-      "url": "https://techcrunch.com/2026/08/10/discovered-materials-is-playing-ai-whack-a-mole-to-hunt-cooler-chips"
+      "title": "Nvidia investing $1.5B in SoftBank data center developer behind OpenAI project",
+      "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
+      "event_cluster_id": "c7de0ac22c0c",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "c7de0ac22c0c4ca36afa",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T13:10:05Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: release, released"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Wispr raises $280M at $2B valuation as it looks beyond dictation",
+      "url": "https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation"
     },
     {
       "also_covered_by": [],
@@ -496,136 +684,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "eventuallyacat"
-      ],
-      "canonical_url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0a53672abc69",
-      "fetched_at": "2026-08-16T10:53:36Z",
-      "id": "hn-49318128",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-16T08:40:50Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Grafana agent observability for Hermes Agent",
-      "url": "https://github.com/alexander-akhmetov/grafana-agento11y-hermes"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "httbs"
-      ],
-      "canonical_url": "https://github.com/sebastiancarlos/snafu",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "1e9ba14c8527",
-      "fetched_at": "2026-08-16T05:02:24Z",
-      "id": "hn-49315282",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-15T23:30:54Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Snafu: Agentic flow to help you with \"naming things\" in source code",
-      "url": "https://github.com/sebastiancarlos/snafu"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Tim De Chant"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Natural gas prices could triple in some parts of the U.S., which could saddle hyperscalers with massive bills to power their AI data centers.",
-      "event_cluster_id": "72878d74ff8a",
-      "fetched_at": "2026-08-15T10:53:35Z",
-      "id": "72878d74ff8ad162a6a6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-14T14:05:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Hyperscalers might regret embracing natural gas if new forecast proves correct",
-      "url": "https://techcrunch.com/2026/08/14/hyperscalers-might-regret-embracing-natural-gas-if-new-forecast-proves-correct"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "MIT Technology Review"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Listen to the session or watch below The “censorship-industrial complex” is an idea that a network of government, tech, and research groups is collaborating to suppress conservative online speech. This was fodder for the right-wing...",
-      "event_cluster_id": "5813e5866973",
-      "fetched_at": "2026-08-14T00:40:25Z",
-      "id": "5813e5866973eeb0b626",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-13T21:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "startup/product signal: API"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Roundtables: Inside the “Censorship-Industrial Complex” Idea Shaping US Policy",
-      "url": "https://www.technologyreview.com/2026/08/13/1141399/roundtables-inside-the-censorship-industrial-complex-idea-shaping-us-policy"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/16/dario-amodei",
       "cluster_sources": [
@@ -652,6 +710,64 @@
       "source_name": "Simon Willison",
       "title": "Quoting Dario Amodei",
       "url": "https://simonwillison.net/2026/Aug/16/dario-amodei"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "bf50ec5ce617",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "bf50ec5ce617ac83f0c8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T19:46:21Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
+      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+    },
+    {
+      "authors": [
+        "James O'Donnell"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers...",
+      "event_cluster_id": "fbada8194902",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "fbada8194902f18edefd",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-17T19:16:09Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "What Flock’s defenders are missing",
+      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing"
     },
     {
       "also_covered_by": [],
@@ -685,106 +801,41 @@
       "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery",
+      "authors": [],
+      "canonical_url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Google Research Blog"
       ],
-      "description": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
-      "event_cluster_id": "f939cd824404",
-      "fetched_at": "2026-08-15T23:50:57Z",
-      "id": "f939cd8244044d7aab10",
-      "image_url": "",
+      "description": "August 17, 2026",
+      "event_cluster_id": "f987f9773744",
+      "fetched_at": "2026-08-17T23:52:58Z",
+      "id": "f987f977374481b4c327",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhotoScanIR_Overview.png",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-15T21:29:19Z",
+      "published_at": "2026-08-17T00:00:00Z",
       "research_track": "",
-      "score": 12,
+      "score": 8,
       "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Woman claims her stepfather used Grok to transform childhood photo into explicit imagery",
-      "url": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "How will the watermarking actually work? Can it be hidden with editing? And how does this affect code?",
-      "event_cluster_id": "b89f894a66c0",
-      "fetched_at": "2026-08-15T23:50:57Z",
-      "id": "b89f894a66c0374e393e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-15T18:58:39Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic shares more details about how Claude’s new watermarks will work",
-      "url": "https://techcrunch.com/2026/08/15/anthropic-shares-more-details-about-how-claudes-new-watermarks-will-work"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Dario Amodei is pushing back against the idea that he's been painting an overly pessimistic picture of AI.",
-      "event_cluster_id": "c132c1e1c64d",
-      "fetched_at": "2026-08-17T10:59:51Z",
-      "id": "c132c1e1c64dad92108c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-16T16:53:51Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
-      "url": "https://techcrunch.com/2026/08/16/anthropic-ceo-says-ai-backlash-is-fundamentally-a-crisis-of-trust"
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "August 17, 2026 Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery General Science · Health & Bioscience · Machine Intelligence",
+      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery"
     }
   ],
-  "date_label": "Monday, August 17, 2026",
-  "generated_at": "2026-08-17T10:59:51Z",
+  "date_label": "Tuesday, August 18, 2026",
+  "generated_at": "2026-08-17T23:52:58Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 197,
-    "retained_items": 23,
+    "fetched_items": 206,
+    "retained_items": 25,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
