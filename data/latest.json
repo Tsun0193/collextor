@@ -35,6 +35,7 @@
       "url": "https://techcrunch.com/2026/08/12/as-ai-safety-concerns-mount-three-pioneers-make-the-case-for-staying-open"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
       "cluster_sources": [
@@ -42,7 +43,7 @@
       ],
       "description": "No GPUs, no Agents, just really, really, really good infra and distribution.",
       "event_cluster_id": "d68239847d75",
-      "fetched_at": "2026-08-17T23:52:58Z",
+      "fetched_at": "2026-08-18T05:03:54Z",
       "id": "d68239847d75e067ab5c",
       "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/QHBjufYK8TA",
       "is_breaking": true,
@@ -66,88 +67,87 @@
       "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Wafa Al Ghallabi",
-        "Ritesh Thawkar",
-        "Sara Ghaboura",
-        "Omkar Thawakar",
-        "Numan Saeed",
-        "Dana Al Nuaimi",
-        "Ajnas Alkatheeri",
-        "Salman Khan"
+        "J. Raphael Schäfer",
+        "Kai Geissler",
+        "Till Nicke",
+        "Chiara Tappermann",
+        "Karoline Heber",
+        "Eike Petersen",
+        "Habib Mergan",
+        "Lars Ole Schwen"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.13309v1",
+      "canonical_url": "https://arxiv.org/abs/2608.16268v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Magnetic Resonance Imaging (MRI) interpretation is fundamental to clinical decision-making, requiring radiologists to integrate multi-view anatomical planes across sequential timepoints while precisely localizing interval changes....",
-      "event_cluster_id": "f453e4ddb445",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "f453e4ddb44581c1a88a",
+      "description": "Medical foundation models improve generalization when training AI models with limited labeled data, but remain confined to a single specialty, such as pathology or radiology, and to either sparse or dense outputs, such as classification...",
+      "event_cluster_id": "47903f7c9fc3",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "47903f7c9fc32dbcc164",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-13T14:35:20Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI",
-        "technical relevance: foundation model, reasoning"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "How Good are Foundation Models in Longitudinal MRI Disease Progression Reasoning?",
-      "url": "https://arxiv.org/abs/2608.13309v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Biratal Raj Wagle",
-        "Bashirul Azam Biswas",
-        "Grant Chau",
-        "Matthew E. Maeder",
-        "Muhammad Azeem Arshad",
-        "Michael S. Leapman",
-        "James B. Yu",
-        "Indrani Bhattacharya"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.11076v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Automated lesion segmentation in whole-body PET/CT imaging can assist clinicians with cancer detection, staging, and treatment planning across radiotracers and cancer types. However, training lesion segmentation models that capture...",
-      "event_cluster_id": "47df1c255ffc",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "47df1c255ffc5711a928",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-11T15:38:44Z",
+      "published_at": "2026-08-17T08:42:41Z",
       "research_track": "medical_neuroimaging",
       "score": 19,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
         "major-event keyword: model, training",
-        "research relevance: PET",
+        "research relevance: PET, medical image, medical foundation model",
         "technical relevance: foundation model"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Foundation Model-Enabled Efficient Data Sampling (FEEDS): A label-efficient training strategy for pan-cancer, multi-tracer PET/CT datasets",
-      "url": "https://arxiv.org/abs/2608.11076v1"
+      "title": "CoM$^3$eT: A foundation model for medical image analysis through federated, multidimensional context integration",
+      "url": "https://arxiv.org/abs/2608.16268v1"
     },
     {
+      "authors": [
+        "Siyuan Ma",
+        "Liang He",
+        "Mengying Zhu",
+        "Yi Chai",
+        "Mengyao Lyu",
+        "Haowei Wang",
+        "Qizhen Lan",
+        "HaoBo Sun"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16233v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Missing or degraded sequences can limit prostate multiparametric MRI. We developed MSCNet, a sequence-conditioned cross-modal generative framework for reconstructing unavailable contrasts and restoring degraded acquisitions. Across ten...",
+      "event_cluster_id": "752accb4c085",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "752accb4c085463ef905",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-17T08:11:25Z",
+      "research_track": "medical_neuroimaging",
+      "score": 18,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, acquisition",
+        "research relevance: MRI",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "A cross-modal generative model for incomplete and degraded prostate MRI with multicentre clinical validation",
+      "url": "https://arxiv.org/abs/2608.16233v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "couldbeme_"
       ],
@@ -157,7 +157,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "7e8be5a0a9bb",
-      "fetched_at": "2026-08-17T23:52:58Z",
+      "fetched_at": "2026-08-18T05:03:54Z",
       "id": "hn-49338963",
       "image_url": "",
       "is_breaking": false,
@@ -179,6 +179,49 @@
       "source_name": "Hacker News",
       "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
       "url": "https://github.com/couldbeme/holdline"
+    },
+    {
+      "also_covered_by": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "authors": [
+        "Jorge F. Lazo",
+        "Xixi Liu",
+        "Andreas Hallqvist",
+        "Mikael Johansson",
+        "Åse Johnsson",
+        "Jonas S. Andersson",
+        "Jennifer Alvén",
+        "Ida Häggström"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16832v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Lung nodule segmentation in computed tomography is essential for extracting clinically relevant information for lung cancer assessment and treatment planning. Foundation models have shown notable segmentation capabilities, but...",
+      "event_cluster_id": "c8bfc27257ad",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "c8bfc27257ad002b304d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T17:16:43Z",
+      "research_track": "medical_neuroimaging",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model",
+        "covered by multiple configured sources"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation",
+      "url": "https://arxiv.org/abs/2608.16832v1"
     },
     {
       "also_covered_by": [],
@@ -213,80 +256,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "0x142857"
-      ],
-      "canonical_url": "https://waku.sh",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0628e13b1869",
-      "fetched_at": "2026-08-16T05:02:24Z",
-      "id": "hn-49315709",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-16T00:38:44Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: GPU",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: I built a native app for coding agents with Rust and GPUI",
-      "url": "https://waku.sh"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yunhao Bai",
-        "Zhongwei Qiu",
-        "Guangyu Guo",
-        "Yiming Huang",
-        "Tony C. W. Mok",
-        "Qinji Yu",
-        "Ling Zhang",
-        "Yan Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.12904v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Clinical intelligence requires estimating a patient's underlying condition from incomplete observations rather than learning isolated mappings from scans to answers. Volumetric medical images provide dense observations of anatomy,...",
-      "event_cluster_id": "f64341b8e074",
-      "fetched_at": "2026-08-15T04:58:44Z",
-      "id": "f64341b8e074ba42fc6f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-13T07:41:14Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "HounsWorld: A Multimodal World Model for Hidden Patient-State Readout, Reconstruction, and Simulation",
-      "url": "https://arxiv.org/abs/2608.12904v1"
-    },
-    {
-      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud",
@@ -295,7 +264,7 @@
       ],
       "description": "Groq raised $350 million at a $3.5 billion valuation as the former AI chipmaker pivots to a neocloud business and expands its Nvidia-powered data center footprint.",
       "event_cluster_id": "d3491d6f12c5",
-      "fetched_at": "2026-08-17T23:52:58Z",
+      "fetched_at": "2026-08-18T05:03:54Z",
       "id": "d3491d6f12c50e39d397",
       "image_url": "",
       "is_breaking": false,
@@ -318,6 +287,44 @@
       "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud"
     },
     {
+      "authors": [
+        "Chiara Tappermann",
+        "Steffen Renisch",
+        "Lars Ole Schwen",
+        "Hans Meine",
+        "Horst K. Hahn",
+        "Eike Petersen"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16725v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Corrupted, inconsistent, or anomalous data silently threatens the safety and reliability of medical AI. Despite growing regulatory recognition of dataset quality assurance (QA) for high-risk medical AI, scalable automated detection...",
+      "event_cluster_id": "5abf417936a1",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "5abf417936a1c7f9ae5b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-17T15:40:58Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: safety",
+        "research relevance: MRI, PET"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI",
+      "url": "https://arxiv.org/abs/2608.16725v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
       "cluster_sources": [
@@ -325,7 +332,7 @@
       ],
       "description": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from...",
       "event_cluster_id": "80605906fea6",
-      "fetched_at": "2026-08-17T23:52:58Z",
+      "fetched_at": "2026-08-18T05:03:54Z",
       "id": "80605906fea60f1ed8c1",
       "image_url": "https://static.simonwillison.net/static/2026-08-17/IMG_7418.jpeg",
       "is_breaking": false,
@@ -347,120 +354,134 @@
       "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Peter Schneider-Kamp",
-        "Jacob Nielsen",
-        "Gianluca Barmina",
-        "Kenneth Enevoldsen",
-        "Lukas Galke Poech"
+        "Junqi Liu",
+        "Yufan He",
+        "Yexiao He",
+        "Pengfei Guo",
+        "Dong Yang",
+        "Andriy Myronenko",
+        "Can Zhao",
+        "Hanrong Ye"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.13517v1",
+      "canonical_url": "https://arxiv.org/abs/2608.16211v1",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Current large language model development relies on massive, often non-permissible datasets, creating a high barrier for researchers committed to open-source and ethically sourced data. We introduce Mimir v1, a 1-billion-parameter...",
-      "event_cluster_id": "d09037d0a09d",
-      "fetched_at": "2026-08-14T11:23:12Z",
-      "id": "d09037d0a09d8e64de7a",
+      "description": "Long-horizon agents are beginning to automate complete workflows that produce code, reports, and research artifacts. Medical imaging workflows are multi-stage and data-sensitive, while expert trajectories remain scarce and difficult to...",
+      "event_cluster_id": "d368bbe16c89",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "d368bbe16c893f4054f1",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-13T17:37:53Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-08-17T07:44:57Z",
+      "research_track": "medical_neuroimaging",
       "score": 16,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model, open-source, training",
-        "research relevance: PET"
+        "research relevance: medical imaging",
+        "technical relevance: agent"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data",
-      "url": "https://arxiv.org/abs/2608.13517v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "BaT: Towards Self-Evolving Medical Research Agent with Stage Rubrics",
+      "url": "https://arxiv.org/abs/2608.16211v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Ankita Rajaram Naik",
-        "Anupama Murthi",
-        "Benjamin Elder",
-        "Siyu Huo",
-        "Raavi Gupta",
-        "Abhinav Jain",
-        "Praveen Venkateswaran",
-        "Abdulhamid Adebayo"
+        "DarenWatson"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.12282v1",
+      "canonical_url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Hacker News"
       ],
-      "description": "Agents deployed in enterprise settings must reason across structured APIs and document collections, yet existing benchmarks evaluate these capabilities in isolation. We introduce VAKRA (e\\textbf{V}aluating \\textbf{A}PI and...",
-      "event_cluster_id": "89abbce62db5",
-      "fetched_at": "2026-08-13T11:23:57Z",
-      "id": "89abbce62db52680fe5c",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "865cee0f88e0",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "hn-49341271",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-12T17:27:27Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-08-18T04:30:11Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent, reasoning",
-        "startup/product signal: API"
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "VAKRA: Evaluating Multi-Hop Reasoning Across APIs and Retrieval Under Tool-Use Policies",
-      "url": "https://arxiv.org/abs/2608.12282v1"
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "DeepSeek-V4-Pro outperforms Fable 5 after fixing runtime inference control",
+      "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Wenrui Bao",
-        "Tianyun Jiang",
-        "Zhiben Chen",
-        "Ser-Nam Lim",
-        "Peter D. Peng",
-        "Yuzhang Shang"
+        "Marina Temkin"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.11204v1",
+      "canonical_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "TechCrunch AI"
       ],
-      "description": "Learning reliable surgical manipulation policies is bottlenecked by the scarcity of action-labeled demonstrations: teleoperated surgical robot (e.g., dVRK) trajectories with synchronized kinematics are costly to collect, while surgical...",
-      "event_cluster_id": "dd81a324a8fb",
-      "fetched_at": "2026-08-12T11:24:56Z",
-      "id": "dd81a324a8fb6fc63d8f",
+      "description": "The model maker added $18 billion in annualized revenue in two months.",
+      "event_cluster_id": "2b3016495e0d",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "2b3016495e0d30c12085",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-11T17:59:13Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-08-17T23:56:26Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET"
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
-      "url": "https://arxiv.org/abs/2608.11204v1"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic’s annualized revenue surges to $65B",
+      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index That's the same score as GPT-5.6 Luna (max), and just one point behind GLM-5.2 (max) and DeepSeek V4 Pro 0813 (max) - that GLM is 753B and that DeepSeek is 1.6B...",
+      "event_cluster_id": "4fdeab7a66fc",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "4fdeab7a66fc6733dfa4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T23:58:14Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Qwen 3.8 27B scores 52 on the Artificial Analysis Intelligence Index",
+      "url": "https://simonwillison.net/2026/Aug/17/qwen-38-27b-scores-52"
     },
     {
       "authors": [
@@ -495,6 +516,7 @@
       "url": "https://forklane.ai"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -527,6 +549,158 @@
     },
     {
       "authors": [
+        "Bingxin Xu",
+        "Yuzhang Shang",
+        "Emilio Ferrara"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16889v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's...",
+      "event_cluster_id": "c97dfca25c28",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "c97dfca25c28a2c92429",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T17:59:57Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+      "url": "https://arxiv.org/abs/2608.16889v1"
+    },
+    {
+      "authors": [
+        "Weiliang Chen",
+        "Haowen Sun",
+        "Jun Gao",
+        "Jiawei Chi",
+        "Hanyang Wang",
+        "Qiyu Dai",
+        "Yihao Li",
+        "Hao Li"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16859v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollout requires understanding whether...",
+      "event_cluster_id": "31e47a960389",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "31e47a9603893bd3bcf6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T17:43:24Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: agent, reasoning, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "url": "https://arxiv.org/abs/2608.16859v1"
+    },
+    {
+      "authors": [
+        "Langzhe Gu",
+        "Chengkai Hou",
+        "Meng Li",
+        "Xinhua Wang",
+        "Jiaming Liu",
+        "Xinyuan Lv",
+        "Bowei Zhang",
+        "Shuanghao Bai"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16837v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-body loco-manipulation. The high...",
+      "event_cluster_id": "0b84d0fa9fed",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "0b84d0fa9fed84565f55",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T17:22:33Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, foundation model, agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
+      "url": "https://arxiv.org/abs/2608.16837v1"
+    },
+    {
+      "authors": [
+        "Jiawei Liu",
+        "Jiacheng Guo",
+        "Tian Zhang",
+        "Yiwei Xu",
+        "Juan Wang",
+        "Jinlin Fan",
+        "Bowen Xiao",
+        "Chi Guo"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16806v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text generation models into the core of agents...",
+      "event_cluster_id": "35c5da37e18b",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "35c5da37e18b5422d75d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T17:02:07Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
+      "url": "https://arxiv.org/abs/2608.16806v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Amanda Silberling"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models",
@@ -535,7 +709,7 @@
       ],
       "description": "Rare books are incredibly valuable for training LLMs, since these models have already trained on whatever's available online.",
       "event_cluster_id": "da17ceef305c",
-      "fetched_at": "2026-08-17T23:52:58Z",
+      "fetched_at": "2026-08-18T05:03:54Z",
       "id": "da17ceef305c5eba8c3c",
       "image_url": "",
       "is_breaking": false,
@@ -558,6 +732,40 @@
     },
     {
       "authors": [
+        "Vignesh Nagarajan",
+        "Sriram Venkatapathy"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16709v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "A radiologist reading a model's output faces two problems. The model returns a number and no reason, and any system that turns that number into readable prose can quietly add claims the model never made. MIRROR is a research prototype...",
+      "event_cluster_id": "bc2d0a4de296",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "bc2d0a4de296f2b99306",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T15:25:38Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal, reasoning"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MIRROR: Multimodal Intelligent Radiology Reasoning and Observation Reporter",
+      "url": "https://arxiv.org/abs/2608.16709v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Tim De Chant"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project",
@@ -566,7 +774,7 @@
       ],
       "description": "Nvidia's investment in SoftBank's data center developer will guarantee its chips power an OpenAI data center.",
       "event_cluster_id": "edd24dd0fb80",
-      "fetched_at": "2026-08-17T23:52:58Z",
+      "fetched_at": "2026-08-18T05:03:54Z",
       "id": "edd24dd0fb800932eb26",
       "image_url": "",
       "is_breaking": false,
@@ -588,6 +796,7 @@
       "url": "https://techcrunch.com/2026/08/17/nvidia-investing-1-5b-in-softbank-data-center-developer-behind-openai-project"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ivan Mehta"
       ],
@@ -597,7 +806,7 @@
       ],
       "description": "The funds will allow Wispr to increase its footprint as it ventures into new areas, such as meetings, with its newly released note-taker tool.",
       "event_cluster_id": "c7de0ac22c0c",
-      "fetched_at": "2026-08-17T23:52:58Z",
+      "fetched_at": "2026-08-18T05:03:54Z",
       "id": "c7de0ac22c0c4ca36afa",
       "image_url": "",
       "is_breaking": false,
@@ -712,6 +921,7 @@
       "url": "https://simonwillison.net/2026/Aug/16/dario-amodei"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
       "cluster_sources": [
@@ -740,6 +950,7 @@
       "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "James O'Donnell"
       ],
@@ -770,37 +981,75 @@
       "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Anthony Ha"
+        "Saisab Sadhu",
+        "Aadit Sengupta",
+        "Vinay Kumar Sankarapu",
+        "Pratinav Seth"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future",
+      "canonical_url": "https://arxiv.org/abs/2608.16852v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
-      "event_cluster_id": "c5adf37c175f",
-      "fetched_at": "2026-08-16T23:50:47Z",
-      "id": "c5adf37c175f060eb088",
+      "description": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare, financial regulation, and platform...",
+      "event_cluster_id": "6dedf3d86885",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "6dedf3d8688503e1e574",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-16T20:32:01Z",
-      "research_track": "",
-      "score": 12,
+      "published_at": "2026-08-17T17:37:07Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
       "score_reasons": [
-        "high source",
-        "published within 6 hours"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, regulation"
       ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Why people aren’t buying Mark Zuckerberg’s AI future",
-      "url": "https://techcrunch.com/2026/08/16/why-people-arent-buying-mark-zuckerbergs-ai-future"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
+      "url": "https://arxiv.org/abs/2608.16852v1"
     },
     {
+      "authors": [
+        "Reza Bayat",
+        "Ali Behrouz",
+        "Vahab Mirrokni",
+        "Aaron Courville"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.16844v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "The quadratic cost of attention-based sequence models for long contexts has motivated a growing line of research on memory-based models that can compress context into a compact state. However, most existing memory models expose a static...",
+      "event_cluster_id": "8196744f9ed1",
+      "fetched_at": "2026-08-18T05:03:54Z",
+      "id": "8196744f9ed1aa4029dc",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-17T17:30:43Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Proteus: Incremental Memory Activation for Long-Context Sequence Modeling",
+      "url": "https://arxiv.org/abs/2608.16844v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery",
       "cluster_sources": [
@@ -830,12 +1079,12 @@
     }
   ],
   "date_label": "Tuesday, August 18, 2026",
-  "generated_at": "2026-08-17T23:52:58Z",
+  "generated_at": "2026-08-18T05:03:54Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 206,
-    "retained_items": 25,
+    "fetched_items": 203,
+    "retained_items": 32,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
