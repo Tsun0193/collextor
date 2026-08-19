@@ -67,6 +67,7 @@
       "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source",
       "cluster_sources": [
@@ -95,6 +96,84 @@
       "source_name": "Simon Willison",
       "title": "Mojo🔥 is now open source",
       "url": "https://simonwillison.net/2026/Aug/18/mojo-is-now-open-source"
+    },
+    {
+      "also_covered_by": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "authors": [
+        "Veronika Spieker",
+        "Wenqi Huang",
+        "Cemre Ariyurek",
+        "Liam Timms",
+        "Daniel Rueckert",
+        "Onur Afacan",
+        "Julia A. Schnabel",
+        "Sila Kurugol"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.18055v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor primitives have shown promising...",
+      "event_cluster_id": "c6efd1407eec",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "c6efd1407eec1399c138",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-18T17:48:22Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: MRI",
+        "technical relevance: representation learning",
+        "covered by multiple configured sources"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+      "url": "https://arxiv.org/abs/2608.18055v1"
+    },
+    {
+      "authors": [
+        "Madhumitha Venkatesh",
+        "Shanawaj S Madarkar",
+        "Konda Reddy Mopuri"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.17521v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "We introduce BrainNorm, a normative foundation model, trained and tested on ~66,000 T1-weighted structural MRI (T1w sMRI) scans. By leveraging language-image style contrastive pretraining on healthy cohorts across ages, BrainNorm learns...",
+      "event_cluster_id": "cba14019ba66",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "cba14019ba6691e29bcf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-18T08:45:02Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "research relevance: MRI",
+        "technical relevance: foundation model, RAG"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "BrainNorm: A Foundation Model that knows Normal via Semantic Atlas Pretraining",
+      "url": "https://arxiv.org/abs/2608.17521v1"
     },
     {
       "also_covered_by": [],
@@ -179,6 +258,7 @@
       "url": "https://arxiv.org/abs/2608.16233v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -211,6 +291,7 @@
       "url": "https://techcrunch.com/2026/08/18/cursor-capitalizes-on-github-frustration-launches-rival-hosting-platform"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Richard MacManus"
       ],
@@ -353,6 +434,7 @@
       "url": "https://arxiv.org/abs/2608.16832v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -362,7 +444,7 @@
       ],
       "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
       "event_cluster_id": "7aa778327f7a",
-      "fetched_at": "2026-08-18T23:52:56Z",
+      "fetched_at": "2026-08-19T05:04:36Z",
       "id": "7aa778327f7a42031cca",
       "image_url": "",
       "is_breaking": false,
@@ -383,6 +465,42 @@
       "source_name": "TechCrunch AI",
       "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
       "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it"
+    },
+    {
+      "authors": [
+        "Afshin Bozorgpour",
+        "Sina Ghorbani Kolahi",
+        "Moein Heidari",
+        "Ilker Hacihaliloglu",
+        "Dorit Merhof"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.17635v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Vision-LSTM (ViL) enables efficient global modeling, but its cost still scales with the number of spatial tokens, so existing segmenters confine ViL to a coarse bottleneck and lose fine anatomical detail. Rasterizing 2D features into a...",
+      "event_cluster_id": "3d0ba7061a65",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "3d0ba7061a65f0cefb2d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-18T10:54:28Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MaLViL: Multi-axis Low-rank Vision-LSTM for Medical Image Segmentation",
+      "url": "https://arxiv.org/abs/2608.17635v1"
     },
     {
       "also_covered_by": [],
@@ -486,46 +604,6 @@
       "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Junqi Liu",
-        "Yufan He",
-        "Yexiao He",
-        "Pengfei Guo",
-        "Dong Yang",
-        "Andriy Myronenko",
-        "Can Zhao",
-        "Hanrong Ye"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16211v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Long-horizon agents are beginning to automate complete workflows that produce code, reports, and research artifacts. Medical imaging workflows are multi-stage and data-sensitive, while expert trajectories remain scarce and difficult to...",
-      "event_cluster_id": "d368bbe16c89",
-      "fetched_at": "2026-08-18T05:03:54Z",
-      "id": "d368bbe16c893f4054f1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-17T07:44:57Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical imaging",
-        "technical relevance: agent"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "BaT: Towards Self-Evolving Medical Research Agent with Stage Rubrics",
-      "url": "https://arxiv.org/abs/2608.16211v1"
-    },
-    {
       "authors": [
         "ajhai"
       ],
@@ -558,6 +636,7 @@
       "url": "https://www.baseten.co/inference-engineering"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm",
       "cluster_sources": [
@@ -587,6 +666,7 @@
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Russell Brandom"
       ],
@@ -715,21 +795,21 @@
     },
     {
       "authors": [
-        "mariagorskikh1"
+        "darkreader"
       ],
-      "canonical_url": "https://maritime.sh",
+      "canonical_url": "https://plugos.net/plugclaw",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "e3da58ab25ce",
-      "fetched_at": "2026-08-18T23:52:56Z",
-      "id": "hn-49354052",
+      "event_cluster_id": "d8475f191993",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "hn-49356609",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-18T23:02:32Z",
+      "published_at": "2026-08-19T04:03:16Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
@@ -742,10 +822,76 @@
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Maritime, a platform for running AI agents for $1 a month",
-      "url": "https://maritime.sh"
+      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+      "url": "https://plugos.net/plugclaw"
     },
     {
+      "authors": [
+        "Clara Meister"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.18062v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Language model tokenizers are typically selected with minimal evaluation, despite the fact that their design choices directly impact model capabilities. This can be partly attributed to a limited understanding of which tokenizer...",
+      "event_cluster_id": "9eece0fbe0e4",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "9eece0fbe0e43b4458a6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-18T17:52:52Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "TokEval: A Tokenizer Evaluation Suite",
+      "url": "https://arxiv.org/abs/2608.18062v1"
+    },
+    {
+      "authors": [
+        "Ali Eslamian",
+        "Qiang Cheng"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.18026v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Large-scale, high-dimensional tabular regression remains challenging: tree-based models are robust but lack end-to-end representation learning, while deep models enable flexible feature learning but often incur costly interaction...",
+      "event_cluster_id": "ac825d2eb82a",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "ac825d2eb82a6eef0962",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-18T17:22:49Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: representation learning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "TabNSM: Neural Sparse Mixer for Tabular Regression",
+      "url": "https://arxiv.org/abs/2608.18026v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/multi-vector-encoder",
       "cluster_sources": [
@@ -952,149 +1098,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Jiawei Liu",
-        "Jiacheng Guo",
-        "Tian Zhang",
-        "Yiwei Xu",
-        "Juan Wang",
-        "Jinlin Fan",
-        "Bowen Xiao",
-        "Chi Guo"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16806v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large Language Models (LLMs) have demonstrated capabilities in in-context learning, task decomposition, step-by-step reasoning, and code generation, driving their gradual evolution from text generation models into the core of agents...",
-      "event_cluster_id": "35c5da37e18b",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "35c5da37e18b5422d75d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:02:07Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "When State Becomes an Attack Surface: State-Semantic Injection in LLM-Driven Embodied Agents",
-      "url": "https://arxiv.org/abs/2608.16806v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Vignesh Nagarajan",
-        "Sriram Venkatapathy"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16709v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "A radiologist reading a model's output faces two problems. The model returns a number and no reason, and any system that turns that number into readable prose can quietly add claims the model never made. MIRROR is a research prototype...",
-      "event_cluster_id": "bc2d0a4de296",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "bc2d0a4de296f2b99306",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T15:25:38Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, reasoning"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MIRROR: Multimodal Intelligent Radiology Reasoning and Observation Reporter",
-      "url": "https://arxiv.org/abs/2608.16709v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Xiaochuan Ma",
-        "Ning Zhu",
-        "Jia Fu",
-        "Lanfeng Zhong",
-        "Hanyu Jiang",
-        "Bin Song",
-        "Kang Li",
-        "Guotai Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16110v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Cold Start Active Learning (CSAL) is important in improving the performance of a medical image segmentation model with low annotation budget by querying a small subset for annotation from an unlabeled training set. Existing CSAL methods...",
-      "event_cluster_id": "0e41c41b7b27",
-      "fetched_at": "2026-08-18T23:52:56Z",
-      "id": "0e41c41b7b276147a68c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T05:03:00Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model, training",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "SUGFW+: An Uncertainty-guided Feature Weighting Framework for Cold Start Active Adaptation of SAM in Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2608.16110v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "I started building my markdown-svg-renderer tool in May , but I've since added enough features to it that it's worth talking about here again. It's evolved into my ideal tool for sharing Markdown transcripts that include SVG documents....",
-      "event_cluster_id": "79f38e749039",
-      "fetched_at": "2026-08-17T05:11:13Z",
-      "id": "79f38e749039b6531dfc",
-      "image_url": "https://static.simonwillison.net/static/2026/raw-svg.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-16T23:59:37Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Markdown SVG upgrades",
-      "url": "https://simonwillison.net/2026/Aug/16/markdown-svg-upgrades"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
       "cluster_sources": [
@@ -1154,6 +1157,7 @@
       "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -1163,7 +1167,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. We still don’t know how people are really using AI AI companies like Anthropic and OpenAI regularly...",
       "event_cluster_id": "5224f7258b74",
-      "fetched_at": "2026-08-18T23:52:56Z",
+      "fetched_at": "2026-08-19T05:04:36Z",
       "id": "5224f7258b747c33f7a7",
       "image_url": "",
       "is_breaking": false,
@@ -1182,79 +1186,15 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: how people really use AI, and Flock’s design choices",
       "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Saisab Sadhu",
-        "Aadit Sengupta",
-        "Vinay Kumar Sankarapu",
-        "Pratinav Seth"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16852v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Regulatory compliance monitoring in deployed language models is increasingly implemented as a legal and audit control, checking model outputs against written rules spanning data protection, healthcare, financial regulation, and platform...",
-      "event_cluster_id": "6dedf3d86885",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "6dedf3d8688503e1e574",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:37:07Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, regulation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "What Do Compliance Detectors Read? An Audit of Activation Probes and Guard Models",
-      "url": "https://arxiv.org/abs/2608.16852v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "August 17, 2026",
-      "event_cluster_id": "f987f9773744",
-      "fetched_at": "2026-08-17T23:52:58Z",
-      "id": "f987f977374481b4c327",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PhotoScanIR_Overview.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T00:00:00Z",
-      "research_track": "",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "August 17, 2026 Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery General Science · Health & Bioscience · Machine Intelligence",
-      "url": "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery"
     }
   ],
   "date_label": "Wednesday, August 19, 2026",
-  "generated_at": "2026-08-18T23:52:56Z",
+  "generated_at": "2026-08-19T05:04:36Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 1,
     "fetched_items": 198,
-    "retained_items": 37,
+    "retained_items": 35,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
