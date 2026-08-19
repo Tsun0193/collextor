@@ -1,6 +1,38 @@
 {
   "articles": [
     {
+      "authors": [
+        "Aisha Malik"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like OpenAI.",
+      "event_cluster_id": "950c9a646a19",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "950c9a646a19aa781177",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-19T19:00:00Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google packs Search and Gemini with new AI study tools",
+      "url": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for",
@@ -31,6 +63,38 @@
       "source_name": "Latent Space",
       "title": "[AINews] Stripe buys OpenRouter for $7B",
       "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for"
+    },
+    {
+      "authors": [
+        "Tim De Chant"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+      "event_cluster_id": "31674a032831",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "31674a0328314a04804d",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-19T15:44:53Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: data center",
+        "research relevance: PET"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+      "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers"
     },
     {
       "also_covered_by": [],
@@ -107,6 +171,7 @@
       "url": "https://arxiv.org/abs/2608.18055v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Madhumitha Venkatesh",
         "Shanawaj S Madarkar",
@@ -140,6 +205,98 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "BrainNorm: A Foundation Model that knows Normal via Semantic Atlas Pretraining",
       "url": "https://arxiv.org/abs/2608.17521v1"
+    },
+    {
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+      "event_cluster_id": "9d321051f414",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "9d321051f4147de8d941",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-19T23:32:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+      "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "My hypothesis is that there is a new opportunity for Extensible Software on the web . LLMs radically lower the cost of authoring extensions, and modern sandbox primitives lower the deployment cost and provide good security boundaries. We...",
+      "event_cluster_id": "f1859c5bfd11",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "f1859c5bfd11aefc8379",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-19T22:56:31Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Jeremy Morrell",
+      "url": "https://simonwillison.net/2026/Aug/19/jeremy-morrell"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+      "event_cluster_id": "17dbd10bfec3",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "17dbd10bfec3e0c957ac",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-19T22:10:46Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+      "url": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections"
     },
     {
       "also_covered_by": [],
@@ -241,116 +398,39 @@
       "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "couldbeme_"
+        "Theresa Loconsolo"
       ],
-      "canonical_url": "https://github.com/couldbeme/holdline",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7e8be5a0a9bb",
-      "fetched_at": "2026-08-18T05:03:54Z",
-      "id": "hn-49338963",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-17T23:11:48Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: A benchmark for AI agent guardrails that caught my own plugin",
-      "url": "https://github.com/couldbeme/holdline"
-    },
-    {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "authors": [
-        "Jorge F. Lazo",
-        "Xixi Liu",
-        "Andreas Hallqvist",
-        "Mikael Johansson",
-        "Åse Johnsson",
-        "Jonas S. Andersson",
-        "Jennifer Alvén",
-        "Ida Häggström"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16832v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Lung nodule segmentation in computed tomography is essential for extracting clinically relevant information for lung cancer assessment and treatment planning. Foundation models have shown notable segmentation capabilities, but...",
-      "event_cluster_id": "c8bfc27257ad",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "c8bfc27257ad002b304d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:16:43Z",
-      "research_track": "multimodal_foundation",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model",
-        "covered by multiple configured sources"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation",
-      "url": "https://arxiv.org/abs/2608.16832v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it",
+      "canonical_url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "ChatGPT for Teens adds age-appropriate safety measures, parental controls, and learning tools designed to steer teens away from harmful content — and from using AI to cheat on their homework.",
-      "event_cluster_id": "7aa778327f7a",
-      "fetched_at": "2026-08-19T10:58:02Z",
-      "id": "7aa778327f7a42031cca",
+      "description": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there...",
+      "event_cluster_id": "26abc1950a12",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "26abc1950a12af9bbdc1",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-18T13:50:30Z",
+      "published_at": "2026-08-19T17:26:48Z",
       "research_track": "",
       "score": 16,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: launch, safety",
-        "startup/product signal: launches"
+        "major-event keyword: GPU, data center",
+        "startup/product signal: startup, product"
       ],
       "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "OpenAI launches a safer ChatGPT for teens — years after teens started using it",
-      "url": "https://techcrunch.com/2026/08/18/openai-launches-a-safer-chatgpt-for-teens-years-after-teens-started-using-it"
+      "title": "Meet the startup helping Wall Street put a price on AI compute",
+      "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Afshin Bozorgpour",
         "Sina Ghorbani Kolahi",
@@ -420,105 +500,6 @@
       "url": "https://techcrunch.com/2026/08/17/groq-raises-350m-to-fuel-its-pivot-from-ai-chips-to-neocloud"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Chiara Tappermann",
-        "Steffen Renisch",
-        "Lars Ole Schwen",
-        "Hans Meine",
-        "Horst K. Hahn",
-        "Eike Petersen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16725v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Corrupted, inconsistent, or anomalous data silently threatens the safety and reliability of medical AI. Despite growing regulatory recognition of dataset quality assurance (QA) for high-risk medical AI, scalable automated detection...",
-      "event_cluster_id": "5abf417936a1",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "5abf417936a1c7f9ae5b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-17T15:40:58Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: safety",
-        "research relevance: MRI, PET"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Unsupervised Anomaly Detection for Image Dataset Quality Assurance in Multi-Center Breast MRI",
-      "url": "https://arxiv.org/abs/2608.16725v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility Excellent piece of reporting from 404 Media. For a while now there have been stories of book dealers receiving orders for large volumes of books from...",
-      "event_cluster_id": "80605906fea6",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "80605906fea60f1ed8c1",
-      "image_url": "https://static.simonwillison.net/static/2026-08-17/IMG_7418.jpeg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-17T15:21:29Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "major-event keyword: training"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "We Tracked a Shipment of Rare Books. It Ended at an Amazon AI Training Facility",
-      "url": "https://simonwillison.net/2026/Aug/17/we-tracked-a-shipment-of-rare-books-it-ended-at-an-amazon-ai-tra"
-    },
-    {
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
-      "event_cluster_id": "3e24031df83f",
-      "fetched_at": "2026-08-19T10:58:02Z",
-      "id": "3e24031df83f42b32130",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-19T10:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
-      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers"
-    },
-    {
       "authors": [
         "ajhai"
       ],
@@ -579,38 +560,6 @@
       "source_name": "Hugging Face Blog",
       "title": "How Much Memory Does Your Agent Actually Need?",
       "url": "https://huggingface.co/blog/ibm-research/altk-evolve-hmm"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The new safeguards include more detailed monitoring of models during the development process, as well as greater emphasis on alignment and security during the post-training process.",
-      "event_cluster_id": "1a3ef848db3d",
-      "fetched_at": "2026-08-18T23:52:56Z",
-      "id": "1a3ef848db3d87256e3e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-18T18:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model, security, training"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI institutes new safeguards after Hugging Face breach",
-      "url": "https://techcrunch.com/2026/08/18/openai-institutes-new-safeguards-after-hugging-face-breach"
     },
     {
       "also_covered_by": [],
@@ -677,36 +626,32 @@
       "url": "https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Simon Willison"
       ],
-      "description": "The model maker added $18 billion in annualized revenue in two months.",
-      "event_cluster_id": "2b3016495e0d",
-      "fetched_at": "2026-08-18T05:03:54Z",
-      "id": "2b3016495e0d30c12085",
+      "description": "Last week I recorded an episode of the Talking Postgres podcast with Claire Giordano on the subject of \"How AI is changing software development\". We had a really great conversation. Here are a couple of my highlights from a lightly edited..",
+      "event_cluster_id": "7a66fcf62cc5",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "7a66fcf62cc50c40e038",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-17T23:56:26Z",
+      "published_at": "2026-08-19T22:46:07Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
+        "critical source",
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "url": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b"
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Conceptual integrity and counting lines of code",
+      "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code"
     },
     {
       "authors": [
@@ -741,6 +686,7 @@
       "url": "https://knownbase.dev"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Latent.Space"
       ],
@@ -772,6 +718,40 @@
       "url": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "darkreader"
+      ],
+      "canonical_url": "https://plugos.net/plugclaw",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "d8475f191993",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "hn-49356609",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-19T04:03:16Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: PlugClaw – Private AI agent hardware for any phone or PC",
+      "url": "https://plugos.net/plugclaw"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Clara Meister"
       ],
@@ -804,6 +784,7 @@
       "url": "https://arxiv.org/abs/2608.18062v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ali Eslamian",
         "Qiang Cheng"
@@ -898,154 +879,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Bingxin Xu",
-        "Yuzhang Shang",
-        "Emilio Ferrara"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16889v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Long-horizon robot manipulation chains many contact-rich skills into one multi-stage task. Vision-language-action (VLA) models increasingly master the individual skills, yet the chain still fails: errors compound beyond the policy's...",
-      "event_cluster_id": "c97dfca25c28",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "c97dfca25c28a2c92429",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:59:57Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
-      "url": "https://arxiv.org/abs/2608.16889v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Weiliang Chen",
-        "Haowen Sun",
-        "Jun Gao",
-        "Jiawei Chi",
-        "Hanyang Wang",
-        "Qiyu Dai",
-        "Yihao Li",
-        "Hao Li"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16859v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "A benchmark should deliver more than a scalar score: what makes an evaluation trustworthy is the reasoning that justifies the score. This is especially critical for world models, where judging a rollout requires understanding whether...",
-      "event_cluster_id": "31e47a960389",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "31e47a9603893bd3bcf6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:43:24Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: agent, reasoning, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
-      "url": "https://arxiv.org/abs/2608.16859v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Langzhe Gu",
-        "Chengkai Hou",
-        "Meng Li",
-        "Xinhua Wang",
-        "Jiaming Liu",
-        "Xinyuan Lv",
-        "Bowei Zhang",
-        "Shuanghao Bai"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16837v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Humanoid robots hold great promise as general-purpose agents in human-centered environments, yet generalist vision-language-action (VLA) foundation models are not readily applicable to humanoid whole-body loco-manipulation. The high...",
-      "event_cluster_id": "0b84d0fa9fed",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "0b84d0fa9fed84565f55",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:22:33Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, foundation model, agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
-      "url": "https://arxiv.org/abs/2608.16837v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Vignesh Nagarajan",
-        "Sriram Venkatapathy"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16709v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "A radiologist reading a model's output faces two problems. The model returns a number and no reason, and any system that turns that number into readable prose can quietly add claims the model never made. MIRROR is a research prototype...",
-      "event_cluster_id": "bc2d0a4de296",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "bc2d0a4de296f2b99306",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T15:25:38Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, reasoning"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MIRROR: Multimodal Intelligent Radiology Reasoning and Observation Reporter",
-      "url": "https://arxiv.org/abs/2608.16709v1"
-    },
-    {
-      "authors": [
         "Mahdi Saberi",
         "Yaşar Utku Alçalar",
         "Merve Gülle",
@@ -1081,63 +914,208 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Zhikai Xu",
+        "Zhucun Xue",
+        "Teng Hu",
+        "Yabiao Wang",
+        "Yong Liu",
+        "Jiangning Zhang"
       ],
-      "description": "",
-      "event_cluster_id": "bf50ec5ce617",
-      "fetched_at": "2026-08-17T23:52:58Z",
-      "id": "bf50ec5ce617ac83f0c8",
+      "canonical_url": "https://arxiv.org/abs/2608.18034v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Academic surveys play a central role in organizing rapidly expanding scholarly literature, yet their construction requires extensive paper analysis, coherent knowledge organization, fine-grained citation support, and reliable manuscript...",
+      "event_cluster_id": "d2c6319c4716",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "d2c6319c471657067713",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-17T19:46:21Z",
+      "published_at": "2026-08-18T17:29:00Z",
+      "research_track": "multimodal_foundation",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent",
+        "startup/product signal: API"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Deep Academic Survey: Stateful Agentic Closed-Loop Paradigm for Academic Survey Automation",
+      "url": "https://arxiv.org/abs/2608.18034v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/LiquidAI/qad",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "f56fb1ee1343",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "f56fb1ee13437f3d1c1d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-19T13:48:49Z",
       "research_track": "",
-      "score": 12,
+      "score": 11,
       "score_reasons": [
         "high source",
-        "published within 6 hours"
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
-      "title": "Same Cluster, 33 Points More Utilization: What Changed Was the Order",
-      "url": "https://huggingface.co/blog/Dharma-AI/gpu-management-pt2"
+      "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+      "url": "https://huggingface.co/blog/LiquidAI/qad"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "James O'Donnell"
+        "Thomas Macaulay"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing",
+      "canonical_url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes",
       "cluster_sources": [
         "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers...",
-      "event_cluster_id": "fbada8194902",
-      "fetched_at": "2026-08-17T23:52:58Z",
-      "id": "fbada8194902f18edefd",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest...",
+      "event_cluster_id": "8c50850639f8",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "8c50850639f851cdfd61",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-08-17T19:16:09Z",
+      "published_at": "2026-08-19T12:10:00Z",
       "research_track": "",
-      "score": 12,
+      "score": 11,
       "score_reasons": [
         "high source",
-        "published within 6 hours"
+        "published within 24 hours"
       ],
       "section": "long_reads",
       "source_category": "analysis",
       "source_id": "mit_tr_ai",
       "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "What Flock’s defenders are missing",
-      "url": "https://www.technologyreview.com/2026/08/17/1142200/what-flocks-defenders-are-missing"
+      "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
+      "url": "https://www.technologyreview.com/2026/08/19/1140195/the-download-ai-recursive-self-improvement-problem-heatwave-causes"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Iryna Hartsock",
+        "Cesar Lam",
+        "Christopher Otteni",
+        "Aliya Qayyum",
+        "Robert Gatenby",
+        "Cyrillo Araujo",
+        "Ghulam Rasool"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.18072v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Purpose: To develop and evaluate a locally deployed multi-agent AI system for radiology report structuring and quality assurance. Materials and Methods: This retrospective study included 638 radiology reports from CT examinations of the...",
+      "event_cluster_id": "a5b6157384cd",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "a5b6157384cd165d5fe2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-18T17:57:08Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Multi-Agent AI System for Radiology Report Structuring and Quality Assurance with Independent Radiologist Evaluation",
+      "url": "https://arxiv.org/abs/2608.18072v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Qinyuan Ye",
+        "Yu Li",
+        "Yada Pruksachatkun",
+        "Jiaxin Zhang",
+        "Chien-Sheng Wu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.18066v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Memory-based self-improving agents--those that learn from an online stream of tasks and improve over time by maintaining a textual memory bank--have shown great promise in recent literature. However, the reliability aspects of these...",
+      "event_cluster_id": "564dcf01fc63",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "564dcf01fc63d29c7f13",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-18T17:55:07Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent, RAG"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "On the Fragility of Self-Improving Agents: Variance, Task Order, and Underspecification",
+      "url": "https://arxiv.org/abs/2608.18066v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Daria Leshchikova",
+        "Valentina V. Kuskova",
+        "Dmitry Zaytsev",
+        "Valerii Klimov"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.18058v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Autonomous LLM agents that converse on a user's behalf are an emerging design pattern in matching platforms, yet their viability depends on a condition rarely examined: users must accept not only delegating conversation to an agent, but...",
+      "event_cluster_id": "c74978cb2664",
+      "fetched_at": "2026-08-19T05:04:36Z",
+      "id": "c74978cb26649785f6fd",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-18T17:51:16Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Delegation Asymmetry in Agentic Recommender Systems: Measuring Two-Sided Receptivity in Online Dating",
+      "url": "https://arxiv.org/abs/2608.18058v1"
     },
     {
       "also_covered_by": [],
@@ -1169,16 +1147,86 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: how people really use AI, and Flock’s design choices",
       "url": "https://www.technologyreview.com/2026/08/18/1142229/the-download-how-people-use-ai-flock-cameras-design"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Yue Xia",
+        "Euijoon Ahn",
+        "Tian Xia",
+        "Yuan Yuan",
+        "Michael Fulham",
+        "Jinman Kim"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.17254v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Intra-tumoural heterogeneity (ITH) reflects spatial variation in tumour biology and is an important determinant of tumour behaviour, prognosis, and treatment response. Radiomics and deep learning have shown promise for tumour...",
+      "event_cluster_id": "c4e535c29e79",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "c4e535c29e79def94034",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-18T01:16:51Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: MRI"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Heterogeneity-Aware Deep Learning for Tumour Classification from Multiparametric MRI",
+      "url": "https://arxiv.org/abs/2608.17254v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Chanwoo Park",
+        "Chanwoo Kim"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.17231v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Low-cost, scalable screening for dementia remains an open problem. Imaging-based diagnosis is costly and hard to deploy widely. Electroencephalography (EEG) is portable and inexpensive, but its recordings are noisy, vary widely across...",
+      "event_cluster_id": "0362bd87bee5",
+      "fetched_at": "2026-08-19T23:53:17Z",
+      "id": "0362bd87bee58f01c0e1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-18T00:35:55Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: Alzheimer, Alzheimer's disease, dementia"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Delta2Gamma: Band-Wise Adaptive Contrastive Learning of EEG for Alzheimer's Disease Detection",
+      "url": "https://arxiv.org/abs/2608.17231v1"
     }
   ],
-  "date_label": "Wednesday, August 19, 2026",
-  "generated_at": "2026-08-19T10:58:02Z",
+  "date_label": "Thursday, August 20, 2026",
+  "generated_at": "2026-08-19T23:53:17Z",
   "summary": {
-    "duplicates_removed": 0,
-    "failed_sources": 3,
-    "fetched_items": 175,
-    "retained_items": 35,
-    "successful_sources": 18
+    "duplicates_removed": 1,
+    "failed_sources": 1,
+    "fetched_items": 201,
+    "retained_items": 37,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
