@@ -17,7 +17,7 @@
       ],
       "description": "Foundation models are increasingly adapted for downstream medical imaging tasks, yet the influence of the chosen adaptation strategy on subgroup fairness remains poorly understood. We investigate how three parameter-efficient adaptation...",
       "event_cluster_id": "adf09a886458",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "adf09a88645806f7461a",
       "image_url": "",
       "is_breaking": false,
@@ -55,7 +55,7 @@
       ],
       "description": "PSMA and FDG PET/CT visualise complementary biological information in prostate cancer. Combining both tracers could capture heterogeneous tumour phenotypes that may be missed by either alone, yet there is no consensus on effective deep...",
       "event_cluster_id": "0efd410512aa",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "0efd410512aacfa86a11",
       "image_url": "",
       "is_breaking": false,
@@ -155,7 +155,7 @@
       ],
       "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
       "event_cluster_id": "31674a032831",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "31674a0328314a04804d",
       "image_url": "",
       "is_breaking": false,
@@ -178,6 +178,7 @@
       "url": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "David Snider",
         "Zhongyuan Lyu",
@@ -190,7 +191,7 @@
       ],
       "description": "Matrix-valued observations arise in multiplex networks, neuroimaging, and other domains where population-level patterns are often low-rank and subjects may express several latent patterns simultaneously. Existing tensor PCA methods...",
       "event_cluster_id": "e8ec390d3e5e",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "e8ec390d3e5ea6481e0a",
       "image_url": "",
       "is_breaking": false,
@@ -288,40 +289,34 @@
       "url": "https://arxiv.org/abs/2608.18055v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Madhumitha Venkatesh",
-        "Shanawaj S Madarkar",
-        "Konda Reddy Mopuri"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.17521v1",
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Latent Space"
       ],
-      "description": "We introduce BrainNorm, a normative foundation model, trained and tested on ~66,000 T1-weighted structural MRI (T1w sMRI) scans. By leveraging language-image style contrastive pretraining on healthy cohorts across ages, BrainNorm learns...",
-      "event_cluster_id": "cba14019ba66",
-      "fetched_at": "2026-08-19T05:04:36Z",
-      "id": "cba14019ba6691e29bcf",
-      "image_url": "",
+      "description": "Every lab CEO is on X now",
+      "event_cluster_id": "e8c330662717",
+      "fetched_at": "2026-08-20T11:00:38Z",
+      "id": "e8c330662717fd1acd12",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Xdc0!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1b1d78e9-d676-408c-9f84-8c9f244ef898_864x1821.png",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-08-18T08:45:02Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
+      "published_at": "2026-08-20T05:17:12Z",
+      "research_track": "",
+      "score": 17,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "research relevance: MRI",
-        "technical relevance: foundation model, RAG"
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: training",
+        "long-read source"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "BrainNorm: A Foundation Model that knows Normal via Semantic Atlas Pretraining",
-      "url": "https://arxiv.org/abs/2608.17521v1"
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Death of Params: Z.ai CEO Jie Tang on GLM 5.3 and the new Post-training Scaling Law",
+      "url": "https://www.latent.space/p/ainews-death-of-params-zai-ceo-jie"
     },
     {
       "also_covered_by": [],
@@ -487,39 +482,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Eileen Guo"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "AI companies like Anthropic and OpenAI regularly publish reports on how people are using products like Claude and ChatGPT, but they only release the data they want us to see, AI researchers say. “There is no independent source to...",
-      "event_cluster_id": "7952cfe3bb5b",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "7952cfe3bb5b1d2c1cf6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-08-18T10:06:43Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release",
-        "startup/product signal: product"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "We still don’t know how people are really using AI",
-      "url": "https://www.technologyreview.com/2026/08/18/1142226/how-people-use-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Theresa Loconsolo"
       ],
       "canonical_url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute",
@@ -528,7 +490,7 @@
       ],
       "description": "The AI buildout shows no signs of slowing. And with hundreds of billions of dollars a year going into data centers and GPUs, compute has become the single biggest cost for anyone building AI products. But for all that spending, there...",
       "event_cluster_id": "26abc1950a12",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "26abc1950a12af9bbdc1",
       "image_url": "",
       "is_breaking": false,
@@ -551,6 +513,7 @@
       "url": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Kerol Djoumessi",
         "Philipp Berens"
@@ -618,6 +581,69 @@
     },
     {
       "authors": [
+        "MIT Technology Review Insights"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially...",
+      "event_cluster_id": "713a8aac9370",
+      "fetched_at": "2026-08-20T11:00:38Z",
+      "id": "713a8aac9370b6386462",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-20T09:47:22Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Unlocking hidden revenue streams with market models",
+      "url": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "event_cluster_id": "3e24031df83f",
+      "fetched_at": "2026-08-19T10:58:02Z",
+      "id": "3e24031df83f42b32130",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-19T10:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "url": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers"
+    },
+    {
+      "authors": [
         "ajhai"
       ],
       "canonical_url": "https://www.baseten.co/inference-engineering",
@@ -680,38 +706,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Michelle Kim"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight. LLMs can already write code, generate synthetic data for training, and optimize the computer chips they run on....",
-      "event_cluster_id": "9d2c4949994b",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "9d2c4949994baa09d2c3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-18T09:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: chip, training"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "AI’s recursive self-improvement might not come so quickly after all",
-      "url": "https://www.technologyreview.com/2026/08/18/1142188/ai-recursive-self-improvement"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code",
       "cluster_sources": [
@@ -740,6 +734,7 @@
       "url": "https://simonwillison.net/2026/Aug/19/conceptual-integrity-and-counting-lines-of-code"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Bo Liu",
         "Simon Yu",
@@ -756,7 +751,7 @@
       ],
       "description": "Continuous self-improvement requires an ever-expanding pool of self-generated, diverse, adaptive goals. For language agents, existing training environment pools (hand-curated, statically synthesized, or frozen-verifier) keep the goal...",
       "event_cluster_id": "afc58074ae98",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "afc58074ae98a29f3ef2",
       "image_url": "",
       "is_breaking": false,
@@ -779,6 +774,7 @@
       "url": "https://arxiv.org/abs/2608.19197v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ramneet Kaur",
         "Pradyumna Chari",
@@ -793,7 +789,7 @@
       ],
       "description": "Language-model agents can communicate through continuous hidden states that are invisible in public transcripts, creating opportunities for covert harmful coordination. We introduce Verifiable Latent Alignments (VLA), an activation-aware...",
       "event_cluster_id": "7eb4828b3037",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "7eb4828b30370d5a409c",
       "image_url": "",
       "is_breaking": false,
@@ -816,6 +812,7 @@
       "url": "https://arxiv.org/abs/2608.19161v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jielong Lu",
         "Zhihao Wu",
@@ -829,7 +826,7 @@
       ],
       "description": "Modern pretrained encoders make representations from heterogeneous views increasingly reusable, but the procedure that determines view utility and combines evidence is still relearned for each downstream task. Consequently, knowledge...",
       "event_cluster_id": "1ef1f73cf6c5",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "1ef1f73cf6c5c930d1fe",
       "image_url": "",
       "is_breaking": false,
@@ -884,6 +881,7 @@
       "url": "https://github.com/onecli/onecli"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jihae Jeong",
         "Junha Choi",
@@ -895,7 +893,7 @@
       ],
       "description": "Large vision-language models (LVLMs) often hallucinate, generating content that the input image does not support. Preventing such content during decoding calls for a candidate-specific measure of how strongly the image supports the token...",
       "event_cluster_id": "88853afd1fa6",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "88853afd1fa6167a86c8",
       "image_url": "",
       "is_breaking": false,
@@ -918,6 +916,7 @@
       "url": "https://arxiv.org/abs/2608.19075v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Joy Jia Yin Lim",
         "Xin Huang",
@@ -934,7 +933,7 @@
       ],
       "description": "Large language model (LLM) agents can now post-train an LLM end-to-end. They can write code, launch training, evaluate checkpoints, and improve downstream performance, raising the prospect of AI-for-AI. We argue that this picture...",
       "event_cluster_id": "354edfe16fa2",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "354edfe16fa23bfa768a",
       "image_url": "",
       "is_breaking": false,
@@ -957,6 +956,7 @@
       "url": "https://arxiv.org/abs/2608.19072v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yechan Park",
         "HyunJin Kim"
@@ -967,7 +967,7 @@
       ],
       "description": "This paper proposes a lightweight, plug-and-play framework that improves robustness to viewpoint shifts in Vision-Language-Action (VLA) policies without policy retraining. To our knowledge, this is the first approach to directly leverage...",
       "event_cluster_id": "5a40fdee9b17",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "5a40fdee9b17ffce1c55",
       "image_url": "",
       "is_breaking": false,
@@ -1088,6 +1088,40 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Rayeef Ali Khan",
+        "Komal Raj Mahantesh"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.18316v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Structural Magnetic Resonance Imaging (MRI) is widely used in neuroimaging research and clinical practice, but structural MRI volumes may retain facial and cranial anatomical information that raises privacy concerns. Existing deep...",
+      "event_cluster_id": "188381fbd5e8",
+      "fetched_at": "2026-08-20T11:00:38Z",
+      "id": "188381fbd5e85f5d6bf4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-18T20:59:25Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: neuroimaging, MRI",
+        "technical relevance: serving"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "A Configurable Privacy-Preserving MRI Processing Workflow Using Deep Learning-Based Brain Extraction and Adaptive Anatomical Preservation",
+      "url": "https://arxiv.org/abs/2608.18316v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/LiquidAI/qad",
       "cluster_sources": [
@@ -1095,7 +1129,7 @@
       ],
       "description": "",
       "event_cluster_id": "f56fb1ee1343",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "f56fb1ee13437f3d1c1d",
       "image_url": "",
       "is_breaking": false,
@@ -1126,7 +1160,7 @@
       ],
       "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest...",
       "event_cluster_id": "8c50850639f8",
-      "fetched_at": "2026-08-20T05:06:08Z",
+      "fetched_at": "2026-08-20T11:00:38Z",
       "id": "8c50850639f851cdfd61",
       "image_url": "",
       "is_breaking": false,
@@ -1179,12 +1213,12 @@
     }
   ],
   "date_label": "Thursday, August 20, 2026",
-  "generated_at": "2026-08-20T05:06:08Z",
+  "generated_at": "2026-08-20T11:00:38Z",
   "summary": {
     "duplicates_removed": 2,
     "failed_sources": 1,
-    "fetched_items": 196,
-    "retained_items": 35,
+    "fetched_items": 200,
+    "retained_items": 36,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
