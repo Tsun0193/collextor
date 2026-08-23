@@ -183,6 +183,7 @@
       "url": "https://arxiv.org/abs/2608.18953v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anna Heim"
       ],
@@ -215,6 +216,7 @@
       "url": "https://techcrunch.com/2026/08/22/inherent-founded-by-deepmind-alumni-says-its-ai-teammate-just-outperformed-anthropic-and-openai-at-replicating-research"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/22/more-than-just-code-review",
       "cluster_sources": [
@@ -222,10 +224,10 @@
       ],
       "description": "The key skill required to make productive use of coding agents is being able to confidently instruct them on how to make changes and then confidently verify that those changes have been applied in the correct way. Sometimes this involves...",
       "event_cluster_id": "3f89e94f4472",
-      "fetched_at": "2026-08-22T23:51:24Z",
+      "fetched_at": "2026-08-23T05:04:05Z",
       "id": "3f89e94f44724b318410",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-08-22T15:56:54Z",
@@ -309,6 +311,39 @@
       "source_name": "TechCrunch AI",
       "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
       "url": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital"
+    },
+    {
+      "authors": [
+        "surajkrajan"
+      ],
+      "canonical_url": "https://github.com/marketplace/jaipilot",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "e3d2dc9c9609",
+      "fetched_at": "2026-08-23T05:04:05Z",
+      "id": "hn-49406173",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-23T05:02:47Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open source",
+        "technical relevance: agent",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Using Claude hosted agents to solve open source bugs and perf improvements",
+      "url": "https://github.com/marketplace/jaipilot"
     },
     {
       "also_covered_by": [],
@@ -744,6 +779,39 @@
       "url": "https://www.a2gmarketplace.com"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "In the HBS Foundry program, AI avatars provide feedback during practice pitches and board meetings.",
+      "event_cluster_id": "d69d98e58a53",
+      "fetched_at": "2026-08-22T23:51:24Z",
+      "id": "d69d98e58a53054e1467",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-22T21:46:56Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Harvard’s $699 startup bootcamp offers AI avatars of its instructors",
+      "url": "https://techcrunch.com/2026/08/22/harvards-699-startup-bootcamp-offers-ai-avatars-of-its-instructors"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/22/linus-torvalds",
       "cluster_sources": [
@@ -770,38 +838,6 @@
       "source_name": "Simon Willison",
       "title": "Quoting Linus Torvalds",
       "url": "https://simonwillison.net/2026/Aug/22/linus-torvalds"
-    },
-    {
-      "authors": [
-        "KrishnaModi12"
-      ],
-      "canonical_url": "https://krishna-modi12.github.io/frontend-design-pro",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "00721c8208aa",
-      "fetched_at": "2026-08-22T10:54:17Z",
-      "id": "hn-49396937",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-22T05:52:19Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Front end skill pack for AI agents, with machine-enforced quality gates",
-      "url": "https://krishna-modi12.github.io/frontend-design-pro"
     },
     {
       "also_covered_by": [],
@@ -832,65 +868,6 @@
       "source_name": "Latent Space",
       "title": "[AINews] Poolside gets $12B reverse-execuhire to NVIDIA; founders stay for $1B, employees go for $6B, Infraco scaling to 7GW neocloud",
       "url": "https://www.latent.space/p/ainews-poolside-gets-12b-reverse"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/asr-benchmark-optimization",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "e3ddd7a65cd3",
-      "fetched_at": "2026-08-21T23:53:36Z",
-      "id": "e3ddd7a65cd3a566e91c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-21T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: benchmark"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Measuring benchmark optimization in speech recognition",
-      "url": "https://huggingface.co/blog/asr-benchmark-optimization"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "ChatGPT search now uses the site:operator at scale Promptwatch is part of the emerging \"GEO\" space, for Generative Engine Optimization - the chatbot version of SEO, where companies offer tools and consulting to help your site increase its..",
-      "event_cluster_id": "ad2b779c2da9",
-      "fetched_at": "2026-08-21T05:06:42Z",
-      "id": "ad2b779c2da9702654fc",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-20T23:57:32Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "ChatGPT search now uses the site:operator at scale",
-      "url": "https://simonwillison.net/2026/Aug/20/chatgpt-search-now-uses-the-siteoperator-at-scale"
     },
     {
       "also_covered_by": [],
@@ -959,74 +936,15 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: threats from space mirrors and credit for AI drugs",
       "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "August 21, 2026",
-      "event_cluster_id": "e1b962a17419",
-      "fetched_at": "2026-08-21T23:53:36Z",
-      "id": "e1b962a17419559b83c7",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/MobilityPOIs_Hero.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-21T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "August 21, 2026 How mobility gives language models a deeper understanding of place Algorithms & Theory · Earth AI · Machine Intelligence",
-      "url": "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "August 21, 2026",
-      "event_cluster_id": "630713370214",
-      "fetched_at": "2026-08-21T23:53:36Z",
-      "id": "6307133702148d12f92a",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Biomarker-Discovery-Framework-1.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-21T00:00:00Z",
-      "research_track": "",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "August 21, 2026 An AI tool for prioritizing candidate biomarkers from wearable sensor data Generative AI · Health & Bioscience",
-      "url": "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data"
     }
   ],
   "date_label": "Sunday, August 23, 2026",
-  "generated_at": "2026-08-22T23:51:24Z",
+  "generated_at": "2026-08-23T05:04:05Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
     "fetched_items": 201,
-    "retained_items": 31,
+    "retained_items": 28,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
