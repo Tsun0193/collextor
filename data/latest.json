@@ -179,6 +179,46 @@
       "url": "https://www.latent.space/p/ainews-stripe-buys-openrouter-for"
     },
     {
+      "also_covered_by": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "authors": [
+        "Marko Haralović",
+        "Sounic Akkaraju",
+        "Carlo Baretta",
+        "Vasil Zapryanov",
+        "Alexia Briassouli"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.21300v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Foundation models for medical image segmentation, like prompt-based MedSAM, generalize well across domains and modalities, often in zero or few-shot setups. However, their performance depends on the quality of prompts and the adaptation...",
+      "event_cluster_id": "77d622079191",
+      "fetched_at": "2026-08-24T05:20:58Z",
+      "id": "77d62207919117e91011",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-21T17:01:10Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: foundation model",
+        "covered by multiple configured sources"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning",
+      "url": "https://arxiv.org/abs/2608.21300v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Tim De Chant"
@@ -346,6 +386,7 @@
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/23/drew-breunig",
       "cluster_sources": [
@@ -472,39 +513,6 @@
       "url": "https://www.latent.space/p/ainews-10-worse-100x-cheaper-10000x"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Surging demand for AI training data is driving rapid growth for the startup and its rivals.",
-      "event_cluster_id": "b39e42552198",
-      "fetched_at": "2026-08-21T05:06:42Z",
-      "id": "b39e42552198e020d6a9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-21T00:13:44Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: training",
-        "startup/product signal: startup, API"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AI data startup Micro1 reaches $500M gross run rate amid AI training boom",
-      "url": "https://techcrunch.com/2026/08/20/ai-data-startup-micro1-reaches-500m-gross-run-rate-amid-ai-training-boom"
-    },
-    {
       "also_covered_by": [
         "arXiv - Medical AI and Neuroimaging"
       ],
@@ -589,6 +597,7 @@
       "url": "https://arxiv.org/abs/2608.20314v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -621,69 +630,70 @@
     },
     {
       "authors": [
-        "sbulaev"
+        "RomulusHill"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.20055",
+      "canonical_url": "https://scalattice.com/blog/modelmeter",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "bb0a5d5317bb",
-      "fetched_at": "2026-08-22T05:01:39Z",
-      "id": "hn-49396471",
+      "event_cluster_id": "2bf670d67f30",
+      "fetched_at": "2026-08-24T05:20:58Z",
+      "id": "hn-49415385",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-22T04:07:07Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "EchoCoT: Extracting Hidden Chain-of-Thought from Large Reasoning Models",
-      "url": "https://arxiv.org/abs/2608.20055"
-    },
-    {
-      "authors": [
-        "peepsick"
-      ],
-      "canonical_url": "https://github.com/PeepSick/usb",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ae5dc59fc1d9",
-      "fetched_at": "2026-08-23T23:51:45Z",
-      "id": "hn-49412052",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-23T20:01:50Z",
+      "published_at": "2026-08-24T05:09:22Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "technical relevance: agent",
+        "major-event keyword: model",
         "startup/product signal: Show HN"
       ],
       "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: USB – A universal skill bridge for AI agents",
-      "url": "https://github.com/PeepSick/usb"
+      "title": "Show HN: Scalattice Modelmeter. OSS price and latency bench for open models",
+      "url": "https://scalattice.com/blog/modelmeter"
     },
     {
+      "authors": [
+        "jaeseok614"
+      ],
+      "canonical_url": "https://jaeseok614.github.io/llm-gpu-checker-ko",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "97be8c77aec5",
+      "fetched_at": "2026-08-24T05:20:58Z",
+      "id": "hn-49415348",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-24T05:04:22Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open-source, GPU",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Open-source calculator for \"will my GPU run this LLM?\"",
+      "url": "https://jaeseok614.github.io/llm-gpu-checker-ko"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -693,7 +703,7 @@
       ],
       "description": "Flock Safety faces a growing public outcry over concerns that its surveillance technology could be misused.",
       "event_cluster_id": "5b70534369de",
-      "fetched_at": "2026-08-23T23:51:45Z",
+      "fetched_at": "2026-08-24T05:20:58Z",
       "id": "5b70534369de162a371a",
       "image_url": "",
       "is_breaking": false,
@@ -715,6 +725,7 @@
       "url": "https://techcrunch.com/2026/08/23/flock-ceo-calls-for-compromise-as-surveillance-company-faces-growing-backlash"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Amanda Silberling"
       ],
@@ -724,7 +735,7 @@
       ],
       "description": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
       "event_cluster_id": "89e7c92b661d",
-      "fetched_at": "2026-08-23T23:51:45Z",
+      "fetched_at": "2026-08-24T05:20:58Z",
       "id": "89e7c92b661d65079653",
       "image_url": "",
       "is_breaking": false,
@@ -837,52 +848,15 @@
       "source_name": "TechCrunch AI",
       "title": "OpenAI says California should strengthen its AI safety bill",
       "url": "https://techcrunch.com/2026/08/22/openai-says-california-should-strengthen-its-ai-safety-bill"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Narges Ahmadi",
-        "Yubo Jiao",
-        "Jônatas Augusto Manzolli",
-        "Jiangbo Yu",
-        "Luis Miranda-Moreno"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.20320v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Travel behavior research increasingly combines digital data collection with predictive modeling, yet these stages are often developed and evaluated separately. This study proposes a three-agent workflow integrating conversational data...",
-      "event_cluster_id": "8eaa80cbb5a9",
-      "fetched_at": "2026-08-21T11:00:30Z",
-      "id": "8eaa80cbb5a93fba4d71",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-20T17:57:42Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "An Agentic Approach for Active Data Collection, Travel Behavior Modeling, and Weather-Sensitive Demand Prediction",
-      "url": "https://arxiv.org/abs/2608.20320v1"
     }
   ],
   "date_label": "Monday, August 24, 2026",
-  "generated_at": "2026-08-23T23:51:45Z",
+  "generated_at": "2026-08-24T05:20:58Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 2,
     "failed_sources": 1,
-    "fetched_items": 203,
-    "retained_items": 26,
+    "fetched_items": 204,
+    "retained_items": 25,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
