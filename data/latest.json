@@ -35,47 +35,7 @@
       "url": "https://www.technologyreview.com/2026/08/24/1142630/ai-school-classroom-policies"
     },
     {
-      "also_covered_by": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "authors": [
-        "Dhruv Gupta",
-        "Emma A. M. Stanley",
-        "Fabio De Sousa Ribeiro",
-        "Sujal Desai",
-        "Ben Glocker"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.19078v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Foundation models are increasingly adapted for downstream medical imaging tasks, yet the influence of the chosen adaptation strategy on subgroup fairness remains poorly understood. We investigate how three parameter-efficient adaptation...",
-      "event_cluster_id": "adf09a886458",
-      "fetched_at": "2026-08-20T11:00:38Z",
-      "id": "adf09a88645806f7461a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-19T16:25:44Z",
-      "research_track": "medical_neuroimaging",
-      "score": 22,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical imaging",
-        "technical relevance: foundation model",
-        "covered by multiple configured sources"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Subgroup performance analysis of adaptation strategies for chest X-ray foundation models",
-      "url": "https://arxiv.org/abs/2608.19078v1"
-    },
-    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/wellbeing-research-grants",
       "cluster_sources": [
@@ -105,6 +65,44 @@
       "source_name": "Anthropic News",
       "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
       "url": "https://www.anthropic.com/news/wellbeing-research-grants"
+    },
+    {
+      "authors": [
+        "Marc Rodríguez",
+        "Grzegorz Skorupko",
+        "Nay Aung",
+        "Steffen E Petersen",
+        "Karim Lekadir",
+        "Polyxeni Gkontra"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.24342v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Synthetic image generation is a promising strategy to address data scarcity and the underrepresentation of clinically important phenotypes in medical imaging, yet generating images that faithfully reflect meaningful patient...",
+      "event_cluster_id": "bd82335b13e7",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "bd82335b13e7084d43cf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-25T10:03:46Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: PET, medical imaging",
+        "technical relevance: foundation model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Metadata-Aware Adaptation of a Generative Foundation Model for Conditional CMR Synthesis",
+      "url": "https://arxiv.org/abs/2608.24342v1"
     },
     {
       "also_covered_by": [],
@@ -242,6 +240,7 @@
       "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3",
       "cluster_sources": [
@@ -271,6 +270,7 @@
       "url": "https://simonwillison.net/2026/Aug/25/eve-online-move-to-python-3"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -303,6 +303,7 @@
       "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Russell Brandom"
       ],
@@ -312,7 +313,7 @@
       ],
       "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
       "event_cluster_id": "0c7fd5172055",
-      "fetched_at": "2026-08-25T23:54:14Z",
+      "fetched_at": "2026-08-26T05:07:34Z",
       "id": "0c7fd51720556fba224e",
       "image_url": "",
       "is_breaking": false,
@@ -404,43 +405,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Yufan Wang",
-        "Rui Yang",
-        "Yi Liu",
-        "Yi Lin",
-        "Yifan Peng"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.22713v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Clinical diagnosis requires progressive integration of patient history, physical examination, laboratory findings, medical images, and diagnostic-informative tests. However, most multimodal medical benchmarks evaluate fixed inputs or...",
-      "event_cluster_id": "2cf5388fd807",
-      "fetched_at": "2026-08-25T23:54:14Z",
-      "id": "2cf5388fd807ea3595d0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-24T02:04:39Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: benchmark",
-        "research relevance: medical image, multimodal medical",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A Source-Grounded Framework for Constructing and Evaluating Progressive Multimodal Diagnostic Dialogues from Clinical Case Reports",
-      "url": "https://arxiv.org/abs/2608.22713v1"
-    },
-    {
-      "authors": [
         "Anna Heim"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
@@ -449,7 +413,7 @@
       ],
       "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
       "event_cluster_id": "706dcdf4cbb7",
-      "fetched_at": "2026-08-25T23:54:14Z",
+      "fetched_at": "2026-08-26T05:07:34Z",
       "id": "706dcdf4cbb7e612b6f5",
       "image_url": "",
       "is_breaking": false,
@@ -472,6 +436,7 @@
       "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
@@ -481,7 +446,7 @@
       ],
       "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
       "event_cluster_id": "d9bffbbc29b4",
-      "fetched_at": "2026-08-25T23:54:14Z",
+      "fetched_at": "2026-08-26T05:07:34Z",
       "id": "d9bffbbc29b492963e55",
       "image_url": "",
       "is_breaking": false,
@@ -601,6 +566,162 @@
       "url": "https://robjhyndman.com/hyndsight/foundation_models.html"
     },
     {
+      "authors": [
+        "Sixiang Chen",
+        "Jiaming Liu",
+        "Jixian Wu",
+        "Yichen Guo",
+        "Tinghao Wang",
+        "Siyuan Qian",
+        "Hao Chen",
+        "Jiajun Cao"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.24885v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions....",
+      "event_cluster_id": "7a63dad6a59d",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "7a63dad6a59d099e3f38",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-25T17:59:49Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Do Robotic World Models Really Follow Actions? Diagnosing and Aligning Action-Conditioned Generation for Policy Learning",
+      "url": "https://arxiv.org/abs/2608.24885v1"
+    },
+    {
+      "authors": [
+        "Fei Tang",
+        "Huawen Shen",
+        "Zhiqiong Lu",
+        "Zhengxi Lu",
+        "Pengyuan Lyu",
+        "Chengquan Zhang",
+        "Weiming Lu",
+        "Jun Xiao"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.24848v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Web agents that act from rendered pixels avoid the fragility and heavy token cost of reading a page's HTML or accessibility tree, but training them depends on large amounts of high-quality interaction trajectories, and how to produce...",
+      "event_cluster_id": "8f66f708b182",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "8f66f708b182b36b23eb",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-25T17:35:42Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: training",
+        "technical relevance: agent, RAG"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "BrowserForge: Scaling Web Episode via Parallel Browser Sandboxes",
+      "url": "https://arxiv.org/abs/2608.24848v1"
+    },
+    {
+      "authors": [
+        "Andreas Hochlehnert",
+        "Marianna Nezhurina",
+        "Mehdi Cherti",
+        "Andrej Radonjic",
+        "Thaddäus Wiedemer",
+        "Christoph Schuhmann",
+        "Romain Beaumont",
+        "Wieland Brendel"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.24845v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a total duration of 10 million hours....",
+      "event_cluster_id": "d9107308447a",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "d9107308447aca7756fd",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-25T17:34:19Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: training",
+        "technical relevance: multimodal"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training",
+      "url": "https://arxiv.org/abs/2608.24845v1"
+    },
+    {
+      "authors": [
+        "Esakkivel Esakkiraja",
+        "Denis Akhiyarov",
+        "Vikas Yadav",
+        "Sai Rajeswar",
+        "Patrice Bechard",
+        "Sridhar Nemala",
+        "Sagar Davasam"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.24804v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces, skills, MCP-backed providers, subagent...",
+      "event_cluster_id": "abfc8ef06020",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "abfc8ef06020217b9f83",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-25T16:48:05Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments",
+      "url": "https://arxiv.org/abs/2608.24804v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
       "cluster_sources": [
@@ -608,7 +729,7 @@
       ],
       "description": "",
       "event_cluster_id": "f1c76f23a788",
-      "fetched_at": "2026-08-25T23:54:14Z",
+      "fetched_at": "2026-08-26T05:07:34Z",
       "id": "f1c76f23a788b6884a28",
       "image_url": "",
       "is_breaking": false,
@@ -658,6 +779,113 @@
       "source_name": "Latent Space",
       "title": "[AINews] Andrew Ng gets into AI Engineering",
       "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering"
+    },
+    {
+      "authors": [
+        "Sourav Pal",
+        "Viet Luong",
+        "Hoseok Lee",
+        "Tingting Dan",
+        "Guorong Wu",
+        "Richard Davidson",
+        "Won Hwa Kim",
+        "Vikas Singh"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.23936v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "We present a dynamical-systems based model for resting-state functional magnetic resonance imaging (rs-fMRI), trained on a dataset of roughly 40K rs-fMRI sequences covering a wide variety of public and available-by-permission datasets....",
+      "event_cluster_id": "ab7c5f8ae03d",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "ab7c5f8ae03d3c952031",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-25T00:52:46Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: MRI, fMRI"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MnemoDyn: Learning Resting State Dynamics from 40K FMRI sequences",
+      "url": "https://arxiv.org/abs/2608.23936v1"
+    },
+    {
+      "authors": [
+        "Leila Khaertdinova",
+        "Anna Anikina",
+        "Claudia Mello-Thoms",
+        "Bulat Ibragimov"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.23836v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Accurate interpretation of volumetric CT requires efficient navigation of 3D image volumes and attention to diagnostically relevant regions. While eye-tracking has been widely studied in 2D medical imaging, its use for expertise...",
+      "event_cluster_id": "b9e9494a26a9",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "b9e9494a26a918fe3049",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-24T21:24:31Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: medical imaging",
+        "technical relevance: RAG"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Predicting Radiologist Expertise from 3D Gaze Patterns During CT Interpretation",
+      "url": "https://arxiv.org/abs/2608.23836v1"
+    },
+    {
+      "authors": [
+        "Mohammad Mahdi Danesh Pajouh",
+        "Sara Saeedi"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.23745v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Accurate brain tumor segmentation from magnetic resonance imaging (MRI) is essential for diagnosis, treatment planning, surgical guidance, and disease monitoring. However, developing automated segmentation models that generalize across...",
+      "event_cluster_id": "83a69dee6d59",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "83a69dee6d5992387187",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-24T18:31:13Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: MRI"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Multi-Stage Prompt-Guided Feature Modulation for Generalizable Brain Tumor Segmentation",
+      "url": "https://arxiv.org/abs/2608.23745v1"
     },
     {
       "also_covered_by": [],
@@ -737,116 +965,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Zhiqing Cui",
-        "Xinxiang Yin",
-        "Yihong Tang",
-        "Xinglang Zhang",
-        "Yuanzhe Hu",
-        "Siru Zhong",
-        "Weidong Tang",
-        "Yuxuan Liang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.23525v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Earth-system analysis reconstructs changing physical processes from observations that differ in source, scale, timing, and modality. Natural hazards make this work consequential because incomplete evidence can change estimates of...",
-      "event_cluster_id": "deb3bbb800b5",
-      "fetched_at": "2026-08-25T05:07:36Z",
-      "id": "deb3bbb800b55e30b397",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-24T17:29:16Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
-      "url": "https://arxiv.org/abs/2608.23525v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Melissa Dell",
-        "Ashesh Rambachan"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.23524v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Artificial intelligence (AI) is transforming measurement in economics. AI models convert unstructured data, such as text and images, into structured variables at low cost, making previously prohibitive measurement feasible at scale. This...",
-      "event_cluster_id": "9644cb58385d",
-      "fetched_at": "2026-08-25T05:07:36Z",
-      "id": "9644cb58385d16f97bda",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-24T17:28:34Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: inference"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "The Measurement Revolution? Credible Measurement and Inference in the Age of AI",
-      "url": "https://arxiv.org/abs/2608.23524v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Adhithya Laxman Ravi Shankar Geetha",
-        "Aulia Kharis Rakhmasari",
-        "Haleema Ramzan",
-        "Xander Yap"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.23518v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-Language Models (VLMs) achieve strong performance in visual reasoning tasks, but it remains unclear whether they understand visual relations, or simply employ shortcuts such as language cues or priors. To investigate this, we use...",
-      "event_cluster_id": "c3e319327ddd",
-      "fetched_at": "2026-08-25T05:07:36Z",
-      "id": "c3e319327ddd41dc57af",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-24T17:23:36Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, VLM, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Investigating Relational Reasoning in VLMs",
-      "url": "https://arxiv.org/abs/2608.23518v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Thomas Macaulay"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/08/24/1142863/the-download-kids-outlearning-ai-space-travel-agents",
@@ -906,6 +1024,7 @@
       "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Adam Conner-Simons"
       ],
@@ -965,6 +1084,7 @@
       "url": "https://huggingface.co/blog/gradio-workflow-guide"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
       "cluster_sources": [
@@ -972,7 +1092,7 @@
       ],
       "description": "",
       "event_cluster_id": "d21068479952",
-      "fetched_at": "2026-08-25T23:54:14Z",
+      "fetched_at": "2026-08-26T05:07:34Z",
       "id": "d21068479952e4038366",
       "image_url": "",
       "is_breaking": false,
@@ -993,6 +1113,45 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
     },
     {
+      "authors": [
+        "Leonhard F. Feiner",
+        "Manuel Nickel",
+        "Martin Menten",
+        "Laurin Lux",
+        "Rickmer Braren",
+        "Daniel Rueckert",
+        "Georgios Kaissis",
+        "Raphael Rehms"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.24518v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Uncertainty Quantification (UQ) plays a vital role in enhancing the reliability of deep learning model predictions, especially in scenarios with high-dimensional output spaces. This paper addresses the dual nature of uncertainty --...",
+      "event_cluster_id": "6c955a4ec7ba",
+      "fetched_at": "2026-08-26T05:07:34Z",
+      "id": "6c955a4ec7ba84ba9265",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-25T13:08:17Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "It depends: Incorporating correlations for joint aleatoric and epistemic uncertainties of high-dimensional output spaces",
+      "url": "https://arxiv.org/abs/2608.24518v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr",
       "cluster_sources": [
@@ -1020,78 +1179,15 @@
       "source_name": "Google Research Blog",
       "title": "August 25, 2026 AgentHands: Generating interactive hand gestures for spatially grounded agent conversations in XR Human-Computer Interaction and Visualization · Machine Intelligence",
       "url": "https://research.google/blog/agenthands-generating-interactive-hand-gestures-for-spatially-grounded-agent-conversations-in-xr"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Penghui Qi",
-        "Xiangxin Zhou",
-        "Wee Sun Lee"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.23566v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response,...",
-      "event_cluster_id": "0f43f9497ffc",
-      "fetched_at": "2026-08-25T05:07:36Z",
-      "id": "0f43f9497ffc0f4f9139",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-24T17:59:39Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "How to Train a Critic Stably and Efficiently",
-      "url": "https://arxiv.org/abs/2608.23566v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://mistral.ai/news/mistral-x-humain",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Company",
-      "event_cluster_id": "cb7928ba1a13",
-      "fetched_at": "2026-08-24T23:52:57Z",
-      "id": "cb7928ba1a13a260a9b5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-24T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Company Mistral x HUMAIN August 24, 2026 By Mistral",
-      "url": "https://mistral.ai/news/mistral-x-humain"
     }
   ],
   "date_label": "Wednesday, August 26, 2026",
-  "generated_at": "2026-08-25T23:54:14Z",
+  "generated_at": "2026-08-26T05:07:34Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 195,
-    "retained_items": 33,
+    "fetched_items": 193,
+    "retained_items": 35,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
