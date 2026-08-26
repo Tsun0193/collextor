@@ -67,6 +67,7 @@
       "url": "https://www.anthropic.com/news/wellbeing-research-grants"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Marc Rodríguez",
         "Grzegorz Skorupko",
@@ -313,7 +314,7 @@
       ],
       "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
       "event_cluster_id": "0c7fd5172055",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "0c7fd51720556fba224e",
       "image_url": "",
       "is_breaking": false,
@@ -370,39 +371,6 @@
       "url": "https://www.lpulite.com"
     },
     {
-      "authors": [
-        "oxi113"
-      ],
-      "canonical_url": "https://github.com/oxiKKK/re-goldsrc-won-launcher-1792",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "c6f508c7bb5c",
-      "fetched_at": "2026-08-24T11:04:09Z",
-      "id": "hn-49416866",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-24T08:37:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Reverse-engineered Half-Life's 2001 WON launcher with LLM agents",
-      "url": "https://github.com/oxiKKK/re-goldsrc-won-launcher-1792"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Anna Heim"
@@ -413,7 +381,7 @@
       ],
       "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
       "event_cluster_id": "706dcdf4cbb7",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "706dcdf4cbb7e612b6f5",
       "image_url": "",
       "is_breaking": false,
@@ -446,7 +414,7 @@
       ],
       "description": "TechCrunch talks agents, UX, and reporting to Greg Brockman with OpenAI's head of product.",
       "event_cluster_id": "d9bffbbc29b4",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "d9bffbbc29b492963e55",
       "image_url": "",
       "is_breaking": false,
@@ -500,6 +468,41 @@
       "source_name": "TechCrunch AI",
       "title": "Hugging Face reportedly in talks to be acquired for $13B",
       "url": "https://techcrunch.com/2026/08/24/hugging-face-reportedly-in-talks-to-be-acquired-for-13b"
+    },
+    {
+      "also_covered_by": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "authors": [
+        "joozio"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2fe8049b9e3b",
+      "fetched_at": "2026-08-26T11:04:25Z",
+      "id": "hn-49446884",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-26T11:02:39Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "covered by multiple configured sources"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "AI models flub these intelligence tests. Can you fare any better?",
+      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests"
     },
     {
       "authors": [
@@ -567,6 +570,66 @@
     },
     {
       "authors": [
+        "Mat Honan"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital...",
+      "event_cluster_id": "3d4f4c59b13e",
+      "fetched_at": "2026-08-26T11:04:25Z",
+      "id": "3d4f4c59b13e90e2e4de",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-26T09:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: raised"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Raised on AI",
+      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/26/paul-dix",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can...",
+      "event_cluster_id": "d9920b9c799b",
+      "fetched_at": "2026-08-26T11:04:25Z",
+      "id": "d9920b9c799b358a7bbf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-26T08:07:55Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Paul Dix",
+      "url": "https://simonwillison.net/2026/Aug/26/paul-dix"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Sixiang Chen",
         "Jiaming Liu",
         "Jixian Wu",
@@ -582,7 +645,7 @@
       ],
       "description": "Action-conditioned world models are increasingly used as learned simulators for policy evaluation and improvement, yet their effectiveness rests on an unverified assumption: generated futures faithfully reflect arbitrary valid actions....",
       "event_cluster_id": "7a63dad6a59d",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "7a63dad6a59d099e3f38",
       "image_url": "",
       "is_breaking": false,
@@ -605,6 +668,7 @@
       "url": "https://arxiv.org/abs/2608.24885v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Fei Tang",
         "Huawen Shen",
@@ -621,7 +685,7 @@
       ],
       "description": "Web agents that act from rendered pixels avoid the fragility and heavy token cost of reading a page's HTML or accessibility tree, but training them depends on large amounts of high-quality interaction trajectories, and how to produce...",
       "event_cluster_id": "8f66f708b182",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "8f66f708b182b36b23eb",
       "image_url": "",
       "is_breaking": false,
@@ -644,6 +708,7 @@
       "url": "https://arxiv.org/abs/2608.24848v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Andreas Hochlehnert",
         "Marianna Nezhurina",
@@ -660,7 +725,7 @@
       ],
       "description": "We present LAION-BVD, a large-scale open video dataset for multimodal learning, which contains 1.3B platform-specific video URLs collected from CommonCrawl. From these, we download 80M videos with a total duration of 10 million hours....",
       "event_cluster_id": "d9107308447a",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "d9107308447aca7756fd",
       "image_url": "",
       "is_breaking": false,
@@ -683,6 +748,7 @@
       "url": "https://arxiv.org/abs/2608.24845v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Esakkivel Esakkiraja",
         "Denis Akhiyarov",
@@ -698,7 +764,7 @@
       ],
       "description": "We present StarHarness, a framework for evolving environment-specific agent harnesses while keeping model weights fixed. The evolved harness can include prompt and task framing, tool interfaces, skills, MCP-backed providers, subagent...",
       "event_cluster_id": "abfc8ef06020",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "abfc8ef06020217b9f83",
       "image_url": "",
       "is_breaking": false,
@@ -729,7 +795,7 @@
       ],
       "description": "",
       "event_cluster_id": "f1c76f23a788",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "f1c76f23a788b6884a28",
       "image_url": "",
       "is_breaking": false,
@@ -781,6 +847,7 @@
       "url": "https://www.latent.space/p/ainews-andrew-ng-gets-into-ai-engineering"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sourav Pal",
         "Viet Luong",
@@ -797,7 +864,7 @@
       ],
       "description": "We present a dynamical-systems based model for resting-state functional magnetic resonance imaging (rs-fMRI), trained on a dataset of roughly 40K rs-fMRI sequences covering a wide variety of public and available-by-permission datasets....",
       "event_cluster_id": "ab7c5f8ae03d",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "ab7c5f8ae03d3c952031",
       "image_url": "",
       "is_breaking": false,
@@ -820,6 +887,7 @@
       "url": "https://arxiv.org/abs/2608.23936v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Leila Khaertdinova",
         "Anna Anikina",
@@ -832,7 +900,7 @@
       ],
       "description": "Accurate interpretation of volumetric CT requires efficient navigation of 3D image volumes and attention to diagnostically relevant regions. While eye-tracking has been widely studied in 2D medical imaging, its use for expertise...",
       "event_cluster_id": "b9e9494a26a9",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "b9e9494a26a918fe3049",
       "image_url": "",
       "is_breaking": false,
@@ -855,6 +923,7 @@
       "url": "https://arxiv.org/abs/2608.23836v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Mohammad Mahdi Danesh Pajouh",
         "Sara Saeedi"
@@ -865,7 +934,7 @@
       ],
       "description": "Accurate brain tumor segmentation from magnetic resonance imaging (MRI) is essential for diagnosis, treatment planning, surgical guidance, and disease monitoring. However, developing automated segmentation models that generalize across...",
       "event_cluster_id": "83a69dee6d59",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "83a69dee6d5992387187",
       "image_url": "",
       "is_breaking": false,
@@ -1024,6 +1093,36 @@
       "url": "https://simonwillison.net/2026/Aug/24/your-executable-is-a-sqlite-database"
     },
     {
+      "authors": [
+        "Mat Honan"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. The view from the Gates Ventures...",
+      "event_cluster_id": "913a9ecb254e",
+      "fetched_at": "2026-08-26T11:04:25Z",
+      "id": "913a9ecb254eed171b37",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-08-26T07:01:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+      "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Adam Conner-Simons"
@@ -1092,7 +1191,7 @@
       ],
       "description": "",
       "event_cluster_id": "d21068479952",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "d21068479952e4038366",
       "image_url": "",
       "is_breaking": false,
@@ -1113,6 +1212,7 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Leonhard F. Feiner",
         "Manuel Nickel",
@@ -1129,7 +1229,7 @@
       ],
       "description": "Uncertainty Quantification (UQ) plays a vital role in enhancing the reliability of deep learning model predictions, especially in scenarios with high-dimensional output spaces. This paper addresses the dual nature of uncertainty --...",
       "event_cluster_id": "6c955a4ec7ba",
-      "fetched_at": "2026-08-26T05:07:34Z",
+      "fetched_at": "2026-08-26T11:04:25Z",
       "id": "6c955a4ec7ba84ba9265",
       "image_url": "",
       "is_breaking": false,
@@ -1182,12 +1282,12 @@
     }
   ],
   "date_label": "Wednesday, August 26, 2026",
-  "generated_at": "2026-08-26T05:07:34Z",
+  "generated_at": "2026-08-26T11:04:25Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 193,
-    "retained_items": 35,
+    "fetched_items": 194,
+    "retained_items": 38,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
