@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Tal Grutman",
         "Tali Ilovitsh"
@@ -11,10 +12,10 @@
       ],
       "description": "In medical imaging, it is common to use learned perceptual image patch similarity (LPIPS) to compare images semantically in feature space. Although backbones pretrained on natural images are widely used for LPIPS computation, B-mode...",
       "event_cluster_id": "9fd6ba328932",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "9fd6ba328932cc5063cc",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-08-26T17:12:11Z",
@@ -37,37 +38,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/wellbeing-research-grants",
-      "cluster_sources": [
-        "Anthropic News"
-      ],
-      "description": "",
-      "event_cluster_id": "1e032b3767d6",
-      "fetched_at": "2026-08-25T23:54:14Z",
-      "id": "1e032b3767d6bbcd1e13",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-25T00:00:00Z",
-      "research_track": "",
-      "score": 21,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "major-event keyword: funding",
-        "technical relevance: evaluation",
-        "startup/product signal: funding"
-      ],
-      "section": "startup_product",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
-      "url": "https://www.anthropic.com/news/wellbeing-research-grants"
-    },
-    {
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next",
       "cluster_sources": [
@@ -98,6 +68,7 @@
       "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
       "cluster_sources": [
@@ -129,6 +100,7 @@
       "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Riga Wu",
         "Walter Witschey",
@@ -145,7 +117,7 @@
       ],
       "description": "Medical image foundation models can predict clinical phenotypes from computed tomography (CT), but strong performance leaves open whether they read disease-specific findings or shortcuts that correlate with the diagnosis. We tested this...",
       "event_cluster_id": "0376c0b81c3f",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "0376c0b81c3f7c3dff9a",
       "image_url": "",
       "is_breaking": false,
@@ -169,6 +141,7 @@
       "url": "https://arxiv.org/abs/2608.25948v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Brandon Anderson"
       ],
@@ -202,6 +175,7 @@
       "url": "https://www.latent.space/p/anima"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Juan Iñaki Larrea",
         "Lucas Mansilla",
@@ -237,6 +211,7 @@
       "url": "https://arxiv.org/abs/2608.25810v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Russell Brandom"
       ],
@@ -270,6 +245,7 @@
       "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Atle Bjørnerud",
         "Till Schellhorn",
@@ -309,45 +285,72 @@
       "url": "https://arxiv.org/abs/2608.25675v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Marc Rodríguez",
-        "Grzegorz Skorupko",
-        "Nay Aung",
-        "Steffen E Petersen",
-        "Karim Lekadir",
-        "Polyxeni Gkontra"
+        "Thomas Macaulay"
       ],
-      "canonical_url": "https://arxiv.org/abs/2608.24342v1",
+      "canonical_url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "Synthetic image generation is a promising strategy to address data scarcity and the underrepresentation of clinically important phenotypes in medical imaging, yet generating images that faithfully reflect meaningful patient...",
-      "event_cluster_id": "bd82335b13e7",
-      "fetched_at": "2026-08-26T05:07:34Z",
-      "id": "bd82335b13e7084d43cf",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The inside story on why OpenAI agents hacked Hugging Face The models responsible for last month’s...",
+      "event_cluster_id": "a9d2c9583003",
+      "fetched_at": "2026-08-27T15:25:42Z",
+      "id": "a9d2c95830031e643f84",
       "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
+      "is_breaking": true,
+      "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-08-25T10:03:46Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
+      "published_at": "2026-08-27T12:10:00Z",
+      "research_track": "",
+      "score": 18,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
+        "high source",
+        "published within 6 hours",
         "major-event keyword: model",
-        "research relevance: PET, medical imaging",
-        "technical relevance: foundation model"
+        "technical relevance: agent"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Metadata-Aware Adaptation of a Generative Foundation Model for Conditional CMR Synthesis",
-      "url": "https://arxiv.org/abs/2608.24342v1"
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
+      "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
+      "event_cluster_id": "4ea07101daf1",
+      "fetched_at": "2026-08-21T23:53:36Z",
+      "id": "4ea07101daf1d60ea841",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-21T19:43:39Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
+      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
       "cluster_sources": [
@@ -378,6 +381,7 @@
       "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Grace Huckins"
       ],
@@ -387,7 +391,7 @@
       ],
       "description": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents...",
       "event_cluster_id": "86ab8fe0aa67",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "86ab8fe0aa677d1f2f40",
       "image_url": "",
       "is_breaking": false,
@@ -473,39 +477,39 @@
       "url": "https://techcrunch.com/2026/08/25/stability-ai-maker-of-image-generator-stable-diffusion-raises-76-million-in-fresh-funding"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Russell Brandom"
+        "Connie Loizos"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+      "canonical_url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
-      "event_cluster_id": "0c7fd5172055",
-      "fetched_at": "2026-08-26T11:04:25Z",
-      "id": "0c7fd51720556fba224e",
+      "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open-source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
+      "event_cluster_id": "f102e443156f",
+      "fetched_at": "2026-08-27T15:25:42Z",
+      "id": "f102e443156ffdb4ddfe",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-25T14:22:04Z",
+      "published_at": "2026-08-27T06:32:51Z",
       "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: benchmark, chip, inference",
-        "technical relevance: inference"
+        "major-event keyword: open-source, acquisition, chip",
+        "startup/product signal: acquisition"
       ],
-      "section": "business_policy",
+      "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
-      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show"
+      "title": "Nvidia closes in on Hugging Face acquisition",
+      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Mahshad Lotfinia",
         "Daniel Truhn",
@@ -518,7 +522,7 @@
       ],
       "description": "Subgroup performance differences are the standard evidence for fairness bias in medical imaging, and the usual response removes the demographic information that a model encodes. Here we introduce Fair-model Reference And Mechanism...",
       "event_cluster_id": "518605cc9e96",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "518605cc9e9651c4d480",
       "image_url": "",
       "is_breaking": false,
@@ -541,6 +545,46 @@
       "url": "https://arxiv.org/abs/2608.25981v1"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Sheethal Bhat",
+        "Mahfuzur Rahman Chowdhury",
+        "Paula Andrea Perez-Toro",
+        "Stephan Wunderlich",
+        "Rose Dawn Bharat",
+        "Siming Bayer",
+        "Andreas Maier"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.25970v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multimodal medical prediction often faces incomplete pairing: auxiliary modalities with complementary signal are available for only a subset of subjects (or none) and cannot be assumed at deployment. We introduce PANDA (Prototype...",
+      "event_cluster_id": "7a1eb15aa43e",
+      "fetched_at": "2026-08-27T15:25:42Z",
+      "id": "7a1eb15aa43e3f11bfbf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-26T16:28:20Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: Alzheimer, MRI, multimodal medical",
+        "technical relevance: multimodal"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "PANDA - Prototype-Anchored Alignment for Partially Unpaired Multimodal Learning, with Applications to Alzheimers MRI and TCGA Pathology",
+      "url": "https://arxiv.org/abs/2608.25970v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Richard MacManus"
       ],
@@ -550,7 +594,7 @@
       ],
       "description": "Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin.",
       "event_cluster_id": "738f130d6895",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "738f130d6895192c9c19",
       "image_url": "https://substackcdn.com/image/fetch/$s_!fZkV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1af0c504-12da-4610-be86-b5bf3af2514d_1280x720.png",
       "is_breaking": false,
@@ -573,6 +617,7 @@
       "url": "https://www.latent.space/p/lovable-future-of-saas"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -582,7 +627,7 @@
       ],
       "description": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
       "event_cluster_id": "b69b4dcf308e",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "b69b4dcf308e907448c2",
       "image_url": "",
       "is_breaking": false,
@@ -605,6 +650,7 @@
       "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
@@ -637,37 +683,66 @@
       "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Anna Heim"
+        "Rebecca Bellan"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents",
+      "canonical_url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-      "event_cluster_id": "706dcdf4cbb7",
-      "fetched_at": "2026-08-26T11:04:25Z",
-      "id": "706dcdf4cbb7e612b6f5",
+      "description": "Hugging Face is taking orders for the Microduck, a $399 tiny open-source duck robot that developers can train at home out of the box.",
+      "event_cluster_id": "bcb688587fb4",
+      "fetched_at": "2026-08-27T15:25:42Z",
+      "id": "bcb688587fb4f5cf5dcc",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-25T13:00:00Z",
+      "is_must_read": false,
+      "published_at": "2026-08-27T14:56:52Z",
       "research_track": "",
-      "score": 16,
+      "score": 15,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "technical relevance: agent",
-        "startup/product signal: seed"
+        "published within 6 hours",
+        "major-event keyword: open-source"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "url": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents"
+      "title": "Hugging Face is selling a cute $399 open-source duck robot, Microduck",
+      "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck"
+    },
+    {
+      "authors": [
+        "Dan Goodin"
+      ],
+      "canonical_url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face",
+      "cluster_sources": [
+        "Ars Technica AI"
+      ],
+      "description": "Without authorization, 1,200 OpenAI agents conspired among themselves to game a test.",
+      "event_cluster_id": "6644f2d547fa",
+      "fetched_at": "2026-08-27T15:25:42Z",
+      "id": "6644f2d547fa15edf337",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/07/GettyImages-1004669768-500x500-1784927028.jpg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-27T12:58:59Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "ars_ai",
+      "source_name": "Ars Technica AI",
+      "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
+      "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face"
     },
     {
       "also_covered_by": [
@@ -801,6 +876,7 @@
       "url": "https://kosev-lex.com/page1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Scharon Harding"
       ],
@@ -810,7 +886,7 @@
       ],
       "description": "Report shows Meta's challenges replacing people with AI agents.",
       "event_cluster_id": "f631a19384a1",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "f631a19384a1d2cd7411",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-500x500.jpg",
       "is_breaking": false,
@@ -832,6 +908,7 @@
       "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Kaichen Li",
         "Zhilin Zhu",
@@ -848,7 +925,7 @@
       ],
       "description": "In this paper, we explore a novel task of Multimodal Unsupervised Continual Post-Training (MU-CPT), enabling deployed MLLMs to continually evolve from streaming unlabeled data. Existing unsupervised post-training methods for MLLMs...",
       "event_cluster_id": "04af57d8b90f",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "04af57d8b90fe8f0f551",
       "image_url": "",
       "is_breaking": false,
@@ -871,6 +948,7 @@
       "url": "https://arxiv.org/abs/2608.26095v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ahmad Khan",
         "Akram Bin Sediq",
@@ -883,7 +961,7 @@
       ],
       "description": "Designing machine learning algorithms for wireless resource management is labour-intensive: the architecture, the loss function and the training recipe are all specified by hand. We demonstrate that this design layer can be surrendered...",
       "event_cluster_id": "3a8ae06384c9",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "3a8ae06384c9ef21b243",
       "image_url": "",
       "is_breaking": false,
@@ -906,6 +984,7 @@
       "url": "https://arxiv.org/abs/2608.26093v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Raphaël Bonnet-Guerrini",
         "Johann Ioannou-Nikolaides",
@@ -918,7 +997,7 @@
       ],
       "description": "We present a first application of sparse-autoencoder-based mechanistic interpretability to particle physics. Studying a neutrino foundation model pretrained on IceCube data and fine-tuned for direction reconstruction, we identify a...",
       "event_cluster_id": "f67542c70451",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "f67542c70451c8c2c952",
       "image_url": "",
       "is_breaking": false,
@@ -941,6 +1020,7 @@
       "url": "https://arxiv.org/abs/2608.26090v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Evelyn Ma",
         "Rama Kumar Pasumarthi",
@@ -957,7 +1037,7 @@
       ],
       "description": "Addressing critical global challenges, from food security and disaster risk to disease outbreaks and socio-economic vulnerability, demands high-fidelity geospatial modeling. However, building predictive planetary models remains...",
       "event_cluster_id": "d1b32b09b218",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "d1b32b09b218e5079a21",
       "image_url": "",
       "is_breaking": false,
@@ -980,6 +1060,7 @@
       "url": "https://arxiv.org/abs/2608.26088v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jiarui Yan",
         "Weiwei Sun",
@@ -993,7 +1074,7 @@
       ],
       "description": "Large language models write correct code for isolated problems but remain far weaker at autonomous machine-learning development, where an agent must revise data pipelines, models, and validation over hours of feedback, and on most...",
       "event_cluster_id": "035f8106ba36",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "035f8106ba365b516954",
       "image_url": "",
       "is_breaking": false,
@@ -1016,6 +1097,7 @@
       "url": "https://arxiv.org/abs/2608.26086v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Subhadeep Pal",
         "Fiona Y. Wang",
@@ -1027,7 +1109,7 @@
       ],
       "description": "Collective intelligence can emerge when individuals coordinate through a shared environment, allowing local actions to accumulate into durable social organization. Language-model agents offer a new substrate for this process, yet most...",
       "event_cluster_id": "ab9aed2e621a",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "ab9aed2e621a0f0b6de2",
       "image_url": "",
       "is_breaking": false,
@@ -1050,6 +1132,7 @@
       "url": "https://arxiv.org/abs/2608.26081v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -1143,36 +1226,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "f1c76f23a788",
-      "fetched_at": "2026-08-26T11:04:25Z",
-      "id": "f1c76f23a788b6884a28",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-25T11:39:24Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Quantization-Aware Healing: a compressed, 4-bit model that outperforms its full-precision original",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/quantization-aware-healing"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Mat Honan"
       ],
@@ -1203,6 +1256,7 @@
       "url": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring",
       "cluster_sources": [
@@ -1210,7 +1264,7 @@
       ],
       "description": "August 26, 2026",
       "event_cluster_id": "05cc66113318",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "05cc66113318e80dcc59",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/GlucoFM1_Overview.png",
       "is_breaking": false,
@@ -1233,6 +1287,7 @@
       "url": "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/train-multi-vector-encoder",
       "cluster_sources": [
@@ -1240,7 +1295,7 @@
       ],
       "description": "",
       "event_cluster_id": "17177c100c91",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "17177c100c9150295f9a",
       "image_url": "",
       "is_breaking": false,
@@ -1262,6 +1317,7 @@
       "url": "https://huggingface.co/blog/train-multi-vector-encoder"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update",
       "cluster_sources": [
@@ -1269,7 +1325,7 @@
       ],
       "description": "",
       "event_cluster_id": "d43b20ed97ec",
-      "fetched_at": "2026-08-27T04:59:00Z",
+      "fetched_at": "2026-08-27T15:25:42Z",
       "id": "d43b20ed97ec834ca147",
       "image_url": "",
       "is_breaking": false,
@@ -1320,43 +1376,14 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "Your brain on AI",
       "url": "https://www.technologyreview.com/2026/08/25/1140958/your-brain-on-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-4-2",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "d21068479952",
-      "fetched_at": "2026-08-26T11:04:25Z",
-      "id": "d21068479952e4038366",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-25T15:14:14Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Granite 4.2 LLMs: How They're Built",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-4-2"
     }
   ],
   "date_label": "Thursday, August 27, 2026",
-  "generated_at": "2026-08-27T04:59:00Z",
+  "generated_at": "2026-08-27T15:25:42Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 195,
+    "fetched_items": 204,
     "retained_items": 41,
     "successful_sources": 20
   },
