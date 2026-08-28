@@ -102,191 +102,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Riga Wu",
-        "Walter Witschey",
-        "Yicheng Li",
-        "Felix Barajas Ordonez",
-        "Keno K. Bressem",
-        "Lisa C. Adams",
-        "Gary E. Weissman",
-        "Li Shen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.25948v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical image foundation models can predict clinical phenotypes from computed tomography (CT), but strong performance leaves open whether they read disease-specific findings or shortcuts that correlate with the diagnosis. We tested this...",
-      "event_cluster_id": "0376c0b81c3f",
-      "fetched_at": "2026-08-27T15:25:42Z",
-      "id": "0376c0b81c3f7c3dff9a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-26T16:03:59Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Auditable CT Phenotyping Through Report-derived Radiological Observations",
-      "url": "https://arxiv.org/abs/2608.25948v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Brandon Anderson"
-      ],
-      "canonical_url": "https://www.latent.space/p/anima",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Anima Anandkumar has spent two decades in AI, from classical math to deep learning and back. Now she's using it to model the physical world, from weather to fusion reactors.",
-      "event_cluster_id": "774c92e393eb",
-      "fetched_at": "2026-08-27T04:59:00Z",
-      "id": "774c92e393ebe03e59fa",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-08-26T15:15:39Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
-      "url": "https://www.latent.space/p/anima"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Juan Iñaki Larrea",
-        "Lucas Mansilla",
-        "Enzo Ferrante"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.25810v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Foundation models are increasingly deployed for medical image analysis. However, under the inter-institutional distribution shift typical of deployment, their performance varies widely and cannot be known without target-domain labels,...",
-      "event_cluster_id": "414262fbcb56",
-      "fetched_at": "2026-08-27T04:59:00Z",
-      "id": "414262fbcb56fa00c292",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-26T13:56:29Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Label-Free Foundational Model Selection for Medical Image Classification under Distribution Shift via Pseudo Label Discrepancy",
-      "url": "https://arxiv.org/abs/2608.25810v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-      "event_cluster_id": "b6920185a5e7",
-      "fetched_at": "2026-08-27T04:59:00Z",
-      "id": "b6920185a5e7fa727153",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-26T12:55:28Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: funding",
-        "technical relevance: agent",
-        "startup/product signal: seed, funding, raised"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "url": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Atle Bjørnerud",
-        "Till Schellhorn",
-        "Thor H. Skattør",
-        "Terje Nome",
-        "Jon André Ottesen",
-        "Anne Hege Aamodt",
-        "Bradley J MacIntosh"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.25675v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Objective: Diffusion-weighted MRI (DWI-MRI) is the gold standard for visualizing and quantifying acute ischaemic stroke (AIS). Although deep learning methods can accurately segment AIS lesions, the optimal image inputs and model...",
-      "event_cluster_id": "5dce03fb38d7",
-      "fetched_at": "2026-08-27T04:59:00Z",
-      "id": "5dce03fb38d757f53670",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-26T11:53:40Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI",
-        "technical relevance: evaluation, RAG"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Deep Learning Segmentation of Diffusion-Weighted MRI Acute Ischaemic Stroke: A Pragmatic Evaluation Across Three Datasets",
-      "url": "https://arxiv.org/abs/2608.25675v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Thomas Macaulay"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev",
@@ -318,37 +133,37 @@
       "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Julie Bort"
+        "Yahalomi"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero",
+      "canonical_url": "https://github.com/URML-MARS/URML/tree/main/examples/physical-ai-safety-eval",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Hacker News"
       ],
-      "description": "Nvidia research shows that AI agents can perform well, and not go off the deep end, through fine-tuning, even if the AI model isn't that great at the task.",
-      "event_cluster_id": "4ea07101daf1",
-      "fetched_at": "2026-08-21T23:53:36Z",
-      "id": "4ea07101daf1d60ea841",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ae8f860dd676",
+      "fetched_at": "2026-08-28T16:52:40Z",
+      "id": "hn-49480890",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-21T19:43:39Z",
+      "published_at": "2026-08-28T16:28:06Z",
       "research_track": "",
-      "score": 18,
+      "score": 17,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
+        "major-event keyword: safety",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
       ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia just showed that the harness, not the AI model, is now the real hero",
-      "url": "https://techcrunch.com/2026/08/21/nvidia-just-showed-that-the-harness-not-the-ai-model-is-now-the-real-hero"
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: URML – safety-eval harness for AI agents on lab and factory hardware",
+      "url": "https://github.com/URML-MARS/URML/tree/main/examples/physical-ai-safety-eval"
     },
     {
       "also_covered_by": [],
@@ -417,6 +232,7 @@
       "url": "https://techcrunch.com/2026/08/27/hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Bekzat Nurlanbekova",
         "Fung Fung Ting"
@@ -427,7 +243,7 @@
       ],
       "description": "Despite the growing number of public datasets, annotated medical images remain scarce. Supervised learning methods achieve strong performance on many benchmarks, however require large amounts of labeled data, which are costly and...",
       "event_cluster_id": "7e178c287a8d",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "7e178c287a8debdc4e5d",
       "image_url": "",
       "is_breaking": false,
@@ -451,6 +267,7 @@
       "url": "https://arxiv.org/abs/2608.26686v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ziquan Liu",
         "Zhewei Zhu",
@@ -462,7 +279,7 @@
       ],
       "description": "The advent of vision foundation models, notably the Segment Anything Model (SAM), has catalyzed significant advancements in natural image segmentation. However, their direct transfer to medical imaging remains severely bottlenecked by...",
       "event_cluster_id": "392a4b348511",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "392a4b348511f9897388",
       "image_url": "",
       "is_breaking": false,
@@ -550,6 +367,7 @@
       "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode",
       "cluster_sources": [
@@ -557,7 +375,7 @@
       ],
       "description": "Breaking Claude Code Opus 5 Auto Mode Anthropic are putting a great deal of faith in Claude Code's auto mode for protecting their coding agent users against prompt injection attacks. They recently made that the default and have made bold...",
       "event_cluster_id": "86c9015dd55d",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "86c9015dd55dff65a654",
       "image_url": "",
       "is_breaking": false,
@@ -579,6 +397,7 @@
       "url": "https://simonwillison.net/2026/Aug/27/breaking-claude-code-opus-5-auto-mode"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Aozhe Wang",
         "Zhengxi Lu",
@@ -595,7 +414,7 @@
       ],
       "description": "Recent prominent post-training methods, such as Reinforcement Learning (RL) and On-Policy Self-Distillation (OPSD), have driven rapid progress in mathematical reasoning for large language models, yet their reliance on ground-truth labels...",
       "event_cluster_id": "e75c5a0a3dd1",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "e75c5a0a3dd1b715962c",
       "image_url": "",
       "is_breaking": false,
@@ -650,105 +469,6 @@
       "source_name": "TechCrunch AI",
       "title": "Nvidia closes in on Hugging Face acquisition",
       "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Richard MacManus"
-      ],
-      "canonical_url": "https://www.latent.space/p/lovable-future-of-saas",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Lovable is branching out from AI-powered web app creation and into MCP-powered ‘capabilities’. We talk to CTO Fabian Hedin.",
-      "event_cluster_id": "738f130d6895",
-      "fetched_at": "2026-08-27T15:25:42Z",
-      "id": "738f130d6895192c9c19",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!fZkV!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F1af0c504-12da-4610-be86-b5bf3af2514d_1280x720.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-08-26T16:16:25Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent",
-        "long-read source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "Lovable CTO: The Future of SaaS Is Apps That Agents Can Use",
-      "url": "https://www.latent.space/p/lovable-future-of-saas"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Particle’s new podcast intelligence platform transcribes and analyzes more than 130,000 podcasts, making their conversations searchable on the web and accessible to AI agents through an API and MCP.",
-      "event_cluster_id": "b69b4dcf308e",
-      "fetched_at": "2026-08-27T15:25:42Z",
-      "id": "b69b4dcf308e907448c2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-26T15:47:28Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Radar makes podcasts searchable — and usable by AI agents",
-      "url": "https://techcrunch.com/2026/08/26/radar-makes-podcasts-searchable-and-usable-by-ai-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "event_cluster_id": "87c12d2e343b",
-      "fetched_at": "2026-08-27T04:59:00Z",
-      "id": "87c12d2e343bd9ef902a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-26T13:00:00Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: funding, security",
-        "startup/product signal: startup, seed, funding"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "url": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you"
     },
     {
       "authors": [
@@ -820,6 +540,102 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Aisha Malik"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+      "event_cluster_id": "8375ac96f282",
+      "fetched_at": "2026-08-27T20:43:11Z",
+      "id": "8375ac96f28291229fb4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-27T16:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Google is setting new memory-use limits for Android apps as AI data centers contribute to hardware shortages that could leave lower-cost phones with less memory.",
+      "event_cluster_id": "8344401f1196",
+      "fetched_at": "2026-08-27T15:25:42Z",
+      "id": "8344401f119635bf4056",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-27T14:27:04Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AI’s memory crunch is coming for Android apps",
+      "url": "https://techcrunch.com/2026/08/27/ais-memory-crunch-is-coming-for-android-apps"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Plaud's new 'agentic' earbuds are priced at $249.",
+      "event_cluster_id": "0f55ced7a4e0",
+      "fetched_at": "2026-08-27T15:25:42Z",
+      "id": "0f55ced7a4e0df3e9858",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-27T13:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Plaud’s new earphones come with an eSIM-enabled case for talking to AI agents",
+      "url": "https://techcrunch.com/2026/08/27/plauds-new-earphones-come-with-an-esim-enabled-case-for-talking-to-ai-agents"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Dan Goodin"
       ],
       "canonical_url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face",
@@ -850,57 +666,22 @@
       "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face"
     },
     {
-      "also_covered_by": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
       "authors": [
-        "joozio"
+        "CarryOn1212"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests",
+      "canonical_url": "https://github.com/IdoGol24/weir",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "2fe8049b9e3b",
-      "fetched_at": "2026-08-26T11:04:25Z",
-      "id": "hn-49446884",
+      "event_cluster_id": "da0666cb0755",
+      "fetched_at": "2026-08-28T16:52:40Z",
+      "id": "hn-49480942",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-26T11:02:39Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "AI models flub these intelligence tests. Can you fare any better?",
-      "url": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests"
-    },
-    {
-      "authors": [
-        "neehao"
-      ],
-      "canonical_url": "https://github.com/gojiplus/understudy",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "e3143a5c8a59",
-      "fetched_at": "2026-08-28T07:03:21Z",
-      "id": "hn-49474156",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-28T03:51:56Z",
+      "published_at": "2026-08-28T16:31:56Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
@@ -913,10 +694,11 @@
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Understudy: Scenario Testing for AI Agents",
-      "url": "https://github.com/gojiplus/understudy"
+      "title": "Show HN: Open tool for testing your AI Agents (No LLM)",
+      "url": "https://github.com/IdoGol24/weir"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tianjie Ju",
         "Zheng Wu",
@@ -933,7 +715,7 @@
       ],
       "description": "Multimodal large language models (MLLMs) can interpret a street view, but urban agency depends on whether such local evidence remains useful after the agent starts to move. In this paper, we investigate how far current MLLM agents can...",
       "event_cluster_id": "f914952c8d10",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "f914952c8d10d0a6af3f",
       "image_url": "",
       "is_breaking": false,
@@ -956,6 +738,7 @@
       "url": "https://arxiv.org/abs/2608.27456v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yufan Wu",
         "Yinghui He",
@@ -971,7 +754,7 @@
       ],
       "description": "Recent advances in inference-time scaling have significantly improved the reasoning performance of large language models (LLMs). However, these methods typically rely on repeated generation or external verification. To address this...",
       "event_cluster_id": "a58a92543f8b",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "a58a92543f8b5af0f742",
       "image_url": "",
       "is_breaking": false,
@@ -994,6 +777,7 @@
       "url": "https://arxiv.org/abs/2608.27455v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Dewu Zheng",
         "Ruizhe Ye",
@@ -1010,7 +794,7 @@
       ],
       "description": "To improve large language models' ability to resolve real-world software issues, prior work has focused on constructing large-scale agent trajectory datasets and performing supervised fine-tuning (SFT) on successful trajectories....",
       "event_cluster_id": "fcb96f3b51dc",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "fcb96f3b51dcc8f94186",
       "image_url": "",
       "is_breaking": false,
@@ -1033,6 +817,7 @@
       "url": "https://arxiv.org/abs/2608.27449v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yisen Xi"
       ],
@@ -1042,7 +827,7 @@
       ],
       "description": "Large language model (LLM) agents in governed organizations must let the persona (instructions, tone, self-presentation) evolve freely, while keeping execution (stateful, audited work) traceable. A single trust domain does not satisfy...",
       "event_cluster_id": "2819d6ebb9dd",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "2819d6ebb9dd317fe919",
       "image_url": "",
       "is_breaking": false,
@@ -1065,6 +850,7 @@
       "url": "https://arxiv.org/abs/2608.27427v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Xingyu Shen",
         "Huishuai Zhang",
@@ -1078,7 +864,7 @@
       ],
       "description": "Reinforcement Learning with Verifiable Rewards (RLVR) significantly improves LLM reasoning but often causes a drop in policy entropy, leading to narrowed reasoning coverage and degraded pass@$k$ for large $k$. While existing methods...",
       "event_cluster_id": "c3121617e0f5",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "c3121617e0f59ff5acf1",
       "image_url": "",
       "is_breaking": false,
@@ -1099,6 +885,44 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "Boosting LLM Exploration via Weak-Model Guidance in RLVR",
       "url": "https://arxiv.org/abs/2608.27420v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Haowen Gu",
+        "Gensheng Pei",
+        "Junzhu Mao",
+        "Qiong Wang",
+        "Mingwu Ren",
+        "Yazhou Yao"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.26856v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Although Multimodal Large Language Models (MLLMs) have demonstrated impressive performance in Medical Visual Question Answering (Med-VQA), their reliance on global image features often lacks precise pixel-level grounding, thereby...",
+      "event_cluster_id": "38f44f8f4a8d",
+      "fetched_at": "2026-08-28T07:03:21Z",
+      "id": "38f44f8f4a8d0611e00d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-27T09:23:16Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal, reasoning"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation",
+      "url": "https://arxiv.org/abs/2608.26856v1"
     },
     {
       "also_covered_by": [],
@@ -1133,97 +957,69 @@
       "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears",
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "Latent Space"
       ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Introducing: the Kids issue If the desire to limit kids’ use of technology was once a subcurrent, it..",
-      "event_cluster_id": "6ad10b3b8b66",
-      "fetched_at": "2026-08-27T04:59:00Z",
-      "id": "6ad10b3b8b66971f383f",
-      "image_url": "",
+      "description": "It’s Time. We’re in the Endgame now.",
+      "event_cluster_id": "a425a975157b",
+      "fetched_at": "2026-08-28T16:52:40Z",
+      "id": "a425a975157b3226c4b5",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
       "is_breaking": false,
       "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-08-26T12:10:00Z",
+      "published_at": "2026-08-28T07:12:10Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: introducing"
+        "long-read source"
       ],
       "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: the Kids issue arrives, and Bill Gates reveals his AI fears",
-      "url": "https://www.technologyreview.com/2026/08/26/1143000/the-download-kids-issue-launch-bill-gates-ai-fears"
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
+      "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by"
     },
     {
       "also_covered_by": [],
       "authors": [
-        "Mat Honan"
+        "Leon Ranke",
+        "Wolfgang Hübner",
+        "Ronny Hug",
+        "Michael Arens",
+        "Jürgen Beyerer"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026",
+      "canonical_url": "https://arxiv.org/abs/2608.27066v1",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In short, I began creating her digital...",
-      "event_cluster_id": "3d4f4c59b13e",
-      "fetched_at": "2026-08-26T11:04:25Z",
-      "id": "3d4f4c59b13e90e2e4de",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-26T09:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "startup/product signal: raised"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Raised on AI",
-      "url": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/26/paul-dix",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "The fact that AI wrote 1M LOC and then refined it over the course of the next couple of months to produce a reliable piece of software that is currently running on millions of developer machines is absolutely mind blowing. And you can...",
-      "event_cluster_id": "d9920b9c799b",
-      "fetched_at": "2026-08-26T11:04:25Z",
-      "id": "d9920b9c799b358a7bbf",
+      "description": "Privacy-Enhancing Technologies (PETs) in computer vision often rely on noise or image perturbations to protect visual data while securely processing it, creating a trade-off between task performance and protection. This trade-off is...",
+      "event_cluster_id": "63e593c842db",
+      "fetched_at": "2026-08-28T07:03:21Z",
+      "id": "63e593c842dbb2584784",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-26T08:07:55Z",
-      "research_track": "",
-      "score": 14,
+      "published_at": "2026-08-27T12:52:16Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours"
+        "medium source",
+        "published within 24 hours",
+        "research relevance: PET"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Paul Dix",
-      "url": "https://simonwillison.net/2026/Aug/26/paul-dix"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Beyond Classification: Task-Dependent Learnability under Privacy-Motivated Image Transformations",
+      "url": "https://arxiv.org/abs/2608.27066v1"
     },
     {
       "also_covered_by": [],
@@ -1255,6 +1051,7 @@
       "url": "https://www.anthropic.com/news/expanding-support-for-scientists"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026",
       "cluster_sources": [
@@ -1262,7 +1059,7 @@
       ],
       "description": "",
       "event_cluster_id": "3486d56afbc2",
-      "fetched_at": "2026-08-28T07:03:21Z",
+      "fetched_at": "2026-08-28T16:52:40Z",
       "id": "3486d56afbc2202cce58",
       "image_url": "",
       "is_breaking": false,
@@ -1312,15 +1109,49 @@
       "source_name": "Google Research Blog",
       "title": "August 27, 2026 Planetary prediction engine: Automating global models via Earth AI Earth AI · Generative AI · Machine Intelligence",
       "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Mihai Udrescu-Milosav",
+        "Stefan-Alexandru Jura",
+        "Mihai Udrescu",
+        "Gerhard-Paul Diller"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.27302v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Accurate identification of the correct view or angle in cardiac ultrasound (echocardiogram) is a critical component of cardiologic imaging. This step is essential for precise anatomical interpretation, reliable measurement, and the...",
+      "event_cluster_id": "82430b86285b",
+      "fetched_at": "2026-08-28T07:03:21Z",
+      "id": "82430b86285b6386a7bc",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-27T16:06:09Z",
+      "research_track": "medical_neuroimaging",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "QuantumBoostNet: A Hybrid Classical-Quantum Architecture for Enhanced Accuracy in Cardiac Ultrasound View Identification",
+      "url": "https://arxiv.org/abs/2608.27302v1"
     }
   ],
   "date_label": "Friday, August 28, 2026",
-  "generated_at": "2026-08-28T07:03:21Z",
+  "generated_at": "2026-08-28T16:52:40Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 203,
-    "retained_items": 39,
+    "fetched_items": 200,
+    "retained_items": 34,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
