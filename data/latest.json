@@ -3,37 +3,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Qwen3.8-Flash-Next Another open weights model from Qwen. This one is \"a multimodal MoE model that also serves as an early preview of the architecture used in Qwen4\". It's pretty big: 125B tokens, but only 6B active which means it gets a...",
-      "event_cluster_id": "8e2bea08b7f2",
-      "fetched_at": "2026-08-27T04:59:00Z",
-      "id": "8e2bea08b7f2937cbcfe",
-      "image_url": "https://static.simonwillison.net/static/2026-08-27/IMG_7667.png",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-26T23:52:58Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, open weights"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Qwen3.8-Flash-Next",
-      "url": "https://simonwillison.net/2026/Aug/26/qwen38-flash-next"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
       "cluster_sources": [
         "Latent Space"
@@ -97,6 +66,7 @@
       "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Rebecca Bellan"
       ],
@@ -129,6 +99,7 @@
       "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
@@ -271,7 +242,7 @@
       ],
       "description": "Despite the growing number of public datasets, annotated medical images remain scarce. Supervised learning methods achieve strong performance on many benchmarks, however require large amounts of labeled data, which are costly and...",
       "event_cluster_id": "7e178c287a8d",
-      "fetched_at": "2026-08-28T21:14:35Z",
+      "fetched_at": "2026-08-29T04:18:02Z",
       "id": "7e178c287a8debdc4e5d",
       "image_url": "",
       "is_breaking": false,
@@ -293,42 +264,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Domain-Specific Self-Supervised Representation Learning for Retinal Fundus Classification",
       "url": "https://arxiv.org/abs/2608.26686v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ziquan Liu",
-        "Zhewei Zhu",
-        "Xuyang Shi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.26531v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "The advent of vision foundation models, notably the Segment Anything Model (SAM), has catalyzed significant advancements in natural image segmentation. However, their direct transfer to medical imaging remains severely bottlenecked by...",
-      "event_cluster_id": "392a4b348511",
-      "fetched_at": "2026-08-28T21:14:35Z",
-      "id": "392a4b348511f9897388",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-27T02:08:57Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: medical imaging, medical foundation model",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "FAN-LoRA: A Fourier-Adaptive Nonlinear Low-Rank Adaptor for Medical Foundation Model Domain Adaptation",
-      "url": "https://arxiv.org/abs/2608.26531v1"
     },
     {
       "also_covered_by": [],
@@ -360,6 +295,35 @@
       "source_name": "Latent Space",
       "title": "[AINews] Hot Chips: OpenAI’s Jalapeño, Cerebras CS-5, Groq 3 LPX, Apple M6",
       "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security...",
+      "event_cluster_id": "2e3db918b26c",
+      "fetched_at": "2026-08-29T04:18:02Z",
+      "id": "2e3db918b26c4e7f4d0f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-28T22:12:02Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Just a rumour of a bug is enough to find a security exploit these days",
+      "url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug"
     },
     {
       "also_covered_by": [],
@@ -466,6 +430,7 @@
       "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Russell Brandom"
       ],
@@ -596,6 +561,7 @@
       "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "sudhendra1"
       ],
@@ -856,38 +822,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Scharon Harding"
-      ],
-      "canonical_url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent",
-      "cluster_sources": [
-        "Ars Technica AI"
-      ],
-      "description": "Report shows Meta's challenges replacing people with AI agents.",
-      "event_cluster_id": "f631a19384a1",
-      "fetched_at": "2026-08-27T20:43:11Z",
-      "id": "f631a19384a1d2cd7411",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/08/GettyImages-2171717886-500x500.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-26T21:25:27Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
-      "url": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
       "cluster_sources": [
@@ -895,7 +829,7 @@
       ],
       "description": "It’s Time. We’re in the Endgame now.",
       "event_cluster_id": "a425a975157b",
-      "fetched_at": "2026-08-28T21:14:35Z",
+      "fetched_at": "2026-08-29T04:18:02Z",
       "id": "a425a975157b3226c4b5",
       "image_url": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
       "is_breaking": false,
@@ -953,65 +887,36 @@
       "url": "https://arxiv.org/abs/2608.27066v1"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/expanding-support-for-scientists",
-      "cluster_sources": [
-        "Anthropic News"
-      ],
-      "description": "",
-      "event_cluster_id": "3368e02f484e",
-      "fetched_at": "2026-08-27T20:43:11Z",
-      "id": "3368e02f484edc23efd1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-27T00:00:00Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Aug 27, 2026 Announcements Expanding our support for scientists",
-      "url": "https://www.anthropic.com/news/expanding-support-for-scientists"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026",
+      "canonical_url": "https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026",
       "cluster_sources": [
         "PyTorch Blog"
       ],
       "description": "",
-      "event_cluster_id": "3486d56afbc2",
-      "fetched_at": "2026-08-28T21:14:35Z",
-      "id": "3486d56afbc2202cce58",
+      "event_cluster_id": "1eb1d197fc1b",
+      "fetched_at": "2026-08-29T04:18:02Z",
+      "id": "1eb1d197fc1b7ec941a9",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-27T00:00:00Z",
+      "published_at": "2026-08-28T00:00:00Z",
       "research_track": "",
       "score": 12,
       "score_reasons": [
         "high source",
         "published within 48 hours",
-        "technical relevance: PyTorch"
+        "technical relevance: vLLM, PyTorch"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "pytorch_blog",
       "source_name": "PyTorch Blog",
-      "title": "Core PyTorch Sessions at PyTorch Conference North America 2026",
-      "url": "https://pytorch.org/blog/core-pytorch-sessions-at-pytorch-conference-north-america-2026"
+      "title": "vLLM Sessions at PyTorch Conference North America 2026",
+      "url": "https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/open-asr-leaderboard-global-south",
       "cluster_sources": [
@@ -1038,36 +943,6 @@
       "source_name": "Hugging Face Blog",
       "title": "The Open ASR Leaderboard Adds Its First Global South Language",
       "url": "https://huggingface.co/blog/open-asr-leaderboard-global-south"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "August 27, 2026",
-      "event_cluster_id": "c5b24f7b8489",
-      "fetched_at": "2026-08-27T20:43:11Z",
-      "id": "c5b24f7b84897b1adcf8",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/PlanetaryPredictionEngine_Hero.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-27T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "August 27, 2026 Planetary prediction engine: Automating global models via Earth AI Earth AI · Generative AI · Machine Intelligence",
-      "url": "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai"
     },
     {
       "also_covered_by": [],
@@ -1105,12 +980,12 @@
     }
   ],
   "date_label": "Saturday, August 29, 2026",
-  "generated_at": "2026-08-28T21:14:35Z",
+  "generated_at": "2026-08-29T04:18:02Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 196,
-    "retained_items": 33,
+    "fetched_items": 200,
+    "retained_items": 29,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
