@@ -2,6 +2,42 @@
   "articles": [
     {
       "also_covered_by": [],
+      "authors": [
+        "Tal Grutman",
+        "Tali Ilovitsh"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.26033v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "In medical imaging, it is common to use learned perceptual image patch similarity (LPIPS) to compare images semantically in feature space. Although backbones pretrained on natural images are widely used for LPIPS computation, B-mode...",
+      "event_cluster_id": "9fd6ba328932",
+      "fetched_at": "2026-08-27T15:25:42Z",
+      "id": "9fd6ba328932cc5063cc",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-26T17:12:11Z",
+      "research_track": "medical_neuroimaging",
+      "score": 21,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical imaging",
+        "technical relevance: foundation model",
+        "startup/product signal: API"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "UltraPIPS: Improving model perception in B-mode ultrasound with foundation models",
+      "url": "https://arxiv.org/abs/2608.26033v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
       "cluster_sources": [
@@ -64,6 +100,39 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: inside OpenAI’s Hugging Face hack, and a new EV takes on the US",
       "url": "https://www.technologyreview.com/2026/08/27/1143033/the-download-openai-hugging-face-hack-slate-truck-ev"
+    },
+    {
+      "authors": [
+        "12ziyad"
+      ],
+      "canonical_url": "https://itsuki.app",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "5ebc42ff3cc1",
+      "fetched_at": "2026-08-29T11:18:59Z",
+      "id": "hn-49487838",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-29T07:50:32Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent",
+        "startup/product signal: API, Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Itsuki – open-source memory engine for AI agents (API and MCP)",
+      "url": "https://itsuki.app"
     },
     {
       "also_covered_by": [],
@@ -232,41 +301,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Bekzat Nurlanbekova",
-        "Fung Fung Ting"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.26686v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Despite the growing number of public datasets, annotated medical images remain scarce. Supervised learning methods achieve strong performance on many benchmarks, however require large amounts of labeled data, which are costly and...",
-      "event_cluster_id": "7e178c287a8d",
-      "fetched_at": "2026-08-29T04:18:02Z",
-      "id": "7e178c287a8debdc4e5d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-27T06:44:04Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: benchmark",
-        "research relevance: medical image",
-        "technical relevance: self-supervised, representation learning"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Domain-Specific Self-Supervised Representation Learning for Retinal Fundus Classification",
-      "url": "https://arxiv.org/abs/2608.26686v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno",
       "cluster_sources": [
@@ -297,6 +331,7 @@
       "url": "https://www.latent.space/p/ainews-hot-chips-openais-jalapeno"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug",
       "cluster_sources": [
@@ -304,7 +339,7 @@
       ],
       "description": "Just a rumour of a bug is enough to find a security exploit these days Anil Madhavapeddy is a professor of computer science at Cambridge and a core maintainer of the OCaml compiler. In this somewhat alarming post he reports that security...",
       "event_cluster_id": "2e3db918b26c",
-      "fetched_at": "2026-08-29T04:18:02Z",
+      "fetched_at": "2026-08-29T11:18:59Z",
       "id": "2e3db918b26c4e7f4d0f",
       "image_url": "",
       "is_breaking": false,
@@ -395,39 +430,6 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "TTPO: Test-Time Policy Optimization",
       "url": "https://arxiv.org/abs/2608.27448v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Connie Loizos"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Nvidia has reportedly agreed to buy Hugging Face, the popular open source AI hub, for $12.9 billion in a move that would let Nvidia both protect its chip empire and jump back into the cloud business.",
-      "event_cluster_id": "f102e443156f",
-      "fetched_at": "2026-08-27T20:43:11Z",
-      "id": "f102e443156ffdb4ddfe",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-27T06:32:51Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: open source, acquisition, chip",
-        "startup/product signal: acquisition, open source"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia closes in on Hugging Face acquisition",
-      "url": "https://techcrunch.com/2026/08/26/nvidia-closes-in-on-hugging-face-acquisition"
     },
     {
       "also_covered_by": [],
@@ -531,6 +533,38 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Aisha Malik"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The updates indicate that Google is looking to position AI Mode as an AI travel agent of sorts, as it's moving beyond simply helping users find information to actually handling parts of the trip-planning and booking process.",
+      "event_cluster_id": "8375ac96f282",
+      "fetched_at": "2026-08-27T20:43:11Z",
+      "id": "8375ac96f28291229fb4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-27T16:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google’s AI Mode can now track flight prices, help book hotels, and more",
+      "url": "https://techcrunch.com/2026/08/27/googles-ai-mode-can-now-track-flight-prices-help-book-hotels-and-more"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Dan Goodin"
       ],
       "canonical_url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face",
@@ -559,39 +593,6 @@
       "source_name": "Ars Technica AI",
       "title": "How OpenAI let a mob of LLM agents game a test and ransack Hugging Face",
       "url": "https://arstechnica.com/security/2026/08/how-openai-let-a-mob-of-llm-agents-game-a-test-and-ransack-hugging-face"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "sudhendra1"
-      ],
-      "canonical_url": "https://github.com/sseshachala/conductai",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "b9513973bf25",
-      "fetched_at": "2026-08-28T21:14:35Z",
-      "id": "hn-49483173",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-28T19:29:20Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: open-source",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Conduct, open-source guardrails for LLM and MCP tool calls",
-      "url": "https://github.com/sseshachala/conductai"
     },
     {
       "also_covered_by": [],
@@ -783,42 +784,33 @@
       "url": "https://arxiv.org/abs/2608.27420v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Haowen Gu",
-        "Gensheng Pei",
-        "Junzhu Mao",
-        "Qiong Wang",
-        "Mingwu Ren",
-        "Yazhou Yao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.26856v1",
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Latent Space"
       ],
-      "description": "Although Multimodal Large Language Models (MLLMs) have demonstrated impressive performance in Medical Visual Question Answering (Med-VQA), their reliance on global image features often lacks precise pixel-level grounding, thereby...",
-      "event_cluster_id": "38f44f8f4a8d",
-      "fetched_at": "2026-08-28T07:03:21Z",
-      "id": "38f44f8f4a8d0611e00d",
-      "image_url": "",
+      "description": "Elon v Altman has a real consequence.",
+      "event_cluster_id": "74a4be6dfd28",
+      "fetched_at": "2026-08-29T11:18:59Z",
+      "id": "74a4be6dfd2881cf4e63",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-08-27T09:23:16Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
+      "published_at": "2026-08-29T05:11:52Z",
+      "research_track": "",
+      "score": 13,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, reasoning"
+        "long-read source"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "From Reasoning to Pixels: Grounded Medical Multimodal LLMs for VQA and Segmentation",
-      "url": "https://arxiv.org/abs/2608.26856v1"
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] OpenAI shuts off Cursor",
+      "url": "https://www.latent.space/p/ainews-openai-shuts-off-cursor"
     },
     {
       "also_covered_by": [],
@@ -887,6 +879,7 @@
       "url": "https://arxiv.org/abs/2608.27066v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/vllm-sessions-at-pytorch-conference-north-america-2026",
       "cluster_sources": [
@@ -894,7 +887,7 @@
       ],
       "description": "",
       "event_cluster_id": "1eb1d197fc1b",
-      "fetched_at": "2026-08-29T04:18:02Z",
+      "fetched_at": "2026-08-29T11:18:59Z",
       "id": "1eb1d197fc1b7ec941a9",
       "image_url": "",
       "is_breaking": false,
@@ -980,11 +973,11 @@
     }
   ],
   "date_label": "Saturday, August 29, 2026",
-  "generated_at": "2026-08-29T04:18:02Z",
+  "generated_at": "2026-08-29T11:18:59Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 200,
+    "fetched_items": 201,
     "retained_items": 29,
     "successful_sources": 20
   },
