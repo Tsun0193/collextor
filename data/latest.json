@@ -178,6 +178,38 @@
       "url": "https://arxiv.org/abs/2608.25810v1"
     },
     {
+      "authors": [
+        "gmays"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.14071",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "297a831c5d49",
+      "fetched_at": "2026-08-30T14:57:10Z",
+      "id": "hn-49499067",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-30T14:38:32Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: training",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Scaling Domain Data Repetition in LLM Pretraining",
+      "url": "https://arxiv.org/abs/2608.14071"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/29/hy4",
@@ -372,6 +404,39 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Tested on SemiAnalysis’ InferenceX benchmark, Jalapeño registered both more tokens per user and more throughput per kilowatt than the currently available state-of-the art.",
+      "event_cluster_id": "0c7fd5172055",
+      "fetched_at": "2026-08-26T11:04:25Z",
+      "id": "0c7fd51720556fba224e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-25T14:22:04Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: benchmark, chip, inference",
+        "technical relevance: inference"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
+      "url": "https://techcrunch.com/2026/08/25/openais-jalapeno-chip-is-built-for-fast-inference-at-scale-benchmarks-show"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/28/just-a-rumour-of-a-bug",
       "cluster_sources": [
@@ -442,71 +507,36 @@
       "url": "https://arxiv.org/abs/2608.27448v1"
     },
     {
-      "also_covered_by": [
-        "TechCrunch AI"
-      ],
       "authors": [
-        "01-_-"
+        "lebagetdefrance"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "canonical_url": "https://pypi.org/project/simurg",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "ec3126d6bd37",
-      "fetched_at": "2026-08-30T10:04:42Z",
-      "id": "hn-49497235",
+      "event_cluster_id": "54c062e31b0e",
+      "fetched_at": "2026-08-30T14:57:10Z",
+      "id": "hn-49499048",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-30T09:57:06Z",
+      "published_at": "2026-08-30T14:36:02Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: GPU",
-        "covered by multiple configured sources"
-      ],
-      "section": "business_policy",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Nvidia's AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
-    },
-    {
-      "authors": [
-        "kunalsin9h"
-      ],
-      "canonical_url": "https://www.theopenlake.com/blog/introducing-openlake",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5d37cae122d7",
-      "fetched_at": "2026-08-29T15:16:59Z",
-      "id": "hn-49490470",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-29T15:00:32Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference, training",
-        "technical relevance: inference, RAG"
+        "major-event keyword: open-source",
+        "technical relevance: agent"
       ],
       "section": "ai_engineering",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "OpenLake: Fast, Durable Storage for LLM Inference and Training",
-      "url": "https://www.theopenlake.com/blog/introducing-openlake"
+      "title": "Free and Open-Source Web Search for Your AI Agents",
+      "url": "https://pypi.org/project/simurg"
     },
     {
       "also_covered_by": [],
@@ -652,68 +682,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "event_cluster_id": "0c24a3ca3dcb",
-      "fetched_at": "2026-08-28T16:52:40Z",
-      "id": "0c24a3ca3dcbcabd9114",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-28T12:46:12Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "url": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jagmeet Singh"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Sandhya Devanathan will oversee some OpenAI operations across Southeast Asia and Australia in her new role.",
-      "event_cluster_id": "59cc43fd3a8c",
-      "fetched_at": "2026-08-28T16:52:40Z",
-      "id": "59cc43fd3a8cb564685d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-28T12:21:06Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
-      "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Kirsten Korosec"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
@@ -722,7 +690,7 @@
       ],
       "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "event_cluster_id": "c814ad604b71",
-      "fetched_at": "2026-08-30T10:04:42Z",
+      "fetched_at": "2026-08-30T14:57:10Z",
       "id": "c814ad604b71034cc77c",
       "image_url": "",
       "is_breaking": false,
@@ -741,14 +709,45 @@
       "source_name": "TechCrunch AI",
       "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Connie Loizos"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials...",
+      "event_cluster_id": "0a6f07cbdcc6",
+      "fetched_at": "2026-08-30T14:57:10Z",
+      "id": "0a6f07cbdcc6e8075a73",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-29T17:36:47Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "url": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z"
     }
   ],
   "date_label": "Sunday, August 30, 2026",
-  "generated_at": "2026-08-30T10:04:42Z",
+  "generated_at": "2026-08-30T14:57:10Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 196,
+    "fetched_items": 205,
     "retained_items": 22,
     "successful_sources": 20
   },
