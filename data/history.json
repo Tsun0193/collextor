@@ -2,6 +2,132 @@
   "articles": [
     {
       "authors": [
+        "runplane"
+      ],
+      "canonical_url": "https://runplane.ai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "1687cae46057",
+      "fetched_at": "2026-08-30T10:04:42Z",
+      "id": "hn-49497238",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-30T09:57:59Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "We built this after an AI agent misread a risk signal and moved $1.2M in trades",
+      "url": "https://runplane.ai"
+    },
+    {
+      "also_covered_by": [
+        "TechCrunch AI"
+      ],
+      "authors": [
+        "01-_-"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ec3126d6bd37",
+      "fetched_at": "2026-08-30T10:04:42Z",
+      "id": "hn-49497235",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-30T09:57:06Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: GPU",
+        "covered by multiple configured sources"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
+    },
+    {
+      "authors": [
+        "giuliomagnifico"
+      ],
+      "canonical_url": "https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "e950223874a9",
+      "fetched_at": "2026-08-30T10:04:42Z",
+      "id": "hn-49497225",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-30T09:55:58Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Workers in their 40s, 50s and 60s are the most positive about AI",
+      "url": "https://www.bloomberg.com/news/articles/2026-08-27/older-workers-are-more-upbeat-about-ai-than-20-somethings"
+    },
+    {
+      "authors": [
+        "ckastner"
+      ],
+      "canonical_url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00005.html",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "973b9d62e0a7",
+      "fetched_at": "2026-08-30T10:04:42Z",
+      "id": "hn-49497146",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-30T09:41:40Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "General resolution: LLM usage in Debian: Results",
+      "url": "https://lists.debian.org/debian-devel-announce/2026/08/msg00005.html"
+    },
+    {
+      "authors": [
         "SachaSOL"
       ],
       "canonical_url": "https://baseline-rouge-mu.vercel.app",
@@ -123,6 +249,7 @@
       "url": "https://aimujib.com"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/29/hy4",
       "cluster_sources": [
@@ -183,6 +310,7 @@
       "url": "https://coldtake.dev/blog/domain-driven-agents"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Kirsten Korosec"
       ],
@@ -192,7 +320,7 @@
       ],
       "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
       "event_cluster_id": "c814ad604b71",
-      "fetched_at": "2026-08-30T01:36:04Z",
+      "fetched_at": "2026-08-30T10:04:42Z",
       "id": "c814ad604b71034cc77c",
       "image_url": "",
       "is_breaking": false,
@@ -213,6 +341,7 @@
       "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Connie Loizos"
       ],
@@ -222,7 +351,7 @@
       ],
       "description": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials...",
       "event_cluster_id": "0a6f07cbdcc6",
-      "fetched_at": "2026-08-30T01:36:04Z",
+      "fetched_at": "2026-08-30T10:04:42Z",
       "id": "0a6f07cbdcc6e8075a73",
       "image_url": "",
       "is_breaking": false,
@@ -460,38 +589,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: Visual workspace to design and operate daily multi-agent workflows",
       "url": "https://github.com/ringlochid/oh-my-subagents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "event_cluster_id": "ec3126d6bd37",
-      "fetched_at": "2026-08-29T15:16:59Z",
-      "id": "ec3126d6bd370413bc5e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-29T13:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: GPU, data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
     },
     {
       "authors": [
@@ -2169,6 +2266,37 @@
       "source_name": "TechCrunch AI",
       "title": "Barret Zoph, the Thinking Machines co-founder who defected to OpenAI, is now at Google",
       "url": "https://techcrunch.com/2026/08/27/barret-zoph-the-thinking-machines-co-founder-who-defected-to-openai-is-now-at-google"
+    },
+    {
+      "authors": [
+        "sys42590"
+      ],
+      "canonical_url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f2033eb853b7",
+      "fetched_at": "2026-08-30T10:04:42Z",
+      "id": "hn-49469786",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-27T19:12:03Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: benchmark, inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Benchmarking Pocket-Scale Inference",
+      "url": "https://artificialanalysis.ai/hardware-inference-stack/mobile-phones"
     },
     {
       "authors": [
@@ -19512,152 +19640,7 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "HAF: Adapting Generalist VLAs to Humanoid Whole-Body Loco-manipulation via Hierarchical Action Flow and Spectral Latent RL",
       "url": "https://arxiv.org/abs/2608.16837v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Enric Boix-Adsera",
-        "Benedict Tessler"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16834v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "We demonstrate that AI models are broadly susceptible to a phenomenon we call model hypnosis, in which individually weak and seemingly irrelevant cues in the prompt can be systematically combined to strongly control model behavior. Model...",
-      "event_cluster_id": "1c1223381bad",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "1c1223381badbb986cdd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:20:10Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Model Hypnosis: Strong control of AI via additive subliminal effects",
-      "url": "https://arxiv.org/abs/2608.16834v1"
-    },
-    {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "authors": [
-        "Jorge F. Lazo",
-        "Xixi Liu",
-        "Andreas Hallqvist",
-        "Mikael Johansson",
-        "Åse Johnsson",
-        "Jonas S. Andersson",
-        "Jennifer Alvén",
-        "Ida Häggström"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16832v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Lung nodule segmentation in computed tomography is essential for extracting clinically relevant information for lung cancer assessment and treatment planning. Foundation models have shown notable segmentation capabilities, but...",
-      "event_cluster_id": "c8bfc27257ad",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "c8bfc27257ad002b304d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:16:43Z",
-      "research_track": "multimodal_foundation",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model",
-        "covered by multiple configured sources"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "What Matters is the Prompt: Prompt Sensitivity and Prompt Generation in Foundation Models for Lung Nodule Segmentation",
-      "url": "https://arxiv.org/abs/2608.16832v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Minh-Ha Nguyen",
-        "Cathy Shyr"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16831v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Generative pretraining established reusable task representations; later work on language-based task conditioning and in-context learning showed that a fixed model could adapt its behavior from instructions and demonstrations. Policy...",
-      "event_cluster_id": "adff11be3f73",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "adff11be3f73730fe60f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:16:43Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Policy Iteration with Human Feedback: Bringing Post-Training RL to In-context Learning",
-      "url": "https://arxiv.org/abs/2608.16831v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Junjie Chu",
-        "Ye Leng",
-        "Mingjie Li",
-        "Yun Shen",
-        "Xinyue Shen",
-        "Yang Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.16824v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Generative Engine Optimization (GEO) modifies web content to increase its likelihood of being selected and cited by generative search engines. This can give strategically optimized pages visibility disproportionate to their authority or...",
-      "event_cluster_id": "adfbc8385f56",
-      "fetched_at": "2026-08-18T10:58:29Z",
-      "id": "adfbc8385f56e6280426",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-17T17:12:11Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "GEO-Flag: Detecting and Measuring GEO-Optimized Web Content",
-      "url": "https://arxiv.org/abs/2608.16824v1"
     }
   ],
-  "generated_at": "2026-08-30T01:36:04Z"
+  "generated_at": "2026-08-30T10:04:42Z"
 }

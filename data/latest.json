@@ -39,6 +39,38 @@
     {
       "also_covered_by": [],
       "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/wellbeing-research-grants",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "1e032b3767d6",
+      "fetched_at": "2026-08-25T23:54:14Z",
+      "id": "1e032b3767d6bbcd1e13",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-25T00:00:00Z",
+      "research_track": "",
+      "score": 21,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "major-event keyword: funding",
+        "technical relevance: evaluation",
+        "startup/product signal: funding"
+      ],
+      "section": "startup_product",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Aug 25, 2026 Announcements Funding better evaluations of AI’s impact on wellbeing",
+      "url": "https://www.anthropic.com/news/wellbeing-research-grants"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
       "cluster_sources": [
         "Latent Space"
@@ -146,6 +178,7 @@
       "url": "https://arxiv.org/abs/2608.25810v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Aug/29/hy4",
       "cluster_sources": [
@@ -409,6 +442,41 @@
       "url": "https://arxiv.org/abs/2608.27448v1"
     },
     {
+      "also_covered_by": [
+        "TechCrunch AI"
+      ],
+      "authors": [
+        "01-_-"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ec3126d6bd37",
+      "fetched_at": "2026-08-30T10:04:42Z",
+      "id": "hn-49497235",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-30T09:57:06Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: GPU",
+        "covered by multiple configured sources"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Nvidia's AI advantage is moving beyond the GPU",
+      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
+    },
+    {
       "authors": [
         "kunalsin9h"
       ],
@@ -445,38 +513,6 @@
       "authors": [
         "Russell Brandom"
       ],
-      "canonical_url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-      "event_cluster_id": "ec3126d6bd37",
-      "fetched_at": "2026-08-29T15:16:59Z",
-      "id": "ec3126d6bd370413bc5e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-29T13:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: GPU, data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia’s AI advantage is moving beyond the GPU",
-      "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
       "canonical_url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai",
       "cluster_sources": [
         "TechCrunch AI"
@@ -503,39 +539,6 @@
       "source_name": "TechCrunch AI",
       "title": "An Anthropic researcher just gave us a peek at self-improving AI",
       "url": "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "ringlochid"
-      ],
-      "canonical_url": "https://github.com/ringlochid/oh-my-subagents",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7205666c319c",
-      "fetched_at": "2026-08-29T15:16:59Z",
-      "id": "hn-49489854",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-29T13:41:19Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Visual workspace to design and operate daily multi-agent workflows",
-      "url": "https://github.com/ringlochid/oh-my-subagents"
     },
     {
       "also_covered_by": [],
@@ -648,36 +651,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "It’s Time. We’re in the Endgame now.",
-      "event_cluster_id": "a425a975157b",
-      "fetched_at": "2026-08-29T04:18:02Z",
-      "id": "a425a975157b3226c4b5",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-08-28T07:12:10Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] OpenAI to reach AGI bar by end-2026",
-      "url": "https://www.latent.space/p/ainews-openai-to-reach-agi-bar-by"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Rebecca Bellan"
       ],
@@ -737,14 +710,45 @@
       "source_name": "TechCrunch AI",
       "title": "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
       "url": "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Kirsten Korosec"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "event_cluster_id": "c814ad604b71",
+      "fetched_at": "2026-08-30T10:04:42Z",
+      "id": "c814ad604b71034cc77c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-29T18:41:59Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "url": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft"
     }
   ],
   "date_label": "Sunday, August 30, 2026",
-  "generated_at": "2026-08-30T01:36:04Z",
+  "generated_at": "2026-08-30T10:04:42Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 198,
+    "fetched_items": 196,
     "retained_items": 22,
     "successful_sources": 20
   },
