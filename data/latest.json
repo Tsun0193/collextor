@@ -36,35 +36,69 @@
       "url": "https://www.latent.space/p/pr-not-welcome"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Amanda Silberling"
       ],
-      "description": "Introducing wrapture New from Graham Dumpleton (of wrapt , mod_wsgi, and New Relic's Python agent fame), who describes Wrapture as taking the monkeypatching ideas from wrapt and extending them to apply to testing and tracing at the same...",
-      "event_cluster_id": "7818b32ce5ba",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "7818b32ce5badc4d2ae1",
+      "canonical_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "\"The United States has a strong interest in continuing to develop a robust and competitive artificial intelligence industry that sets the standard for the practice and procedure of AI use globally,\" the brief reads.",
+      "event_cluster_id": "6f533d6c462d",
+      "fetched_at": "2026-09-03T01:24:28Z",
+      "id": "6f533d6c462d19cc7ce5",
       "image_url": "",
       "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-08-31T23:59:36Z",
+      "published_at": "2026-09-02T17:09:06Z",
       "research_track": "",
-      "score": 20,
+      "score": 19,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: introducing",
-        "technical relevance: agent"
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: training",
+        "research relevance: PET"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
+      "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material"
+    },
+    {
+      "authors": [
+        "Ram Iyer"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
+      "event_cluster_id": "d8f7e5310c5b",
+      "fetched_at": "2026-09-03T01:24:28Z",
+      "id": "d8f7e5310c5b9a5ea39f",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-02T15:01:23Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: security",
+        "technical relevance: agent",
+        "startup/product signal: product"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Introducing wrapture",
-      "url": "https://simonwillison.net/2026/Aug/31/introducing-wrapture"
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
+      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments"
     },
     {
       "also_covered_by": [],
@@ -139,43 +173,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Athira J. Jacob",
-        "Puneet Sharma",
-        "Dorin Comaniciu",
-        "Daniel Rueckert"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.30975v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Cardiac magnetic resonance imaging (CMR) produces rich sequential data such as temporal cine videos and spatial LGE/mapping stacks, yet most deep learning approaches process individual 2D slices, discarding this context. We present...",
-      "event_cluster_id": "b703cefaaed8",
-      "fetched_at": "2026-09-01T15:09:01Z",
-      "id": "b703cefaaed8c2f6ece0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-31T15:36:24Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI",
-      "url": "https://arxiv.org/abs/2608.30975v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for",
       "cluster_sources": [
@@ -207,6 +204,71 @@
       "url": "https://www.latent.space/p/ainews-nvidia-buys-huggingface-for"
     },
     {
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
+      "event_cluster_id": "b5008ebffacf",
+      "fetched_at": "2026-09-03T01:24:28Z",
+      "id": "b5008ebffacf4d58ec96",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-02T20:19:14Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model, safety",
+        "technical relevance: reasoning"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
+      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts"
+    },
+    {
+      "authors": [
+        "Marina Temkin"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
+      "event_cluster_id": "3bf46fc618e4",
+      "fetched_at": "2026-09-03T01:24:28Z",
+      "id": "3bf46fc618e4c2ae86e6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-02T22:44:56Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: acquisition",
+        "startup/product signal: startup, acquisition"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
+      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Ivan Mehta"
       ],
@@ -370,39 +432,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Grace Huckins"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. By now you’ve probably heard about last month’s major AI security incident, in which OpenAI agents...",
-      "event_cluster_id": "1a67cf9fc56a",
-      "fetched_at": "2026-09-01T15:09:01Z",
-      "id": "1a67cf9fc56a8187f32c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-08-31T18:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: security",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Hugging Face hack could indicate cultural issues at OpenAI",
-      "url": "https://www.technologyreview.com/2026/08/31/1143180/hugging-face-hack-could-indicate-cultural-issues-at-openai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
@@ -508,72 +537,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-      "event_cluster_id": "330b2f2d126b",
-      "fetched_at": "2026-09-02T14:39:55Z",
-      "id": "330b2f2d126ba0b34723",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-01T16:31:04Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch",
-        "startup/product signal: startup, launches"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-      "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-      "event_cluster_id": "ccf0d6470483",
-      "fetched_at": "2026-09-02T14:39:55Z",
-      "id": "ccf0d64704834dd9841c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-01T15:51:55Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch",
-        "startup/product signal: launches, product"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "url": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Mohammed Oussama Benyahia",
         "Marouane Tliba",
         "Mohamed Amine Kerkouri",
@@ -644,6 +607,7 @@
       "url": "https://github.com/mlc-ai/web-llm"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-research/real-time-intelligence",
       "cluster_sources": [
@@ -673,6 +637,7 @@
       "url": "https://huggingface.co/blog/ibm-research/real-time-intelligence"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -736,6 +701,36 @@
       "url": "https://github.com/wallidsaydi-creator/HOM-AIMOS"
     },
     {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/pytorch-2-14-release-blog",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "b12d7c49469d",
+      "fetched_at": "2026-09-03T01:24:28Z",
+      "id": "b12d7c49469db053373f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-02T00:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: release",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "PyTorch 2.14 Release Blog",
+      "url": "https://pytorch.org/blog/pytorch-2-14-release-blog"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/allenai/benchmirt",
@@ -767,69 +762,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
-      "event_cluster_id": "9772983faa93",
-      "fetched_at": "2026-09-02T01:19:37Z",
-      "id": "9772983faa9346995a5e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-01T21:06:24Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
-      "url": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lauren Forristal"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-      "event_cluster_id": "b4a1188cc06f",
-      "fetched_at": "2026-09-02T01:19:37Z",
-      "id": "b4a1188cc06fc47f39b5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-01T20:53:05Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: RAG"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-      "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more"
-    },
-    {
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/2/claudes-new-system-prompt",
       "cluster_sources": [
@@ -1200,101 +1132,31 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/webgpu-kernels",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "91dad0068ec2",
-      "fetched_at": "2026-09-01T15:09:01Z",
-      "id": "91dad0068ec24e5bcea7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-01T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: introducing, GPU"
-      ],
-      "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Introducing @huggingface/kernels: 200+ WebGPU Kernels for Local AI",
-      "url": "https://huggingface.co/blog/webgpu-kernels"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Aug/31/andrew-digby",
+      "canonical_url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice",
       "cluster_sources": [
         "Simon Willison"
       ],
-      "description": "325 #kakapo! The chicks from this year's record breeding season are now juveniles and so have been added to the population. In 1995 there were just 51 kākāpō left. Recovery of critically endangered species is possible with sustained...",
-      "event_cluster_id": "ec0a25498bf7",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "ec0a25498bf7811f5b6c",
-      "image_url": "",
+      "description": "I was poking around in my ~/.cache/ folder using OmniDiskSweeper when I spotted something interesting. The OpenAI Codex desktop app (since rebranded to just ChatGPT) has 1.7GB of stuff in there in a folder called codex-primary-runtime ,...",
+      "event_cluster_id": "0b5495377a7e",
+      "fetched_at": "2026-09-02T14:39:55Z",
+      "id": "0b5495377a7ef6420968",
+      "image_url": "https://static.simonwillison.net/static/2026/codex-primay-runtime.webp",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-08-31T22:25:02Z",
+      "published_at": "2026-09-01T19:03:01Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "critical source",
-        "published within 6 hours"
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "simon_willison",
       "source_name": "Simon Willison",
-      "title": "Quoting Andrew Digby",
-      "url": "https://simonwillison.net/2026/Aug/31/andrew-digby"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Luqi Sun",
-        "Shreeram Suresh Chandra",
-        "Lin Zhang",
-        "You-Jin Li",
-        "Brian MacWhinney",
-        "Yu Tsao",
-        "Emily Mower Provost",
-        "Berrak Sisman"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.00276v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Speech-based Alzheimer's disease (AD) detection increasingly relies on speech-enhanced and curated versions of the Pitt Corpus, where speech enhancement, sample selection, and demographic balancing are often treated as beneficial...",
-      "event_cluster_id": "07495c083b9f",
-      "fetched_at": "2026-09-02T14:39:55Z",
-      "id": "07495c083b9f3160031c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T19:19:00Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: benchmark",
-        "research relevance: Alzheimer, Alzheimer's disease"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Cleaner Speech, Weaker Generalization: Revisiting Pitt-Derived Benchmarks for Alzheimer's Disease Detection",
-      "url": "https://arxiv.org/abs/2609.00276v1"
+      "title": "Codex bundles LibreOffice",
+      "url": "https://simonwillison.net/2026/Sep/1/codex-libreoffice"
     },
     {
       "also_covered_by": [],
@@ -1332,6 +1194,36 @@
       "url": "https://arxiv.org/abs/2609.01554v1"
     },
     {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/1/tarn-adams",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "They took the letters from me! I have to talk about dwarf behavior now. I can't even talk about dwarf AI. It doesn't exist. It's dwarf behavior , and they misbehave sometimes — Tarn Adams , co-creator of Dwarf Fortress Tags: ai ,...",
+      "event_cluster_id": "cd0ecd79d092",
+      "fetched_at": "2026-09-02T14:39:55Z",
+      "id": "cd0ecd79d09207b44550",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-01T17:01:11Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Tarn Adams",
+      "url": "https://simonwillison.net/2026/Sep/1/tarn-adams"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "MIT Technology Review Insights"
       ],
@@ -1360,6 +1252,35 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "Facilitating AI integration with simplicity at scale",
       "url": "https://www.technologyreview.com/2026/09/02/1142879/facilitating-ai-integration-with-simplicity-at-scale"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "d89f0e35e51e",
+      "fetched_at": "2026-09-03T01:24:28Z",
+      "id": "d89f0e35e51ebe8c31a6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-02T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "technical relevance: agent, PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Agentic AI and Next-Gen Intelligence Sessions at PyTorch Conference North America 2026",
+      "url": "https://pytorch.org/blog/agentic-ai-and-next-gen-intelligence-sessions-at-pytorch-conference-north-america-2026"
     },
     {
       "also_covered_by": [],
@@ -1394,71 +1315,45 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/enterprise-frontier-safeguards",
-      "cluster_sources": [
-        "Anthropic News"
+      "authors": [
+        "Mehrdad Shafiei Dizaji",
+        "Hoda Azari"
       ],
-      "description": "",
-      "event_cluster_id": "b085c7f1762b",
+      "canonical_url": "https://arxiv.org/abs/2609.01417v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "The research explores the pioneering integration of Physics-Informed Neural Networks (PINNs) into the domain of Ground-Penetrating Radar (GPR) data prediction. This research presents a detailed development framework for a specialized...",
+      "event_cluster_id": "1f17baf9a8c2",
       "fetched_at": "2026-09-02T14:39:55Z",
-      "id": "b085c7f1762bfee8ae1c",
+      "id": "1f17baf9a8c253cfb0b0",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-01T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "critical source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Sep 1, 2026 Announcements Developing Enterprise Frontier Safeguards with our customers",
-      "url": "https://www.anthropic.com/news/enterprise-frontier-safeguards"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "September 1, 2026",
-      "event_cluster_id": "9d08610d0aa4",
-      "fetched_at": "2026-09-02T14:39:55Z",
-      "id": "9d08610d0aa41c2f4bf8",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/MAPL-EMIT-overview-hero.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-01T00:00:00Z",
-      "research_track": "",
-      "score": 6,
+      "published_at": "2026-09-01T15:34:23Z",
+      "research_track": "medical_neuroimaging",
+      "score": 8,
       "score_reasons": [
         "medium source",
-        "published within 48 hours"
+        "published within 24 hours"
       ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "September 1, 2026 Mapping global methane emissions from space with deep learning Climate & Sustainability · Earth AI · Machine Intelligence",
-      "url": "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Predicting Subsurface Abnormalities Growth using Physics-Informed Neural Networks",
+      "url": "https://arxiv.org/abs/2609.01417v1"
     }
   ],
-  "date_label": "Wednesday, September 2, 2026",
-  "generated_at": "2026-09-02T14:39:55Z",
+  "date_label": "Thursday, September 3, 2026",
+  "generated_at": "2026-09-03T01:24:28Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 1,
-    "fetched_items": 201,
-    "retained_items": 44,
-    "successful_sources": 20
+    "failed_sources": 3,
+    "fetched_items": 161,
+    "retained_items": 41,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
