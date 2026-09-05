@@ -1,6 +1,69 @@
 {
   "articles": [
     {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
+      "event_cluster_id": "7f2fe90b2352",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "7f2fe90b2352c6f97646",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-04T23:15:11Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: safety",
+        "technical relevance: agent",
+        "startup/product signal: API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
+      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was...",
+      "event_cluster_id": "05312c867855",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "05312c8678556bcdc0c9",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-04T17:38:48Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "OpenAI's rogue agents were caught communicating via public wikis",
+      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Chenguang Zheng",
@@ -44,44 +107,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Aleksander Ficek",
-        "Sean Narenthiran",
-        "Mehrzad Samadi",
-        "Somshubra Majumdar",
-        "Boris Ginsburg"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.02849v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining...",
-      "event_cluster_id": "a489308c811a",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "a489308c811a77ac8803",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-02T17:33:37Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "research relevance: PET",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
-      "url": "https://arxiv.org/abs/2609.02849v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Amanda Silberling"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
@@ -113,143 +138,97 @@
       "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Ram Iyer"
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
+      "cluster_sources": [
+        "Simon Willison"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments",
+      "description": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans...",
+      "event_cluster_id": "46f0053d7539",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "46f0053d75399ece4861",
+      "image_url": "https://static.simonwillison.net/static/2026/gpt-6-and-5-6-pelicans-html.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-04T23:59:05Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "technical relevance: reasoning"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "The Pelican comparison grid for Astra is pretty interesting",
+      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans"
+    },
+    {
+      "authors": [
+        "MIT Technology Review Insights"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer...",
+      "event_cluster_id": "2cc7290108c1",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "2cc7290108c1119eca3e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-09-04T18:39:19Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference, RAG"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Architecting memory and storage in the AI era",
+      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Security companies are scrambling to build products that can monitor not just agents but also the tools and add-ons they use.",
-      "event_cluster_id": "d8f7e5310c5b",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "d8f7e5310c5b9a5ea39f",
+      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
+      "event_cluster_id": "8de31a6e2f7b",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "8de31a6e2f7b8c32ed53",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-02T15:01:23Z",
+      "published_at": "2026-09-04T16:21:11Z",
       "research_track": "",
-      "score": 19,
+      "score": 17,
       "score_reasons": [
         "high source",
         "published within 24 hours",
         "major-event keyword: security",
-        "technical relevance: agent",
-        "startup/product signal: product"
+        "technical relevance: agent"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "HiddenLayer nabs $100M as enterprises rush to secure their AI deployments",
-      "url": "https://techcrunch.com/2026/09/02/hiddenlayer-nabs-100m-as-enterprises-rush-to-secure-their-ai-deployments"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ziquan Liu",
-        "Zhewei Zhu",
-        "Xuyang Shi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.02663v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Pretrained vision-language models (VLMs) have shown promising performance in medical image segmentation by incorporating clinical text. However, it remains unclear how much textual information actually contributes to pixel-level...",
-      "event_cluster_id": "8d1e86e81c93",
-      "fetched_at": "2026-09-03T09:07:40Z",
-      "id": "8d1e86e81c93d9e0206e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-02T14:38:52Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: vision-language, VLM"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Characterizing Text Branch Sensitivity in Medical Vision-Language Segmentation via Evidence Decoupling",
-      "url": "https://arxiv.org/abs/2609.02663v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI’s new Astra model will use “recurrent depth,” a technique that allows the model to operate outside of the sequential thinking that characterizes most reasoning models.",
-      "event_cluster_id": "b5008ebffacf",
-      "fetched_at": "2026-09-03T01:24:28Z",
-      "id": "b5008ebffacf4d58ec96",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-02T20:19:14Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model, safety",
-        "technical relevance: reasoning"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI’s new reasoning technique alarms AI safety experts",
-      "url": "https://techcrunch.com/2026/09/02/openais-new-reasoning-technique-alarms-ai-safety-experts"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jonathan B. Martin",
-        "Yashwant Kurmi",
-        "Charlotte R. Sappo"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.02676v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Ultra-low-field MRI makes neonatal brain imaging deploy- able in low-resource settings, but its low SNR, lack of shielding, and long scan duration make it especially prone to acquisition artifacts, motivating automated quality control....",
-      "event_cluster_id": "0f8ba1bf0551",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "0f8ba1bf05516bc144b9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-02T14:47:38Z",
-      "research_track": "medical_neuroimaging",
-      "score": 18,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: acquisition",
-        "research relevance: MRI",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "LoFi RADIO: A Distilled In-Domain Backbone Applied for Artifact-Severity Grading of Ultra-Low-Field Neonatal Brain MR",
-      "url": "https://arxiv.org/abs/2609.02676v1"
+      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
+      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge"
     },
     {
       "also_covered_by": [],
@@ -380,72 +359,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The acquisition also leaves Sequoia-backed Serval as the de facto startup leader in AI IT service automation, industry watchers believe.",
-      "event_cluster_id": "3bf46fc618e4",
-      "fetched_at": "2026-09-03T01:24:28Z",
-      "id": "3bf46fc618e4c2ae86e6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-02T22:44:56Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: acquisition",
-        "startup/product signal: startup, acquisition"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Palo Alto Networks paid $500M for Thrive-backed Console, sources say",
-      "url": "https://techcrunch.com/2026/09/02/palo-alto-networks-paid-500m-for-thrive-backed-console-sources-say"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Neocloud Lambda has raised $1B in private debt to buy Nvidia AI chips and lease them to Microsoft. It's the latest in a string of loans, underscoring the high cost of the AI boom.",
-      "event_cluster_id": "1bdef960944d",
-      "fetched_at": "2026-08-28T21:14:35Z",
-      "id": "1bdef960944d20b72180",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-28T20:24:11Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: chip",
-        "startup/product signal: raised"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Neocloud Lambda secures $1B in debt to buy more chips",
-      "url": "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
       "cluster_sources": [
@@ -477,39 +390,66 @@
     {
       "also_covered_by": [],
       "authors": [
-        "David A. Kelly",
-        "Tom Yaacov",
-        "Nathan Blake",
-        "Sander Beckers",
-        "Hana Chockler"
+        "Lucas Ropek"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.02697v1",
+      "canonical_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "TechCrunch AI"
       ],
-      "description": "Deep learning models have achieved impressive performance in medical image diagnosis, yet their deployment in clinical settings remains constrained by limited explainability. Counterfactual images provide one means of auditing model...",
-      "event_cluster_id": "2a5f871642d6",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "2a5f871642d673a86e67",
+      "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
+      "event_cluster_id": "939b4e3dff1a",
+      "fetched_at": "2026-09-04T14:31:06Z",
+      "id": "939b4e3dff1a8fd03b0c",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-02T15:03:42Z",
-      "research_track": "medical_neuroimaging",
+      "published_at": "2026-09-03T18:01:45Z",
+      "research_track": "",
       "score": 16,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image"
+        "major-event keyword: launch, model, safety",
+        "startup/product signal: launches"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Generating Medical Image Counterfactuals using Causal Explanations",
-      "url": "https://arxiv.org/abs/2609.02697v1"
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
+      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model"
+    },
+    {
+      "authors": [
+        "Dan Goodin"
+      ],
+      "canonical_url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+      "cluster_sources": [
+        "Ars Technica AI"
+      ],
+      "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
+      "event_cluster_id": "abae17182191",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "abae171821916dd52ce2",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-04T22:17:36Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "ars_ai",
+      "source_name": "Ars Technica AI",
+      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
+      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki"
     },
     {
       "also_covered_by": [],
@@ -638,6 +578,134 @@
       "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "event_cluster_id": "3d9b0b4faee9",
+      "fetched_at": "2026-08-31T17:41:46Z",
+      "id": "3d9b0b4faee90acabe01",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-31T15:15:25Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: chip"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
+    },
+    {
+      "authors": [
+        "firatcan"
+      ],
+      "canonical_url": "https://openspender.com/agent-to-agent",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "60424f0857f9",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "hn-49571563",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-04T23:54:31Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Agent-to-agent payment. Your agents can pay each other",
+      "url": "https://openspender.com/agent-to-agent"
+    },
+    {
+      "authors": [
+        "tupe12334"
+      ],
+      "canonical_url": "https://moadim.io",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "8876a7d5188b",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "hn-49571537",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-04T23:50:29Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Moadim.io – A scheduler for agents",
+      "url": "https://moadim.io"
+    },
+    {
+      "authors": [
+        "kirillklimuk"
+      ],
+      "canonical_url": "https://sageling.ai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "15d57a2b647c",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "hn-49569136",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-04T19:30:31Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
+      "url": "https://sageling.ai"
+    },
+    {
       "authors": [
         "naseemalnaji"
       ],
@@ -670,6 +738,7 @@
       "url": "https://github.com/agentcathq/webmcp-react"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -758,38 +827,6 @@
       "source_name": "Latent Space",
       "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
       "url": "https://www.latent.space/p/astra"
-    },
-    {
-      "authors": [
-        "linesofcode"
-      ],
-      "canonical_url": "https://devbar.sh",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ece61522aa66",
-      "fetched_at": "2026-09-04T01:18:54Z",
-      "id": "hn-49555267",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T19:19:42Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Devbar – Point at what to change. Leave a comment. Your agent ships it",
-      "url": "https://devbar.sh"
     },
     {
       "also_covered_by": [],
@@ -976,68 +1013,39 @@
       "url": "https://arxiv.org/abs/2609.04167v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
-        "ylxdzsw"
+        "Uday Vallabhaneni",
+        "Cassie L. Cagwin",
+        "David J. Wild"
       ],
-      "canonical_url": "https://github.com/ylxdzsw/mu",
+      "canonical_url": "https://arxiv.org/abs/2609.04159v1",
       "cluster_sources": [
-        "Hacker News"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "8e7f09ba60d8",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "hn-49550418",
+      "description": "Large language model (LLM) agents are increasingly proposed as autonomous SOC analysts, but two limitations make them unreliable at enterprise scale: a finite context window cannot hold a multi-thousand-host authentication graph, and...",
+      "event_cluster_id": "760ce6318239",
+      "fetched_at": "2026-09-04T14:31:06Z",
+      "id": "760ce6318239c5dd4753",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-03T14:31:41Z",
-      "research_track": "",
+      "published_at": "2026-09-03T17:49:12Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
+        "published within 24 hours",
+        "major-event keyword: model, security",
+        "technical relevance: agent, reasoning"
       ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Mu – an agent with actual command line experience",
-      "url": "https://github.com/ylxdzsw/mu"
-    },
-    {
-      "authors": [
-        "luca-ctx"
-      ],
-      "canonical_url": "https://github.com/ctxrs/ctx/blob/main/README.md",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "a61e880b911c",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "hn-49550141",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T14:09:53Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Instantly get the transcript from the agent that wrote any line of code",
-      "url": "https://github.com/ctxrs/ctx/blob/main/README.md"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
+      "url": "https://arxiv.org/abs/2609.04159v1"
     },
     {
       "also_covered_by": [],
@@ -1081,203 +1089,212 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/grpo-with-trl-ifstruct",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Kubilay Kağan Kömürcü",
+        "İlkay Öksüz"
       ],
-      "description": "",
-      "event_cluster_id": "a139f80b1592",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "a139f80b159295ada71d",
+      "canonical_url": "https://arxiv.org/abs/2609.03981v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Brain-MRI inpainting replaces a masked region of a scan with synthesized, anatomically plausible healthy tissue, so that analysis tools built for healthy brains can be applied to images they would otherwise reject. On the BraTS...",
+      "event_cluster_id": "0658734cb765",
+      "fetched_at": "2026-09-04T14:31:06Z",
+      "id": "0658734cb765f56fefc4",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-03T00:00:00Z",
-      "research_track": "",
-      "score": 14,
+      "published_at": "2026-09-03T15:13:59Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "major-event keyword: model"
+        "research relevance: MRI"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Fine-tuning a 350M Model for Better Structured Outputs in 100 GRPO Steps",
-      "url": "https://huggingface.co/blog/grpo-with-trl-ifstruct"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/funes",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "cdd1118267ee",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "cdd1118267ee925c6328",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Give Your Coding Agents a Memory You Own",
-      "url": "https://huggingface.co/blog/funes"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/train-to-paint-with-code",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "b5500bc65035",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "b5500bc6503561c622e2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, training"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Training a coding model to paint watercolours with TRL and OpenEnv",
-      "url": "https://huggingface.co/blog/train-to-paint-with-code"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Sharpening the Ensemble: An SSIM-Aligned Residual Refiner for Brain-MRI Inpainting Post-Processing",
+      "url": "https://arxiv.org/abs/2609.03981v1"
     },
     {
       "also_covered_by": [],
       "authors": [
-        "Phillip Chlap",
-        "Mark Lee",
-        "Trevor Leong",
-        "Matthew Field",
-        "Jason Dowling",
-        "Hang Min",
-        "Julie Chu",
-        "Jennifer Tan"
+        "Tomas Guija-Valiente",
+        "Blanca Rodriguez-Gonzalez",
+        "Norberto Malpica",
+        "Angel Torrado-Carvajal"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.03186v1",
+      "canonical_url": "https://arxiv.org/abs/2609.03956v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Training deep learning-based medical image segmentation models is challenging with limited curated datasets. For AGITG TOPGEAR, a gastric cancer trial, the Clinical Target Volume (CTV) is complex and defined by multiple anatomical...",
-      "event_cluster_id": "50a65e0e1b3e",
+      "description": "Medical image inpainting has the potential to improve automated brain MRI analysis by reconstructing healthy tissue within pathological regions. We introduce RARF, a task-agnostic region-aware rectified flow framework for masked data...",
+      "event_cluster_id": "e4508722e927",
       "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "50a65e0e1b3e69d8e2a5",
+      "id": "e4508722e9276e4b3ada",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-02T22:03:11Z",
+      "published_at": "2026-09-03T14:55:57Z",
       "research_track": "medical_neuroimaging",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
-        "major-event keyword: model, training",
+        "published within 24 hours",
+        "research relevance: MRI, medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "RARF: Region-Aware Rectified Flows for 3D Brain MRI Inpainting",
+      "url": "https://arxiv.org/abs/2609.03956v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Yinan Liu",
+        "Jiankang Hong",
+        "Zhen Gao",
+        "Ye Lu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.03535v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Lesion segmentation in medical images plays a critical role in clinical diagnosis and treatment planning. Despite significant advances, lesion segmentation remains challenging due to two major factors: (1) complex background...",
+      "event_cluster_id": "03f85f0ee3d7",
+      "fetched_at": "2026-09-04T01:18:54Z",
+      "id": "03f85f0ee3d7f42271c8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-03T08:34:40Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
         "research relevance: medical image"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Improving Clinical Target Volume Segmentation Accuracy using Anatomical Priors and Active Learning for the AGITG TOPGEAR Clinical Trial",
-      "url": "https://arxiv.org/abs/2609.03186v1"
+      "title": "Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation",
+      "url": "https://arxiv.org/abs/2609.03535v1"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain",
+      "canonical_url": "https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026",
       "cluster_sources": [
-        "Google Research Blog"
+        "PyTorch Blog"
       ],
-      "description": "September 3, 2026",
-      "event_cluster_id": "7fd820e1b998",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "7fd820e1b998b43eaf2e",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Male-Fruit-Fly-Brain-Map-hero.jpg",
+      "description": "",
+      "event_cluster_id": "b9d03ac588d4",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "b9d03ac588d4e91b9e12",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-03T00:00:00Z",
+      "published_at": "2026-09-04T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Your Guide to Hardware Acceleration & Compute Infrastructure at PyTorch Conference North America 2026",
+      "url": "https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026"
+    },
+    {
+      "authors": [
+        "Dan Goodin"
+      ],
+      "canonical_url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
+      "cluster_sources": [
+        "Ars Technica AI"
+      ],
+      "description": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
+      "event_cluster_id": "14aac003fa5b",
+      "fetched_at": "2026-09-05T01:20:51Z",
+      "id": "14aac003fa5b3a91c7ff",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-500x500.jpg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-04T17:18:12Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model, open source",
-        "startup/product signal: open source"
+        "high source",
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "September 3, 2026 A connectomics milestone: Mapping the complete male fruit fly brain General Science · Health & Bioscience · Machine Intelligence · Open Source Models & Datasets",
-      "url": "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain"
+      "source_category": "industry",
+      "source_id": "ars_ai",
+      "source_name": "Ars Technica AI",
+      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
+      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations",
-      "cluster_sources": [
-        "Google Research Blog"
+      "authors": [
+        "Thanh Trung Vu",
+        "Ander Biguri",
+        "Christoph Kolbitsch",
+        "Luca Calatroni",
+        "Kostas Papafitsoros",
+        "Andreas Kofler"
       ],
-      "description": "September 3, 2026",
-      "event_cluster_id": "9864db7c0aff",
+      "canonical_url": "https://arxiv.org/abs/2609.04019v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Adaptive regularization is an effective means of improving the flexibility of classical variational reconstruction methods while retaining their interpretability and mathematical structure. In this work, we propose an approach for...",
+      "event_cluster_id": "543ed748699a",
       "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "9864db7c0affa4555c47",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/BBJ_GenomicPrediction5-UniqueGeneticTraits.png",
+      "id": "543ed748699a88f53965",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-03T00:00:00Z",
-      "research_track": "",
-      "score": 6,
+      "published_at": "2026-09-03T15:58:39Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
       "score_reasons": [
         "medium source",
-        "published within 48 hours"
+        "published within 24 hours",
+        "technical relevance: self-supervised"
       ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "September 3, 2026 Transfer learning for genomic prediction in underrepresented populations General Science · Machine Intelligence",
-      "url": "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "DREAM: Deep-Reparametrization of Adaptive Regularization Maps for Fast Zero-Shot Self-Supervised Learning",
+      "url": "https://arxiv.org/abs/2609.04019v1"
     }
   ],
-  "date_label": "Friday, September 4, 2026",
-  "generated_at": "2026-09-04T14:31:06Z",
+  "date_label": "Saturday, September 5, 2026",
+  "generated_at": "2026-09-05T01:20:51Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 1,
-    "fetched_items": 201,
-    "retained_items": 38,
-    "successful_sources": 20
+    "failed_sources": 2,
+    "fetched_items": 188,
+    "retained_items": 39,
+    "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
 }
