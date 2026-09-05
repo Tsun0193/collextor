@@ -43,7 +43,7 @@
       ],
       "description": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was...",
       "event_cluster_id": "05312c867855",
-      "fetched_at": "2026-09-05T08:32:19Z",
+      "fetched_at": "2026-09-05T13:31:20Z",
       "id": "05312c8678556bcdc0c9",
       "image_url": "",
       "is_breaking": false,
@@ -64,47 +64,6 @@
       "source_name": "Simon Willison",
       "title": "OpenAI's rogue agents were caught communicating via public wikis",
       "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Chenguang Zheng",
-        "Le Xue",
-        "Yichi Zhang",
-        "Wenbo Zhang",
-        "Zehui Ling",
-        "Gang Feng",
-        "Xin Gao",
-        "Yuan Qi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.03690v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "The joint interpretation of metabolic function and anatomical structure is essential for clinical diagnosis in whole-body PET/CT. Although recent advances in 3D medical vision-language models have demonstrated remarkable progress,...",
-      "event_cluster_id": "e26c78675a7d",
-      "fetched_at": "2026-09-04T09:00:11Z",
-      "id": "e26c78675a7dc3b57408",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-03T11:27:22Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "research relevance: PET",
-        "technical relevance: vision-language, reasoning"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MetaStructAtlas: A Grounded 3D Vision-Language Dataset and Benchmark for Functional and Structural Reasoning in Whole-Body PET/CT",
-      "url": "https://arxiv.org/abs/2609.03690v1"
     },
     {
       "also_covered_by": [],
@@ -180,7 +139,7 @@
       ],
       "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer...",
       "event_cluster_id": "2cc7290108c1",
-      "fetched_at": "2026-09-05T08:32:19Z",
+      "fetched_at": "2026-09-05T13:31:20Z",
       "id": "2cc7290108c1119eca3e",
       "image_url": "",
       "is_breaking": false,
@@ -213,7 +172,7 @@
       ],
       "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
       "event_cluster_id": "8de31a6e2f7b",
-      "fetched_at": "2026-09-05T08:32:19Z",
+      "fetched_at": "2026-09-05T13:31:20Z",
       "id": "8de31a6e2f7b8c32ed53",
       "image_url": "",
       "is_breaking": false,
@@ -460,36 +419,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/Hcompany/neomme",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "fffbcba03b0b",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "fffbcba03b0b217e4893",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T13:13:48Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: multimodal"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "NeoMME: an efficient Multimodal-native and Multilingual Encoder",
-      "url": "https://huggingface.co/blog/Hcompany/neomme"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Ivan Mehta"
       ],
@@ -523,38 +452,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "MIT Technology Review Insights"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "As agentic AI moves from experimentation toward enterprise deployment, the challenge is figuring out how agents can work together, connect to the systems and data they need, and operate safely across the workflows that run a business....",
-      "event_cluster_id": "b64941f28b41",
-      "fetched_at": "2026-09-03T14:42:27Z",
-      "id": "b64941f28b4199ac5bf6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-09-03T09:30:32Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Scaling agentic AI pilots across the enterprise",
-      "url": "https://www.technologyreview.com/2026/09/03/1142868/scaling-agentic-ai-pilots-across-the-enterprise"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
@@ -583,6 +480,38 @@
       "source_name": "TechCrunch AI",
       "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
       "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
+    },
+    {
+      "authors": [
+        "ishener"
+      ],
+      "canonical_url": "https://ephemerals.dev",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "3eeaefb403c1",
+      "fetched_at": "2026-09-05T13:31:20Z",
+      "id": "hn-49576181",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-05T13:09:18Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Ephemerals.dev – Disposable cloud dev environments for agents",
+      "url": "https://ephemerals.dev"
     },
     {
       "also_covered_by": [],
@@ -681,38 +610,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
       "url": "https://sageling.ai"
-    },
-    {
-      "authors": [
-        "naseemalnaji"
-      ],
-      "canonical_url": "https://github.com/agentcathq/webmcp-react",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ca6ce39fdb37",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "hn-49564588",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-04T13:45:53Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Webmcp-react v1.0.0 (React hooks for agents to use WebMCP)",
-      "url": "https://github.com/agentcathq/webmcp-react"
     },
     {
       "also_covered_by": [],
@@ -1094,41 +991,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Yinan Liu",
-        "Jiankang Hong",
-        "Zhen Gao",
-        "Ye Lu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.03535v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Lesion segmentation in medical images plays a critical role in clinical diagnosis and treatment planning. Despite significant advances, lesion segmentation remains challenging due to two major factors: (1) complex background...",
-      "event_cluster_id": "03f85f0ee3d7",
-      "fetched_at": "2026-09-04T01:18:54Z",
-      "id": "03f85f0ee3d7f42271c8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T08:34:40Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Feature Reconfiguration With Visual Prior for Medical Lesion Segmentation",
-      "url": "https://arxiv.org/abs/2609.03535v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026",
       "cluster_sources": [
@@ -1136,7 +998,7 @@
       ],
       "description": "",
       "event_cluster_id": "b9d03ac588d4",
-      "fetched_at": "2026-09-05T08:32:19Z",
+      "fetched_at": "2026-09-05T13:31:20Z",
       "id": "b9d03ac588d4e91b9e12",
       "image_url": "",
       "is_breaking": false,
@@ -1168,7 +1030,7 @@
       ],
       "description": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
       "event_cluster_id": "14aac003fa5b",
-      "fetched_at": "2026-09-05T08:32:19Z",
+      "fetched_at": "2026-09-05T13:31:20Z",
       "id": "14aac003fa5b3a91c7ff",
       "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-500x500.jpg",
       "is_breaking": false,
@@ -1262,12 +1124,12 @@
     }
   ],
   "date_label": "Saturday, September 5, 2026",
-  "generated_at": "2026-09-05T08:32:19Z",
+  "generated_at": "2026-09-05T13:31:20Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 198,
-    "retained_items": 38,
+    "fetched_items": 204,
+    "retained_items": 34,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
