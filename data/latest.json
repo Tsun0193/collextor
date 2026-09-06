@@ -68,6 +68,85 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Chenguang Zheng",
+        "Le Xue",
+        "Yichi Zhang",
+        "Wenbo Zhang",
+        "Zehui Ling",
+        "Gang Feng",
+        "Xin Gao",
+        "Yuan Qi"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.03690v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "The joint interpretation of metabolic function and anatomical structure is essential for clinical diagnosis in whole-body PET/CT. Although recent advances in 3D medical vision-language models have demonstrated remarkable progress,...",
+      "event_cluster_id": "e26c78675a7d",
+      "fetched_at": "2026-09-04T09:00:11Z",
+      "id": "e26c78675a7dc3b57408",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-03T11:27:22Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "research relevance: PET",
+        "technical relevance: vision-language, reasoning"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MetaStructAtlas: A Grounded 3D Vision-Language Dataset and Benchmark for Functional and Structural Reasoning in Whole-Body PET/CT",
+      "url": "https://arxiv.org/abs/2609.03690v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Aleksander Ficek",
+        "Sean Narenthiran",
+        "Mehrzad Samadi",
+        "Somshubra Majumdar",
+        "Boris Ginsburg"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.02849v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Competitive programming has become a key test of large language model reasoning, with international competitions such as IOI and ICPC representing its most challenging settings. We present an end-to-end specialization pipeline combining...",
+      "event_cluster_id": "a489308c811a",
+      "fetched_at": "2026-09-03T14:42:27Z",
+      "id": "a489308c811a77ac8803",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-02T17:33:37Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "research relevance: PET",
+        "technical relevance: reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Post-Training Language Models for Gold-Medal Performance in Coding Competitions",
+      "url": "https://arxiv.org/abs/2609.02849v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Amanda Silberling"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material",
@@ -97,6 +176,147 @@
       "source_name": "TechCrunch AI",
       "title": "US government sides with OpenAI on issue of training LLMs on copyrighted material",
       "url": "https://techcrunch.com/2026/09/02/u-s-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-material"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Ziquan Liu",
+        "Zhewei Zhu",
+        "Xuyang Shi"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.02663v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Pretrained vision-language models (VLMs) have shown promising performance in medical image segmentation by incorporating clinical text. However, it remains unclear how much textual information actually contributes to pixel-level...",
+      "event_cluster_id": "8d1e86e81c93",
+      "fetched_at": "2026-09-03T09:07:40Z",
+      "id": "8d1e86e81c93d9e0206e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-02T14:38:52Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: vision-language, VLM"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Characterizing Text Branch Sensitivity in Medical Vision-Language Segmentation via Evidence Decoupling",
+      "url": "https://arxiv.org/abs/2609.02663v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Penghao Wu",
+        "Haiwen Diao",
+        "Weichen Fan",
+        "Lewei Lu",
+        "Dahua Lin",
+        "Ziwei Liu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.01607v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "While unified multimodal models (UMMs) jointly perform visual understanding and generation within a single model, functional unification does not guarantee learning synergy: the two objectives may reinforce each other, compete for...",
+      "event_cluster_id": "68e5f74414a8",
+      "fetched_at": "2026-09-02T14:39:55Z",
+      "id": "68e5f74414a8d587b384",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-01T17:59:59Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: PET",
+        "technical relevance: multimodal"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
+      "url": "https://arxiv.org/abs/2609.01607v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Athira J. Jacob",
+        "Puneet Sharma",
+        "Dorin Comaniciu",
+        "Daniel Rueckert"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2608.30975v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Cardiac magnetic resonance imaging (CMR) produces rich sequential data such as temporal cine videos and spatial LGE/mapping stacks, yet most deep learning approaches process individual 2D slices, discarding this context. We present...",
+      "event_cluster_id": "b703cefaaed8",
+      "fetched_at": "2026-09-01T15:09:01Z",
+      "id": "b703cefaaed8c2f6ece0",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-08-31T15:36:24Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: MRI",
+        "technical relevance: foundation model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MR-JEPA: A General Purpose Video Foundation Model for Cardiac MRI",
+      "url": "https://arxiv.org/abs/2608.30975v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Introducing GPT-6 Astra for developers Blink and you'll miss it, but there's a familiar creature at 1m59s : Across the board, Astra has more attention to detail, better understanding of the user's prompt, and can build more sophisticated...",
+      "event_cluster_id": "2c8c6b516993",
+      "fetched_at": "2026-09-06T01:17:47Z",
+      "id": "2c8c6b516993cfbd5436",
+      "image_url": "https://static.simonwillison.net/static/2026-09-05/astra-video-pelican.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-05T23:27:48Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: introducing"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Introducing GPT-6 Astra for developers",
+      "url": "https://simonwillison.net/2026/Sep/5/introducing-gpt-6-astra-for-developers"
     },
     {
       "also_covered_by": [],
@@ -260,98 +480,43 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Tim Fernholz"
+        "Olga Tsymboi",
+        "Dmitrii Stoianov",
+        "Ramil Latypov",
+        "Danil Taranets",
+        "Daniil Dryabin",
+        "Mikhail Gashkov",
+        "Viktor Zelenkovskiy",
+        "Aleksandr Fida"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model",
+      "canonical_url": "https://arxiv.org/abs/2609.01572v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and...",
-      "event_cluster_id": "d3d0374ce494",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "d3d0374ce494049c6682",
+      "description": "Data-residency constraints force enterprises to self-host LLMs, but continuous adoption of newer models without decommissioning their predecessors expands the serving fleet, fragmenting a finite GPU pool. We consolidate traffic from over...",
+      "event_cluster_id": "deede2b3c9cc",
+      "fetched_at": "2026-09-02T14:39:55Z",
+      "id": "deede2b3c9cc0023501c",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-03T18:19:56Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent, RAG"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta is paying to peek at how you use their latest AI model",
-      "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/3/gpt6-astra",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "GPT‑6 Astra GPT-6 Astra is \"rolling out today to a limited set of organizations and over the coming days will become available to all ChatGPT Plus, Pro, Business, and Enterprise users, as well as through the OpenAI API and AWS\" - I've not..",
-      "event_cluster_id": "fc6a277cb0e3",
-      "fetched_at": "2026-09-04T01:18:54Z",
-      "id": "fc6a277cb0e3df1122cf",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-03T20:18:41Z",
-      "research_track": "",
+      "published_at": "2026-09-01T17:39:26Z",
+      "research_track": "multimodal_foundation",
       "score": 16,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "GPT‑6 Astra",
-      "url": "https://simonwillison.net/2026/Sep/3/gpt6-astra"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lucas Ropek"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI claims that Astra represents \"a new frontier on computer and browser use,\" and that it handles tasks with unmatched \"speed, accuracy, and safety.\"",
-      "event_cluster_id": "939b4e3dff1a",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "939b4e3dff1a8fd03b0c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-03T18:01:45Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "major-event keyword: launch, model, safety",
-        "startup/product signal: launches"
+        "major-event keyword: model, GPU, training",
+        "technical relevance: serving, RAG",
+        "startup/product signal: product"
       ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI launches Astra, its powerful (and controversial) new model",
-      "url": "https://techcrunch.com/2026/09/03/openai-launches-astra-its-powerful-and-controversial-new-model"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
+      "url": "https://arxiv.org/abs/2609.01572v1"
     },
     {
       "also_covered_by": [],
@@ -483,6 +648,69 @@
     },
     {
       "authors": [
+        "Modecir"
+      ],
+      "canonical_url": "https://github.com/modecir/fast-cutvid",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "38158d898274",
+      "fetched_at": "2026-09-06T01:17:47Z",
+      "id": "hn-49580689",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-05T21:06:05Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Fast Cut Video tool for cutting video for Agents",
+      "url": "https://github.com/modecir/fast-cutvid"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI acknowledged its role in a recently reported incident where AI agents took over a German wiki forum.",
+      "event_cluster_id": "0951ad5c8c17",
+      "fetched_at": "2026-09-06T01:17:47Z",
+      "id": "0951ad5c8c179ed903ec",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-05T18:05:27Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure",
+      "url": "https://techcrunch.com/2026/09/05/openai-confirms-wiki-incident-says-its-working-on-a-framework-for-more-disclosure"
+    },
+    {
+      "authors": [
         "ishener"
       ],
       "canonical_url": "https://ephemerals.dev",
@@ -580,36 +808,68 @@
       "url": "https://moadim.io"
     },
     {
+      "also_covered_by": [],
       "authors": [
-        "kirillklimuk"
+        "Marina Temkin"
       ],
-      "canonical_url": "https://sageling.ai",
+      "canonical_url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
       "cluster_sources": [
-        "Hacker News"
+        "TechCrunch AI"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "15d57a2b647c",
+      "description": "The round is being raised just months after the robot data startup exited from stealth.",
+      "event_cluster_id": "09a044d7fb73",
       "fetched_at": "2026-09-05T01:20:51Z",
-      "id": "hn-49569136",
+      "id": "09a044d7fb733e4f087e",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-04T19:30:31Z",
+      "published_at": "2026-09-04T23:36:14Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
+        "startup/product signal: startup, raised"
       ],
       "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Sageling - a local AI agent for Mac, Qwen 3.5 9B in-process via MLX",
-      "url": "https://sageling.ai"
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
+      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Theresa Loconsolo"
+      ],
+      "canonical_url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on..",
+      "event_cluster_id": "85b5992af901",
+      "fetched_at": "2026-09-05T13:31:20Z",
+      "id": "85b5992af90135670054",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-04T17:18:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: launch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "What will Apple’s John Ternus era look like?",
+      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like"
     },
     {
       "also_covered_by": [],
@@ -673,351 +933,35 @@
       "url": "https://simonwillison.net/2026/Sep/4/august-newsletter"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/astra",
+      "authors": [
+        "Dan McAteer"
+      ],
+      "canonical_url": "https://www.latent.space/p/grok-bot",
       "cluster_sources": [
         "Latent Space"
       ],
-      "description": "We spent 20B+ tokens of GPT-6 Astra to explore everything. Here’s our learnings.",
-      "event_cluster_id": "a69c2848b34f",
-      "fetched_at": "2026-09-04T01:18:54Z",
-      "id": "a69c2848b34f1245ec5c",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!1Mu3!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff60dbb10-9849-49e5-8569-5dfba8440b9c_2486x1390.png",
+      "description": "SpaceXAI’s Grok Bot has the same level of programming power as OpenClaw, but it’s programmable at a different level of abstraction.",
+      "event_cluster_id": "8a5d315f88fa",
+      "fetched_at": "2026-09-06T01:17:47Z",
+      "id": "8a5d315f88fac511ee67",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!LSd-!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc7950cec-a256-4773-89bd-085b0742335d_2048x1438.png",
       "is_breaking": false,
       "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-09-03T21:09:41Z",
+      "published_at": "2026-09-05T15:01:02Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
+        "published within 24 hours",
         "long-read source"
       ],
       "section": "long_reads",
       "source_category": "long-read",
       "source_id": "latent_space",
       "source_name": "Latent Space",
-      "title": "GPT-6 Astra: an automated AI Engineer you can hire for <$6 an hour",
-      "url": "https://www.latent.space/p/astra"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Varun Varma Thozhiyoor",
-        "Shivam Tripathi",
-        "Venkatesh Babu Radhakrishnan",
-        "Anand Bhattad"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.04200v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a...",
-      "event_cluster_id": "2e5f88d4ec06",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "2e5f88d4ec0672f4f489",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T17:59:50Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Principia: Relational Physics Tests for Video Models",
-      "url": "https://arxiv.org/abs/2609.04200v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kang Liao",
-        "Yihang Luo",
-        "Xiao-Ming Wu",
-        "Linyi Jin",
-        "Size Wu",
-        "Chunyu Lin",
-        "Yao Zhao",
-        "Fei Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.04196v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline modules. To reliably construct and...",
-      "event_cluster_id": "516bb1c71d4d",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "516bb1c71d4dd7202ab0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T17:59:13Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
-      "url": "https://arxiv.org/abs/2609.04196v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kevin Du",
-        "Alexander Hoyle",
-        "Laura Ruis",
-        "Acyr Locatelli"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.04194v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Reasoning traces from chain-of-thought models appear to offer a legible window into how a model arrives at its answer. A growing body of work treats them as such, using LLM judges to diagnose errors, evaluate faithfulness, and provide...",
-      "event_cluster_id": "2c3ec1de1fa7",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "2c3ec1de1fa736a3b862",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T17:59:08Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Legibility is Not Interpretability: Comparing Judged and Actual Importance in Chain-Of-Thought Reasoning",
-      "url": "https://arxiv.org/abs/2609.04194v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Denis M. Akola",
-        "David F. Fouhey"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.04174v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "3D Foundation Models (3DFMs) such as VGGT have recently pushed the boundaries of 3D vision by predicting rich unified representations with feed-foward transformers. The scene representations learned by these models enable strong...",
-      "event_cluster_id": "fe6019cd1102",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "fe6019cd1102a8a047af",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T17:54:52Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Zero-Shot Novel Depth Synthesis Using 3D Foundation Models Scene Representations",
-      "url": "https://arxiv.org/abs/2609.04174v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Xin He",
-        "Yanlin Wang",
-        "Mingwei Liu",
-        "Jiachi Chen",
-        "Hongyu Zhang",
-        "Guanbin Li"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.04167v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Repository-level software engineering benchmarks have significantly advanced the evaluation of coding agents, but existing benchmarks primarily measure whether generated patches pass functional tests and overlook review-derived...",
-      "event_cluster_id": "471011faee1b",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "471011faee1ba2b288ca",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T17:53:34Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SWE-Gate: Passing Functional Tests Is Not Enough for Software Engineering Agents",
-      "url": "https://arxiv.org/abs/2609.04167v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Uday Vallabhaneni",
-        "Cassie L. Cagwin",
-        "David J. Wild"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.04159v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language model (LLM) agents are increasingly proposed as autonomous SOC analysts, but two limitations make them unreliable at enterprise scale: a finite context window cannot hold a multi-thousand-host authentication graph, and...",
-      "event_cluster_id": "760ce6318239",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "760ce6318239c5dd4753",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T17:49:12Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, security",
-        "technical relevance: agent, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SENTINEL-RL: Offloading Topological Reasoning from LLM Agents in the Security Operations Center",
-      "url": "https://arxiv.org/abs/2609.04159v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kubilay Kağan Kömürcü",
-        "İlkay Öksüz"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.03981v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Brain-MRI inpainting replaces a masked region of a scan with synthesized, anatomically plausible healthy tissue, so that analysis tools built for healthy brains can be applied to images they would otherwise reject. On the BraTS...",
-      "event_cluster_id": "0658734cb765",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "0658734cb765f56fefc4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T15:13:59Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: MRI"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Sharpening the Ensemble: An SSIM-Aligned Residual Refiner for Brain-MRI Inpainting Post-Processing",
-      "url": "https://arxiv.org/abs/2609.03981v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Tomas Guija-Valiente",
-        "Blanca Rodriguez-Gonzalez",
-        "Norberto Malpica",
-        "Angel Torrado-Carvajal"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.03956v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical image inpainting has the potential to improve automated brain MRI analysis by reconstructing healthy tissue within pathological regions. We introduce RARF, a task-agnostic region-aware rectified flow framework for masked data...",
-      "event_cluster_id": "e4508722e927",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "e4508722e9276e4b3ada",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T14:55:57Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: MRI, medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "RARF: Region-Aware Rectified Flows for 3D Brain MRI Inpainting",
-      "url": "https://arxiv.org/abs/2609.03956v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "b9d03ac588d4",
-      "fetched_at": "2026-09-05T13:31:20Z",
-      "id": "b9d03ac588d4e91b9e12",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-04T00:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Your Guide to Hardware Acceleration & Compute Infrastructure at PyTorch Conference North America 2026",
-      "url": "https://pytorch.org/blog/your-guide-to-hardware-acceleration-compute-infrastructure-at-pytorch-conference-north-america-2026"
+      "title": "OpenClaw Power, MacBook Simplicity: Five Days With Grok Bot",
+      "url": "https://www.latent.space/p/grok-bot"
     },
     {
       "also_covered_by": [],
@@ -1049,87 +993,15 @@
       "source_name": "Ars Technica AI",
       "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
       "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Thanh Trung Vu",
-        "Ander Biguri",
-        "Christoph Kolbitsch",
-        "Luca Calatroni",
-        "Kostas Papafitsoros",
-        "Andreas Kofler"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.04019v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Adaptive regularization is an effective means of improving the flexibility of classical variational reconstruction methods while retaining their interpretability and mathematical structure. In this work, we propose an approach for...",
-      "event_cluster_id": "543ed748699a",
-      "fetched_at": "2026-09-04T14:31:06Z",
-      "id": "543ed748699a88f53965",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T15:58:39Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: self-supervised"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "DREAM: Deep-Reparametrization of Adaptive Regularization Maps for Fast Zero-Shot Self-Supervised Learning",
-      "url": "https://arxiv.org/abs/2609.04019v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Michael Khavkin",
-        "Kichang Lee",
-        "Jaeho Jin",
-        "JeongGil Ko",
-        "Eran Toch"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.03851v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Federated Learning (FL) with Differential Privacy (DP) is increasingly adopted to preserve data confidentiality in distributed machine learning. However, DP noise distorts learned representations and degrades explanation fidelity,...",
-      "event_cluster_id": "154fbc113ea8",
-      "fetched_at": "2026-09-04T09:00:11Z",
-      "id": "154fbc113ea8816537fa",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-03T13:43:32Z",
-      "research_track": "medical_neuroimaging",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Pushing the (Decision) Boundaries: Dynamically Calibrating Differentially Private Noise to Explainability in Federated Learning",
-      "url": "https://arxiv.org/abs/2609.03851v1"
     }
   ],
-  "date_label": "Saturday, September 5, 2026",
-  "generated_at": "2026-09-05T13:31:20Z",
+  "date_label": "Sunday, September 6, 2026",
+  "generated_at": "2026-09-06T01:17:47Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 204,
-    "retained_items": 34,
+    "fetched_items": 197,
+    "retained_items": 30,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
