@@ -3,71 +3,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "OpenAI’s latest agent swarm incident adds urgency to calls for independent investigations as researchers and lawmakers question whether AI labs should control the scope of their own safety reviews.",
-      "event_cluster_id": "7f2fe90b2352",
-      "fetched_at": "2026-09-05T01:20:51Z",
-      "id": "7f2fe90b2352c6f97646",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-04T23:15:11Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: safety",
-        "technical relevance: agent",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI’s rogue agents keep escaping, with no formal process to investigate them",
-      "url": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Here we go again... Discovery of a new OpenAI agent message board by Sydney Von Arx, Cormac Slade Byrd, Spencer Kitts, and Thomas Larsen describes the latest accidental cyberattack by models being trained by OpenAI. This time it was...",
-      "event_cluster_id": "05312c867855",
-      "fetched_at": "2026-09-05T13:31:20Z",
-      "id": "05312c8678556bcdc0c9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-04T17:38:48Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "OpenAI's rogue agents were caught communicating via public wikis",
-      "url": "https://simonwillison.net/2026/Sep/4/rogue-agent-wikis"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Chenguang Zheng",
         "Le Xue",
         "Yichi Zhang",
@@ -215,6 +150,38 @@
     },
     {
       "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Queue the usual rush of model launches...",
+      "event_cluster_id": "c34d5f0d3669",
+      "fetched_at": "2026-09-02T08:58:42Z",
+      "id": "c34d5f0d36696d9ee972",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!-NFa!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2094843261470793728.jpg",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-09-02T07:46:08Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch, model",
+        "startup/product signal: launches",
+        "long-read source"
+      ],
+      "section": "startup_product",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Claude Fable/Mythos 5.1: new SOTA model, 75% cache price cut but 70% more output tokens",
+      "url": "https://www.latent.space/p/ainews-claude-fablemythos-51-new"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Penghao Wu",
         "Haiwen Diao",
@@ -321,102 +288,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/4/astra-pelicans",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "I got access to GPT-6 Astra this afternoon, so naturally I used it to generate SVGs of pelicans riding bicycles - at low, medium, high, xhigh and max reasoning levels (Astra doesn't support reasoning=none). Then I rendered those pelicans...",
-      "event_cluster_id": "46f0053d7539",
-      "fetched_at": "2026-09-05T01:20:51Z",
-      "id": "46f0053d75399ece4861",
-      "image_url": "https://static.simonwillison.net/static/2026/gpt-6-and-5-6-pelicans-html.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-04T23:59:05Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "technical relevance: reasoning"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "The Pelican comparison grid for Astra is pretty interesting",
-      "url": "https://simonwillison.net/2026/Sep/4/astra-pelicans"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "MIT Technology Review Insights"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "The era of AI inference has arrived. Imagine a healthcare system analyzing millions of data points in real time to accelerate life-saving medical research, or an intelligent assistant instantly resolving thousands of complex customer...",
-      "event_cluster_id": "2cc7290108c1",
-      "fetched_at": "2026-09-05T13:31:20Z",
-      "id": "2cc7290108c1119eca3e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-09-04T18:39:19Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference, RAG"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Architecting memory and storage in the AI era",
-      "url": "https://www.technologyreview.com/2026/09/04/1140872/architecting-memory-and-storage-in-the-ai-era"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "It's the latest failure of OpenAI's internal monitoring and security systems.",
-      "event_cluster_id": "8de31a6e2f7b",
-      "fetched_at": "2026-09-05T13:31:20Z",
-      "id": "8de31a6e2f7b8c32ed53",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-04T16:21:11Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: security",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge",
-      "url": "https://techcrunch.com/2026/09/04/another-swarm-of-openai-agents-reached-the-open-internet-without-the-frontier-labs-knowledge"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Olga Tsymboi",
         "Dmitrii Stoianov",
@@ -457,23 +328,57 @@
       "url": "https://arxiv.org/abs/2609.01572v1"
     },
     {
-      "also_covered_by": [],
+      "also_covered_by": [
+        "TechCrunch AI"
+      ],
       "authors": [
-        "Dan Goodin"
+        "NoRagrets"
       ],
-      "canonical_url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki",
+      "canonical_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
       "cluster_sources": [
-        "Ars Technica AI"
+        "Hacker News"
       ],
-      "description": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
-      "event_cluster_id": "abae17182191",
-      "fetched_at": "2026-09-05T01:20:51Z",
-      "id": "abae171821916dd52ce2",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "0f98e72e20a4",
+      "fetched_at": "2026-09-07T01:16:53Z",
+      "id": "hn-49592655",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-04T22:17:36Z",
+      "published_at": "2026-09-07T01:09:19Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: RAG",
+        "covered by multiple configured sources"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Abliteration.ai is making a business out of removing AI guardrails",
+      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
+      "event_cluster_id": "b5898210effe",
+      "fetched_at": "2026-09-07T01:16:53Z",
+      "id": "b5898210effe4127fb3c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-06T20:47:37Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
@@ -483,10 +388,10 @@
       ],
       "section": "ai_engineering",
       "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "OpenAI agents discussed ways to escape their sandbox on public wiki",
-      "url": "https://arstechnica.com/security/2026/09/openai-agents-discussed-ways-to-escape-their-sandbox-on-public-wiki"
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
+      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement"
     },
     {
       "also_covered_by": [],
@@ -551,6 +456,66 @@
       "source_name": "TechCrunch AI",
       "title": "Nvidia confirms it will buy Hugging Face for $12.9 billion",
       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Nvidia invests $3.5 billion into Taiwanese chipmaker MediaTek. The deal shows how Nvidia plans to stay essential to AI infrastructure as Big Tech begins to build its own AI chips.",
+      "event_cluster_id": "3d9b0b4faee9",
+      "fetched_at": "2026-08-31T17:41:46Z",
+      "id": "3d9b0b4faee90acabe01",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-08-31T15:15:25Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: chip"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+      "url": "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub Pachocki) talk...",
+      "event_cluster_id": "904ea86174aa",
+      "fetched_at": "2026-09-07T01:16:53Z",
+      "id": "904ea86174aa4acc4bec",
+      "image_url": "https://static.simonwillison.net/static/2026/openai-agent-usage.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-06T23:57:40Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Research acceleration: The view inside OpenAI",
+      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai"
     },
     {
       "also_covered_by": [],
@@ -678,166 +643,64 @@
       "url": "https://ephemerals.dev"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "firatcan"
-      ],
-      "canonical_url": "https://openspender.com/agent-to-agent",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams",
       "cluster_sources": [
-        "Hacker News"
+        "Simon Willison"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "60424f0857f9",
-      "fetched_at": "2026-09-05T01:20:51Z",
-      "id": "hn-49571563",
+      "description": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On...",
+      "event_cluster_id": "c9f2152db00a",
+      "fetched_at": "2026-09-07T01:16:53Z",
+      "id": "c9f2152db00a78c92685",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-04T23:54:31Z",
+      "published_at": "2026-09-06T14:40:07Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Agent-to-agent payment. Your agents can pay each other",
-      "url": "https://openspender.com/agent-to-agent"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "tupe12334"
-      ],
-      "canonical_url": "https://moadim.io",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "8876a7d5188b",
-      "fetched_at": "2026-09-05T01:20:51Z",
-      "id": "hn-49571537",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-04T23:50:29Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Moadim.io – A scheduler for agents",
-      "url": "https://moadim.io"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The round is being raised just months after the robot data startup exited from stealth.",
-      "event_cluster_id": "09a044d7fb73",
-      "fetched_at": "2026-09-05T01:20:51Z",
-      "id": "09a044d7fb733e4f087e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-04T23:36:14Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "startup/product signal: startup, raised"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "XDOF, just three months out of stealth, is in talks for a Series B at a $1.2B valuation",
-      "url": "https://techcrunch.com/2026/09/04/xdof-just-three-months-out-of-stealth-is-in-talks-for-a-series-b-at-a-1-2b-valuation"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Theresa Loconsolo"
-      ],
-      "canonical_url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on..",
-      "event_cluster_id": "85b5992af901",
-      "fetched_at": "2026-09-05T13:31:20Z",
-      "id": "85b5992af90135670054",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-04T17:18:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch"
+        "critical source",
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "What will Apple’s John Ternus era look like?",
-      "url": "https://techcrunch.com/video/what-will-apples-john-ternus-era-look-like"
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "The purpose of DNS is to spread scams",
+      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Theresa Loconsolo, Kirsten Korosec, Sean O'Kane"
+        "iacguy"
       ],
-      "canonical_url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
+      "canonical_url": "https://www.openmonitor.website",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Hacker News"
       ],
-      "description": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on..",
-      "event_cluster_id": "17378061149a",
-      "fetched_at": "2026-09-05T13:31:20Z",
-      "id": "17378061149a8b9e08b7",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "d77c98a2b603",
+      "fetched_at": "2026-09-06T08:49:45Z",
+      "id": "hn-49581999",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-04T16:04:08Z",
+      "published_at": "2026-09-06T00:03:18Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "major-event keyword: launch"
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
       ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack"
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: OpenMonitor – vendor neutral web monitoring cloud agent",
+      "url": "https://www.openmonitor.website"
     },
     {
       "also_covered_by": [],
@@ -874,21 +737,82 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Dan Goodin"
+        "Anthony Ha"
       ],
-      "canonical_url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers",
+      "canonical_url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft",
       "cluster_sources": [
-        "Ars Technica AI"
+        "TechCrunch AI"
       ],
-      "description": "A once-overlooked block of unicode that's invisible to humans is gaining ever wider use.",
-      "event_cluster_id": "14aac003fa5b",
-      "fetched_at": "2026-09-05T13:31:20Z",
-      "id": "14aac003fa5b3a91c7ff",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/no-eyes-500x500.jpg",
+      "description": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
+      "event_cluster_id": "c358d62d97f8",
+      "fetched_at": "2026-09-06T01:17:47Z",
+      "id": "c358d62d97f8f78d588f",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-04T17:18:12Z",
+      "published_at": "2026-09-05T22:49:55Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft",
+      "url": "https://techcrunch.com/2026/09/05/seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsoft"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The sheriff’s office said the hikers “were advised by Gemini to bring far less food and water than their group required.\"",
+      "event_cluster_id": "5cd919ca5d3f",
+      "fetched_at": "2026-09-06T01:17:47Z",
+      "id": "5cd919ca5d3f587201db",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-05T19:35:24Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Hikers rescued after using Google Gemini for planning",
+      "url": "https://techcrunch.com/2026/09/05/hikers-rescued-after-using-google-gemini-for-planning"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
+      "event_cluster_id": "632e747639f1",
+      "fetched_at": "2026-09-07T01:16:53Z",
+      "id": "632e747639f17525fd5f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-06T16:45:00Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
@@ -897,20 +821,20 @@
       ],
       "section": "ai_engineering",
       "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "Once popular for attacking AI, ASCII smuggling is embraced by spammers",
-      "url": "https://arstechnica.com/security/2026/09/once-popular-for-attacking-ai-ascii-smuggling-is-embraced-by-spammers"
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
+      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business"
     }
   ],
-  "date_label": "Sunday, September 6, 2026",
-  "generated_at": "2026-09-06T13:47:01Z",
+  "date_label": "Monday, September 7, 2026",
+  "generated_at": "2026-09-07T01:16:53Z",
   "summary": {
-    "duplicates_removed": 0,
-    "failed_sources": 1,
-    "fetched_items": 199,
-    "retained_items": 27,
-    "successful_sources": 20
+    "duplicates_removed": 1,
+    "failed_sources": 3,
+    "fetched_items": 173,
+    "retained_items": 25,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
