@@ -256,6 +256,38 @@
       "url": "https://arxiv.org/abs/2609.02676v1"
     },
     {
+      "authors": [
+        "Mat Honan"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in...",
+      "event_cluster_id": "7cb14dc5327b",
+      "fetched_at": "2026-09-08T14:44:47Z",
+      "id": "7cb14dc5327b78c8c054",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-09-08T10:34:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
+      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki",
@@ -325,7 +357,7 @@
       ],
       "description": "",
       "event_cluster_id": "7f02787c6b99",
-      "fetched_at": "2026-09-08T09:01:14Z",
+      "fetched_at": "2026-09-08T14:44:47Z",
       "id": "7f02787c6b9998458a46",
       "image_url": "",
       "is_breaking": false,
@@ -349,6 +381,7 @@
       "url": "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
       "cluster_sources": [
@@ -356,7 +389,7 @@
       ],
       "description": "Company",
       "event_cluster_id": "4d11ed62a144",
-      "fetched_at": "2026-09-08T09:01:14Z",
+      "fetched_at": "2026-09-08T14:44:47Z",
       "id": "4d11ed62a144a3f4c2f6",
       "image_url": "https://mistral.ai/_astro/Blog-thumbnail-featured-Fundraise%20copie_i7Ta8.webp?dpl=6a9fa3b881fbb900083d8d92",
       "is_breaking": false,
@@ -418,6 +451,66 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
       "url": "https://arxiv.org/abs/2609.01572v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "5cbcf08e2888",
+      "fetched_at": "2026-09-08T14:44:47Z",
+      "id": "5cbcf08e288841ac31de",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T14:23:07Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: safety"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
+      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
+    },
+    {
+      "authors": [
+        "Eshan Raul"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire...",
+      "event_cluster_id": "3d47b8361bc3",
+      "fetched_at": "2026-09-08T14:44:47Z",
+      "id": "3d47b8361bc3e55f7f1a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-09-08T10:36:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: chip"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "This founder is teaching chips how to recycle (their energy)",
+      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy"
     },
     {
       "authors": [
@@ -584,21 +677,53 @@
     },
     {
       "authors": [
-        "devlithic"
+        "alehlopeh"
       ],
-      "canonical_url": "https://github.com/Sriram-PR/doc-scraper",
+      "canonical_url": "https://arxiv.org/abs/2608.09867",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "0f88edbb8c68",
-      "fetched_at": "2026-09-08T09:01:14Z",
-      "id": "hn-49606814",
+      "event_cluster_id": "2cadb8c4f77f",
+      "fetched_at": "2026-09-08T14:44:47Z",
+      "id": "hn-49611009",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-08T07:33:59Z",
+      "published_at": "2026-09-08T14:41:49Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: reasoning",
+        "startup/product signal: API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Stealing Reasoning Traces from Proprietary LLM APIs",
+      "url": "https://arxiv.org/abs/2608.09867"
+    },
+    {
+      "authors": [
+        "gidellav"
+      ],
+      "canonical_url": "https://github.com/gi-dellav/multistack/tree/main",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "680cf7c9706f",
+      "fetched_at": "2026-09-08T14:44:47Z",
+      "id": "hn-49610980",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T14:39:59Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
@@ -611,8 +736,39 @@
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Doc-scraper, offline searchable docs corpora for coding agents (Go)",
-      "url": "https://github.com/Sriram-PR/doc-scraper"
+      "title": "Show HN: Multistack, a TUI environment for parallel coding agents",
+      "url": "https://github.com/gi-dellav/multistack/tree/main"
+    },
+    {
+      "authors": [
+        "Anna Heim"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The French AI lab has raised €3 billion at a €21 billion valuation in a Series D round led by Samsung, Scaleup Europe and PSG Equity.",
+      "event_cluster_id": "2f431554cf89",
+      "fetched_at": "2026-09-08T14:44:47Z",
+      "id": "2f431554cf8941b6d5e2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T14:17:48Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: raised"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Mistral raises €3B as sovereign AI becomes big business",
+      "url": "https://techcrunch.com/2026/09/08/mistral-raises-e3b-as-sovereign-ai-becomes-big-business"
     },
     {
       "also_covered_by": [],
@@ -642,38 +798,6 @@
       "source_name": "Simon Willison",
       "title": "Creepy crawlies",
       "url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies"
-    },
-    {
-      "authors": [
-        "johnpolacek"
-      ],
-      "canonical_url": "https://animaxxing.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "060a8f862360",
-      "fetched_at": "2026-09-08T01:21:36Z",
-      "id": "hn-49603561",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-07T22:14:44Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Animaxxing – get agents to animate the shit out of your website",
-      "url": "https://animaxxing.com"
     },
     {
       "also_covered_by": [],
@@ -737,67 +861,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Theresa Loconsolo, Kirsten Korosec, Sean O'Kane"
-      ],
-      "canonical_url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "It’s officially the Ternus era at Apple. Tim Cook stepped down as CEO this week, handing the company to former hardware chief John Ternus, whose first memo promised a “huge launch next week” — timing that puts Apple’s next iPhone event on..",
-      "event_cluster_id": "17378061149a",
-      "fetched_at": "2026-09-05T13:31:20Z",
-      "id": "17378061149a8b9e08b7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-04T16:04:08Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Apple’s Ternus era begins as Nvidia bets on the whole AI stack",
-      "url": "https://techcrunch.com/podcast/apples-ternus-era-begins-as-nvidia-bets-on-the-whole-ai-stack"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "The purpose of DNS is to spread scams Terence Eden shares some daunting statistics in support of his take that \"the Domain Name System's purpose seems to be a vector for criminals to run scams on people at a terrifyingly high rate\". On...",
-      "event_cluster_id": "c9f2152db00a",
-      "fetched_at": "2026-09-07T09:37:56Z",
-      "id": "c9f2152db00a78c92685",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-06T14:40:07Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "The purpose of DNS is to spread scams",
-      "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms",
@@ -835,7 +898,7 @@
       ],
       "description": "",
       "event_cluster_id": "e14d90d99dba",
-      "fetched_at": "2026-09-08T09:01:14Z",
+      "fetched_at": "2026-09-08T14:44:47Z",
       "id": "e14d90d99dba4a685b73",
       "image_url": "",
       "is_breaking": false,
@@ -889,12 +952,12 @@
     }
   ],
   "date_label": "Tuesday, September 8, 2026",
-  "generated_at": "2026-09-08T09:01:14Z",
+  "generated_at": "2026-09-08T14:44:47Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 205,
-    "retained_items": 27,
+    "fetched_items": 200,
+    "retained_items": 29,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
