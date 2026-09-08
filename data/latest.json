@@ -256,6 +256,7 @@
       "url": "https://arxiv.org/abs/2609.02676v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki",
       "cluster_sources": [
@@ -285,6 +286,7 @@
       "url": "https://simonwillison.net/2026/Sep/7/jakub-pachocki"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/aeo",
       "cluster_sources": [
@@ -315,6 +317,7 @@
       "url": "https://www.latent.space/p/aeo"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china",
       "cluster_sources": [
@@ -322,7 +325,7 @@
       ],
       "description": "",
       "event_cluster_id": "7f02787c6b99",
-      "fetched_at": "2026-09-08T01:21:36Z",
+      "fetched_at": "2026-09-08T09:01:14Z",
       "id": "7f02787c6b9998458a46",
       "image_url": "",
       "is_breaking": false,
@@ -346,40 +349,107 @@
       "url": "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china"
     },
     {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
+      "authors": [],
+      "canonical_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
+      "cluster_sources": [
+        "Mistral AI News"
       ],
+      "description": "Company",
+      "event_cluster_id": "4d11ed62a144",
+      "fetched_at": "2026-09-08T09:01:14Z",
+      "id": "4d11ed62a144a3f4c2f6",
+      "image_url": "https://mistral.ai/_astro/Blog-thumbnail-featured-Fundraise%20copie_i7Ta8.webp?dpl=6a9fa3b881fbb900083d8d92",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-08T00:00:00Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: open-weight, funding",
+        "startup/product signal: funding, raised"
+      ],
+      "section": "startup_product",
+      "source_category": "official-lab",
+      "source_id": "mistral_news",
+      "source_name": "Mistral AI News",
+      "title": "Company Mistral raises €3B to make sovereign, open-weight AI the technology frontier Mistral today announced that it has raised €3 billion in a Series D funding round at a post-money valuation of more than €21 billion. September 8, 2026 By ",
+      "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
-        "Reza Rajabli",
-        "D. Louis Collins"
+        "Olga Tsymboi",
+        "Dmitrii Stoianov",
+        "Ramil Latypov",
+        "Danil Taranets",
+        "Daniil Dryabin",
+        "Mikhail Gashkov",
+        "Viktor Zelenkovskiy",
+        "Aleksandr Fida"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.05400v1",
+      "canonical_url": "https://arxiv.org/abs/2609.01572v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "When there is not enough labeled data to properly train deep learning models, transfer learning can help. We still do not fully understand how effective it is in neuroimaging, especially for Alzheimer's disease research. It is also not...",
-      "event_cluster_id": "e905e2d434b8",
-      "fetched_at": "2026-09-07T16:01:44Z",
-      "id": "e905e2d434b865850d7b",
+      "description": "Data-residency constraints force enterprises to self-host LLMs, but continuous adoption of newer models without decommissioning their predecessors expands the serving fleet, fragmenting a finite GPU pool. We consolidate traffic from over...",
+      "event_cluster_id": "deede2b3c9cc",
+      "fetched_at": "2026-09-02T14:39:55Z",
+      "id": "deede2b3c9cc0023501c",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-04T17:47:28Z",
+      "is_must_read": true,
+      "published_at": "2026-09-01T17:39:26Z",
       "research_track": "multimodal_foundation",
       "score": 16,
       "score_reasons": [
         "medium source",
-        "major-event keyword: model",
-        "research relevance: Alzheimer, Alzheimer's disease, neuroimaging",
-        "covered by multiple configured sources"
+        "published within 24 hours",
+        "major-event keyword: model, GPU, training",
+        "technical relevance: serving, RAG",
+        "startup/product signal: product"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "A Generalizable Feature Extractor for Alzheimer's-Related Brain MRI Tasks",
-      "url": "https://arxiv.org/abs/2609.05400v1"
+      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
+      "url": "https://arxiv.org/abs/2609.01572v1"
+    },
+    {
+      "authors": [
+        "mdp2021"
+      ],
+      "canonical_url": "https://www.youtube.com/watch?v=BJua0yjO5dk",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "c3fcc6c05af0",
+      "fetched_at": "2026-09-08T09:01:14Z",
+      "id": "hn-49607341",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T08:30:39Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: reasoning"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Build a Reasoning Model, Scratch 2: Base, Text Gen, KV Caching [Seb Raschka][YT]",
+      "url": "https://www.youtube.com/watch?v=BJua0yjO5dk"
     },
     {
       "also_covered_by": [
@@ -513,6 +583,39 @@
       "url": "https://techcrunch.com/2026/09/03/nvidia-confirms-it-will-buy-hugging-face-for-12-9-billion"
     },
     {
+      "authors": [
+        "devlithic"
+      ],
+      "canonical_url": "https://github.com/Sriram-PR/doc-scraper",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "0f88edbb8c68",
+      "fetched_at": "2026-09-08T09:01:14Z",
+      "id": "hn-49606814",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T07:33:59Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Doc-scraper, offline searchable docs corpora for coding agents (Go)",
+      "url": "https://github.com/Sriram-PR/doc-scraper"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/7/creepy-crawlies",
       "cluster_sources": [
@@ -573,70 +676,6 @@
       "url": "https://animaxxing.com"
     },
     {
-      "authors": [
-        "fabian_shipamax"
-      ],
-      "canonical_url": "https://news.ycombinator.com/item?id=49599559",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "2e0261771d59",
-      "fetched_at": "2026-09-07T16:01:44Z",
-      "id": "hn-49599559",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-07T15:34:40Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Send flowers from your AI agent and make your mum happy",
-      "url": "https://news.ycombinator.com/item?id=49599559"
-    },
-    {
-      "authors": [
-        "marvy101"
-      ],
-      "canonical_url": "https://askpod.ai",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "8d1fa68a9de8",
-      "fetched_at": "2026-09-07T16:01:44Z",
-      "id": "hn-49597472",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-07T12:18:56Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Pod – A review site for dev tools where the reviewers are AI agents",
-      "url": "https://askpod.ai"
-    },
-    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors",
@@ -694,35 +733,6 @@
       "source_name": "Simon Willison",
       "title": "Research acceleration: The view inside OpenAI",
       "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/6/zach-kehs",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "If you continue to add floors and rooms to a building forever, it will collapse. Software faces no such constraint. The code can always get worse. There can always be a new layer of indirection or a reduction in performance. — Zach Kehs ,..",
-      "event_cluster_id": "d4c1ed706924",
-      "fetched_at": "2026-09-06T13:47:01Z",
-      "id": "d4c1ed706924d9ab7312",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-06T08:42:49Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Zach Kehs",
-      "url": "https://simonwillison.net/2026/Sep/6/zach-kehs"
     },
     {
       "also_covered_by": [],
@@ -786,6 +796,7 @@
       "url": "https://simonwillison.net/2026/Sep/6/the-purpose-of-dns-is-to-spread-scams"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Natasha Lomas, Romain Dillet, Kyle Wiggers, Lucas Ropek"
       ],
@@ -816,6 +827,7 @@
       "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member",
       "cluster_sources": [
@@ -823,7 +835,7 @@
       ],
       "description": "",
       "event_cluster_id": "e14d90d99dba",
-      "fetched_at": "2026-09-08T01:21:36Z",
+      "fetched_at": "2026-09-08T09:01:14Z",
       "id": "e14d90d99dba4a685b73",
       "image_url": "",
       "is_breaking": false,
@@ -877,13 +889,13 @@
     }
   ],
   "date_label": "Tuesday, September 8, 2026",
-  "generated_at": "2026-09-08T01:21:36Z",
+  "generated_at": "2026-09-08T09:01:14Z",
   "summary": {
-    "duplicates_removed": 0,
-    "failed_sources": 3,
-    "fetched_items": 174,
+    "duplicates_removed": 1,
+    "failed_sources": 1,
+    "fetched_items": 205,
     "retained_items": 27,
-    "successful_sources": 18
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
