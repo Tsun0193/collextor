@@ -1,6 +1,36 @@
 {
   "articles": [
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability...",
+      "event_cluster_id": "4da32f3be159",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "4da32f3be1597a3099f6",
+      "image_url": "https://static.simonwillison.net/static/2026/racoon-chart.webp",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-08T22:46:33Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, introducing, model",
+        "startup/product signal: API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Introducing ChatGPT Images 2.5",
+      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Chenguang Zheng",
@@ -183,45 +213,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Penghao Wu",
-        "Haiwen Diao",
-        "Weichen Fan",
-        "Lewei Lu",
-        "Dahua Lin",
-        "Ziwei Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.01607v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "While unified multimodal models (UMMs) jointly perform visual understanding and generation within a single model, functional unification does not guarantee learning synergy: the two objectives may reinforce each other, compete for...",
-      "event_cluster_id": "68e5f74414a8",
-      "fetched_at": "2026-09-02T14:39:55Z",
-      "id": "68e5f74414a8d587b384",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-01T17:59:59Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: multimodal"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System",
-      "url": "https://arxiv.org/abs/2609.01607v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Jonathan B. Martin",
         "Yashwant Kurmi",
         "Charlotte R. Sappo"
@@ -256,6 +247,36 @@
       "url": "https://arxiv.org/abs/2609.02676v1"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have..",
+      "event_cluster_id": "d713ca6f0b66",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "d713ca6f0b6643c02de2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-08T23:55:12Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, released, model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "On the Navier–Stokes Millennium Prize Problem",
+      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Mat Honan"
       ],
@@ -351,38 +372,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "7f02787c6b99",
-      "fetched_at": "2026-09-08T14:44:47Z",
-      "id": "7f02787c6b9998458a46",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-07T00:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "major-event keyword: open source",
-        "technical relevance: PyTorch",
-        "startup/product signal: open source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Alibaba Cloud, Ant Group, Cambricon and Huawei Come Together in Shanghai to Advance the Open Source AI Stack at PyTorch Conference China",
-      "url": "https://pytorch.org/blog/alibaba-cloud-ant-group-cambricon-and-huawei-come-together-in-shanghai-to-advance-the-open-source-ai-stack-at-pytorch-conference-china"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
       "canonical_url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier",
       "cluster_sources": [
         "Mistral AI News"
@@ -412,47 +401,38 @@
       "url": "https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Olga Tsymboi",
-        "Dmitrii Stoianov",
-        "Ramil Latypov",
-        "Danil Taranets",
-        "Daniil Dryabin",
-        "Mikhail Gashkov",
-        "Viktor Zelenkovskiy",
-        "Aleksandr Fida"
+        "Dan Goodin"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.01572v1",
+      "canonical_url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Ars Technica AI"
       ],
-      "description": "Data-residency constraints force enterprises to self-host LLMs, but continuous adoption of newer models without decommissioning their predecessors expands the serving fleet, fragmenting a finite GPU pool. We consolidate traffic from over...",
-      "event_cluster_id": "deede2b3c9cc",
-      "fetched_at": "2026-09-02T14:39:55Z",
-      "id": "deede2b3c9cc0023501c",
-      "image_url": "",
+      "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
+      "event_cluster_id": "2cf2324cd2db",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "2cf2324cd2db88adca9c",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-01T17:39:26Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-09-08T21:11:46Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, GPU, training",
-        "technical relevance: serving, RAG",
-        "startup/product signal: product"
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: release, security"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix",
-      "url": "https://arxiv.org/abs/2609.01572v1"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "ars_ai",
+      "source_name": "Ars Technica AI",
+      "title": "Why this month's Microsoft patch release is a doozy",
+      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
       "cluster_sources": [
@@ -482,6 +462,7 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Eshan Raul"
       ],
@@ -543,73 +524,6 @@
       "source_name": "Hacker News",
       "title": "Build a Reasoning Model, Scratch 2: Base, Text Gen, KV Caching [Seb Raschka][YT]",
       "url": "https://www.youtube.com/watch?v=BJua0yjO5dk"
-    },
-    {
-      "also_covered_by": [
-        "TechCrunch AI"
-      ],
-      "authors": [
-        "NoRagrets"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0f98e72e20a4",
-      "fetched_at": "2026-09-07T01:16:53Z",
-      "id": "hn-49592655",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-07T01:09:19Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: RAG",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Abliteration.ai is making a business out of removing AI guardrails",
-      "url": "https://techcrunch.com/2026/09/03/abliteration-ai-is-making-a-business-out-of-removing-ai-guardrails"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Authors say publishers seem to be claiming more than their fair share of settlement payments.",
-      "event_cluster_id": "b5898210effe",
-      "fetched_at": "2026-09-07T01:16:53Z",
-      "id": "b5898210effe4127fb3c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-06T20:47:37Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Authors push back as publishers and agents make claims on Anthropic settlement",
-      "url": "https://techcrunch.com/2026/09/06/authors-push-back-as-publishers-and-agents-seek-share-of-anthropic-settlement"
     },
     {
       "also_covered_by": [],
@@ -677,6 +591,100 @@
     },
     {
       "authors": [
+        "paimapi"
+      ],
+      "canonical_url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ec5e2fd63025",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "hn-49617581",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T21:47:38Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "startup/product signal: API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Large language models develop novel social biases through adaptive exploration",
+      "url": "https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta's new personal AI agent Muse wants access to users' email, calendars, payments, health services, and more — making the company's biggest consumer AI bet yet a major test of whether people still trust Meta with their data.",
+      "event_cluster_id": "f1e83fe39da0",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "f1e83fe39da0e3225ec9",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T19:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta debuts its Muse AI agent. Will consumers trust it?",
+      "url": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Google is speeding up Chrome’s release schedule to ship security patches and new features faster.",
+      "event_cluster_id": "bae1d2f63dba",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "bae1d2f63dba18ca50c9",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T15:04:09Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: release, security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Chrome is now shipping updates every 2 weeks as AI changes the security landscape",
+      "url": "https://techcrunch.com/2026/09/08/chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscape"
+    },
+    {
+      "authors": [
         "alehlopeh"
       ],
       "canonical_url": "https://arxiv.org/abs/2608.09867",
@@ -740,6 +748,7 @@
       "url": "https://github.com/gi-dellav/multistack/tree/main"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anna Heim"
       ],
@@ -801,62 +810,139 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors",
-      "cluster_sources": [
-        "PyTorch Blog"
+      "authors": [
+        "Varun Varma Thozhiyoor",
+        "Shivam Tripathi",
+        "Venkatesh Babu Radhakrishnan",
+        "Anand Bhattad"
       ],
-      "description": "",
-      "event_cluster_id": "eee6b80fd4e8",
-      "fetched_at": "2026-09-07T16:01:44Z",
-      "id": "eee6b80fd4e8f53af13e",
+      "canonical_url": "https://arxiv.org/abs/2609.04200v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Evaluating physical reasoning in video models is difficult because absolute motion measurements depend on frame rate, object scale, and camera calibration, all of which are often ambiguous or unavailable in generated video. We propose a...",
+      "event_cluster_id": "2e5f88d4ec06",
+      "fetched_at": "2026-09-04T14:31:06Z",
+      "id": "2e5f88d4ec0672f4f489",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-07T00:00:00Z",
-      "research_track": "",
+      "published_at": "2026-09-03T17:59:50Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "technical relevance: PyTorch"
+        "major-event keyword: model",
+        "technical relevance: reasoning"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "PyTorch x Hugging Face in Bengaluru: Building India’s Next Generation of ML Systems Contributors",
-      "url": "https://pytorch.org/blog/pytorch-x-hugging-face-in-bengaluru-building-indias-next-generation-of-ml-systems-contributors"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Principia: Relational Physics Tests for Video Models",
+      "url": "https://arxiv.org/abs/2609.04200v1"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Kang Liao",
+        "Yihang Luo",
+        "Xiao-Ming Wu",
+        "Linyi Jin",
+        "Size Wu",
+        "Chunyu Lin",
+        "Yao Zhao",
+        "Fei Wang"
       ],
-      "description": "Research acceleration: The view inside OpenAI Apparently today is RSI day at OpenAI, for Recursive Self-Improvement - I think it's their new AGI. Both this piece and the new essay An Alien Mind (by Chief Scientist Jakub Pachocki) talk...",
-      "event_cluster_id": "904ea86174aa",
-      "fetched_at": "2026-09-07T01:16:53Z",
-      "id": "904ea86174aa4acc4bec",
-      "image_url": "https://static.simonwillison.net/static/2026/openai-agent-usage.webp",
+      "canonical_url": "https://arxiv.org/abs/2609.04196v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We propose Puffin-World, a unified multimodal architecture that integrates physical understanding, spatial simulation, and 3D world generation and reconstruction without relying on external offline modules. To reliably construct and...",
+      "event_cluster_id": "516bb1c71d4d",
+      "fetched_at": "2026-09-04T14:31:06Z",
+      "id": "516bb1c71d4dd7202ab0",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-06T23:57:40Z",
-      "research_track": "",
+      "published_at": "2026-09-03T17:59:13Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
-        "critical source",
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States",
+      "url": "https://arxiv.org/abs/2609.04196v1"
+    },
+    {
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Last month, a Claude user noticed his account was consuming tokens even though he wasn't working. Anthropic has since warned users about hackers.",
+      "event_cluster_id": "1cabf28ef85d",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "1cabf28ef85dff46830b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T21:10:27Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
         "published within 6 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Research acceleration: The view inside OpenAI",
-      "url": "https://simonwillison.net/2026/Sep/6/research-acceleration-the-view-inside-openai"
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Hackers are stealing Claude tokens from subscribers",
+      "url": "https://techcrunch.com/2026/09/08/hackers-are-stealing-claude-tokens-from-subscribers"
+    },
+    {
+      "authors": [
+        "Marina Temkin"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Cognition's valuation multiple is higher than Cursor's was before selling to SpaceX.",
+      "event_cluster_id": "cc176219ddc5",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "cc176219ddc5276683f3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T21:04:06Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Cognition hits $48B valuation, signaling investors believe AI coding is far from a winner-take-all market",
+      "url": "https://techcrunch.com/2026/09/08/cognition-hits-48b-valuation-signaling-investors-believe-ai-coding-is-far-from-a-winner-take-all-market"
     },
     {
       "also_covered_by": [],
@@ -890,74 +976,42 @@
       "url": "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member",
+      "canonical_url": "https://simonwillison.net/2026/Sep/9/terence-tao",
       "cluster_sources": [
-        "PyTorch Blog"
+        "Simon Willison"
       ],
-      "description": "",
-      "event_cluster_id": "e14d90d99dba",
-      "fetched_at": "2026-09-08T14:44:47Z",
-      "id": "e14d90d99dba4a685b73",
+      "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of...",
+      "event_cluster_id": "ba64bc89cb62",
+      "fetched_at": "2026-09-09T01:28:43Z",
+      "id": "ba64bc89cb62d70284da",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-07T00:00:00Z",
+      "published_at": "2026-09-09T00:20:17Z",
       "research_track": "",
-      "score": 12,
+      "score": 8,
       "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
+        "critical source",
+        "published within 6 hours",
+        "negative signal: rumor"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Cambricon Joins the PyTorch Foundation as a Platinum Member",
-      "url": "https://pytorch.org/blog/cambricon-joins-the-pytorch-foundation-as-a-platinum-member"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The Uber founder has said that Atoms will allow him to complete \"unfinished business.\"",
-      "event_cluster_id": "632e747639f1",
-      "fetched_at": "2026-09-07T16:01:44Z",
-      "id": "632e747639f17525fd5f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-06T16:45:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Travis Kalanick’s Atoms might be getting into the robotaxi business",
-      "url": "https://techcrunch.com/2026/09/06/travis-kalanicks-atoms-might-be-getting-into-the-robotaxi-business"
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Terence Tao",
+      "url": "https://simonwillison.net/2026/Sep/9/terence-tao"
     }
   ],
-  "date_label": "Tuesday, September 8, 2026",
-  "generated_at": "2026-09-08T14:44:47Z",
+  "date_label": "Wednesday, September 9, 2026",
+  "generated_at": "2026-09-09T01:28:43Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 200,
-    "retained_items": 29,
+    "fetched_items": 199,
+    "retained_items": 31,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
