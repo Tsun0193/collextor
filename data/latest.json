@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Junfeng Xia",
         "Wenhao Ye",
@@ -15,7 +16,7 @@
       ],
       "description": "fMRI foundation models increasingly aggregate heterogeneous data across brain states, cohorts, and acquisition settings, yet pretraining domains are commonly treated as a flat mixture and downstream tasks are adapted independently. We...",
       "event_cluster_id": "2205b17fe2f9",
-      "fetched_at": "2026-09-10T09:05:45Z",
+      "fetched_at": "2026-09-10T14:36:44Z",
       "id": "2205b17fe2f9eefa4794",
       "image_url": "",
       "is_breaking": false,
@@ -248,47 +249,6 @@
       "source_name": "Simon Willison",
       "title": "Introducing ChatGPT Images 2.5",
       "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Xupeng Zhang",
-        "Xihang Wang",
-        "Michael Xie",
-        "Haoyuan Liang",
-        "Hau Ern Lien",
-        "Oishika Das",
-        "James Feghali",
-        "Risheng Xu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.08805v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Preoperative evaluation of trigeminal neuralgia (TN) often requires joint interpretation of structural MRI, which depicts the trigeminal nerve and surrounding cisternal anatomy, and time-of-flight MRA, which highlights vascular...",
-      "event_cluster_id": "85344f450c63",
-      "fetched_at": "2026-09-09T09:07:13Z",
-      "id": "85344f450c637c9faaa3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-08T14:32:44Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "research relevance: MRI",
-        "technical relevance: evaluation"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Evaluation Principles for MRI-MRA Registration in Trigeminal Neuralgia: An ROI-Centered Neurovascular Benchmark",
-      "url": "https://arxiv.org/abs/2609.08805v1"
     },
     {
       "also_covered_by": [],
@@ -568,7 +528,7 @@
       ],
       "description": "",
       "event_cluster_id": "0158be078273",
-      "fetched_at": "2026-09-10T09:05:45Z",
+      "fetched_at": "2026-09-10T14:36:44Z",
       "id": "0158be078273d5105d24",
       "image_url": "",
       "is_breaking": false,
@@ -667,38 +627,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Mat Honan"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Danijar Hafner’s office in San Francisco’s SoMa district sits mostly empty. His brand-new startup is still in stealth mode and doesn’t even have its name on the door. On the day I visit, there’s only one other person there, and little in...",
-      "event_cluster_id": "7cb14dc5327b",
-      "fetched_at": "2026-09-08T14:44:47Z",
-      "id": "7cb14dc5327b78c8c054",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-09-08T10:34:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "This AI entrepreneur is developing agents that can plan ahead for the unexpected",
-      "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents"
-    },
-    {
-      "authors": [
         "Md. Masudul Islam",
         "Mirza Niaz Morshed",
         "Md. Shafiqul Islam"
@@ -709,7 +637,7 @@
       ],
       "description": "AI literacy provides foundational competencies that support ethical, transparent, and sustainable technological development, although higher-order capabilities such as governance, critical evaluation, and strategic decision-making extend...",
       "event_cluster_id": "398a8f091895",
-      "fetched_at": "2026-09-10T09:05:45Z",
+      "fetched_at": "2026-09-10T14:36:44Z",
       "id": "398a8f091895de806615",
       "image_url": "",
       "is_breaking": false,
@@ -730,6 +658,68 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework",
       "url": "https://arxiv.org/abs/2609.10489v1"
+    },
+    {
+      "authors": [
+        "Ricardo De Azevedo"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single..",
+      "event_cluster_id": "f37aa50a575f",
+      "fetched_at": "2026-09-10T14:36:44Z",
+      "id": "f37aa50a575f6307e2c6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-09-10T11:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Powering AI is an architecture problem",
+      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem"
+    },
+    {
+      "authors": [
+        "Andrew Ray"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records,...",
+      "event_cluster_id": "19e067634ad5",
+      "fetched_at": "2026-09-10T14:36:44Z",
+      "id": "19e067634ad56519ce54",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-09-10T08:58:01Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Healthcare AI’s next test is integration",
+      "url": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration"
     },
     {
       "also_covered_by": [],
@@ -894,67 +884,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "5cbcf08e2888",
-      "fetched_at": "2026-09-08T14:44:47Z",
-      "id": "5cbcf08e288841ac31de",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-08T14:23:07Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: safety"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Safety for Whom? Refusing the Right Subset of a Topic, Not the Whole Topic",
-      "url": "https://huggingface.co/blog/MultiverseComputingCAI/safety-for-whom"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Eshan Raul"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Throughout the history of the computer chip, engineers have treated waste heat as an inevitable cost of a calculation. Hannah Earley, however, thinks it’s a design choice. Earley, 31, is cofounder and chief technology officer of Vaire...",
-      "event_cluster_id": "3d47b8361bc3",
-      "fetched_at": "2026-09-08T14:44:47Z",
-      "id": "3d47b8361bc3e55f7f1a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-09-08T10:36:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: chip"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "This founder is teaching chips how to recycle (their energy)",
-      "url": "https://www.technologyreview.com/2026/09/08/1142079/hannah-earley-computer-chips-recycle-energy"
-    },
-    {
-      "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
       "cluster_sources": [
         "Latent Space"
@@ -1012,6 +941,7 @@
       "url": "https://simonwillison.net/2026/Sep/10/calif-research"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yanzhe Chen",
         "Zechen Bai",
@@ -1028,7 +958,7 @@
       ],
       "description": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\"...",
       "event_cluster_id": "bba6ea0cf4b1",
-      "fetched_at": "2026-09-10T09:05:45Z",
+      "fetched_at": "2026-09-10T14:36:44Z",
       "id": "bba6ea0cf4b1befa3fbc",
       "image_url": "",
       "is_breaking": false,
@@ -1051,6 +981,7 @@
       "url": "https://arxiv.org/abs/2609.10522v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Mehrnaz Mofakhami",
         "Ananya Sahu",
@@ -1067,7 +998,7 @@
       ],
       "description": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of the language they are prompted in....",
       "event_cluster_id": "e0263f57ecf2",
-      "fetched_at": "2026-09-10T09:05:45Z",
+      "fetched_at": "2026-09-10T14:36:44Z",
       "id": "e0263f57ecf243b62895",
       "image_url": "",
       "is_breaking": false,
@@ -1090,6 +1021,7 @@
       "url": "https://arxiv.org/abs/2609.10445v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Hongming Zhang",
         "Zhaozhen Gu",
@@ -1106,7 +1038,7 @@
       ],
       "description": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context...",
       "event_cluster_id": "330ce41c7750",
-      "fetched_at": "2026-09-10T09:05:45Z",
+      "fetched_at": "2026-09-10T14:36:44Z",
       "id": "330ce41c7750700d329c",
       "image_url": "",
       "is_breaking": false,
@@ -1137,7 +1069,7 @@
       ],
       "description": "",
       "event_cluster_id": "46660cb2ea43",
-      "fetched_at": "2026-09-10T09:05:45Z",
+      "fetched_at": "2026-09-10T14:36:44Z",
       "id": "46660cb2ea4362f69cbd",
       "image_url": "",
       "is_breaking": false,
@@ -1157,6 +1089,45 @@
       "source_name": "Hugging Face Blog",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Michael Wehrli",
+        "Leo Widmer",
+        "Edwin Li",
+        "Noel Fiechter",
+        "Lorenzo Pettinari",
+        "Sidaty El Hadramy",
+        "Carol C. Hasler",
+        "Philippe C. Cattin"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.10125v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Trochlear dysplasia (TD) is an abnormality of the femoral trochlea associated with anterior knee pain and patellar instability. The sulcus angle (SA) is used to assess trochlear morphology, but it is typically measured on a single axial...",
+      "event_cluster_id": "6b2921751ca5",
+      "fetched_at": "2026-09-10T09:05:45Z",
+      "id": "6b2921751ca5c638c784",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-09T13:01:59Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: MRI, PET"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "SA-Profile: Automated Sulcus Angle Profiling from Super-Resolution MRI",
+      "url": "https://arxiv.org/abs/2609.10125v1"
     },
     {
       "also_covered_by": [],
@@ -1198,9 +1169,9 @@
       ],
       "description": "Solutions",
       "event_cluster_id": "56bfec926244",
-      "fetched_at": "2026-09-10T09:05:45Z",
+      "fetched_at": "2026-09-10T14:36:44Z",
       "id": "56bfec926244076beb99",
-      "image_url": "https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6aa1e11115287dc3846c6369",
+      "image_url": "https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6aa299660c59ee0007e450b4",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
@@ -1216,8 +1187,64 @@
       "source_category": "official-lab",
       "source_id": "mistral_news",
       "source_name": "Mistral AI News",
-      "title": "Solutions Modernizing complex legacy code with AI agents. Lessons from 40,000 lines of Fortran. September 9, 2026 By Mistral",
+      "title": "Solutions Modernizing complex legacy code with AI agents. Lessons from 40,000 lines of Fortran. September 9, 2026 By Carlo Antonio Patti & Rasul Alakbarli",
       "url": "https://mistral.ai/news/legacy-code-modernization"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://mistral.ai/news/mistral-x-cloudera",
+      "cluster_sources": [
+        "Mistral AI News"
+      ],
+      "description": "Company",
+      "event_cluster_id": "2947b3434651",
+      "fetched_at": "2026-09-10T14:36:44Z",
+      "id": "2947b34346514aae0973",
+      "image_url": "https://mistral.ai/_astro/mistra-x-cloudera_1YDwRB.webp?dpl=6aa299660c59ee0007e450b4",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "mistral_news",
+      "source_name": "Mistral AI News",
+      "title": "Company Cloudera and Mistral Partner to Bring Specialized, Sovereign Intelligence to Enterprise Data September 10, 2026 By Mistral",
+      "url": "https://mistral.ai/news/mistral-x-cloudera"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/gradio-workflow-1111",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "075fed980e67",
+      "fetched_at": "2026-09-10T14:36:44Z",
+      "id": "075fed980e67c694db46",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Rebuilding AUTOMATIC1111 with Gradio Workflow",
+      "url": "https://huggingface.co/blog/gradio-workflow-1111"
     },
     {
       "also_covered_by": [],
@@ -1251,12 +1278,12 @@
     }
   ],
   "date_label": "Thursday, September 10, 2026",
-  "generated_at": "2026-09-10T09:05:45Z",
+  "generated_at": "2026-09-10T14:36:44Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 199,
-    "retained_items": 37,
+    "fetched_items": 196,
+    "retained_items": 38,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
