@@ -1,6 +1,45 @@
 {
   "articles": [
     {
+      "authors": [
+        "Junfeng Xia",
+        "Wenhao Ye",
+        "Junxiang Zhang",
+        "Jiayu Zuo",
+        "Mo Wang",
+        "Quanying Liu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.10518v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "fMRI foundation models increasingly aggregate heterogeneous data across brain states, cohorts, and acquisition settings, yet pretraining domains are commonly treated as a flat mixture and downstream tasks are adapted independently. We...",
+      "event_cluster_id": "2205b17fe2f9",
+      "fetched_at": "2026-09-10T09:05:45Z",
+      "id": "2205b17fe2f9eefa4794",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-09T17:50:39Z",
+      "research_track": "multimodal_foundation",
+      "score": 21,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, acquisition, training",
+        "research relevance: MRI, fMRI",
+        "technical relevance: foundation model",
+        "startup/product signal: acquisition"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models",
+      "url": "https://arxiv.org/abs/2609.10518v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Jagmeet Singh"
@@ -73,6 +112,7 @@
       "url": "https://arxiv.org/abs/2609.10364v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yazhou Zhu"
       ],
@@ -82,7 +122,7 @@
       ],
       "description": "Few-shot medical image segmentation (FSMIS) seeks to delineate unseen structures from a small support set, but its standard formulation fixes task-defining evidence before inference. This assumption is fragile when query cases exhibit...",
       "event_cluster_id": "fb1d5d70fc75",
-      "fetched_at": "2026-09-10T01:24:03Z",
+      "fetched_at": "2026-09-10T09:05:45Z",
       "id": "fb1d5d70fc754c87f469",
       "image_url": "",
       "is_breaking": false,
@@ -106,6 +146,7 @@
       "url": "https://arxiv.org/abs/2609.10001v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zemin Jin",
         "Tomoko Matsui"
@@ -116,7 +157,7 @@
       ],
       "description": "Speech-based Alzheimer's disease (AD) detection has recently benefited from multimodal foundation-model representations that integrate complementary acoustic and linguistic information. However, conventional probability averaging over...",
       "event_cluster_id": "394651bb60d6",
-      "fetched_at": "2026-09-10T01:24:03Z",
+      "fetched_at": "2026-09-10T09:05:45Z",
       "id": "394651bb60d6a4f57056",
       "image_url": "",
       "is_breaking": false,
@@ -140,6 +181,7 @@
       "url": "https://arxiv.org/abs/2609.09948v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Giorgi Nikvashvili",
         "Hanxue Gu",
@@ -249,6 +291,7 @@
       "url": "https://arxiv.org/abs/2609.08805v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Hong Nguyen",
         "Sean Foley",
@@ -288,6 +331,7 @@
       "url": "https://arxiv.org/abs/2609.09757v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Marina Temkin"
       ],
@@ -516,6 +560,7 @@
       "url": "https://www.latent.space/p/ainews-openai-reports-navier-stokes"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack",
       "cluster_sources": [
@@ -523,7 +568,7 @@
       ],
       "description": "",
       "event_cluster_id": "0158be078273",
-      "fetched_at": "2026-09-10T01:24:03Z",
+      "fetched_at": "2026-09-10T09:05:45Z",
       "id": "0158be078273d5105d24",
       "image_url": "",
       "is_breaking": false,
@@ -653,6 +698,41 @@
       "url": "https://www.technologyreview.com/2026/09/08/1142088/danijar-hafner-developing-plan-ahead-agents"
     },
     {
+      "authors": [
+        "Md. Masudul Islam",
+        "Mirza Niaz Morshed",
+        "Md. Shafiqul Islam"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.10489v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "AI literacy provides foundational competencies that support ethical, transparent, and sustainable technological development, although higher-order capabilities such as governance, critical evaluation, and strategic decision-making extend...",
+      "event_cluster_id": "398a8f091895",
+      "fetched_at": "2026-09-10T09:05:45Z",
+      "id": "398a8f091895de806615",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-09T17:28:08Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: PET",
+        "technical relevance: evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework",
+      "url": "https://arxiv.org/abs/2609.10489v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Tim De Chant"
       ],
@@ -875,6 +955,36 @@
     },
     {
       "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "a quiet day",
+      "event_cluster_id": "3f89dd954b82",
+      "fetched_at": "2026-09-10T09:05:45Z",
+      "id": "3f89dd954b82394ac561",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-09-10T03:33:12Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/10/calif-research",
       "cluster_sources": [
         "Simon Willison"
@@ -903,75 +1013,123 @@
     },
     {
       "authors": [
-        "Mahdi Naser Moghadasi",
-        "Faezeh Ghaderi"
+        "Yanzhe Chen",
+        "Zechen Bai",
+        "Zhijun Cao",
+        "Wenzheng Zeng",
+        "Kevin Qinghong Lin",
+        "Yiqi Lin",
+        "Guoqiang Liang",
+        "Kevin Yuchen Ma"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.10357v1",
+      "canonical_url": "https://arxiv.org/abs/2609.10522v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Time-series foundation models are evaluated almost exclusively on public archives that predate them, so a strong score cannot be separated from having seen the test set during pretraining. The obvious remedy is a hold-out that postdates...",
-      "event_cluster_id": "50a98d584b01",
-      "fetched_at": "2026-09-10T01:24:03Z",
-      "id": "50a98d584b018e877d1f",
+      "description": "Foundation vision-language models (VLMs) exhibit broad intelligence about the world, yet translating this intelligence into robot control remains challenging. We present Show-Harness, an Embodied Harness that enables VLMs to \"play\"...",
+      "event_cluster_id": "bba6ea0cf4b1",
+      "fetched_at": "2026-09-10T09:05:45Z",
+      "id": "bba6ea0cf4b1befa3fbc",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-09T15:52:55Z",
+      "published_at": "2026-09-09T17:53:38Z",
       "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: foundation model"
+        "major-event keyword: model",
+        "technical relevance: vision-language, VLM, agent"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "A Later Test Set Is Not a New Domain: Pretraining Familiarity Survives a Contamination-Free Hold-Out",
-      "url": "https://arxiv.org/abs/2609.10357v1"
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "url": "https://arxiv.org/abs/2609.10522v1"
     },
     {
       "authors": [
-        "Haiji Liang",
-        "Pengfei Zhou",
-        "Zhenglin Wan",
-        "Wei Wang",
-        "Yang You",
-        "Wangbo Zhao"
+        "Mehrnaz Mofakhami",
+        "Ananya Sahu",
+        "Alejandro R. Salamanca",
+        "Daniel D'souza",
+        "Alexandre Berard",
+        "Thomas Euyang",
+        "Marzieh Fadaee",
+        "Julia Kreutzer"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.10346v1",
+      "canonical_url": "https://arxiv.org/abs/2609.10445v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Multimodal large language models (MLLMs) process hundreds or thousands of visual tokens per image, incurring prohibitive inference costs. While existing vision token pruning methods mitigate this overhead, they implicitly assume that a...",
-      "event_cluster_id": "58abf64a297f",
-      "fetched_at": "2026-09-10T01:24:03Z",
-      "id": "58abf64a297f1dcb968a",
+      "description": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of the language they are prompted in....",
+      "event_cluster_id": "e0263f57ecf2",
+      "fetched_at": "2026-09-10T09:05:45Z",
+      "id": "e0263f57ecf243b62895",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-09T15:44:32Z",
+      "published_at": "2026-09-09T16:56:25Z",
       "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: multimodal, inference"
+        "major-event keyword: model",
+        "technical relevance: reasoning"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Beyond One-Size-Fits-All: Sample-Adaptive Strategy Routing for Vision Token Pruning in MLLMs",
-      "url": "https://arxiv.org/abs/2609.10346v1"
+      "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
+      "url": "https://arxiv.org/abs/2609.10445v1"
     },
     {
+      "authors": [
+        "Hongming Zhang",
+        "Zhaozhen Gu",
+        "Fengshuo Bai",
+        "Ming Hao",
+        "Qingyang Zhang",
+        "Yuanyuan Wang",
+        "Shiyang Tang",
+        "Yanna Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.10441v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context...",
+      "event_cluster_id": "330ce41c7750",
+      "fetched_at": "2026-09-10T09:05:45Z",
+      "id": "330ce41c7750700d329c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-09T16:53:02Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "ConvMem: Convolutional Memory for Long-Context Reasoning",
+      "url": "https://arxiv.org/abs/2609.10441v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "cluster_sources": [
@@ -979,7 +1137,7 @@
       ],
       "description": "",
       "event_cluster_id": "46660cb2ea43",
-      "fetched_at": "2026-09-10T01:24:03Z",
+      "fetched_at": "2026-09-10T09:05:45Z",
       "id": "46660cb2ea4362f69cbd",
       "image_url": "",
       "is_breaking": false,
@@ -1001,111 +1159,7 @@
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
     },
     {
-      "authors": [
-        "Weichen Dai",
-        "Rafael Medeiros Cabral",
-        "Ziyi Shou",
-        "Yan Cao",
-        "Xin Shen",
-        "Dongcai Lu",
-        "Yi Zhou"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.10335v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Plane geometry remains a significant challenge in AI, requiring the integration of visual perception and mathematical reasoning. While Large Multimodal Models (LMMs) naturally handle visuo-linguistic inputs, they are often...",
-      "event_cluster_id": "7af54ab15294",
-      "fetched_at": "2026-09-10T01:24:03Z",
-      "id": "7af54ab15294e90e8685",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-09T15:33:25Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "From Symbolic Perception to Logical Deduction: A Framework for Guiding Language Models in Geometric Reasoning",
-      "url": "https://arxiv.org/abs/2609.10335v1"
-    },
-    {
-      "authors": [
-        "Xuan Cuong Ngo",
-        "Ngan Le"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.10333v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Uncertainty estimation for medical vision--language models (VLMs) using conformal prediction has gained increasing attention due to its distribution-free coverage guarantees. However, standard conformal prediction relies on...",
-      "event_cluster_id": "6603891f37f9",
-      "fetched_at": "2026-09-10T01:24:03Z",
-      "id": "6603891f37f94b490c6a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-09T15:32:01Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: VLM, RAG"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Learning to Adapt and Calibrate: Score Distribution Alignment for Few-Shot Uncertainty Prediction in Medical VLMs",
-      "url": "https://arxiv.org/abs/2609.10333v1"
-    },
-    {
-      "authors": [
-        "Samed Doğan",
-        "Nico Leuze",
-        "Alfred Schöttl"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.10322v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Transferring the rich priors of large 2D foundation models to sparse 3D LiDAR remains challenging, as training native 3D foundation models at comparable scale is limited by data and annotation scarcity. We introduce a LiDAR-conditioned...",
-      "event_cluster_id": "982091e849d7",
-      "fetched_at": "2026-09-10T01:24:03Z",
-      "id": "982091e849d72ce914b8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-09T15:26:35Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Geometry Without Coordinates: LiDAR Diffusion as a 3D Feature Bridge",
-      "url": "https://arxiv.org/abs/2609.10322v1"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "Dan Goodin"
       ],
@@ -1136,6 +1190,7 @@
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://mistral.ai/news/legacy-code-modernization",
       "cluster_sources": [
@@ -1143,9 +1198,9 @@
       ],
       "description": "Solutions",
       "event_cluster_id": "56bfec926244",
-      "fetched_at": "2026-09-10T01:24:03Z",
+      "fetched_at": "2026-09-10T09:05:45Z",
       "id": "56bfec926244076beb99",
-      "image_url": "https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6aa1d3faf09280034795e0d1",
+      "image_url": "https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6aa1e11115287dc3846c6369",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
@@ -1196,12 +1251,12 @@
     }
   ],
   "date_label": "Thursday, September 10, 2026",
-  "generated_at": "2026-09-10T01:24:03Z",
+  "generated_at": "2026-09-10T09:05:45Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 198,
-    "retained_items": 36,
+    "fetched_items": 199,
+    "retained_items": 37,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
