@@ -2,6 +2,189 @@
   "articles": [
     {
       "authors": [
+        "soltanov"
+      ],
+      "canonical_url": "https://redis.io/langcache",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "615af2241512",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "hn-49655370",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-11T08:54:21Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Redis built a cache that cuts LLM costs",
+      "url": "https://redis.io/langcache"
+    },
+    {
+      "authors": [
+        "hnrprtlpdb"
+      ],
+      "canonical_url": "https://simonwillison.net/2026/Sep/7/llm",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "bb62882f855d",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "hn-49655359",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-11T08:51:45Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "LLM 0.35",
+      "url": "https://simonwillison.net/2026/Sep/7/llm"
+    },
+    {
+      "authors": [
+        "JumpCrisscross"
+      ],
+      "canonical_url": "https://www.ft.com/content/48588acb-8026-4c8e-aac7-8b5588294dbf",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "7c3011156a9c",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "hn-49655356",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-11T08:51:13Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "How big is the open-model threat to AI hyperscalers?",
+      "url": "https://www.ft.com/content/48588acb-8026-4c8e-aac7-8b5588294dbf"
+    },
+    {
+      "authors": [
+        "ethanhawksley"
+      ],
+      "canonical_url": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "8de23530655e",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "hn-49655343",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-11T08:49:58Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Anthropic says it stopped scientists potentially developing bioweapons with AI",
+      "url": "https://www.ft.com/content/845cf3bf-59c5-4e53-a45e-e11d2339df9d"
+    },
+    {
+      "authors": [
+        "benban"
+      ],
+      "canonical_url": "https://pact0.com/notes/agents-vs-our-own-product",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "aa7a6d82741d",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "hn-49654075",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-11T05:59:59Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: product, Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: I pointed 11 cold AI agents at my own product. 3 finished",
+      "url": "https://pact0.com/notes/agents-vs-our-own-product"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/11/datasette-security",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are security fixes which...",
+      "event_cluster_id": "2608dc383dd7",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "2608dc383dd79ca4b3a0",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-11T03:27:16Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, security",
+        "startup/product signal: Series A"
+      ],
+      "section": "startup_product",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Datasette 1.0a39 and 0.65.4 security releases",
+      "url": "https://simonwillison.net/2026/Sep/11/datasette-security"
+    },
+    {
+      "authors": [
         "throwaway81523"
       ],
       "canonical_url": "https://arxiv.org/abs/2607.27092",
@@ -125,6 +308,7 @@
       "url": "https://botbin.io?mcp=true"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/10/trynix",
       "cluster_sources": [
@@ -153,6 +337,7 @@
       "url": "https://simonwillison.net/2026/Sep/10/trynix"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "jonifico"
       ],
@@ -184,6 +369,7 @@
       "url": "https://system76.com/workstations/thelio-mira-ai"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -214,6 +400,7 @@
       "url": "https://techcrunch.com/2026/09/10/jensen-huang-explains-why-nvidia-will-grow-an-astounding-70-next-year"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "TechCrunch Events"
       ],
@@ -244,6 +431,7 @@
       "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/10/shopify-react-native",
       "cluster_sources": [
@@ -272,6 +460,7 @@
       "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -302,6 +491,7 @@
       "url": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Russell Brandom"
       ],
@@ -334,6 +524,7 @@
       "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -365,6 +556,39 @@
       "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us"
     },
     {
+      "authors": [
+        "merybenavente"
+      ],
+      "canonical_url": "https://merybenavente.me/blog/proof-of-capture",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ffe91d848f41",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "hn-49649222",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T19:44:15Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: open source",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Proof of Capture: Apple Reference Image, but open source and using steganography",
+      "url": "https://merybenavente.me/blog/proof-of-capture"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "aquir"
       ],
@@ -398,6 +622,113 @@
     },
     {
       "authors": [
+        "Haiwen Diao",
+        "Jiahao Wang",
+        "Chenjing Ding",
+        "Hanming Deng",
+        "Jiangnan Chen",
+        "Ruixi Zhang",
+        "Ruohui Wang",
+        "Wenwen Tong"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11929v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its visual interface through spatially...",
+      "event_cluster_id": "5bd1fe76cbc3",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "5bd1fe76cbc3a7802336",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:59:55Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: launch, model",
+        "technical relevance: multimodal"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
+      "url": "https://arxiv.org/abs/2609.11929v1"
+    },
+    {
+      "authors": [
+        "William Zhou",
+        "Mayukha Siripuram",
+        "Xiao Yan",
+        "Ziqi Liu",
+        "Yi Ding"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11916v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evaluate for species...",
+      "event_cluster_id": "32e3d7d06738",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "32e3d7d067382752f472",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:57:32Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, VLM"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
+      "url": "https://arxiv.org/abs/2609.11916v1"
+    },
+    {
+      "authors": [
+        "Yakov Pyotr Shkolnikov"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11911v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Agentic AI is moving from bounded task execution toward systems that retain consequential state, continue operating and adapt across task boundaries. That shift creates a control problem that current harnesses largely solve by hand:...",
+      "event_cluster_id": "56f15e314458",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "56f15e314458bc45bb52",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:56:41Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Artificial Id: Drive and Persistent Alignment in Agentic AI",
+      "url": "https://arxiv.org/abs/2609.11911v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Tim Fernholz"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
@@ -406,7 +737,7 @@
       ],
       "description": "Come inside the mind of a bot trying to convince the internet it's human.",
       "event_cluster_id": "0742b565342c",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "0742b565342c25a2a04a",
       "image_url": "",
       "is_breaking": false,
@@ -429,6 +760,151 @@
     },
     {
       "authors": [
+        "Yunfei Ge",
+        "Anbang Liu",
+        "Qineng Wang",
+        "Johnalbert Garnica",
+        "Jianwen Lyu",
+        "Zihan Wang",
+        "Reuben Tan",
+        "Jianfeng Gao"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11900v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science identifies these relations as...",
+      "event_cluster_id": "7d949bcf52ff",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "7d949bcf52ff2bfad87b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:54:32Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
+      "url": "https://arxiv.org/abs/2609.11900v1"
+    },
+    {
+      "authors": [
+        "Weitong Cai",
+        "Hang Zhang",
+        "Yukai Huang",
+        "Yiqiao Xie",
+        "Shan Gao",
+        "Jiankang Deng",
+        "Songcen Xu",
+        "Jifei Song"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11899v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Long-video understanding on edge devices must reason over hours of content under tight compute and bandwidth budgets. Subsampling visual tokens loses temporal structure, while text-only video memories lose fine-grained visual attributes....",
+      "event_cluster_id": "84c665a7e276",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "84c665a7e2768afbcf52",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:53:59Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Caption-once, Frames-on-Demand: Visual-Need Routing for Budget-Aware Agentic Long Video Understanding",
+      "url": "https://arxiv.org/abs/2609.11899v1"
+    },
+    {
+      "authors": [
+        "Zi-Rong Li",
+        "Si-Yang Liu",
+        "Tian-Zuo Wang",
+        "Han-Jia Ye"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11897v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Causal discovery aims to uncover causal structures from data and is fundamental to scientific reasoning and intervention-based decision making. Its evaluation relies heavily on structural causal models (SCMs), which specify a causal...",
+      "event_cluster_id": "139a19d92677",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "139a19d9267773919922",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:53:15Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: foundation model, reasoning, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
+      "url": "https://arxiv.org/abs/2609.11897v1"
+    },
+    {
+      "authors": [
+        "Varun Teja Chundru",
+        "Debasmita Biswas"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11878v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Large language models generate fluent text that can contain unfaithful claims -- a phenomenon known as hallucination. We present a multi-signal detection pipeline combining fine-tuned DeBERTa-v3 classification, Monte Carlo (MC) Dropout...",
+      "event_cluster_id": "1ea38661430a",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "1ea38661430a59c48008",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:45:36Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Domain-Specific Hallucination Detection in Large Language Models",
+      "url": "https://arxiv.org/abs/2609.11878v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Jagmeet Singh"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content",
@@ -437,7 +913,7 @@
       ],
       "description": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
       "event_cluster_id": "2d4b75c49a05",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "2d4b75c49a05c7dbc883",
       "image_url": "",
       "is_breaking": false,
@@ -460,6 +936,187 @@
     },
     {
       "authors": [
+        "Bowen Zhang",
+        "Hsiu-Wen Cheng",
+        "Hongyu Yang",
+        "Evie L. Shen",
+        "Joleen Vansomphone",
+        "Yuna Li",
+        "Kerry Zhou",
+        "Zitian Qu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11872v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Continuous glucose monitoring (CGM) provides high-frequency measurements of glucose dynamics and enables short-term glucose forecasting for diabetes management. Although time-series foundation models have shown strong general forecasting...",
+      "event_cluster_id": "4106eab25477",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "4106eab25477045e1e9c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:43:29Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal, foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting",
+      "url": "https://arxiv.org/abs/2609.11872v1"
+    },
+    {
+      "authors": [
+        "Yi-Jen Shih",
+        "Puyuan Peng",
+        "Abdelrahman Mohamed",
+        "David Harwath"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11864v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Speech large language models (SpeechLLMs) offer reduced latency and retain paralinguistic nuances that are typically lost in cascaded automatic speech recognition (ASR) and text-based LM architectures. However, they continue to lag...",
+      "event_cluster_id": "143cd1440683",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "143cd14406835ed416bd",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:41:53Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "RetroThinker: Enabling Retrospective Thinking in Speech LLMs",
+      "url": "https://arxiv.org/abs/2609.11864v1"
+    },
+    {
+      "authors": [
+        "Raad Bin Tareaf",
+        "Murad Al-Rajab",
+        "Samia Loucif",
+        "Samer Ellaham",
+        "Cedric Schmitz"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11838v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Cardiovascular screening models trained on national health surveys routinely report areas under the receiver operating characteristic curve (AUROC) near 0.89. We asked whether that accuracy reflects learning or target leakage, whether...",
+      "event_cluster_id": "65bbfadc954c",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "65bbfadc954c28395957",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T17:29:15Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models",
+      "url": "https://arxiv.org/abs/2609.11838v1"
+    },
+    {
+      "authors": [
+        "Corentin Pla",
+        "Hugo Richard",
+        "Marc Abeille",
+        "Vianney Perchet"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11807v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We study reinforcement learning (RL) with transition look-ahead, where the agent may observe which states would be visited upon playing any sequence of $\\ell$ actions before deciding its course of action. Although look-ahead can...",
+      "event_cluster_id": "37ea94068476",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "37ea94068476f5ee9a04",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T16:58:21Z",
+      "research_track": "multimodal_foundation",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Near-Optimal Reinforcement Learning with Multi-Step Transition Lookahead",
+      "url": "https://arxiv.org/abs/2609.11807v1"
+    },
+    {
+      "authors": [
+        "Ayhan Suleymanzade",
+        "Chanhyuk Lee",
+        "Floor Eijkelboom",
+        "Nicholas M. Boffi",
+        "İsmail İlkan Ceylan",
+        "Jinwoo Kim"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11801v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Humans and machines often solve harder problems by spending more time on computation. In deep learning, looped models implement this idea during inference by recurrently updating a hidden state. In practice, however, their training...",
+      "event_cluster_id": "09df93a2f4f3",
+      "fetched_at": "2026-09-11T09:04:24Z",
+      "id": "09df93a2f4f335ea3b55",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T16:52:54Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, inference, training",
+        "technical relevance: inference"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Thinking with Looped Flows",
+      "url": "https://arxiv.org/abs/2609.11801v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "snyy"
       ],
       "canonical_url": "https://usefeyn.com/blog/multimatte",
@@ -468,7 +1125,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "8c3c212564f7",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "hn-49645803",
       "image_url": "",
       "is_breaking": false,
@@ -491,6 +1148,7 @@
       "url": "https://usefeyn.com/blog/multimatte"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "seelos"
       ],
@@ -500,7 +1158,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "403f674bcee8",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "hn-49645443",
       "image_url": "",
       "is_breaking": false,
@@ -559,6 +1217,7 @@
       "url": "https://arxiv.org/abs/2609.11650v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Russell Brandom"
       ],
@@ -568,7 +1227,7 @@
       ],
       "description": "“The vast majority of cases we find are people who are entitled to claim for something, claiming for that thing,” the researcher told TechCrunch.",
       "event_cluster_id": "c02e09634814",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "c02e0963481455e7fbd1",
       "image_url": "",
       "is_breaking": false,
@@ -914,6 +1573,7 @@
       "url": "https://arxiv.org/abs/2609.11582v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Wagner Moreno Schmitz",
         "Marco Antonio de Castro Barbosa",
@@ -927,7 +1587,7 @@
       ],
       "description": "Early diagnosis of melanoma is critical for improving patient survival rates. However, accurately distinguishing melanoma from other skin lesions remains a significant clinical challenge due to the high visual similarity among lesion...",
       "event_cluster_id": "e44f3aa5b407",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "e44f3aa5b4076313ff97",
       "image_url": "",
       "is_breaking": false,
@@ -1251,6 +1911,7 @@
       "url": "https://arxiv.org/abs/2609.11439v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Boya Wang",
         "Ruizhe Li",
@@ -1263,7 +1924,7 @@
       ],
       "description": "Adapting natural-image foundation models like DINOv3 to multi-modal medical imaging is challenging due to the significant domain gap between natural color images and multi-channel medical scans. We present a unified, patch-based...",
       "event_cluster_id": "c0b8f7f845fd",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "c0b8f7f845fde0d55e9d",
       "image_url": "",
       "is_breaking": false,
@@ -1319,6 +1980,7 @@
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Haojie Yang",
         "Ran Su"
@@ -1329,7 +1991,7 @@
       ],
       "description": "Lung cancer causes more deaths than any other malignancy, and low-dose CT screening is the main pathway to early diagnosis. That pathway hinges on the smallest lesions, yet nodules below six millimeters remain hard to detect, because...",
       "event_cluster_id": "0bab0d5c06d2",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "0bab0d5c06d296324bc5",
       "image_url": "",
       "is_breaking": false,
@@ -1508,6 +2170,7 @@
       "url": "https://botbin.io?v=next"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zahra Nabizadeh_Shahre_Babak",
         "Farzaneh Koohestani",
@@ -1573,6 +2236,7 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-d3b"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zongyue Teng",
         "Shujie Ma",
@@ -1763,6 +2427,7 @@
       "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/claude-opus-5",
       "cluster_sources": [
@@ -1770,7 +2435,7 @@
       ],
       "description": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how...",
       "event_cluster_id": "c34a327604b5",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "c34a327604b5be4a7c98",
       "image_url": "",
       "is_breaking": false,
@@ -1794,6 +2459,7 @@
       "url": "https://www.anthropic.com/news/claude-opus-5"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
       "cluster_sources": [
@@ -1801,7 +2467,7 @@
       ],
       "description": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how...",
       "event_cluster_id": "35305757066a",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "35305757066a6f711440",
       "image_url": "",
       "is_breaking": false,
@@ -1832,7 +2498,7 @@
       ],
       "description": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how...",
       "event_cluster_id": "8ed1599eb95b",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "8ed1599eb95bc766b101",
       "image_url": "",
       "is_breaking": false,
@@ -1912,6 +2578,7 @@
       "url": "https://huggingface.co/blog/gradio-workflow-1111"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
       "cluster_sources": [
@@ -1919,7 +2586,7 @@
       ],
       "description": "September 10, 2026",
       "event_cluster_id": "08a3d9b2900c",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "08a3d9b2900ccf7dfe1f",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/ToolGrad1_teaser.png",
       "is_breaking": false,
@@ -2067,6 +2734,7 @@
       "url": "https://arstechnica.com/information-technology/2026/09/4-groups-caught-using-the-same-chrome-and-windows-exploit-kit"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sylvain Jaume",
         "Hongming Wang",
@@ -2078,7 +2746,7 @@
       ],
       "description": "Detecting brain metastases in magnetic resonance imaging (MRI) remains challenging because lesions vary widely in size and appearance, with very small metastases occupying only a minute fraction of a three-dimensional input. We...",
       "event_cluster_id": "3e8fa359bb58",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "3e8fa359bb5859c2356c",
       "image_url": "",
       "is_breaking": false,
@@ -3698,6 +4366,7 @@
       "url": "https://github.com/emailclaw/emailclaw"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Pablo Ramirez Amador"
       ],
@@ -3707,7 +4376,7 @@
       ],
       "description": "Lung cancer is one of the leading causes of death worldwide, and its early diagnosis is crucial to improving patients prognosis and quality of life. However, the process of interpreting medical images for the detection of lung cancer is...",
       "event_cluster_id": "3e963db2cdaa",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "3e963db2cdaa939c7f56",
       "image_url": "",
       "is_breaking": false,
@@ -8976,7 +9645,7 @@
       ],
       "description": "AI News for 9/2/2026-9/3/2026.",
       "event_cluster_id": "2906695f474f",
-      "fetched_at": "2026-09-11T01:24:57Z",
+      "fetched_at": "2026-09-11T09:04:24Z",
       "id": "2906695f474f1c030c6a",
       "image_url": "https://substackcdn.com/image/fetch/$s_!g0iZ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHRYUNuoXUAAUuKN.jpg",
       "is_breaking": false,
@@ -19141,622 +19810,7 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "BiG-SURE - Bipartite Graph for Semantic Uncertainty and Reliability Estimation of LLMs",
       "url": "https://arxiv.org/abs/2608.30646v1"
-    },
-    {
-      "authors": [
-        "Michal Korniak",
-        "Kamil Dybek",
-        "Benjamin Eysenbach",
-        "Marco Bagatella",
-        "Michał Bortkiewicz"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.30640v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "While self-supervised approaches to reinforcement learning have achieved strong results by learning representations of states and actions, a key open question is the time scale over which actions should be modeled. Departing from the...",
-      "event_cluster_id": "06c81a19fc06",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "06c81a19fc06689d6164",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T11:47:03Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: self-supervised"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Three Steps at a Time: Learning Representations from Action Sequences in Contrastive RL",
-      "url": "https://arxiv.org/abs/2608.30640v1"
-    },
-    {
-      "authors": [
-        "Outongyi Lv",
-        "Yuanwei Zhang",
-        "Xiaoqun Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.30632v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Reinforcement learning (RL), particularly RL with Verifiable Rewards (RLVR), has recently emerged as a central paradigm for enhancing large language models' (LLMs) reasoning abilities, demonstrating remarkable effectiveness across...",
-      "event_cluster_id": "85715b92c9ea",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "85715b92c9eae5ae0b7b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T11:41:11Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "GMTS: Gradient Magnitude-based Token Selection Improves RLVR Training for LLM Reasoning",
-      "url": "https://arxiv.org/abs/2608.30632v1"
-    },
-    {
-      "authors": [
-        "Haoran Que",
-        "Jiajun Shi",
-        "Ting Huang",
-        "Renming Pang",
-        "Jiaheng Liu",
-        "Ge Zhang",
-        "Wenhao Huang",
-        "Shen Yan"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.30627v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "As language-model compute continues to scale, high-quality training data is becoming an increasingly important bottleneck. Conventional next-token prediction supervises what follows a context but leaves the intermediate reasoning behind...",
-      "event_cluster_id": "3091c76ad35a",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "3091c76ad35af1ba1c2a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T11:34:19Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "REER-PT: Reverse-Engineered Reasoning for Perplexity-Guided Pre-training Data Augmentation",
-      "url": "https://arxiv.org/abs/2608.30627v1"
-    },
-    {
-      "authors": [
-        "Junbeom Hong",
-        "Seonghoon Yu",
-        "Hyung Rok Jung",
-        "Sundong Kim",
-        "Jeany Son"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.30621v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Collecting natural-language referring expressions along with region annotations, such as masks or boxes, is a major bottleneck in visual grounding (VG), as annotators must write descriptions that distinguish target regions from visually...",
-      "event_cluster_id": "8805b02860bd",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "8805b02860bddede7aef",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T11:29:28Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Cost-efficient Active Learning for Referring Image Segmentation and Grounding",
-      "url": "https://arxiv.org/abs/2608.30621v1"
-    },
-    {
-      "authors": [
-        "ingve"
-      ],
-      "canonical_url": "https://calpaterson.com/memoryfields.html",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "411a1b432da3",
-      "fetched_at": "2026-08-31T17:41:46Z",
-      "id": "hn-49508317",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T11:17:25Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Agent memory as a file format",
-      "url": "https://calpaterson.com/memoryfields.html"
-    },
-    {
-      "authors": [
-        "Xingjian Wang",
-        "Shijian Wang",
-        "Yibo Wang",
-        "Zihao Yu",
-        "Runhao Fu",
-        "Xuelian Cheng",
-        "Zongyuan Ge"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.30584v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Despite the impressive progress of recent MLLMs on spatio-temporal video grounding (STVG), existing evaluations and training data focus primarily on simple queries. They largely overlook the compositional queries prevalent in real-world...",
-      "event_cluster_id": "4049e85bdc54",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "4049e85bdc54ed1fb827",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T11:01:31Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: training",
-        "technical relevance: evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Learning Compositional Spatio-Temporal Video Grounding with Synthetic Curriculum",
-      "url": "https://arxiv.org/abs/2608.30584v1"
-    },
-    {
-      "authors": [
-        "joozio"
-      ],
-      "canonical_url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "068dbb7cb087",
-      "fetched_at": "2026-08-31T11:05:10Z",
-      "id": "hn-49508225",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T11:01:19Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "You Know Who Hates AI? Insurance Claims Adjusters",
-      "url": "https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai"
-    },
-    {
-      "authors": [
-        "nitishagar"
-      ],
-      "canonical_url": "https://nitishagar.medium.com/an-agent-is-a-job-not-an-api-7673b837bd11",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5f7096e9fefc",
-      "fetched_at": "2026-08-31T11:05:10Z",
-      "id": "hn-49508223",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T11:01:06Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "An AI agent is a background job, not a web request",
-      "url": "https://nitishagar.medium.com/an-agent-is-a-job-not-an-api-7673b837bd11"
-    },
-    {
-      "authors": [
-        "aviramha"
-      ],
-      "canonical_url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "172b9842e1a0",
-      "fetched_at": "2026-08-31T11:05:10Z",
-      "id": "hn-49508200",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T10:57:30Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "The AI-Native SDLC Starts with Your Infrastructure",
-      "url": "https://metalbear.com/blog/ai-native-sdlc-infrastructure"
-    },
-    {
-      "authors": [
-        "somnial"
-      ],
-      "canonical_url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "c1b111092d2e",
-      "fetched_at": "2026-08-31T11:05:10Z",
-      "id": "hn-49508179",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T10:54:42Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: GPU"
-      ],
-      "section": "business_policy",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "What happens when a GPU writes memory",
-      "url": "https://blog.doubleword.ai/what-happens-when-a-gpu-writes-memory"
-    },
-    {
-      "authors": [
-        "Dennis Gross",
-        "Helge Spieker"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.30581v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language models (LLMs) are used as post hoc explainers of sequential decision-making policies, producing natural-language explanations of why an action was chosen. However, LLMs often generate plausible but incorrect statements,...",
-      "event_cluster_id": "4afc14888ed2",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "4afc14888ed2702833bd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T10:54:37Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Automated Testing of LLM-Based Post Hoc Explainers Using Model Checking as an Oracle",
-      "url": "https://arxiv.org/abs/2608.30581v1"
-    },
-    {
-      "authors": [
-        "not_wowinter14"
-      ],
-      "canonical_url": "https://magicshot.ai",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "2d7c54ce3323",
-      "fetched_at": "2026-08-31T11:05:10Z",
-      "id": "hn-49508159",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T10:52:14Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: AI studio with 500 models for headshots, video and images",
-      "url": "https://magicshot.ai"
-    },
-    {
-      "authors": [
-        "tosh"
-      ],
-      "canonical_url": "https://twitter.com/ivanburazin/status/2094373912154874171",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "29a57cbfa737",
-      "fetched_at": "2026-08-31T11:05:10Z",
-      "id": "hn-49508151",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T10:50:32Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Local AI Is Dead. You Are at the Funeral",
-      "url": "https://twitter.com/ivanburazin/status/2094373912154874171"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kate Park"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The U.S. is shutting out more foreign-made drones and robots. China’s scale means the global competition may simply move elsewhere.",
-      "event_cluster_id": "11b8606a8d30",
-      "fetched_at": "2026-09-01T02:00:59Z",
-      "id": "11b8606a8d3036b18607",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-31T02:34:00Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "research relevance: PET"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "The US is building barriers around drones and robots, but China has scale to get around them",
-      "url": "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale"
-    },
-    {
-      "authors": [
-        "thedreammachine"
-      ],
-      "canonical_url": "https://github.com/betocmn/preseason",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5a05a298c68e",
-      "fetched_at": "2026-08-31T11:05:10Z",
-      "id": "hn-49504947",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T02:29:25Z",
-      "research_track": "",
-      "score": 10,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "startup/product signal: developer tool, Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: I asked LLMs to choose between popular developer tools",
-      "url": "https://github.com/betocmn/preseason"
-    },
-    {
-      "authors": [
-        "ColinGPT"
-      ],
-      "canonical_url": "https://github.com/ColinGPT9/clips-studio",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "c251b20b3035",
-      "fetched_at": "2026-08-31T01:33:31Z",
-      "id": "hn-49504646",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T01:31:48Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: open-source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Clips Kitty Open-source local AI video clipping and editing",
-      "url": "https://github.com/ColinGPT9/clips-studio"
-    },
-    {
-      "authors": [
-        "Jimmc414"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2608.26418",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "78c05fa89a14",
-      "fetched_at": "2026-08-31T01:33:31Z",
-      "id": "hn-49504351",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T00:37:46Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "AI Accelerator Designed, Verified, and Deployed from Scratch in 2 Weeks by AI",
-      "url": "https://arxiv.org/abs/2608.26418"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "August 31, 2026",
-      "event_cluster_id": "dea1017d6754",
-      "fetched_at": "2026-08-31T17:41:46Z",
-      "id": "dea1017d6754b207c7bb",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/TimesFM31_Architecture.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-08-31T00:00:00Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model",
-        "startup/product signal: product"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "August 31, 2026 TimesFM-3: A zero-shot foundation model for multivariate forecasting Data Management · Machine Intelligence · Product",
-      "url": "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "48268a8a9625",
-      "fetched_at": "2026-08-31T17:41:46Z",
-      "id": "48268a8a96251ba4fafe",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-08-31T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
-      "url": "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models"
     }
   ],
-  "generated_at": "2026-09-11T01:24:57Z"
+  "generated_at": "2026-09-11T09:04:24Z"
 }
