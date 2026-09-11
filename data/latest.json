@@ -41,6 +41,38 @@
       "url": "https://arxiv.org/abs/2609.10518v1"
     },
     {
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
+      "event_cluster_id": "ef2856f80dd3",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "ef2856f80dd39d558c5a",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-10T20:57:30Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: release, released",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Jagmeet Singh"
@@ -73,6 +105,73 @@
       "source_name": "TechCrunch AI",
       "title": "Sequoia doubles down on Cymphony as AI agents create new enterprise security risks",
       "url": "https://techcrunch.com/2026/09/09/sequoia-doubles-down-on-cymphony-as-ai-agents-create-new-enterprise-security-risks"
+    },
+    {
+      "authors": [
+        "Boya Wang",
+        "Ruizhe Li",
+        "Chao Chen",
+        "Xin Chen"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11380v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Adapting natural-image foundation models like DINOv3 to multi-modal medical imaging is challenging due to the significant domain gap between natural color images and multi-channel medical scans. We present a unified, patch-based...",
+      "event_cluster_id": "c0b8f7f845fd",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "c0b8f7f845fde0d55e9d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-10T11:16:26Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical imaging, medical image",
+        "technical relevance: foundation model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging",
+      "url": "https://arxiv.org/abs/2609.11380v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/claude-opus-5",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how...",
+      "event_cluster_id": "c34a327604b5",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "c34a327604b5be4a7c98",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-10T00:00:00Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours",
+        "major-event keyword: introducing",
+        "technical relevance: agent",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Product Jul 24, 2026 Introducing Claude Opus 5 Opus 5 is a step change improvement for the Opus tier powering long-running agents while delivering improvements in coding and professional work.",
+      "url": "https://www.anthropic.com/news/claude-opus-5"
     },
     {
       "also_covered_by": [
@@ -221,37 +320,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Introducing ChatGPT Images 2.5 OpenAI's image generation models are apparently used \"more than 3 billion images across ChatGPT Images and the GPT‑Image models in the API\". This latest release improves their instruction-following ability...",
-      "event_cluster_id": "4da32f3be159",
-      "fetched_at": "2026-09-09T01:28:43Z",
-      "id": "4da32f3be1597a3099f6",
-      "image_url": "https://static.simonwillison.net/static/2026/racoon-chart.webp",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-08T22:46:33Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: release, introducing, model",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Introducing ChatGPT Images 2.5",
-      "url": "https://simonwillison.net/2026/Sep/8/introducing-chatgpt-images-25"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Hong Nguyen",
         "Sean Foley",
@@ -322,6 +390,36 @@
       "source_name": "TechCrunch AI",
       "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
       "url": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/model-hardware-standard-research-preview",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how...",
+      "event_cluster_id": "35305757066a",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "35305757066a6f711440",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-10T00:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Announcements Aug 27, 2026 Previewing the Model Hardware Standard We’re opening a research preview of the Model Hardware Standard (MHS), a shared specification for AI agents to safely operate physical devices, to a first group of scientific",
+      "url": "https://www.anthropic.com/news/model-hardware-standard-research-preview"
     },
     {
       "authors": [
@@ -521,111 +619,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "0158be078273",
-      "fetched_at": "2026-09-10T14:36:44Z",
-      "id": "0158be078273d5105d24",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-09T00:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "major-event keyword: open source",
-        "technical relevance: PyTorch",
-        "startup/product signal: open source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "PyTorch Conference China 2026: Advancing the Open Source AI Stack",
-      "url": "https://pytorch.org/blog/pytorch-conference-china-2026-advancing-the-open-source-ai-stack"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "On the Navier–Stokes Millennium Prize Problem Impressive result from OpenAI, who used an unreleased model to produce a resolution to the Navier–Stokes existence and smoothness problem , one of the seven Millennium Prize Problems that have..",
-      "event_cluster_id": "d713ca6f0b66",
-      "fetched_at": "2026-09-09T01:28:43Z",
-      "id": "d713ca6f0b6643c02de2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-08T23:55:12Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: release, released, model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "On the Navier–Stokes Millennium Prize Problem",
-      "url": "https://simonwillison.net/2026/Sep/8/on-navier-stokes"
-    },
-    {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "authors": [
-        "Tobias Susetzky",
-        "Raphael Rehms",
-        "Dmitrii Seletkov",
-        "Özgün Turgut",
-        "Michelle Espranita Liman",
-        "Lisa Steinhelfer",
-        "Rickmer Braren",
-        "Daniel Rueckert"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.09140v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI...",
-      "event_cluster_id": "aaeaca717916",
-      "fetched_at": "2026-09-09T14:46:49Z",
-      "id": "aaeaca7179160039780e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-08T17:56:13Z",
-      "research_track": "multimodal_foundation",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal",
-        "covered by multiple configured sources"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-      "url": "https://arxiv.org/abs/2609.09140v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Md. Masudul Islam",
         "Mirza Niaz Morshed",
@@ -661,6 +654,38 @@
     },
     {
       "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
+      "event_cluster_id": "234235455c19",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "234235455c19c6c591a5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T19:50:04Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
+      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Ricardo De Azevedo"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
@@ -691,6 +716,7 @@
       "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Andrew Ray"
       ],
@@ -788,38 +814,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Falling token costs, cheaper models, and less spend per employee—AI adoption isn't playing out the way hyperscalers hoped.",
-      "event_cluster_id": "185b780b546d",
-      "fetched_at": "2026-09-09T14:46:49Z",
-      "id": "185b780b546d3acda766",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-09T14:18:34Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?",
-      "url": "https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Ivan Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up",
@@ -850,36 +844,162 @@
       "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Dan Goodin"
-      ],
-      "canonical_url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/10/trynix",
       "cluster_sources": [
-        "Ars Technica AI"
+        "Simon Willison"
       ],
-      "description": "Security gnomes are pumping out patches ahead of an expected onslaught of AI-assisted attacks.",
-      "event_cluster_id": "2cf2324cd2db",
-      "fetched_at": "2026-09-09T01:28:43Z",
-      "id": "2cf2324cd2db88adca9c",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2023/07/exploit-vulnerability-security-500x500.jpg",
+      "description": "Any Nix package, live in your browser Farid Zakaria calls this his \" magnum opus of Nix work\", and I can see why. trynix.dev provides a qemu-wasm powered x86_64 Linux virtual machine running entirely in your browser through WebAssembly....",
+      "event_cluster_id": "4cd485d6f44c",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "4cd485d6f44cee902b46",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-08T21:11:46Z",
+      "published_at": "2026-09-10T23:44:15Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, security"
+        "critical source",
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "Why this month's Microsoft patch release is a doozy",
-      "url": "https://arstechnica.com/security/2026/09/microsoft-patches-a-record-972-vulnerabilities-112-of-them-critical"
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Any Nix package, live in your browser",
+      "url": "https://simonwillison.net/2026/Sep/10/trynix"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/10/shopify-react-native",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Native is now the future of mobile at Shopify Shopify are moving from React Native back to separate Swift and Kotlin codebases for their native apps, for the exact reason you would expect: We decided to switch from native to React Native...",
+      "event_cluster_id": "cbffbbffa6fa",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "cbffbbffa6fab47ebf98",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T21:11:15Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Native is now the future of mobile at Shopify",
+      "url": "https://simonwillison.net/2026/Sep/10/shopify-react-native"
+    },
+    {
+      "authors": [
+        "Kesheng Chen",
+        "Yamin Hu",
+        "Wenjian Luo"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11636v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Domain practitioners understand their business constraints but may lack operations-research expertise or dedicated support. LLM-based optimization agents translate natural-language requirements into models or solver programs that...",
+      "event_cluster_id": "0920086e00a1",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "0920086e00a15e5f3d60",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T14:44:50Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "MAPLE: Memory-Augmented Planning with Language and Evolution",
+      "url": "https://arxiv.org/abs/2609.11636v1"
+    },
+    {
+      "authors": [
+        "Makoto Fukushima",
+        "Hua-Dong Xiong",
+        "Ehsan Moradi Pari"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11489v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Cooperative AI agents are evaluated against other AIs, yet human cooperation relies on implicit conventions---shared protocols for reading meaning beyond the literal message---which AI-AI benchmarks may not capture. We propose the...",
+      "event_cluster_id": "a68d5a00a083",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "a68d5a00a0833b4e7ebe",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T12:57:03Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: agent, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "The Convention Gap: Towards Measuring Implicit Communication in Cooperative AI Evaluation",
+      "url": "https://arxiv.org/abs/2609.11489v1"
+    },
+    {
+      "authors": [
+        "Serwar Basch",
+        "Lizhen Qu",
+        "Iryna Gurevych"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.11460v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Reviewer comments naturally relate to specific parts of the reviewed paper, yet grounding these comments to the underlying evidence is difficult due to long multimodal documents. Existing benchmarks do not capture this setting and...",
+      "event_cluster_id": "c80ef9d486dc",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "c80ef9d486dcf5caa7ad",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T12:32:58Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: multimodal"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "ReGround: Grounding Reviewer Comments in Multimodal Evidence",
+      "url": "https://arxiv.org/abs/2609.11460v1"
     },
     {
       "also_covered_by": [],
@@ -942,6 +1062,36 @@
     },
     {
       "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "Over the past eight months, our Threat Intelligence team identified and disrupted operations in which threat actors tried to use Claude for malicious activity. In this report, we share case studies from those operations and describe how...",
+      "event_cluster_id": "8ed1599eb95b",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "8ed1599eb95bc766b101",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-10T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours",
+        "major-event keyword: model, security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incid",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Yanzhe Chen",
         "Zechen Bai",
@@ -982,86 +1132,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Mehrnaz Mofakhami",
-        "Ananya Sahu",
-        "Alejandro R. Salamanca",
-        "Daniel D'souza",
-        "Alexandre Berard",
-        "Thomas Euyang",
-        "Marzieh Fadaee",
-        "Julia Kreutzer"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.10445v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Reasoning language models have made substantial advances on a variety of complex tasks, yet their capabilities remain overwhelmingly English-centric: models primarily reason in English regardless of the language they are prompted in....",
-      "event_cluster_id": "e0263f57ecf2",
-      "fetched_at": "2026-09-10T14:36:44Z",
-      "id": "e0263f57ecf243b62895",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-09T16:56:25Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning",
-      "url": "https://arxiv.org/abs/2609.10445v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Hongming Zhang",
-        "Zhaozhen Gu",
-        "Fengshuo Bai",
-        "Ming Hao",
-        "Qingyang Zhang",
-        "Yuanyuan Wang",
-        "Shiyang Tang",
-        "Yanna Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.10441v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "While Large Language Models (LLMs) have demonstrated impressive capabilities, they often struggle with extremely long contexts due to fixed context limits. To address this, sequential approaches like MemAgent extend the effective context...",
-      "event_cluster_id": "330ce41c7750",
-      "fetched_at": "2026-09-10T14:36:44Z",
-      "id": "330ce41c7750700d329c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-09T16:53:02Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "ConvMem: Convolutional Memory for Long-Context Reasoning",
-      "url": "https://arxiv.org/abs/2609.10441v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series",
       "cluster_sources": [
@@ -1089,45 +1159,6 @@
       "source_name": "Hugging Face Blog",
       "title": "IBM releases SOTA Granite Time Series PatchTST-FM-r2 model with commercial-friendly license",
       "url": "https://huggingface.co/blog/ibm-research/ibm-releases-sota-granite-time-series"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Michael Wehrli",
-        "Leo Widmer",
-        "Edwin Li",
-        "Noel Fiechter",
-        "Lorenzo Pettinari",
-        "Sidaty El Hadramy",
-        "Carol C. Hasler",
-        "Philippe C. Cattin"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.10125v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Trochlear dysplasia (TD) is an abnormality of the femoral trochlea associated with anterior knee pain and patellar instability. The sulcus angle (SA) is used to assess trochlear morphology, but it is typically measured on a single axial...",
-      "event_cluster_id": "6b2921751ca5",
-      "fetched_at": "2026-09-10T09:05:45Z",
-      "id": "6b2921751ca5c638c784",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-09T13:01:59Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: MRI, PET"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "SA-Profile: Automated Sulcus Angle Profiling from Super-Resolution MRI",
-      "url": "https://arxiv.org/abs/2609.10125v1"
     },
     {
       "also_covered_by": [],
@@ -1163,35 +1194,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://mistral.ai/news/legacy-code-modernization",
-      "cluster_sources": [
-        "Mistral AI News"
-      ],
-      "description": "Solutions",
-      "event_cluster_id": "56bfec926244",
-      "fetched_at": "2026-09-10T14:36:44Z",
-      "id": "56bfec926244076beb99",
-      "image_url": "https://mistral.ai/_astro/thumbnail-10_1nYGlz.webp?dpl=6aa299660c59ee0007e450b4",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-09T00:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Solutions Modernizing complex legacy code with AI agents. Lessons from 40,000 lines of Fortran. September 9, 2026 By Carlo Antonio Patti & Rasul Alakbarli",
-      "url": "https://mistral.ai/news/legacy-code-modernization"
-    },
-    {
-      "authors": [],
       "canonical_url": "https://mistral.ai/news/mistral-x-cloudera",
       "cluster_sources": [
         "Mistral AI News"
@@ -1219,6 +1221,7 @@
       "url": "https://mistral.ai/news/mistral-x-cloudera"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/gradio-workflow-1111",
       "cluster_sources": [
@@ -1247,43 +1250,41 @@
       "url": "https://huggingface.co/blog/gradio-workflow-1111"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/9/terence-tao",
+      "canonical_url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients",
       "cluster_sources": [
-        "Simon Willison"
+        "Google Research Blog"
       ],
-      "description": "I wrote recently about how the collection of good, fruitful open problems is now being mined in a non-renewable fashion, leading to the potential scenario of these problems becoming scarce. [...] We have now seen that even the rumor of...",
-      "event_cluster_id": "ba64bc89cb62",
-      "fetched_at": "2026-09-09T01:28:43Z",
-      "id": "ba64bc89cb62d70284da",
-      "image_url": "",
+      "description": "September 10, 2026",
+      "event_cluster_id": "08a3d9b2900c",
+      "fetched_at": "2026-09-11T01:24:57Z",
+      "id": "08a3d9b2900ccf7dfe1f",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/ToolGrad1_teaser.png",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-09T00:20:17Z",
+      "published_at": "2026-09-10T00:00:00Z",
       "research_track": "",
-      "score": 8,
+      "score": 6,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "negative signal: rumor"
+        "medium source",
+        "published within 48 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Terence Tao",
-      "url": "https://simonwillison.net/2026/Sep/9/terence-tao"
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "September 10, 2026 ToolGrad: Efficient tool-use dataset generation with textual \"gradients\" Machine Intelligence · Natural Language Processing",
+      "url": "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients"
     }
   ],
-  "date_label": "Thursday, September 10, 2026",
-  "generated_at": "2026-09-10T14:36:44Z",
+  "date_label": "Friday, September 11, 2026",
+  "generated_at": "2026-09-11T01:24:57Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 196,
-    "retained_items": 38,
+    "fetched_items": 197,
+    "retained_items": 39,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
