@@ -3,35 +3,42 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Russell Brandom"
+        "Junfeng Xia",
+        "Wenhao Ye",
+        "Junxiang Zhang",
+        "Jiayu Zuo",
+        "Mo Wang",
+        "Quanying Liu"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek",
+      "canonical_url": "https://arxiv.org/abs/2609.10518v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "event_cluster_id": "ef2856f80dd3",
-      "fetched_at": "2026-09-11T01:24:57Z",
-      "id": "ef2856f80dd39d558c5a",
+      "description": "fMRI foundation models increasingly aggregate heterogeneous data across brain states, cohorts, and acquisition settings, yet pretraining domains are commonly treated as a flat mixture and downstream tasks are adapted independently. We...",
+      "event_cluster_id": "2205b17fe2f9",
+      "fetched_at": "2026-09-10T14:36:44Z",
+      "id": "2205b17fe2f9eefa4794",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-10T20:57:30Z",
-      "research_track": "",
-      "score": 20,
+      "published_at": "2026-09-09T17:50:39Z",
+      "research_track": "multimodal_foundation",
+      "score": 21,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, released",
-        "research relevance: PET"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, acquisition, training",
+        "research relevance: MRI, fMRI",
+        "technical relevance: foundation model",
+        "startup/product signal: acquisition"
       ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models",
+      "url": "https://arxiv.org/abs/2609.10518v1"
     },
     {
       "also_covered_by": [],
@@ -236,6 +243,40 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Yazhou Zhu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.10001v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Few-shot medical image segmentation (FSMIS) seeks to delineate unseen structures from a small support set, but its standard formulation fixes task-defining evidence before inference. This assumption is fragile when query cases exhibit...",
+      "event_cluster_id": "fb1d5d70fc75",
+      "fetched_at": "2026-09-10T09:05:45Z",
+      "id": "fb1d5d70fc754c87f469",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-09T10:26:51Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "research relevance: medical image",
+        "technical relevance: inference, RAG"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis",
+      "url": "https://arxiv.org/abs/2609.10001v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/11/soft-deprecating-re-match",
       "cluster_sources": [
@@ -428,6 +469,82 @@
       "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets"
     },
     {
+      "also_covered_by": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "authors": [
+        "Tobias Susetzky",
+        "Raphael Rehms",
+        "Dmitrii Seletkov",
+        "Özgün Turgut",
+        "Michelle Espranita Liman",
+        "Lisa Steinhelfer",
+        "Rickmer Braren",
+        "Daniel Rueckert"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.09140v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI...",
+      "event_cluster_id": "aaeaca717916",
+      "fetched_at": "2026-09-09T14:46:49Z",
+      "id": "aaeaca7179160039780e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-08T17:56:13Z",
+      "research_track": "multimodal_foundation",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal",
+        "covered by multiple configured sources"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
+      "url": "https://arxiv.org/abs/2609.09140v1"
+    },
+    {
+      "authors": [
+        "carsonpoole"
+      ],
+      "canonical_url": "https://www.tokendelivery.ai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "6a4c77806695",
+      "fetched_at": "2026-09-13T01:22:45Z",
+      "id": "hn-49674280",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-12T16:45:14Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Determinstic LLM inference for lowest price Gemma 4, with Windows XP",
+      "url": "https://www.tokendelivery.ai"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/11/wrapture",
@@ -456,6 +573,41 @@
       "source_name": "Simon Willison",
       "title": "Don't sleep on wrapture",
       "url": "https://simonwillison.net/2026/Sep/11/wrapture"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Md. Masudul Islam",
+        "Mirza Niaz Morshed",
+        "Md. Shafiqul Islam"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.10489v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "AI literacy provides foundational competencies that support ethical, transparent, and sustainable technological development, although higher-order capabilities such as governance, critical evaluation, and strategic decision-making extend...",
+      "event_cluster_id": "398a8f091895",
+      "fetched_at": "2026-09-10T14:36:44Z",
+      "id": "398a8f091895de806615",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-09T17:28:08Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: PET",
+        "technical relevance: evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework",
+      "url": "https://arxiv.org/abs/2609.10489v1"
     },
     {
       "also_covered_by": [],
@@ -520,38 +672,6 @@
       "source_name": "TechCrunch AI",
       "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
       "url": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "event_cluster_id": "234235455c19",
-      "fetched_at": "2026-09-11T01:24:57Z",
-      "id": "234235455c19c6c591a5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-10T19:50:04Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "url": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us"
     },
     {
       "also_covered_by": [],
@@ -650,38 +770,6 @@
       "url": "https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up"
     },
     {
-      "authors": [
-        "chalyi"
-      ],
-      "canonical_url": "https://stend.sh",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "b5f9a4739556",
-      "fetched_at": "2026-09-12T08:46:50Z",
-      "id": "hn-49670245",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-12T08:27:54Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Stend – share whatever your agent came up with",
-      "url": "https://stend.sh"
-    },
-    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b",
@@ -712,266 +800,126 @@
       "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Haiwen Diao",
-        "Jiahao Wang",
-        "Chenjing Ding",
-        "Hanming Deng",
-        "Jiangnan Chen",
-        "Ruixi Zhang",
-        "Ruohui Wang",
-        "Wenwen Tong"
+        "Vinoo Ganesh"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.11929v1",
+      "canonical_url": "https://www.latent.space/p/forward-deployed-engineer-best-practices",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Latent Space"
       ],
-      "description": "We launch SenseNova-U1.5, an 8B-MoT native unified multimodal model that understands, reasons about, and generates visual content within an encoder-free and VAE-free architecture. We strengthen its visual interface through spatially...",
-      "event_cluster_id": "5bd1fe76cbc3",
-      "fetched_at": "2026-09-11T14:35:24Z",
-      "id": "5bd1fe76cbc3a7802336",
-      "image_url": "",
+      "description": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
+      "event_cluster_id": "b01f2ad61bd0",
+      "fetched_at": "2026-09-13T01:22:45Z",
+      "id": "b01f2ad61bd017c9f37a",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!5LAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-09-10T17:59:55Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
+      "published_at": "2026-09-12T15:01:19Z",
+      "research_track": "",
+      "score": 13,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 24 hours",
-        "major-event keyword: launch, model",
-        "technical relevance: multimodal"
+        "long-read source"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SenseNova-U1.5: Towards Native Unified Visual Intelligence",
-      "url": "https://arxiv.org/abs/2609.11929v1"
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "The Rise of the Forward Deployed Engineer — and How To Do the Job Right",
+      "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "William Zhou",
-        "Mayukha Siripuram",
-        "Xiao Yan",
-        "Ziqi Liu",
-        "Yi Ding"
+        "Anthony Ha"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.11916v1",
+      "canonical_url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "TechCrunch AI"
       ],
-      "description": "Camera traps often run in the field on edge hardware with limited or no connectivity, making small, locally-deployable vision-language models (VLMs) -- not frontier-scale ones -- the practically relevant class to evaluate for species...",
-      "event_cluster_id": "32e3d7d06738",
-      "fetched_at": "2026-09-11T14:35:24Z",
-      "id": "32e3d7d067382752f472",
+      "description": "While OpenAI has filed confidentially for an IPO, the company will not be going public this year, according to CEO Sam Altman.",
+      "event_cluster_id": "085c670b7956",
+      "fetched_at": "2026-09-13T01:22:45Z",
+      "id": "085c670b7956ccc97008",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-10T17:57:32Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
+      "published_at": "2026-09-12T20:19:16Z",
+      "research_track": "",
+      "score": 12,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, VLM"
+        "high source",
+        "published within 6 hours"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Can Edge-Deployable Vision-Language Models Identify Species?",
-      "url": "https://arxiv.org/abs/2609.11916v1"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI’s Sam Altman says it would be ‘ill-advised’ to go public in 2026",
+      "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Anthropic's Dario Amodei and OpenAI's Sam Altman seem to agree that it's time to \"pace the frontier.\" What would that actually look like?",
+      "event_cluster_id": "7a75ba4b5b75",
+      "fetched_at": "2026-09-13T01:22:45Z",
+      "id": "7a75ba4b5b75a039d3ed",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-12T19:34:44Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic CEO outlines plan to slow AI development",
+      "url": "https://techcrunch.com/2026/09/12/anthropic-ceo-outlines-plan-to-pace-the-frontier"
     },
     {
       "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you",
+      "canonical_url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "event_cluster_id": "0742b565342c",
-      "fetched_at": "2026-09-11T14:35:24Z",
-      "id": "0742b565342c25a2a04a",
+      "description": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "event_cluster_id": "bf292c264ce3",
+      "fetched_at": "2026-09-12T01:29:00Z",
+      "id": "bf292c264ce3da0c0c25",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-10T17:54:44Z",
+      "published_at": "2026-09-11T20:57:36Z",
       "research_track": "",
-      "score": 14,
+      "score": 12,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "url": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yunfei Ge",
-        "Anbang Liu",
-        "Qineng Wang",
-        "Johnalbert Garnica",
-        "Jianwen Lyu",
-        "Zihan Wang",
-        "Reuben Tan",
-        "Jianfeng Gao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.11900v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Spatial reasoning depends not only on metric properties such as distance, angle, and shape, but also on topological relations that remain invariant under continuous deformation. Cognitive science identifies these relations as...",
-      "event_cluster_id": "7d949bcf52ff",
-      "fetched_at": "2026-09-11T14:35:24Z",
-      "id": "7d949bcf52ff2bfad87b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-10T17:54:32Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "MindTopo: Can Foundation Models Reason in Topological Space?",
-      "url": "https://arxiv.org/abs/2609.11900v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Zi-Rong Li",
-        "Si-Yang Liu",
-        "Tian-Zuo Wang",
-        "Han-Jia Ye"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.11897v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Causal discovery aims to uncover causal structures from data and is fundamental to scientific reasoning and intervention-based decision making. Its evaluation relies heavily on structural causal models (SCMs), which specify a causal...",
-      "event_cluster_id": "139a19d92677",
-      "fetched_at": "2026-09-11T14:35:24Z",
-      "id": "139a19d9267773919922",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-10T17:53:15Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: foundation model, reasoning, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "CausalArena: Benchmarking Causal Discovery in the Foundation Model Era",
-      "url": "https://arxiv.org/abs/2609.11897v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Bowen Zhang",
-        "Hsiu-Wen Cheng",
-        "Hongyu Yang",
-        "Evie L. Shen",
-        "Joleen Vansomphone",
-        "Yuna Li",
-        "Kerry Zhou",
-        "Zitian Qu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.11872v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Continuous glucose monitoring (CGM) provides high-frequency measurements of glucose dynamics and enables short-term glucose forecasting for diabetes management. Although time-series foundation models have shown strong general forecasting...",
-      "event_cluster_id": "4106eab25477",
-      "fetched_at": "2026-09-11T14:35:24Z",
-      "id": "4106eab25477045e1e9c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-10T17:43:29Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Evaluating Time-Series Foundation Models and Multimodal Dietary Context for CGM Forecasting",
-      "url": "https://arxiv.org/abs/2609.11872v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Raad Bin Tareaf",
-        "Murad Al-Rajab",
-        "Samia Loucif",
-        "Samer Ellaham",
-        "Cedric Schmitz"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.11838v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Cardiovascular screening models trained on national health surveys routinely report areas under the receiver operating characteristic curve (AUROC) near 0.89. We asked whether that accuracy reflects learning or target leakage, whether...",
-      "event_cluster_id": "65bbfadc954c",
-      "fetched_at": "2026-09-11T14:35:24Z",
-      "id": "65bbfadc954c28395957",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-10T17:29:15Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Target leakage, not model class, explains reported accuracy in survey-based cardiovascular screening: a leakage-tiered audit of glass-box and tabular foundation models",
-      "url": "https://arxiv.org/abs/2609.11838v1"
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "url": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating"
     },
     {
       "also_covered_by": [],
@@ -1003,81 +951,16 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "Roundtables: AI’s apocalypse crisis",
       "url": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Wagner Moreno Schmitz",
-        "Marco Antonio de Castro Barbosa",
-        "Thiago Magalhães Amaral",
-        "Dalcimar Casanova",
-        "Jefferson Tales Oliva"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.11550v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Early diagnosis of melanoma is critical for improving patient survival rates. However, accurately distinguishing melanoma from other skin lesions remains a significant clinical challenge due to the high visual similarity among lesion...",
-      "event_cluster_id": "e44f3aa5b407",
-      "fetched_at": "2026-09-11T09:04:24Z",
-      "id": "e44f3aa5b4076313ff97",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-10T13:43:49Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: evaluation"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A Comparative Evaluation of Pre-trained Convolutional Neural Networks for Melanoma Detection",
-      "url": "https://arxiv.org/abs/2609.11550v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "40bf50f88f5b",
-      "fetched_at": "2026-09-12T13:42:52Z",
-      "id": "40bf50f88f5bd04f6cfb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-11T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Helion x 🤗 HF Kernels: Building and Shipping Out-of-the-box Performant Kernels",
-      "url": "https://pytorch.org/blog/helion-x-%f0%9f%a4%97-hf-kernels-building-and-shipping-out-of-the-box-performant-kernels"
     }
   ],
-  "date_label": "Saturday, September 12, 2026",
-  "generated_at": "2026-09-12T13:42:52Z",
+  "date_label": "Sunday, September 13, 2026",
+  "generated_at": "2026-09-13T01:22:45Z",
   "summary": {
-    "duplicates_removed": 1,
-    "failed_sources": 1,
-    "fetched_items": 201,
-    "retained_items": 32,
-    "successful_sources": 20
+    "duplicates_removed": 0,
+    "failed_sources": 3,
+    "fetched_items": 174,
+    "retained_items": 29,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
