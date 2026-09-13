@@ -137,37 +137,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/11/datasette-security",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Datasette 1.0a39 and 0.65.4 security releases Today we're releasing two new security patch versions of Datasette: 1.0a39 and 0.65.4 - one for the current alpha series and one for the stable 0.65.x family. These are security fixes which...",
-      "event_cluster_id": "2608dc383dd7",
-      "fetched_at": "2026-09-11T09:04:24Z",
-      "id": "2608dc383dd79ca4b3a0",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-11T03:27:16Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: release, security",
-        "startup/product signal: Series A"
-      ],
-      "section": "startup_product",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Datasette 1.0a39 and 0.65.4 security releases",
-      "url": "https://simonwillison.net/2026/Sep/11/datasette-security"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Boya Wang",
         "Ruizhe Li",
@@ -675,6 +644,36 @@
     },
     {
       "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/11/boris-cherny",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Production code written by Claude should have a higher bar than if it was written by a human. At Anthropic, we have many guardrails in place to make sure this is happening: lots of lint rules, lots of tests, Claude-driven end to end...",
+      "event_cluster_id": "1514b7d9e677",
+      "fetched_at": "2026-09-12T13:42:52Z",
+      "id": "1514b7d9e6775ac96904",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-11T17:47:11Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Boris Cherny",
+      "url": "https://simonwillison.net/2026/Sep/11/boris-cherny"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Ricardo De Azevedo"
       ],
@@ -800,6 +799,7 @@
       "url": "https://www.latent.space/p/ainews-deepseek-v41-flash-763b-p8b"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Vinoo Ganesh"
       ],
@@ -809,7 +809,7 @@
       ],
       "description": "Before co-founding Kepler, Vinoo Ganesh led Spark at Palantir and built Project Frontline — a pioneering program for Forward Deployed Engineers. He takes us through the best practices of FDEs.",
       "event_cluster_id": "b01f2ad61bd0",
-      "fetched_at": "2026-09-13T01:22:45Z",
+      "fetched_at": "2026-09-13T09:41:41Z",
       "id": "b01f2ad61bd017c9f37a",
       "image_url": "https://substackcdn.com/image/fetch/$s_!5LAd!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fd9ad2af0-b40a-433d-bd78-0514683c9eb4_2560x1440.png",
       "is_breaking": false,
@@ -831,6 +831,7 @@
       "url": "https://www.latent.space/p/forward-deployed-engineer-best-practices"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -861,6 +862,7 @@
       "url": "https://techcrunch.com/2026/09/12/openais-sam-altman-says-it-would-be-ill-advised-to-go-public-in-2026"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -954,11 +956,11 @@
     }
   ],
   "date_label": "Sunday, September 13, 2026",
-  "generated_at": "2026-09-13T01:22:45Z",
+  "generated_at": "2026-09-13T09:41:41Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 3,
-    "fetched_items": 174,
+    "fetched_items": 177,
     "retained_items": 29,
     "successful_sources": 18
   },
