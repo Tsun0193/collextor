@@ -253,6 +253,39 @@
     },
     {
       "authors": [
+        "mukel"
+      ],
+      "canonical_url": "https://qxotic.ai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "059a38874885",
+      "fetched_at": "2026-09-15T09:33:37Z",
+      "id": "hn-49708628",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-15T06:42:32Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
+      "url": "https://qxotic.ai"
+    },
+    {
+      "authors": [
         "outageroom"
       ],
       "canonical_url": "https://github.com/vstorm-co/agenticos",
@@ -283,39 +316,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: An open-source control plane for your company's AI agents",
       "url": "https://github.com/vstorm-co/agenticos"
-    },
-    {
-      "authors": [
-        "nnww"
-      ],
-      "canonical_url": "https://github.com/rebuno/rebuno",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "9058d24670a0",
-      "fetched_at": "2026-09-14T16:30:19Z",
-      "id": "hn-49699591",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-14T16:29:39Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: open-source",
-        "technical relevance: agent",
-        "startup/product signal: product, Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Rebuno – An open-source runtime for production agents",
-      "url": "https://github.com/rebuno/rebuno"
     },
     {
       "also_covered_by": [],
@@ -459,6 +459,7 @@
       "url": "https://arxiv.org/abs/2609.09140v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lauren Forristal"
       ],
@@ -468,7 +469,7 @@
       ],
       "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
       "event_cluster_id": "5c0d5a1470c1",
-      "fetched_at": "2026-09-15T01:51:44Z",
+      "fetched_at": "2026-09-15T09:33:37Z",
       "id": "5c0d5a1470c14ab0eac9",
       "image_url": "",
       "is_breaking": false,
@@ -522,6 +523,7 @@
       "url": "https://www.latent.space/p/recursive"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ivan Mehta"
       ],
@@ -531,7 +533,7 @@
       ],
       "description": "Former Spotify exec's company releases experimental \"singles\" that involves users in music making.",
       "event_cluster_id": "9b2e5a5ca85f",
-      "fetched_at": "2026-09-15T01:51:44Z",
+      "fetched_at": "2026-09-15T09:33:37Z",
       "id": "9b2e5a5ca85f09dd4700",
       "image_url": "",
       "is_breaking": false,
@@ -589,6 +591,7 @@
       "url": "https://arxiv.org/abs/2609.10489v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Dan Goodin"
       ],
@@ -781,6 +784,36 @@
     },
     {
       "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Pacing gathers pace.",
+      "event_cluster_id": "e3e0524cc29a",
+      "fetched_at": "2026-09-15T09:33:37Z",
+      "id": "e3e0524cc29a68a0c454",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!iik6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6c4317a9-8fa4-4cf0-8705-b6746229cb83_1820x2052.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-09-15T04:50:36Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] AEF-1 standard emerges for Third Party Evaluators, as Xai, OpenAI, and Anthropic all cosign",
+      "url": "https://www.latent.space/p/ainews-aef-1-standard-emerges-for"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/14/the-contagion-of-fear",
       "cluster_sources": [
         "Simon Willison"
@@ -868,6 +901,7 @@
       "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Will Douglas Heaven"
       ],
@@ -877,7 +911,7 @@
       ],
       "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of..",
       "event_cluster_id": "e8e4e3637194",
-      "fetched_at": "2026-09-15T01:51:44Z",
+      "fetched_at": "2026-09-15T09:33:37Z",
       "id": "e8e4e3637194fdb8b313",
       "image_url": "",
       "is_breaking": false,
@@ -899,12 +933,12 @@
     }
   ],
   "date_label": "Tuesday, September 15, 2026",
-  "generated_at": "2026-09-15T01:51:44Z",
+  "generated_at": "2026-09-15T09:33:37Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 3,
-    "fetched_items": 178,
-    "retained_items": 27,
+    "fetched_items": 177,
+    "retained_items": 28,
     "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
