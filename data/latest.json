@@ -70,155 +70,85 @@
       "url": "https://github.com/peter941221/Kairo"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Junfeng Xia",
-        "Wenhao Ye",
-        "Junxiang Zhang",
-        "Jiayu Zuo",
-        "Mo Wang",
-        "Quanying Liu"
+        "Yinong Wang",
+        "Jianwen Chen",
+        "Zhou Chen",
+        "Shuwen Kuang",
+        "Haoning Jiang",
+        "Yanzhao Shi",
+        "Huichun Yuan",
+        "Yan-ran"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.10518v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "fMRI foundation models increasingly aggregate heterogeneous data across brain states, cohorts, and acquisition settings, yet pretraining domains are commonly treated as a flat mixture and downstream tasks are adapted independently. We...",
-      "event_cluster_id": "2205b17fe2f9",
-      "fetched_at": "2026-09-10T14:36:44Z",
-      "id": "2205b17fe2f9eefa4794",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-09T17:50:39Z",
-      "research_track": "multimodal_foundation",
-      "score": 21,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, acquisition, training",
-        "research relevance: MRI, fMRI",
-        "technical relevance: foundation model",
-        "startup/product signal: acquisition"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "BrainTaskonomy: Learning How to Pretrain and What to Transfer in fMRI Foundation Models",
-      "url": "https://arxiv.org/abs/2609.10518v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Boya Wang",
-        "Ruizhe Li",
-        "Chao Chen",
-        "Xin Chen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.11380v1",
+      "canonical_url": "https://arxiv.org/abs/2609.16597v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Adapting natural-image foundation models like DINOv3 to multi-modal medical imaging is challenging due to the significant domain gap between natural color images and multi-channel medical scans. We present a unified, patch-based...",
-      "event_cluster_id": "c0b8f7f845fd",
-      "fetched_at": "2026-09-11T09:04:24Z",
-      "id": "c0b8f7f845fde0d55e9d",
+      "description": "Background Non-invasive presurgical diagnosis of brain tumor types from Magnetic Resonance Imaging (MRI) is essential but challenging due to overlapping imaging features across tumor types, inter-observer variability, and the extensive...",
+      "event_cluster_id": "de79f4ef7741",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "de79f4ef77414531c4e9",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-10T11:16:26Z",
+      "published_at": "2026-09-15T03:46:03Z",
       "research_track": "medical_neuroimaging",
       "score": 19,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
         "major-event keyword: model",
-        "research relevance: medical imaging, medical image",
-        "technical relevance: foundation model"
+        "research relevance: MRI",
+        "technical relevance: multimodal, vision-language, foundation model"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "DINO-Med: A Unified Patch-Based Adaptation Framework for Multi-Modal Medical Image Analysis Applied to Liver Fibrosis Staging",
-      "url": "https://arxiv.org/abs/2609.11380v1"
+      "title": "A Vision-Language Foundation Model for Precise and Comprehensive Brain Tumor Diagnosis from Preoperative Multimodal Data",
+      "url": "https://arxiv.org/abs/2609.16597v1"
     },
     {
-      "also_covered_by": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
       "authors": [
-        "Ayush Debnath",
-        "Ruelia Saha",
-        "Sudip Misra"
+        "Jean Groeninger",
+        "Zihao Zhao",
+        "Juliana de Castilhos",
+        "Sven Nebelung",
+        "Daniel Truhn"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.10364v1",
+      "canonical_url": "https://arxiv.org/abs/2609.15453v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Simultaneous assessment of medical imaging and patient records is often required in clinical diagnosis. However, standard machine learning algorithms cannot analyze these data types together. Meanwhile, compliance with HIPAA and GDPR can...",
-      "event_cluster_id": "c95c0ea80edd",
-      "fetched_at": "2026-09-10T01:24:03Z",
-      "id": "c95c0ea80edd24b4ca61",
+      "description": "Airway stenosis can cause severe respiratory complications, yet its detection often relies on specialized examinations and medical imaging. This study explores the potential of acoustic AI for rapid and accessible airway stenosis...",
+      "event_cluster_id": "4661aedaa146",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "4661aedaa14687042468",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-09T15:56:26Z",
+      "published_at": "2026-09-14T12:20:23Z",
       "research_track": "medical_neuroimaging",
       "score": 19,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
+        "published within 48 hours",
+        "major-event keyword: model",
         "research relevance: medical imaging",
-        "technical relevance: multimodal",
-        "covered by multiple configured sources"
+        "technical relevance: foundation model",
+        "startup/product signal: API"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "OmniMed-FL: A Robust Multimodal Federated Learning Framework for Clinical Diagnosis",
-      "url": "https://arxiv.org/abs/2609.10364v1"
+      "title": "Listening for Airway Stenosis: A Foundation Model-Based Method for Rapid and Accessible Detection",
+      "url": "https://arxiv.org/abs/2609.15453v1"
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Yazhou Zhu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.10001v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Few-shot medical image segmentation (FSMIS) seeks to delineate unseen structures from a small support set, but its standard formulation fixes task-defining evidence before inference. This assumption is fragile when query cases exhibit...",
-      "event_cluster_id": "fb1d5d70fc75",
-      "fetched_at": "2026-09-10T09:05:45Z",
-      "id": "fb1d5d70fc754c87f469",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-09T10:26:51Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: inference",
-        "research relevance: medical image",
-        "technical relevance: inference, RAG"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "From Few-Shot Segmentation to Clinician-in-the-Loop Medical Image Analysis",
-      "url": "https://arxiv.org/abs/2609.10001v1"
-    },
-    {
       "authors": [
         "Julie Bort"
       ],
@@ -285,6 +215,103 @@
     },
     {
       "authors": [
+        "noobplus"
+      ],
+      "canonical_url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a8b35c3f4a14",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "hn-49720966",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-16T01:07:38Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open source",
+        "technical relevance: CUDA",
+        "startup/product signal: open source"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Nvidia Expands Open Source CUDA-Q Platform for Fault-Tolerant Quantum Computing",
+      "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing"
+    },
+    {
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
+      "event_cluster_id": "a8cb3dee54e5",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "a8cb3dee54e5c94a3653",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-16T00:20:39Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: regulation, safety",
+        "startup/product signal: product"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
+      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says"
+    },
+    {
+      "authors": [
+        "Richard MacManus"
+      ],
+      "canonical_url": "https://www.latent.space/p/good-start-labs",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
+      "event_cluster_id": "eb64bf46642b",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "eb64bf46642bd1686947",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!hNAj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32a5826-6fd5-4608-bc04-4240a5e538df_2560x1440.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-09-15T20:11:54Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: training",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
+      "url": "https://www.latent.space/p/good-start-labs"
+    },
+    {
+      "authors": [
         "nullnonenilNULL"
       ],
       "canonical_url": "https://github.com/baidu-baige/LoongForge",
@@ -317,6 +344,7 @@
       "url": "https://github.com/baidu-baige/LoongForge"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -350,36 +378,37 @@
     },
     {
       "authors": [
-        "mukel"
+        "Paul-Gabriel Nicolae",
+        "Irina Georgiana Mocanu"
       ],
-      "canonical_url": "https://qxotic.ai",
+      "canonical_url": "https://arxiv.org/abs/2609.15888v1",
       "cluster_sources": [
-        "Hacker News"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "059a38874885",
-      "fetched_at": "2026-09-15T09:33:37Z",
-      "id": "hn-49708628",
+      "description": "Deep networks trained on structural MRI for Alzheimer's disease (AD) staging often reach reasonable accuracy while attending to anatomically irrelevant regions, and multimodal models that add clinical tables frequently rely on variables...",
+      "event_cluster_id": "e719f18abee2",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "e719f18abee2a9983a52",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-15T06:42:32Z",
-      "research_track": "",
+      "published_at": "2026-09-14T17:13:12Z",
+      "research_track": "medical_neuroimaging",
       "score": 17,
       "score_reasons": [
         "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference",
-        "startup/product signal: Show HN"
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: Alzheimer, Alzheimer's disease, MRI",
+        "technical relevance: multimodal"
       ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Jinfer – AI inference engine for the JVM. AI in a jar",
-      "url": "https://qxotic.ai"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer's Disease Classification from Structural MRI",
+      "url": "https://arxiv.org/abs/2609.15888v1"
     },
     {
       "also_covered_by": [],
@@ -416,6 +445,46 @@
     },
     {
       "authors": [
+        "Yang Xing",
+        "Jiong Wu",
+        "Savas Ozdemir",
+        "Yang Zhou",
+        "Boxiao Yu",
+        "Ying Zhang",
+        "Zheren Zhu",
+        "Chenyu You"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.15603v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Accurate PSMA PET/CT interpretation is central to prostate cancer management, yet existing PET/CT AI models typically address isolated tasks. We propose a unified PSMA PET/CT vision-language model for report generation, visual question...",
+      "event_cluster_id": "a33114f10b39",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "a33114f10b39d3f1d115",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-14T14:02:43Z",
+      "research_track": "medical_neuroimaging",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: PET",
+        "technical relevance: vision-language"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "A Unified Vision-Language Model for PSMA PET/CT Report Generation, Visual Question Answering, and Lesion Segmentation",
+      "url": "https://arxiv.org/abs/2609.15603v1"
+    },
+    {
+      "authors": [
         "Ivan Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting",
@@ -447,113 +516,79 @@
       "url": "https://techcrunch.com/2026/09/14/a-vinyl-bar-in-shibuya-is-a-startup-offering-fun-music-apps-without-any-ai-prompting"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Tim Fernholz"
+        "Xinyue Xu",
+        "Hongbin Lin",
+        "Juangui Xu",
+        "Hualiang Wang",
+        "Lehan Wang",
+        "Lijie Hu",
+        "Weiyang Liu",
+        "Adrian Weller"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets",
+      "canonical_url": "https://arxiv.org/abs/2609.15334v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "If you want to manufacture in space—and bring the products back again—there’s a limited set of options: Wait to go to the International Space Station, or partner with a handful of start-ups launching spacecraft that spend time in orbit...",
-      "event_cluster_id": "66efa25f4921",
-      "fetched_at": "2026-09-09T14:46:49Z",
-      "id": "66efa25f492177ae141e",
+      "description": "Medical imaging modalities such as ultrasound and X-ray are widely used in clinical practice, where diagnosis follows a structured, evidence-driven workflow aligned with standardized criteria. While multimodal large language models...",
+      "event_cluster_id": "0ba714e54cee",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "0ba714e54cee1a3fd050",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-09T12:30:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "startup/product signal: product"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Besxar is building an orbital semiconductor factory, one SpaceX rocket at a time",
-      "url": "https://techcrunch.com/2026/09/09/besxar-is-strapping-advanced-chip-fabs-onto-spacexs-falcon-9-rockets"
-    },
-    {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "authors": [
-        "Tobias Susetzky",
-        "Raphael Rehms",
-        "Dmitrii Seletkov",
-        "Özgün Turgut",
-        "Michelle Espranita Liman",
-        "Lisa Steinhelfer",
-        "Rickmer Braren",
-        "Daniel Rueckert"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.09140v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "The digitization of healthcare has generated vast, longitudinal, and multimodal patient records over a lifetime, yet fully exploiting these data to represent and predict patient state trajectories remains a critical challenge. Current AI...",
-      "event_cluster_id": "aaeaca717916",
-      "fetched_at": "2026-09-09T14:46:49Z",
-      "id": "aaeaca7179160039780e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-08T17:56:13Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-09-14T10:21:23Z",
+      "research_track": "medical_neuroimaging",
       "score": 17,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
+        "published within 48 hours",
         "major-event keyword: model",
-        "technical relevance: multimodal",
-        "covered by multiple configured sources"
+        "research relevance: medical imaging",
+        "technical relevance: multimodal, reasoning"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting",
-      "url": "https://arxiv.org/abs/2609.09140v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Concept-Grounded Reasoning with Prompt-Driven Localization for Interpretable Structured Report Generation",
+      "url": "https://arxiv.org/abs/2609.15334v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Lauren Forristal"
+        "Mingcheng Zhu",
+        "Jinning Liang",
+        "Tingting Zhu"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll",
+      "canonical_url": "https://arxiv.org/abs/2609.15180v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Thanks to the launch of iOS 27, Daydream's app now includes features that can turn saved outfit photos into shoppable results and search for products through Siri without opening the app.",
-      "event_cluster_id": "5c0d5a1470c1",
-      "fetched_at": "2026-09-15T15:14:42Z",
-      "id": "5c0d5a1470c14ab0eac9",
+      "description": "Vision-language models are increasingly explored for clinical prediction from electronic health records and medical images, where identifying unreliable predictions is important for safe deployment. Uncertainty estimation (UE) enables...",
+      "event_cluster_id": "0e95ef712bc8",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "0e95ef712bc8549a4215",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-14T17:00:00Z",
-      "research_track": "",
-      "score": 16,
+      "published_at": "2026-09-14T08:03:00Z",
+      "research_track": "medical_neuroimaging",
+      "score": 17,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch",
-        "startup/product signal: product"
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: vision-language"
       ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Fashion app Daydream uses Apple Intelligence to help you shop the outfits in your camera roll",
-      "url": "https://techcrunch.com/2026/09/14/fashion-discovery-app-daydream-uses-apple-intelligence-to-help-you-shop-the-outfits-saved-in-your-camera-roll"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Rethinking Correctness for Uncertainty Estimation in Clinical Prediction with Vision-Language Models",
+      "url": "https://arxiv.org/abs/2609.15180v1"
     },
     {
       "also_covered_by": [],
@@ -589,40 +624,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Md. Masudul Islam",
-        "Mirza Niaz Morshed",
-        "Md. Shafiqul Islam"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.10489v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "AI literacy provides foundational competencies that support ethical, transparent, and sustainable technological development, although higher-order capabilities such as governance, critical evaluation, and strategic decision-making extend...",
-      "event_cluster_id": "398a8f091895",
-      "fetched_at": "2026-09-10T14:36:44Z",
-      "id": "398a8f091895de806615",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-09T17:28:08Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: PET",
-        "technical relevance: evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Artificial Intelligence Literacy and Sustainable Development: An Ethical Governance and Development Goals Framework",
-      "url": "https://arxiv.org/abs/2609.10489v1"
-    },
-    {
-      "authors": [
         "Thomas Macaulay"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers",
@@ -653,6 +654,7 @@
       "url": "https://www.technologyreview.com/2026/09/15/1144141/the-download-ai-extinction-whistleblowing-agents-donated-livers"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Antonio Regalado"
       ],
@@ -748,36 +750,247 @@
       "url": "https://www.technologyreview.com/2026/09/14/1144037/ai-agents-blew-whistle-o-cheating-colleagues"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Ricardo De Azevedo"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem",
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "Hugging Face Blog"
       ],
-      "description": "On July 22, 2026, a transmission line fault in Ashburn, Virginia—the heart of the world’s largest data center cluster—knocked more than 3 gigawatts of load off the grid in seconds. And it wasn’t the first time. Two years earlier, a single..",
-      "event_cluster_id": "f37aa50a575f",
-      "fetched_at": "2026-09-10T14:36:44Z",
-      "id": "f37aa50a575f6307e2c6",
+      "description": "",
+      "event_cluster_id": "a1d018f16fad",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "a1d018f16fad79f97456",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": true,
+      "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-10T11:00:00Z",
+      "published_at": "2026-09-15T16:00:44Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: data center"
+        "published within 24 hours",
+        "technical relevance: agent"
       ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Powering AI is an architecture problem",
-      "url": "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Your Agent Aced the Task. Will It Do It Again?",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+    },
+    {
+      "authors": [
+        "Min-Hui Kim",
+        "Khushi Sharma",
+        "Sarah Zhang",
+        "Ye Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.17123v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Thermal optimization of 2D CFET inverters requires testing structural proposals against their electrical costs. We examine these research tasks using an AI agent workflow within a supplied electrothermal model. At 12 nm, Astra selects a...",
+      "event_cluster_id": "95528e49494c",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "95528e49494c57627ded",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-15T12:48:44Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "AI for Science with GPT-6 Astra: Thermal Design and Electrothermal Analysis of 2D CFET",
+      "url": "https://arxiv.org/abs/2609.17123v1"
+    },
+    {
+      "authors": [
+        "Dushyant Rajput"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.17109v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "A common small-model deployment runs one shared backbone with several LoRA specialists that answer over the same context. Serving them naively re-prefills that shared context once per specialist. We study a narrow, practical question:...",
+      "event_cluster_id": "80a65519f558",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "80a65519f5583bc7e4c4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-15T12:39:16Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: serving"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Shared-Prefix KV Reuse Across Standard LoRA Adapters: Quality and Serving Tradeoffs",
+      "url": "https://arxiv.org/abs/2609.17109v1"
+    },
+    {
+      "authors": [
+        "Baibek Davletiyarov",
+        "Junaid Ahmed Khan",
+        "Andrea Bartolini"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.17107v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Generative AI promises natural language access to the massive numerical telemetry of data centers and Industry 4.0 installations, yet text-to-query and tool-using agents stay unreliable: even frontier models answer little more than half...",
+      "event_cluster_id": "f20c754af596",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "f20c754af596e2a635e3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-15T12:38:43Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, data center",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Symbolic Separation: Grounding Deep Agents in Knowledge Graphs for Trustworthy Operational Data Analytics",
+      "url": "https://arxiv.org/abs/2609.17107v1"
+    },
+    {
+      "authors": [
+        "Cai Ke",
+        "Jiangyue Yan",
+        "Han Zhang",
+        "Xin Liu",
+        "Zike Yuan",
+        "Yue Yu",
+        "Hui Wang",
+        "Ruifeng Xu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.17088v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Recent advancements in large language models have significantly enhanced the capabilities of agents in modeling long-term conversations. Despite these successes, existing approaches typically adopt a static heuristic paradigm, where...",
+      "event_cluster_id": "85f0afdaa671",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "85f0afdaa6713c43d8f6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-15T12:21:41Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Interactive Memory Learning for Long-Term Conversations",
+      "url": "https://arxiv.org/abs/2609.17088v1"
+    },
+    {
+      "authors": [
+        "Aniketh Vijesh",
+        "Shrisharanyan Vasu",
+        "Abhijit Ramesh",
+        "Clare Pomeroy-Ward",
+        "Harikrishnan Anil Maya",
+        "Sarin Xavier",
+        "Mahesh Kappanayil",
+        "Gilad Gressel"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.17068v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Congenital heart disease (CHD) diagnosis and surgical planning often require patient-specific 3D anatomical models, but manual segmentation is labor-intensive, particularly in complex anatomies. Although deep-learning methods can...",
+      "event_cluster_id": "0de3f941735f",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "0de3f941735fcc15b5c2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-15T12:10:52Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Beyond In-Distribution Metrics: A Systematic Out-of-Distribution Evaluation of Congenital Heart Disease Segmentation",
+      "url": "https://arxiv.org/abs/2609.17068v1"
+    },
+    {
+      "authors": [
+        "Farnaz Soleimani",
+        "Abdelghani Chibani",
+        "Yacine Amirat",
+        "Ghazaleh Khodabandelou"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.17064v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Assistive autonomous systems must anticipate human goals before an observed behavior is complete. This article formulates anticipation as goal inference from a partially observed multimodal episode together with structured prediction of...",
+      "event_cluster_id": "b40fbfce6f0b",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "b40fbfce6f0b78828b32",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-15T12:09:03Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: multimodal, inference"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Neuro-Symbolic Hierarchical Intention Anticipation in Human Behavior",
+      "url": "https://arxiv.org/abs/2609.17064v1"
     },
     {
       "also_covered_by": [],
@@ -868,6 +1081,7 @@
       "url": "https://simonwillison.net/2026/Sep/14/laurie-voss"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "David Rotman"
       ],
@@ -896,6 +1110,36 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "What’s at stake in AI’s trillion-dollar gamble",
       "url": "https://www.technologyreview.com/2026/09/15/1144028/ai-infrastructure-boom-investment-bubble-risk"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "September 15, 2026",
+      "event_cluster_id": "acfc7f548a89",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "acfc7f548a899d3e8ea5",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Retrieve-for-Train_hero.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-15T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "September 15, 2026 Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & Theory · Data Mining & Modeling · Generative AI",
+      "url": "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train"
     },
     {
       "also_covered_by": [],
@@ -929,23 +1173,22 @@
       "url": "https://www.technologyreview.com/2026/09/14/1144012/the-download-ai-extinction-threat-age-reversal-vision"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Will Douglas Heaven"
+        "MIT Technology Review"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now",
+      "canonical_url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all",
       "cluster_sources": [
         "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "This story appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. This weekend, Dario Amodei, CEO of Anthropic, posted an essay calling for a brake on the pace of development of..",
-      "event_cluster_id": "e8e4e3637194",
-      "fetched_at": "2026-09-15T15:14:42Z",
-      "id": "e8e4e3637194fdb8b313",
+      "description": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation...",
+      "event_cluster_id": "0fa1b8daf138",
+      "fetched_at": "2026-09-16T01:36:30Z",
+      "id": "0fa1b8daf138ee7e1be3",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-09-14T17:54:22Z",
+      "published_at": "2026-09-15T17:47:51Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
@@ -956,18 +1199,18 @@
       "source_category": "analysis",
       "source_id": "mit_tr_ai",
       "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The AI industry has taken a doomer turn. What now?",
-      "url": "https://www.technologyreview.com/2026/09/14/1144048/the-ai-industry-has-taken-a-doomer-turn-what-now"
+      "title": "Roundtables: Could AI really kill us all?",
+      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all"
     }
   ],
-  "date_label": "Tuesday, September 15, 2026",
-  "generated_at": "2026-09-15T15:14:42Z",
+  "date_label": "Wednesday, September 16, 2026",
+  "generated_at": "2026-09-16T01:36:30Z",
   "summary": {
-    "duplicates_removed": 1,
-    "failed_sources": 4,
-    "fetched_items": 172,
-    "retained_items": 29,
-    "successful_sources": 17
+    "duplicates_removed": 0,
+    "failed_sources": 1,
+    "fetched_items": 206,
+    "retained_items": 36,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
