@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Kate Park"
       ],
@@ -31,6 +32,44 @@
       "source_name": "TechCrunch AI",
       "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
       "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia"
+    },
+    {
+      "authors": [
+        "Najiyya Younas",
+        "Omar Abdulkader",
+        "Yaser Ali Shah",
+        "Muhammad Jawad Ikram",
+        "Jebran Khan",
+        "Amaad Khalil"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.19740v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Recent innovations in deep learning have significantly enhanced the diagnosis of medical images, although they are based on the use of centralized data storage that pose severe threats to patient privacy and medical data security. To...",
+      "event_cluster_id": "2e6fc6604913",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "2e6fc6604913ef6041db",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-17T06:06:03Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: security",
+        "research relevance: medical image",
+        "technical relevance: serving, RAG"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Federated Learning Framework for Privacy-Preserving Kidney Stone Detection",
+      "url": "https://arxiv.org/abs/2609.19740v1"
     },
     {
       "also_covered_by": [],
@@ -174,6 +213,72 @@
       "url": "https://arxiv.org/abs/2609.18688v1"
     },
     {
+      "authors": [
+        "Jagmeet Singh"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The shift comes after a UNICEF test found leading AI models struggled to accurately retrieve global development statistics.",
+      "event_cluster_id": "8cd450ba61ab",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "8cd450ba61ab004b14e5",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-17T20:00:00Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "UN turns to Google to make its global data ready for AI agents",
+      "url": "https://techcrunch.com/2026/09/17/un-turns-to-google-to-make-its-global-data-ready-for-ai-agents"
+    },
+    {
+      "authors": [
+        "Siddharth Srivastava",
+        "Till Bretschneider"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.20341v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Magnetic Resonance Imaging (MRI) acquired at different field strengths exhibits pronounced variation in noise, resolution, homogeneity, and contrast, which limits comparability across acquisition settings and complicates downstream...",
+      "event_cluster_id": "c719bd75314e",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "c719bd75314e894a973d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-17T13:10:38Z",
+      "research_track": "medical_neuroimaging",
+      "score": 18,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: acquisition",
+        "research relevance: MRI",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Fast Cross-Strength Multi-Contrast Brain MRI Translation using Latent Bridge Matching",
+      "url": "https://arxiv.org/abs/2609.20341v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/aiuc",
@@ -204,6 +309,129 @@
       "source_name": "Latent Space",
       "title": "Underwriting Superintelligence: Backing Agents you can Sue — Rune Kvist, AIUC",
       "url": "https://www.latent.space/p/aiuc"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Salesforce Koa is built on Nvidia's open-weight Nemotron model and is trained to do sales, marketing, and customer-support tasks.",
+      "event_cluster_id": "bb7f38b81205",
+      "fetched_at": "2026-09-15T15:14:42Z",
+      "id": "bb7f38b812059963154f",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-15T12:00:00Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model, open-weight",
+        "technical relevance: reasoning"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear",
+      "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Be alert: targeted attacks on prominent Rustaceans Important warning from Adam Harvey and the crates security team: We believe that there is an ongoing campaign targeting rust-lang members and owners of popular crates that is attempting...",
+      "event_cluster_id": "145e97c05f4a",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "145e97c05f4a77fe3457",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-17T23:59:19Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Be alert: targeted attacks on prominent Rustaceans",
+      "url": "https://simonwillison.net/2026/Sep/17/targeted-attacks-on-rustaceans"
+    },
+    {
+      "authors": [
+        "Aditya Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information...",
+      "event_cluster_id": "5df4b888b841",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "5df4b888b841436f0fb2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-17T23:21:17Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google DeepMind launches institute to widen the AGI debate",
+      "url": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/17/compaction-summaries",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Self-generated prompt injections in compaction summaries In Our framework for reporting model misalignment OpenAI provide \"six reports on unexpected or concerning model behavior we’ve observed in the last six months\". This one here is my...",
+      "event_cluster_id": "0fa615ad9312",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "0fa615ad9312d2804ce6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-17T20:57:55Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Self-generated prompt injections in compaction summaries",
+      "url": "https://simonwillison.net/2026/Sep/17/compaction-summaries"
     },
     {
       "also_covered_by": [],
@@ -303,39 +531,6 @@
       "url": "https://www.latent.space/p/ainews-jev-a-system-one-model-that"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Ivan Mehta"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Amazon is letting all customers use Alexa+ assistant in early access period.",
-      "event_cluster_id": "90fd890da3d2",
-      "fetched_at": "2026-09-16T15:08:30Z",
-      "id": "90fd890da3d28cc27eae",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-16T10:34:47Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "startup/product signal: launches"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Amazon launches Alexa+ in India with Hindi support",
-      "url": "https://techcrunch.com/2026/09/16/amazon-launches-alexa-in-india-with-hindi-support"
-    },
-    {
       "authors": [
         "noobplus"
       ],
@@ -369,70 +564,39 @@
       "url": "https://nvidianews.nvidia.com/news/nvidia-expands-open-source-cuda-q-platform-for-fault-tolerant-quantum-computing"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Julie Bort"
+        "Stefano Cerri",
+        "Amirhossein Hassankhani",
+        "Yaël Balbastre",
+        "Koen Van Leemput"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says",
+      "canonical_url": "https://arxiv.org/abs/2609.19875v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "AI isn't some new form of \"alien mind,\" according to Jensen Huang. It's just hardware and software, so safety can be engineered by each AI product maker.",
-      "event_cluster_id": "a8cb3dee54e5",
-      "fetched_at": "2026-09-16T01:36:30Z",
-      "id": "a8cb3dee54e5c94a3653",
+      "description": "We propose a new probabilistic model for general-purpose medical image registration that builds upon the mutual information registration criterion. It centers around a spatial interpolation technique that assumes latent voxel-wise...",
+      "event_cluster_id": "d10cbd69a51c",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "d10cbd69a51ca09e4fda",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-16T00:20:39Z",
-      "research_track": "",
-      "score": 17,
+      "published_at": "2026-09-17T08:27:02Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: regulation, safety",
-        "startup/product signal: product"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image"
       ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "We don’t need AI regulation — leave safety to us, Nvidia’s Jensen Huang says",
-      "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Richard MacManus"
-      ],
-      "canonical_url": "https://www.latent.space/p/good-start-labs",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Good Start Labs trained an AI on a railroad game — and one version improved at financial research. The difference was the training design.",
-      "event_cluster_id": "eb64bf46642b",
-      "fetched_at": "2026-09-16T01:36:30Z",
-      "id": "eb64bf46642bd1686947",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!hNAj!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fb32a5826-6fd5-4608-bc04-4240a5e538df_2560x1440.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-09-15T20:11:54Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: training",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "Can Skills Learned in Games Transfer to Real-World Work?",
-      "url": "https://www.latent.space/p/good-start-labs"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "BINDER: A Latent Variable Model for Probabilistic Medical Image Registration",
+      "url": "https://arxiv.org/abs/2609.19875v1"
     },
     {
       "also_covered_by": [],
@@ -633,35 +797,63 @@
     },
     {
       "authors": [
-        "thedragongc"
+        "HenryNdubuaku"
       ],
-      "canonical_url": "https://twitter.com/theallinpod/status/2099731166530277549",
+      "canonical_url": "https://cactuscompute.com/needle",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "68fc939eadf0",
-      "fetched_at": "2026-09-16T01:36:30Z",
-      "id": "hn-49720938",
+      "event_cluster_id": "d7dddac5c9c6",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "hn-49748553",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-16T01:03:49Z",
+      "published_at": "2026-09-18T00:11:44Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: safety",
-        "technical relevance: RAG"
+        "major-event keyword: model",
+        "startup/product signal: Show HN"
       ],
-      "section": "ai_engineering",
+      "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Musk proposes adversarsial peer review for AI Safety",
-      "url": "https://twitter.com/theallinpod/status/2099731166530277549"
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "How To Write With An LLM Thomas Ptacek on using LLMs as copyeditors, not as writing assistants: Rule Number One: You may not use a single word an LLM suggests to you. [...] I think that as a form of intellectual personal protective...",
+      "event_cluster_id": "197eb17172ac",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "197eb17172acd67cc0e7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-17T23:37:27Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "How To Write With An LLM",
+      "url": "https://simonwillison.net/2026/Sep/17/how-to-write-with-an-llm"
     },
     {
       "authors": [
@@ -696,6 +888,111 @@
       "url": "https://github.com/CommanderTvis/thinkrail"
     },
     {
+      "authors": [
+        "Gianluca Mittone",
+        "Marco Aldinucci"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.20359v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "The symbiotic scaling of artificial intelligence models and high-performance computing systems continually creates algorithmic challenges in their convergence. Foundation models (FMs) are a crucial example, requiring months-long training...",
+      "event_cluster_id": "149c031b7328",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "149c031b7328a4f70f5a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-17T13:21:52Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Accelerating Sharded Data Parallelism at Scale with Federated Learning",
+      "url": "https://arxiv.org/abs/2609.20359v1"
+    },
+    {
+      "authors": [
+        "Abhishek Jaiswal",
+        "Zoe Falomir"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.20349v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Spatial reasoning abilities correlate strongly with performance in STEM fields. Games offer a compelling medium for training these critical skills in developing children who have a natural proclivity for play. However, to facilitate...",
+      "event_cluster_id": "587bf9c56748",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "587bf9c56748b4682a64",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-17T13:13:44Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "A Qualitative Model for Reasoning about Path and Support",
+      "url": "https://arxiv.org/abs/2609.20349v1"
+    },
+    {
+      "authors": [
+        "Qing Xu",
+        "Yixuan Zhang",
+        "Yue Li",
+        "Xiangjian He",
+        "Qian Zhang",
+        "Mainul Haque",
+        "Rong Qu",
+        "Wenting Duan"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.20340v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Ultrasound image analysis plays a crucial role in cancer screening and prenatal diagnosis, yet comprehensive assessment requires jointly addressing tasks such as lesion segmentation and benign-malignant classification. While recent...",
+      "event_cluster_id": "9f9f1494eeaf",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "9f9f1494eeafe64989f2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-17T13:09:56Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "FreqDINO++: A Frequency-Guided Multi-Task Routing Vision Foundation Model for Universal Ultrasound Analysis",
+      "url": "https://arxiv.org/abs/2609.20340v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news",
@@ -726,183 +1023,95 @@
       "url": "https://www.latent.space/p/ainews-reality-checks-on-ai-news"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Sara Pieri",
-        "Evangelos Kazakos",
-        "Shizhe Chen",
-        "Josef Sivic",
-        "Cordelia Schmid"
+        "tomrose"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.19143v1",
+      "canonical_url": "https://fastrecall.ai",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Hacker News"
       ],
-      "description": "Intelligent systems that act in the world require image understanding that is both comprehensive and spatially grounded. Current vision-language models (VLMs) can generate fluent and detailed image captions, but reliably associating them...",
-      "event_cluster_id": "8fce81171870",
-      "fetched_at": "2026-09-17T15:16:50Z",
-      "id": "8fce811718702327a622",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "732d1627a7b9",
+      "fetched_at": "2026-09-17T01:39:34Z",
+      "id": "hn-49735358",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-16T17:59:30Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-09-17T01:31:50Z",
+      "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
+        "published within 6 hours",
         "major-event keyword: model",
-        "technical relevance: vision-language, VLM"
+        "startup/product signal: Show HN"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
-      "url": "https://arxiv.org/abs/2609.19143v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Hejia Geng",
-        "Zesen Huang",
-        "Haoyang Li",
-        "Wenbin Li",
-        "Koutian Wu",
-        "Zihan Zhou",
-        "Yuanbo Pang",
-        "Weihao Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.19134v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Scientific code repositories encode decades of human knowledge in executable models, methods, and tools. Yet fragmented toolchains, implicit domain conventions, and specialized correctness criteria make this knowledge difficult to...",
-      "event_cluster_id": "d3497a5fb456",
-      "fetched_at": "2026-09-17T15:16:50Z",
-      "id": "d3497a5fb456be2e5338",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-16T17:55:47Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent, RAG"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
-      "url": "https://arxiv.org/abs/2609.19134v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Luyao Zhu",
-        "Xun Wei Yee",
-        "Wei Li",
-        "Mun Thye Mak",
-        "Wee Siong Ng"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.19088v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large vision-language models have achieved remarkable progress in multi-modal understanding, yet their capabilities in educational settings remain insufficiently evaluated. In AI-assisted language learning, models must interpret artistic...",
-      "event_cluster_id": "802c3c3efe8b",
-      "fetched_at": "2026-09-17T15:16:50Z",
-      "id": "802c3c3efe8b0e168c1e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-16T17:26:10Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: vision-language"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "MUSE: Benchmarking Large Vision-Language Models on Multi-Modal Understanding in Situated Education",
-      "url": "https://arxiv.org/abs/2609.19088v1"
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: FastRecall, ultra-cheap memory across AI models",
+      "url": "https://fastrecall.ai"
     },
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency",
+      "canonical_url": "https://www.anthropic.com/news/improving-alignment-security-efforts",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Anthropic News"
       ],
-      "description": "",
-      "event_cluster_id": "a1d018f16fad",
-      "fetched_at": "2026-09-16T15:08:30Z",
-      "id": "a1d018f16fad79f97456",
+      "description": "Today, the world can’t see what’s going on inside AI labs. Anthropic is proposing new metrics that would give the public visibility into frontier AI development.",
+      "event_cluster_id": "8ed1599eb95b",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "8ed1599eb95bc766b101",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-15T16:00:44Z",
+      "published_at": "2026-09-17T00:00:00Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
+        "critical source",
+        "published within 48 hours",
+        "major-event keyword: model, security"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Your Agent Aced the Task. Will It Do It Again?",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-consistency"
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incid",
+      "url": "https://www.anthropic.com/news/improving-alignment-security-efforts"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Lorenzo Tanzi",
-        "Chunfeng Lian",
-        "Lara Cavinato"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.17649v1",
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/life-sciences-verification-program",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Anthropic News"
       ],
-      "description": "Alzheimer's disease is clinically staged as a three-class progression: cognitively normal (CN), mild cognitive impairment (MCI) and Alzheimer's disease (AD). The intermediate MCI class is biologically heterogeneous and overlaps with both...",
-      "event_cluster_id": "45ff5d79003a",
-      "fetched_at": "2026-09-17T15:16:50Z",
-      "id": "45ff5d79003a029ab8ca",
+      "description": "",
+      "event_cluster_id": "a3c8e138d995",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "a3c8e138d995ff558ec9",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-15T15:59:33Z",
-      "research_track": "medical_neuroimaging",
+      "published_at": "2026-09-17T00:00:00Z",
+      "research_track": "",
       "score": 14,
       "score_reasons": [
-        "medium source",
+        "critical source",
         "published within 48 hours",
-        "research relevance: Alzheimer, Alzheimer's disease, mild cognitive impairment",
-        "technical relevance: multimodal"
+        "major-event keyword: introducing"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Multimodal Three-Class Alzheimer's Disease Classification: The MCI Bottleneck",
-      "url": "https://arxiv.org/abs/2609.17649v1"
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Sep 17, 2026 Announcements Introducing the Life Sciences Verification Program",
+      "url": "https://www.anthropic.com/news/life-sciences-verification-program"
     },
     {
       "also_covered_by": [],
@@ -934,43 +1143,33 @@
       "url": "https://simonwillison.net/2026/Sep/16/one-claude"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Jiayue Melissa Shi",
-        "Ethan Nguyen",
-        "Drishti Goel",
-        "Upasana Natarajan",
-        "Shashwat Srivatsa",
-        "Daniel S. Brown",
-        "Violeta J. Rodríguez",
-        "Dong Whi Yoo"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.17434v1",
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/pytorch-day-japan-2026-comes-to-tokyo",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "PyTorch Blog"
       ],
-      "description": "Family caregivers of people living with dementia shoulder emotional and practical responsibilities, yet their own wellbeing often remains peripheral to dementia care. We built CareMirror, an envisioned caregiver wellbeing ecosystem with...",
-      "event_cluster_id": "3d0f28652c2a",
-      "fetched_at": "2026-09-16T15:08:30Z",
-      "id": "3d0f28652c2ae3e0a055",
+      "description": "",
+      "event_cluster_id": "6c924c12bbb1",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "6c924c12bbb1869386b0",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-15T16:43:17Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
+      "published_at": "2026-09-17T00:00:00Z",
+      "research_track": "",
+      "score": 12,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: dementia"
+        "high source",
+        "published within 48 hours",
+        "technical relevance: PyTorch"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "CareMirror: Bringing Caregiver Wellbeing into the Dementia Care Ecosystem",
-      "url": "https://arxiv.org/abs/2609.17434v1"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "PyTorch Day Japan 2026 Comes to Tokyo on December 10",
+      "url": "https://pytorch.org/blog/pytorch-day-japan-2026-comes-to-tokyo"
     },
     {
       "also_covered_by": [],
@@ -1004,103 +1203,41 @@
       "url": "https://www.technologyreview.com/2026/09/16/1144205/the-download-ai-trillion-dollar-build-openai-biological-data"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026",
+      "canonical_url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui",
       "cluster_sources": [
-        "PyTorch Blog"
+        "Google Research Blog"
       ],
-      "description": "",
-      "event_cluster_id": "f4a8a7188aae",
-      "fetched_at": "2026-09-17T15:16:50Z",
-      "id": "f4a8a7188aaeb1dad488",
-      "image_url": "",
+      "description": "September 17, 2026",
+      "event_cluster_id": "9a68e948c26f",
+      "fetched_at": "2026-09-18T01:25:34Z",
+      "id": "9a68e948c26f7b488b06",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/LearningInteractives4_Library.png",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-16T00:00:00Z",
+      "published_at": "2026-09-17T00:00:00Z",
       "research_track": "",
-      "score": 12,
+      "score": 6,
       "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Open Research, Tooling & Optimization at PyTorch Conference North America 2026",
-      "url": "https://pytorch.org/blog/open-research-tooling-optimization-at-pytorch-conference-north-america-2026"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "MIT Technology Review"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Listen to the session or watch below Employees at the world’s leading AI labs are saying there’s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Watch a conversation...",
-      "event_cluster_id": "0fa1b8daf138",
-      "fetched_at": "2026-09-16T15:08:30Z",
-      "id": "0fa1b8daf138ee7e1be3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-09-15T17:47:51Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Roundtables: Could AI really kill us all?",
-      "url": "https://www.technologyreview.com/2026/09/15/1143936/roundtables-will-ai-really-kill-us-all"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/low-precision-flash-attention-4-end-to-end-block-scaled-attention-for-blackwell",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "37fddf16e4b9",
-      "fetched_at": "2026-09-17T15:16:50Z",
-      "id": "37fddf16e4b9d4c379ea",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-16T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
+        "medium source",
         "published within 48 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Low Precision Flash Attention 4: End-to-End Block-Scaled Attention for Blackwell",
-      "url": "https://pytorch.org/blog/low-precision-flash-attention-4-end-to-end-block-scaled-attention-for-blackwell"
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "September 17, 2026 The future of practice: Enabling teachers to create learning interactives with generative UI Education Innovation · Generative AI · Machine Intelligence",
+      "url": "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui"
     }
   ],
-  "date_label": "Thursday, September 17, 2026",
-  "generated_at": "2026-09-17T15:16:50Z",
+  "date_label": "Friday, September 18, 2026",
+  "generated_at": "2026-09-18T01:25:34Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 209,
-    "retained_items": 33,
+    "fetched_items": 203,
+    "retained_items": 38,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
