@@ -355,36 +355,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "We're adding support for AGENTS.md to Claude Code. Starting today in version 2.1.277, if there is no CLAUDE.md in a folder, Claude will check for and use AGENTS.md. AGENTS.md support is built off of Claude Code mods, our upcoming way to...",
-      "event_cluster_id": "bb098ef13f31",
-      "fetched_at": "2026-09-19T13:58:33Z",
-      "id": "bb098ef13f310da7ff14",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-18T19:09:27Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Thariq Shihipar",
-      "url": "https://simonwillison.net/2026/Sep/18/thariq-shihipar"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Elizabeth Pavlova",
         "Hidenori Tanaka"
@@ -421,6 +391,38 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
+      "event_cluster_id": "d47c82413d2b",
+      "fetched_at": "2026-09-21T01:33:48Z",
+      "id": "d47c82413d2b8bf69c1b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-20T20:29:07Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "World model companies are keeping a lot of secrets",
+      "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Lucas Ropek"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking",
@@ -451,36 +453,64 @@
       "url": "https://techcrunch.com/2026/09/19/vals-backed-by-andreessen-horowitz-is-looking-to-become-the-gold-standard-for-ai-benchmarking"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Russell Brandom"
+        "mohitkumar18"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets",
+      "canonical_url": "https://github.com/mohitkumar188/AgentTrace",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Hacker News"
       ],
-      "description": "Everyone in the world-models space is sitting on a pile of cash and a ton of buzz, but good luck getting anyone — from the founders to their own data suppliers — to tell you what they're actually building.",
-      "event_cluster_id": "941b6d53ec34",
-      "fetched_at": "2026-09-19T01:31:10Z",
-      "id": "941b6d53ec342c5796b4",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "c66e0513f77e",
+      "fetched_at": "2026-09-21T01:33:48Z",
+      "id": "hn-49780222",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-18T20:18:14Z",
+      "published_at": "2026-09-20T21:24:17Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 6 hours",
-        "major-event keyword: model"
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: AgentTrace–Observability and runtime self-healing engine for AI agents",
+      "url": "https://github.com/mohitkumar188/AgentTrace"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/20/voxium",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "It has been half a month since I started a new role at a big company. Nobody knows anything here. The specs, code, tests, PRDs, tickets, resolution of those tickets, reports, etc., everything is made by Claude Code. Nobody on my team...",
+      "event_cluster_id": "b6349f50297a",
+      "fetched_at": "2026-09-21T01:33:48Z",
+      "id": "b6349f50297a20151561",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-20T21:06:43Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "World model companies are keeping a lot of secrets",
-      "url": "https://techcrunch.com/2026/09/18/world-model-companies-are-keeping-a-lot-of-secrets"
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting voxium",
+      "url": "https://simonwillison.net/2026/Sep/20/voxium"
     },
     {
       "authors": [
@@ -579,37 +609,6 @@
       "url": "https://vyne.toolchain.studio"
     },
     {
-      "authors": [
-        "promiseofbeans"
-      ],
-      "canonical_url": "https://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "02a38dc1902f",
-      "fetched_at": "2026-09-20T01:33:05Z",
-      "id": "hn-49771630",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-20T01:11:12Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "research relevance: PET"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "How the Berkeley Overmind won the 2010 StarCraft AI competition",
-      "url": "https://arstechnica.com/gaming/2011/01/skynet-meets-the-swarm-how-the-berkeley-overmind-won-the-2010-starcraft-ai-competition"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Anthony Ha"
@@ -704,132 +703,44 @@
       "url": "https://www.latent.space/p/ainews-here-are-6-clones-of-jev-in"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI Gemini finally caught up on Felony Bench ! The hacks, which the company confirmed on Friday, occurred in May as part of a test run by the company Irregular, which was...",
-      "event_cluster_id": "cd7d3f3cc962",
-      "fetched_at": "2026-09-19T01:31:10Z",
-      "id": "cd7d3f3cc962b4c47172",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-18T23:57:57Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Gemini Hacked Three Companies in First Known Breakout by Google’s AI",
-      "url": "https://simonwillison.net/2026/Sep/18/gemini-hacked-three-companies"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Kirsten Korosec"
+        "Rebecca Bellan"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai",
+      "canonical_url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "UP.Labs, now doing business under the name Vantora, is building startups for industrial corporations.",
-      "event_cluster_id": "415291b734cb",
-      "fetched_at": "2026-09-19T01:31:10Z",
-      "id": "415291b734cbb8a64f3b",
+      "description": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+      "event_cluster_id": "ce5bcd03ba87",
+      "fetched_at": "2026-09-21T01:33:48Z",
+      "id": "ce5bcd03ba87d2197941",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-18T23:25:01Z",
+      "published_at": "2026-09-20T18:00:00Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "startup/product signal: startup, raised"
+        "published within 24 hours",
+        "startup/product signal: startup"
       ],
       "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "A startup that builds other startups raised $100M, and is all-in on physical AI",
-      "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "The Creative Spirit of Who Framed Roger Rabbit I love Who Framed Roger Rabbit , the 1988 movie by Robert Zemeckis. I haven't watched it in quite a few years, and Cypress Frankenfeld just pointed out this sequence from early in the movie:...",
-      "event_cluster_id": "8d9964b2a1d3",
-      "fetched_at": "2026-09-18T14:37:14Z",
-      "id": "8d9964b2a1d355f80ec3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-18T14:36:41Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "The Creative Spirit of Who Framed Roger Rabbit",
-      "url": "https://simonwillison.net/2026/Sep/18/the-creative-spirit-of-who-framed-roger-rabbit"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Being a computer scientist who refuses to find anything about LLMs interesting right now is a bit like being a geneticist who refuses to find anything interesting about the recently opened Jurassic Park. Tags: llms , ai , generative-ai",
-      "event_cluster_id": "d24cf3d00a45",
-      "fetched_at": "2026-09-19T13:58:33Z",
-      "id": "d24cf3d00a4598572647",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-18T19:21:32Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Note on 18th September 2026",
-      "url": "https://simonwillison.net/2026/Sep/18/probably-gonna-eat-you"
+      "title": "ScrollEd wants to turn textbooks into TikTok",
+      "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok"
     }
   ],
-  "date_label": "Sunday, September 20, 2026",
-  "generated_at": "2026-09-20T14:20:29Z",
+  "date_label": "Monday, September 21, 2026",
+  "generated_at": "2026-09-21T01:33:48Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 200,
-    "retained_items": 25,
+    "fetched_items": 205,
+    "retained_items": 22,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
