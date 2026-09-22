@@ -75,77 +75,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Peter Potash"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.19113v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "We evaluate six frontier language models on the two-agent $\\log(N)$-Questions game. A questioner sees $N$ Wikipedia lead paragraphs and must identify a secretly chosen target using exactly $\\log_2 N$ yes/no questions. An answerer sees...",
-      "event_cluster_id": "60fb76daad1a",
-      "fetched_at": "2026-09-17T15:16:50Z",
-      "id": "60fb76daad1a865a8360",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-16T17:41:12Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: agent, RAG"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Playing log(N)-Questions over Wikipedia Abstracts: Communication Efficiency Between Paired Frontier Models",
-      "url": "https://arxiv.org/abs/2609.19113v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kaijun Zhou",
-        "Zhiyang Li",
-        "Le Chen",
-        "Jinyu Gu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.19104v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Factory work is a promising early scenario for embodied AI: assigning repetitive manual jobs to robots has clear economic payoff, and a structured station keeps the jobs tractable for current policies. Vision-Language-Action (VLA) models...",
-      "event_cluster_id": "7d10df98c39e",
-      "fetched_at": "2026-09-17T15:16:50Z",
-      "id": "7d10df98c39ed0df63aa",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-16T17:34:43Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "research relevance: PET",
-        "technical relevance: vision-language, inference"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Inference",
-      "url": "https://arxiv.org/abs/2609.19104v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Johannes Kaiser",
         "Florian Braunmiller",
         "Daniel Rückert",
@@ -255,6 +184,129 @@
       "url": "https://techcrunch.com/2026/09/15/salesforce-and-nvidias-new-reasoning-model-is-everything-the-ai-labs-should-fear"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/21/jev",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant...",
+      "event_cluster_id": "012242336f75",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "012242336f7588da60f6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-21T23:09:20Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
+      "url": "https://simonwillison.net/2026/Sep/21/jev"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/jev",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "The definitive Jev podcast with its lead creator.",
+      "event_cluster_id": "7409d5ffee8a",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "7409d5ffee8a2c05841b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-09-21T22:13:49Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
+      "url": "https://www.latent.space/p/jev"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
+      "event_cluster_id": "4c045e0925c8",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "4c045e0925c89f1a71c8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-21T19:19:21Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
+      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch"
+    },
+    {
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
+      "event_cluster_id": "684716114b5e",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "684716114b5ee93a7181",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-21T17:55:18Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: foundation model, agent, inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta’s AI agent has been blocked from using Amazon.com",
+      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com"
+    },
+    {
       "authors": [
         "noobplus"
       ],
@@ -321,42 +373,67 @@
       "url": "https://techcrunch.com/2026/09/15/we-dont-need-ai-regulation-leave-safety-to-us-nvidias-jensen-huang-says"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Erik Deinzer",
-        "Naya Baslan",
-        "Luca Paparusso",
-        "Narunas Vaskevicius",
-        "Peter Knott",
-        "Luigi Palmieri"
+        "dgudkov"
       ],
-      "canonical_url": "https://arxiv.org/abs/2609.22040v1",
+      "canonical_url": "https://dl.acm.org/doi/10.1145/381854.381893",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Hacker News"
       ],
-      "description": "Current Vision-Language-Action (VLA) models for autonomous driving operate primarily through feedforward inference across the perception--reasoning--planning hierarchy. While modern architectures maintain temporal recurrence within the...",
-      "event_cluster_id": "673f71115146",
-      "fetched_at": "2026-09-21T16:33:52Z",
-      "id": "673f7111514674afe7a7",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ff463f05710b",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "hn-49795859",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-18T17:31:34Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
+      "is_must_read": false,
+      "published_at": "2026-09-22T01:46:15Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
         "medium source",
-        "major-event keyword: model, inference",
-        "research relevance: PET",
-        "technical relevance: vision-language, reasoning, inference"
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: RAG"
       ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "PRIME: Perception Feedback with Situational Memory Embeddings in VLA Models",
-      "url": "https://arxiv.org/abs/2609.22040v1"
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Lifestreams: A storage model for personal data (1996)",
+      "url": "https://dl.acm.org/doi/10.1145/381854.381893"
+    },
+    {
+      "authors": [
+        "Dan Goodin"
+      ],
+      "canonical_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
+      "cluster_sources": [
+        "Ars Technica AI"
+      ],
+      "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
+      "event_cluster_id": "790cf36b99ee",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "790cf36b99eec5abd380",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-21T22:24:38Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "ars_ai",
+      "source_name": "Ars Technica AI",
+      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
+      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
     },
     {
       "authors": [
@@ -423,6 +500,34 @@
       "url": "https://techcrunch.com/2026/09/20/world-model-companies-are-keeping-a-lot-of-secrets"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on...",
+      "event_cluster_id": "1d4c089b9c3b",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "1d4c089b9c3b10f4e048",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-21T22:25:44Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Cloudflare Python Workers are now generally available",
+      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker"
+    },
+    {
       "authors": [
         "samarthurs18"
       ],
@@ -487,38 +592,7 @@
       "url": "https://gingerpal.com"
     },
     {
-      "authors": [
-        "arthuqa"
-      ],
-      "canonical_url": "https://github.com/pokertools-arena/pokertools-arena.github.io",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "bfa30074189d",
-      "fetched_at": "2026-09-21T16:33:52Z",
-      "id": "hn-49788178",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-21T15:00:39Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: benchmark",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: PokerTools Arena – Local AI vs. AI Poker LLM Benchmark Table",
-      "url": "https://github.com/pokertools-arena/pokertools-arena.github.io"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "TechCrunch Events"
       ],
@@ -579,36 +653,40 @@
       "url": "https://simonwillison.net/2026/Sep/20/voxium"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Anthony Ha"
+        "Gia Ancone",
+        "Qibin Liu",
+        "Liangyu Wu",
+        "Julia Gonski"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies",
+      "canonical_url": "https://arxiv.org/abs/2609.23385v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-      "event_cluster_id": "675a197c701f",
-      "fetched_at": "2026-09-20T14:20:29Z",
-      "id": "675a197c701faf4cedaa",
+      "description": "Data acquisition (DAQ) systems at future particle physics experiments stand to benefit from the extremes of AI/ML development: large-scale foundation models can enhance the performance of feature extraction algorithms, and small-scale...",
+      "event_cluster_id": "c49659d0eb0b",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "c49659d0eb0b8f361934",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-19T17:30:00Z",
-      "research_track": "",
+      "published_at": "2026-09-20T06:10:58Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model, acquisition",
+        "technical relevance: foundation model, RAG",
+        "startup/product signal: acquisition"
       ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Google’s Gemini is the latest AI model to hack other companies",
-      "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Leveraging Industrial Foundation Models at the Edge of Particle Physics Detectors via Distillation Learning and Hardware Co-design",
+      "url": "https://arxiv.org/abs/2609.23385v1"
     },
     {
       "also_covered_by": [],
@@ -644,21 +722,21 @@
     },
     {
       "authors": [
-        "Sarah Perez"
+        "Jagmeet Singh"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini",
+      "canonical_url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Google’s AI-native Googlebook ties Gemini to the cursor, dictation, widgets and other parts of the desktop experience.",
-      "event_cluster_id": "d947cdfa9abd",
-      "fetched_at": "2026-09-21T16:33:52Z",
-      "id": "d947cdfa9abd9ef70140",
+      "description": "Apple Store architect Ron Johnson says Apple's secret sauce has always been its people.",
+      "event_cluster_id": "9b2745b3f19f",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "9b2745b3f19fc69f0b8a",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-21T14:39:22Z",
+      "published_at": "2026-09-21T23:44:28Z",
       "research_track": "",
       "score": 12,
       "score_reasons": [
@@ -669,40 +747,11 @@
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Google’s $899 Googlebook is a bet that you’ll buy a new laptop for Gemini",
-      "url": "https://techcrunch.com/2026/09/21/googles-899-googlebook-is-a-bet-that-youll-buy-a-new-laptop-for-gemini"
+      "title": "The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping",
+      "url": "https://techcrunch.com/2026/09/21/the-man-who-built-apples-stores-doesnt-buy-silicon-valleys-bet-on-ai-shopping"
     },
     {
-      "authors": [
-        "TechCrunch Events"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026. Lean in on this Builders Stage session. Save up to $200 before September 25.",
-      "event_cluster_id": "50fc6616a298",
-      "fetched_at": "2026-09-21T16:33:52Z",
-      "id": "50fc6616a298b96cc82f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-21T14:30:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "From first users to billions: Google’s Robby Stein joins TechCrunch Disrupt 2026",
-      "url": "https://techcrunch.com/2026/09/21/from-first-users-to-billions-googles-robby-stein-joins-techcrunch-disrupt-2026"
-    },
-    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an",
       "cluster_sources": [
@@ -731,6 +780,7 @@
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/pruning-llms-like-a-physicist-block-removal-as-an"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "James O'Donnell"
       ],
@@ -762,6 +812,219 @@
     },
     {
       "authors": [],
+      "canonical_url": "https://pytorch.org/blog/tinytorch-dont-just-import-pytorch-build-it",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "d41ee9dc93cb",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "d41ee9dc93cb99e259d7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-21T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "TinyTorch: Don’t Just Import PyTorch. Build It.",
+      "url": "https://pytorch.org/blog/tinytorch-dont-just-import-pytorch-build-it"
+    },
+    {
+      "authors": [
+        "Jie Zhao",
+        "Ziyu Jiang",
+        "Suhang Zheng",
+        "Minghui Shan",
+        "Xiaoxiao Xu",
+        "Lin Qu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.23377v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Repository-level software engineering (SWE) comprises heterogeneous task categories, whose progress under pooled agentic reinforcement learning can be uneven: gains in some categories coincide with regressions in others, while aggregate...",
+      "event_cluster_id": "6c76a02c1553",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "6c76a02c15534e897c94",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-20T05:58:21Z",
+      "research_track": "multimodal_foundation",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: training",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents",
+      "url": "https://arxiv.org/abs/2609.23377v1"
+    },
+    {
+      "authors": [
+        "Bowei Wang",
+        "Zhigang Fang",
+        "Zhijie Yang",
+        "Renzhi Chen",
+        "Shanshan Li",
+        "Lei Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.23363v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Recent advances in large language models (LLMs) have led to the emergence of coding agents capable of performing complex engineering tasks, including register-transfer level (RTL) design and optimization. Existing RTL benchmarks mainly...",
+      "event_cluster_id": "24556dcf3b4e",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "24556dcf3b4e828b3031",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-20T05:17:00Z",
+      "research_track": "multimodal_foundation",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "TicTacBench: Benchmarking Timing Closure Capabilities of Coding Agents",
+      "url": "https://arxiv.org/abs/2609.23363v1"
+    },
+    {
+      "authors": [
+        "Jie Shi",
+        "Yimin Lu",
+        "Zhongkun Ouyang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.23360v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Engineering predictions require physical mechanisms to be translated consistently into equations, discretization, code, and validation, yet errors can propagate despite local checks. Artificial-intelligence (AI) agents automate...",
+      "event_cluster_id": "a8e3b7466300",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "a8e3b7466300c3b4fe9b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-20T04:53:24Z",
+      "research_track": "multimodal_foundation",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Human-guided physics-constrained AI agents construct an auditable model of soil-plug evolution",
+      "url": "https://arxiv.org/abs/2609.23360v1"
+    },
+    {
+      "authors": [
+        "Chenxin Liang",
+        "Youchen Lai",
+        "Chuqiao Lyu",
+        "Tianxing Chen",
+        "Shoujie Li",
+        "Wenbo Ding"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.23352v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Bimanual interaction produces complementary tactile views of the same physical process, yet existing tactile representation learning largely models the two hands independently or combines them only for downstream prediction, leaving...",
+      "event_cluster_id": "2ca72bfda9bf",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "2ca72bfda9bf8bf4a66a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-20T04:38:55Z",
+      "research_track": "multimodal_foundation",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "technical relevance: representation learning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "BiView-Touch: Learning Bimanual Tactile Representations by Cross-Hand Completion",
+      "url": "https://arxiv.org/abs/2609.23352v1"
+    },
+    {
+      "authors": [
+        "Chaoqian Mu",
+        "Wenhao Wu",
+        "Zichen Liang",
+        "Jiaxu Li",
+        "Lijun Wang",
+        "Yifan Wang",
+        "Huchuan Lu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.23336v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Localizing and describing fine-grained differences between near-identical images is a critical yet underexplored capability for multimodal large language models (MLLMs). Existing benchmarks largely assess semantic comparison or...",
+      "event_cluster_id": "d0a8b3374e1a",
+      "fetched_at": "2026-09-22T01:47:54Z",
+      "id": "d0a8b3374e1a8ec3a7e8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-20T03:48:09Z",
+      "research_track": "multimodal_foundation",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: multimodal"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "MinCU: A Fine-Grained Benchmark for Grounded Minimal-Change Understanding in Image Pairs",
+      "url": "https://arxiv.org/abs/2609.23336v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/tokenizers-v1",
       "cluster_sources": [
         "Hugging Face Blog"
@@ -789,6 +1052,7 @@
       "url": "https://huggingface.co/blog/tokenizers-v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera",
       "cluster_sources": [
@@ -817,13 +1081,13 @@
       "url": "https://www.microsoft.com/en-us/research/blog/improving-synthesis-prediction-of-small-molecules-at-scale-with-retrochimera"
     }
   ],
-  "date_label": "Monday, September 21, 2026",
-  "generated_at": "2026-09-21T16:33:52Z",
+  "date_label": "Tuesday, September 22, 2026",
+  "generated_at": "2026-09-22T01:47:54Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 206,
-    "retained_items": 25,
+    "fetched_items": 209,
+    "retained_items": 33,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
