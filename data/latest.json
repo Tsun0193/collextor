@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "RJ Honicky"
       ],
@@ -132,6 +133,42 @@
       "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia"
     },
     {
+      "authors": [
+        "Zhen Yu",
+        "Yang Liu",
+        "Xiahai Zhuang",
+        "Qingchao Chen"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.27611v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Foundation models hold promise for generalizable analysis of structural brain magnetic resonance imaging (MRI) across development, aging and disease. However, existing models are typically built through centralized pretraining on pooled...",
+      "event_cluster_id": "31b3d02b6273",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "31b3d02b62730bd2b809",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-23T09:29:01Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "research relevance: MRI",
+        "technical relevance: foundation model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "A generalizable structural brain MRI foundation model built through dual-priority federated pretraining",
+      "url": "https://arxiv.org/abs/2609.27611v1"
+    },
+    {
       "also_covered_by": [
         "arXiv - Medical AI and Neuroimaging"
       ],
@@ -172,6 +209,7 @@
       "url": "https://arxiv.org/abs/2609.26729v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Fiona Kekwick",
         "Matthew Baugh",
@@ -245,6 +283,38 @@
       "url": "https://arxiv.org/abs/2609.25978v1"
     },
     {
+      "authors": [
+        "Michelle Kim"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’..",
+      "event_cluster_id": "427ec4f7d428",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "427ec4f7d4281c0ca220",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-09-23T09:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: security",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The AI Hype Index: AI loves cheating",
+      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
@@ -274,6 +344,37 @@
       "source_name": "Latent Space",
       "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
       "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "2da21048c0f3",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "2da21048c0f3750379af",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-23T00:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: open source",
+        "technical relevance: PyTorch",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "From Research Project to Open Source Ecosystem: Bring Your Academic PyTorch Project to PyTorchCon NA",
+      "url": "https://pytorch.org/blog/from-research-project-to-open-source-ecosystem-bring-your-academic-pytorch-project-to-pytorchcon-na"
     },
     {
       "also_covered_by": [],
@@ -372,131 +473,42 @@
       "url": "https://techcrunch.com/2026/09/22/qualcomm-launches-two-new-smartphone-chips-with-emphasis-on-ai"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/21/jev",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Last week TypeSafe AI unveiled Jev , their first example of a new category of model that they are calling \"System One models\" (I'm with Maggie Appleton, I think \"decision models\" is a better name for these). Jev is an interesting variant...",
-      "event_cluster_id": "012242336f75",
-      "fetched_at": "2026-09-22T01:47:54Z",
-      "id": "012242336f7588da60f6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-21T23:09:20Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Jev introduces a new shape of LLM - System One, aka Decision Models",
-      "url": "https://simonwillison.net/2026/Sep/21/jev"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/jev",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "The definitive Jev podcast with its lead creator.",
-      "event_cluster_id": "7409d5ffee8a",
-      "fetched_at": "2026-09-22T01:47:54Z",
-      "id": "7409d5ffee8a2c05841b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-09-21T22:13:49Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "Jev: System One models for Prod, not God — with Diogo Almeida, CEO, TypeSafe AI",
-      "url": "https://www.latent.space/p/jev"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Sarah Perez"
+        "Imtiaz Ul Hassan",
+        "Öykü Akbulut",
+        "Onur Kaya",
+        "Ardhendu Behera",
+        "Swagat Kumar",
+        "Peter Matthew",
+        "Yonghuai Liu"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch",
+      "canonical_url": "https://arxiv.org/abs/2609.28007v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Meta’s new AI agent Muse has racked up more downloads and daily active users in the U.S. and Canada than ChatGPT did over the same period after its mobile debut, according to new estimates from Appfigures.",
-      "event_cluster_id": "4c045e0925c8",
-      "fetched_at": "2026-09-22T15:08:30Z",
-      "id": "4c045e0925c89f1a71c8",
+      "description": "Most Turkish-capable large language models (LLMs) are evaluated using general-purpose benchmarks rather than long, structurally complex domain documents. This paper evaluates five open-weight 7B-8B models for Turkish document question...",
+      "event_cluster_id": "eb398f22e3cc",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "eb398f22e3cc36089da3",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-09-21T19:19:21Z",
-      "research_track": "",
-      "score": 17,
+      "published_at": "2026-09-23T12:33:57Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "major-event keyword: launch",
-        "technical relevance: agent"
+        "major-event keyword: model, benchmark, open-weight",
+        "research relevance: PET"
       ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta’s Muse is outpacing ChatGPT’s early mobile launch",
-      "url": "https://techcrunch.com/2026/09/21/metas-muse-is-outpacing-chatgpts-early-mobile-launch"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Amazon has its own cohort of foundation models, along with one of the most popular inference platforms on the internet. As long as they're under no legal obligation to open the doors to Muse, why would they?",
-      "event_cluster_id": "684716114b5e",
-      "fetched_at": "2026-09-22T15:08:30Z",
-      "id": "684716114b5ee93a7181",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-21T17:55:18Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: foundation model, agent, inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta’s AI agent has been blocked from using Amazon.com",
-      "url": "https://techcrunch.com/2026/09/21/metas-ai-agent-has-been-blocked-from-using-amazon-com"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Evaluating Open-Weight LLMs for Turkish Domain Documents Under Retrieval and Hardware Constraints",
+      "url": "https://arxiv.org/abs/2609.28007v1"
     },
     {
       "also_covered_by": [],
@@ -507,7 +519,7 @@
       ],
       "description": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of...",
       "event_cluster_id": "16d87fa5b187",
-      "fetched_at": "2026-09-23T15:10:09Z",
+      "fetched_at": "2026-09-24T01:37:20Z",
       "id": "16d87fa5b1873fae127b",
       "image_url": "",
       "is_breaking": false,
@@ -634,6 +646,7 @@
       "url": "https://arxiv.org/abs/2609.26733v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Mischa Dombrowski",
         "Bernhard Kainz"
@@ -737,6 +750,101 @@
     },
     {
       "authors": [
+        "maxcr"
+      ],
+      "canonical_url": "https://github.com/saulpw/visidata/pull/3229",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "adde41326abd",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "hn-49824957",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-24T01:14:43Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "We used an AI agent to fix an open-source bug. Someone asked to ban us",
+      "url": "https://github.com/saulpw/visidata/pull/3229"
+    },
+    {
+      "authors": [
+        "Kirsten Korosec, Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "CEO Mark Zuckerberg kicked off the company’s annual Connect event in Menlo Park on Wednesday with a keynote that made one thing clear: Meta is going all-in on Muse. It's even coming to Meta's AI glasses.",
+      "event_cluster_id": "1eff56d18c38",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "1eff56d18c383f1c3b2a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-24T01:13:32Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Everything new coming to Meta’s AI agent Muse",
+      "url": "https://techcrunch.com/2026/09/23/everything-new-coming-to-metas-ai-agent-muse"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The tiny hardware device creates another mobile home for its AI agent Muse.",
+      "event_cluster_id": "9675c5f28489",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "9675c5f284892814ef76",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-24T00:46:17Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta made a Tamagotchi-like wearable for its Muse AI agent",
+      "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Dan Hu",
         "Jiale Cheng",
         "Weiran Xia",
@@ -773,38 +881,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Deep Learning in Infant Functional Neuroimaging: Challenges, Advances, and Future Directions",
       "url": "https://arxiv.org/abs/2609.26688v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Inside two years of fraught AI data center debates in Pennsylvania.",
-      "event_cluster_id": "3998a4c198db",
-      "fetched_at": "2026-09-22T15:08:30Z",
-      "id": "3998a4c198db2234356a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-22T13:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Everyone can find a reason to dislike data center construction",
-      "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction"
     },
     {
       "also_covered_by": [],
@@ -871,117 +947,22 @@
       "url": "https://dl.acm.org/doi/10.1145/381854.381893"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "2dff1e1aa9d7",
-      "fetched_at": "2026-09-23T15:10:09Z",
-      "id": "2dff1e1aa9d734d220e2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-22T00:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "technical relevance: vLLM"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Hardware-Agnostic Models in vLLM",
-      "url": "https://pytorch.org/blog/hardware-agnostic-models-in-vllm"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Dan Goodin"
+        "miguelrios"
       ],
-      "canonical_url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day",
-      "cluster_sources": [
-        "Ars Technica AI"
-      ],
-      "description": "A simple ClickFix attack is only one way to completely hijack the new agent.",
-      "event_cluster_id": "790cf36b99ee",
-      "fetched_at": "2026-09-22T01:47:54Z",
-      "id": "790cf36b99eec5abd380",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/09/ai-agent-hacking-500x500.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-21T22:24:38Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "Muse, Meta's extraordinarily privileged AI assistant, has a serious 0-day",
-      "url": "https://arstechnica.com/security/2026/09/muse-metas-extraordinarily-privileged-ai-assistant-has-a-serious-0-day"
-    },
-    {
-      "authors": [
-        "czl_my"
-      ],
-      "canonical_url": "https://github.com/zhulinchng/jevper",
+      "canonical_url": "https://github.com/Parcha-ai/agentrun",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "39a6302e63e5",
-      "fetched_at": "2026-09-23T15:10:09Z",
-      "id": "hn-49815066",
+      "event_cluster_id": "8bf440f9048e",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "hn-49821438",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-23T12:25:21Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Jevper – the Jev interface on top of any OpenAI-compatible model",
-      "url": "https://github.com/zhulinchng/jevper"
-    },
-    {
-      "authors": [
-        "bdearch"
-      ],
-      "canonical_url": "https://github.com/rondoflow/rondoflow",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "184459768c3c",
-      "fetched_at": "2026-09-23T09:29:06Z",
-      "id": "hn-49812163",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-23T05:55:48Z",
+      "published_at": "2026-09-23T19:42:58Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
@@ -994,8 +975,77 @@
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Visually orchestrate Claude Code AI agents",
-      "url": "https://github.com/rondoflow/rondoflow"
+      "title": "Show HN: AgentRun: DSL to turn agents into Workflows",
+      "url": "https://github.com/Parcha-ai/agentrun"
+    },
+    {
+      "authors": [
+        "Jiaxing Li",
+        "Lei Song",
+        "Rui Dong",
+        "Youyong Kong"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.28003v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Small and medium-sized language models offer cost-effective executors for tool-using agents, making them attractive for local and large-scale deployment. However, in long-horizon and stateful environments, they often make structural...",
+      "event_cluster_id": "8544eecefce4",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "8544eecefce4cc58ef29",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-23T12:31:39Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Learning from Failures: Heterogeneous Graph Memory for Small Language Model Tool-Using Agents",
+      "url": "https://arxiv.org/abs/2609.28003v1"
+    },
+    {
+      "authors": [
+        "Jose Manuel de la Chica Rodriguez",
+        "Juan Manuel Vera Diaz",
+        "Pablo Delgado Romero"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.27994v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Financial institutions are beginning to deploy agentic workflows in credit, fraud, collections, compliance, and operational control. Governance remains largely component-centric: each model or agent is specified, tested, authorized, and...",
+      "event_cluster_id": "f5630eeca262",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "f5630eeca262f993f2a8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-23T12:25:37Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Compliant with Local Controls, Collectively Discriminatory. A Governance Architecture for Multi-Agent AI in Regulated Finance",
+      "url": "https://arxiv.org/abs/2609.27994v1"
     },
     {
       "also_covered_by": [],
@@ -1028,214 +1078,6 @@
       "source_name": "Latent Space",
       "title": "🔬 An Oscar, Two Asteroids, and the Algorithm in Your sklearn: John Platt on AI for Science",
       "url": "https://www.latent.space/p/john-platt"
-    },
-    {
-      "authors": [
-        "Quan Nguyen-Tri",
-        "Mukul Ranjan",
-        "Zhiqiang Shen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.26796v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Diffusion Large Language Models (dLLMs) have recently emerged as a promising alternative to autoregressive LLMs by enabling non-autoregressive text generation. However, their practical deployment remains limited by inefficient inference,...",
-      "event_cluster_id": "3cce389477d1",
-      "fetched_at": "2026-09-23T09:29:06Z",
-      "id": "3cce389477d1dd3c58d0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-22T17:59:57Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: inference"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs",
-      "url": "https://arxiv.org/abs/2609.26796v1"
-    },
-    {
-      "authors": [
-        "Laizhen Li",
-        "Xuan Wang",
-        "Peicheng Zhao",
-        "Juanjuan Zhao",
-        "Kejiang Ye",
-        "Cheng-zhong Xu",
-        "Xitong Gao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.26761v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Agents using the Model Context Protocol (MCP) rely on semantic matching to select tools from third-party servers, exposing a semantic supply-chain risk through attacker-controlled metadata and outputs. We introduce A2M...",
-      "event_cluster_id": "ce6b87bf0c10",
-      "fetched_at": "2026-09-23T09:29:06Z",
-      "id": "ce6b87bf0c100a7da2ae",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-22T17:41:34Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
-      "url": "https://arxiv.org/abs/2609.26761v1"
-    },
-    {
-      "authors": [
-        "Laizhen Li",
-        "Jiarui Li",
-        "Juanjuan Zhao",
-        "Kejiang Ye",
-        "Ye Li",
-        "Cheng-zhong Xu",
-        "Xitong Gao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.26760v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language model (LLM) agents often handle streams of related tasks, yet standard harnesses repeatedly ask the model to reconstruct the same control decisions inside each task's context. We study whether task feedback can instead...",
-      "event_cluster_id": "aa97e1c7c451",
-      "fetched_at": "2026-09-23T09:29:06Z",
-      "id": "aa97e1c7c451cb855aea",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-22T17:40:45Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Grow the Harness, Not the Context: From Strategy-Free Scaffolds to Reusable Specialist Agents",
-      "url": "https://arxiv.org/abs/2609.26760v1"
-    },
-    {
-      "authors": [
-        "Kalina P. Slavkova",
-        "Eric Brattain",
-        "Aditya Gowd",
-        "Akash Pattnaik",
-        "Jean-Benoit Delbrouck",
-        "Matthew Morgan",
-        "Julie Bauml",
-        "Javid Abderezaei"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.26605v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Foundation model embeddings of screening mammograms may encode pre-diagnostic tissue change without task-specific adaptation. We tested whether embeddings move faster along a data-derived \"cancer direction\" in women later biopsied for...",
-      "event_cluster_id": "91c7b5304d53",
-      "fetched_at": "2026-09-23T09:29:06Z",
-      "id": "91c7b5304d53cac6a1f3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-22T15:42:43Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Foundation model embeddings capture pre-diagnostic changes on screening mammograms",
-      "url": "https://arxiv.org/abs/2609.26605v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/how-shopify-built-a-continual-learning-loop-with-pytorch-and-vllm",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "3cc1813315aa",
-      "fetched_at": "2026-09-22T15:08:30Z",
-      "id": "3cc1813315aa13802707",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-22T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: vLLM, PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "How Shopify built a continual learning loop with PyTorch and vLLM",
-      "url": "https://pytorch.org/blog/how-shopify-built-a-continual-learning-loop-with-pytorch-and-vllm"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Cloudflare Python Workers are now generally available After a two year preview, Cloudflare's support for running Python code in their server-side Workers platform is now stable: \"Python is now a first-class, fully supported language on...",
-      "event_cluster_id": "1d4c089b9c3b",
-      "fetched_at": "2026-09-22T01:47:54Z",
-      "id": "1d4c089b9c3b10f4e048",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-21T22:25:44Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Cloudflare Python Workers are now generally available",
-      "url": "https://simonwillison.net/2026/Sep/21/cloudflare-python-worker"
     },
     {
       "also_covered_by": [],
@@ -1295,6 +1137,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-diarization"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -1323,6 +1166,65 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: India’s smart glasses menace and AI’s trillion-dollar gamble",
       "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "f5f3fe2846a1",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "f5f3fe2846a1077a4279",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-23T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Offloaded inference for real-world physical AI robotics",
+      "url": "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving",
+      "cluster_sources": [
+        "NVIDIA Technical Blog - Machine Learning and AI"
+      ],
+      "description": "",
+      "event_cluster_id": "dacd7422e86e",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "dacd7422e86ef85a0868",
+      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/09/image1-16-660x370.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-23T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "technical relevance: serving"
+      ],
+      "section": "ai_engineering",
+      "source_category": "infrastructure",
+      "source_id": "nvidia_ml_blog",
+      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
+      "title": "How SWE-Serve Exposes the Gap Between Local Tests and Live Serving",
+      "url": "https://developer.nvidia.com/blog/how-swe-serve-exposes-the-gap-between-local-tests-and-live-serving"
     },
     {
       "also_covered_by": [],
@@ -1387,102 +1289,70 @@
       "url": "https://www.technologyreview.com/2026/09/22/1144910/the-download-dont-believe-ai-hype"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/evaleval-aisi",
+      "canonical_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
-      "event_cluster_id": "e9f63aa1f7aa",
-      "fetched_at": "2026-09-23T15:10:09Z",
-      "id": "e9f63aa1f7aaa02f4024",
+      "event_cluster_id": "30aa7c0acfe7",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "30aa7c0acfe7f3809f1c",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-22T00:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "major-event keyword: benchmark"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "How UK AISI and EvalEval Are Making Benchmark Results Reproducible",
-      "url": "https://huggingface.co/blog/evaleval-aisi"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/transformers-llama-cpp-quants",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "689d78c6e007",
-      "fetched_at": "2026-09-22T15:08:30Z",
-      "id": "689d78c6e007ab8e2c4f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-22T00:00:00Z",
+      "published_at": "2026-09-23T18:41:40Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
         "high source",
         "published within 24 hours"
       ],
-      "section": "ai_engineering",
+      "section": "business_policy",
       "source_category": "engineering",
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
-      "title": "Transformers now runs llama.cpp quants",
-      "url": "https://huggingface.co/blog/transformers-llama-cpp-quants"
+      "title": "How to Use NVIDIA Warp and MjWarp to Accelerate Robotics Simulation and Learning Workflows",
+      "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/omlx",
+      "canonical_url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Anthropic News"
       ],
       "description": "",
-      "event_cluster_id": "6b3083011aeb",
-      "fetched_at": "2026-09-22T15:08:30Z",
-      "id": "6b3083011aeb49b1cc1d",
+      "event_cluster_id": "ef1b3a4772ea",
+      "fetched_at": "2026-09-24T01:37:20Z",
+      "id": "ef1b3a4772eab8370f46",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-09-22T00:00:00Z",
+      "published_at": "2026-09-23T00:00:00Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
-        "high source",
-        "published within 24 hours"
+        "critical source",
+        "published within 48 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Jun Kim, oMLX creator and maintainer, joins Hugging Face to support the MLX community",
-      "url": "https://huggingface.co/blog/omlx"
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats",
+      "url": "https://www.anthropic.com/news/claude-discovers-novel-enzyme-system"
     }
   ],
-  "date_label": "Wednesday, September 23, 2026",
-  "generated_at": "2026-09-23T15:10:09Z",
+  "date_label": "Thursday, September 24, 2026",
+  "generated_at": "2026-09-24T01:37:20Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 3,
-    "fetched_items": 183,
-    "retained_items": 45,
-    "successful_sources": 18
+    "failed_sources": 1,
+    "fetched_items": 206,
+    "retained_items": 41,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
