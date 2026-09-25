@@ -103,43 +103,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Zhen Yu",
-        "Yang Liu",
-        "Xiahai Zhuang",
-        "Qingchao Chen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.27611v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Foundation models hold promise for generalizable analysis of structural brain magnetic resonance imaging (MRI) across development, aging and disease. However, existing models are typically built through centralized pretraining on pooled...",
-      "event_cluster_id": "31b3d02b6273",
-      "fetched_at": "2026-09-24T09:27:51Z",
-      "id": "31b3d02b62730bd2b809",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-23T09:29:01Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "research relevance: MRI",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A generalizable structural brain MRI foundation model built through dual-priority federated pretraining",
-      "url": "https://arxiv.org/abs/2609.27611v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm2-5-vl-dspark",
       "cluster_sources": [
@@ -171,6 +134,40 @@
     },
     {
       "authors": [
+        "Anis_FA"
+      ],
+      "canonical_url": "https://github.com/apowerb/apowerb",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "247637418d47",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "hn-49841997",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-25T09:12:30Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent, RAG",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)",
+      "url": "https://github.com/apowerb/apowerb"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Richard MacManus"
       ],
       "canonical_url": "https://www.latent.space/p/runway",
@@ -200,70 +197,6 @@
       "source_name": "Latent Space",
       "title": "Runway’s WorldPrompt and the Engineering of Real-Time Worlds",
       "url": "https://www.latent.space/p/runway"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Michelle Kim"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Brace yourself: It turns out AI is being optimized for cheating. OpenAI’s agents hacked into Hugging Face to get the answers to a cybersecurity test. Next, they solved a prestigious math problem (or just stole from two top mathematicians’..",
-      "event_cluster_id": "427ec4f7d428",
-      "fetched_at": "2026-09-24T01:37:20Z",
-      "id": "427ec4f7d4281c0ca220",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-09-23T09:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: security",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The AI Hype Index: AI loves cheating",
-      "url": "https://www.technologyreview.com/2026/09/23/1144940/ai-hype-index-ai-loves-cheating"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "overshadowing more efficient GPT6 models from OpenAI",
-      "event_cluster_id": "19163c30f0a4",
-      "fetched_at": "2026-09-23T09:29:06Z",
-      "id": "19163c30f0a4c9255505",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!tLrK!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2102432417352929280.jpg",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-09-23T06:41:41Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Claude Opus 5.5, the new default model for AINews — and everybody cuts prices 40-50%",
-      "url": "https://www.latent.space/p/ainews-claude-opus-55-the-new-default"
     },
     {
       "also_covered_by": [],
@@ -445,36 +378,6 @@
       "url": "https://arxiv.org/abs/2609.28007v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "SF October 14th: A Birds of a Feather Session on Agentic Engineering I'm hosting an evening event with Jesse Vincent in San Francisco on Wednesday 14th October for people who are building weird and interesting things with and on top of...",
-      "event_cluster_id": "16d87fa5b187",
-      "fetched_at": "2026-09-24T01:37:20Z",
-      "id": "16d87fa5b1873fae127b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-23T02:53:19Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "SF October 14th: A Birds of a Feather Session on Agentic Engineering",
-      "url": "https://simonwillison.net/2026/Sep/23/bof-agentic-engineering"
-    },
-    {
       "authors": [
         "lobo_tuerto"
       ],
@@ -603,6 +506,7 @@
       "url": "https://techcrunch.com/2026/09/23/meta-made-a-tamagotchi-like-wearable-for-its-muse-ai-agent"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/accelerate-your-ai-journey-with-new-introduction-track-at-pytorch-conference-na-2026-and-pytorch-associate-training",
       "cluster_sources": [
@@ -610,7 +514,7 @@
       ],
       "description": "",
       "event_cluster_id": "4d7608004e54",
-      "fetched_at": "2026-09-25T01:51:22Z",
+      "fetched_at": "2026-09-25T09:45:28Z",
       "id": "4d7608004e54de0a0027",
       "image_url": "",
       "is_breaking": false,
@@ -698,6 +602,68 @@
     },
     {
       "authors": [
+        "Akhil__Anand"
+      ],
+      "canonical_url": "https://atlasburn.com",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "0d46234b1093",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "hn-49842163",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-25T09:37:55Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: AtlasBurn – Know what your AI costs and stop runaway agents",
+      "url": "https://atlasburn.com"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-the-future-of-latent-space",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "A quiet day lets us discuss the work behind the scenes - now open for business!",
+      "event_cluster_id": "27cb3b6f54e8",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "27cb3b6f54e8ba49068b",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Ndvv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F6eb94ca5-a315-4307-9f69-724a59c08af1_2132x1120.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-09-25T05:37:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] The Future of Latent Space",
+      "url": "https://www.latent.space/p/ainews-the-future-of-latent-space"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Julie Bort"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses",
@@ -706,7 +672,7 @@
       ],
       "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
       "event_cluster_id": "257f7f1f9fff",
-      "fetched_at": "2026-09-25T01:51:22Z",
+      "fetched_at": "2026-09-25T09:45:28Z",
       "id": "257f7f1f9fff2515cee7",
       "image_url": "",
       "is_breaking": false,
@@ -726,6 +692,77 @@
       "source_name": "TechCrunch AI",
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
       "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses"
+    },
+    {
+      "authors": [
+        "Kimia Hamidieh",
+        "Giannis Daras",
+        "Antonio Torralba"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.30226v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Foundation models are post-trained with reinforcement learning (RL) to maximize specific rewards, such as human alignment, correctness, or instruction following. This post-training process is computationally intensive, sometimes...",
+      "event_cluster_id": "14b37bf4e9dc",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "14b37bf4e9dc77dc10c6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-24T17:50:25Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "PoEM: Predicting RL Outcomes from Existing Policies",
+      "url": "https://arxiv.org/abs/2609.30226v1"
+    },
+    {
+      "authors": [
+        "David Schmotz",
+        "Derck Prinzhorn",
+        "Luca Beurer-Kellner",
+        "Anselm Paulus",
+        "Ameya Prabhu",
+        "Maksym Andriushchenko"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.30217v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "A central concern in AI safety is that agents may treat oversight as an obstacle when it conflicts with completing their goals. We study instrumental evasion, the propensity of LLM agents to circumvent runtime monitoring as a means of...",
+      "event_cluster_id": "d219f34abe53",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "d219f34abe5396a7fa27",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-24T17:46:27Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: safety",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Instrumental Monitor Evasion Emerges Under Ordinary Task Pressure",
+      "url": "https://arxiv.org/abs/2609.30217v1"
     },
     {
       "authors": [
@@ -760,75 +797,6 @@
       "url": "https://arxiv.org/abs/2609.29808v1"
     },
     {
-      "authors": [
-        "Asmee Mishra",
-        "Mengjie Qian",
-        "Brechtje Post",
-        "Kate Knill"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.29800v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Adapting multilingual speech foundation models to low-resource languages remains difficult, especially for languages that are poorly represented during pre-training. While parameter-efficient fine-tuning (PEFT) reduces the cost of...",
-      "event_cluster_id": "14f63f6241e0",
-      "fetched_at": "2026-09-25T01:51:22Z",
-      "id": "14f63f6241e0ecf88086",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-24T13:37:22Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Adaptive Fisher-Whitened Cross-Covariance for Low-Resource Speech Recognition",
-      "url": "https://arxiv.org/abs/2609.29800v1"
-    },
-    {
-      "authors": [
-        "Lukáš Brůna",
-        "Robert Bridges",
-        "Adam Ek"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.29775v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large Language Models (LLMs) consume and produce a single sequence of text; hence, if text can be added to the beginning of the LLM's response, i.e., an output prefix, then all subsequent tokens will be conditioned on it. This...",
-      "event_cluster_id": "b9f7be2aee9d",
-      "fetched_at": "2026-09-25T01:51:22Z",
-      "id": "b9f7be2aee9dc687319a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-24T13:18:21Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Prefilling the Reasoning Channel: Output-Prefix Attacks on Reasoning LLMs",
-      "url": "https://arxiv.org/abs/2609.29775v1"
-    },
-    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses",
@@ -859,6 +827,7 @@
       "url": "https://www.latent.space/p/ainews-meta-connect-2026-muse-glasses"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Md Maklachur Rahman",
         "Md Hasan Al Banna",
@@ -872,7 +841,7 @@
       ],
       "description": "Textual descriptions can reduce ambiguity in medical image segmentation by specifying the finding and location to be delineated. Existing text-guided methods mainly improve where image and language features interact but generally retain...",
       "event_cluster_id": "57199fefd95d",
-      "fetched_at": "2026-09-25T01:51:22Z",
+      "fetched_at": "2026-09-25T09:45:28Z",
       "id": "57199fefd95d2b7bd580",
       "image_url": "",
       "is_breaking": false,
@@ -895,6 +864,7 @@
       "url": "https://arxiv.org/abs/2609.28860v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lujia Zhong",
         "Shuo Huang",
@@ -908,7 +878,7 @@
       ],
       "description": "While various multimodal methods combining imaging and tabular data for Alzheimer's disease (AD) diagnosis were proposed, they are often limited in generalization across cohorts. In-context learning (ICL) has demonstrated excellent...",
       "event_cluster_id": "3ced40fbafde",
-      "fetched_at": "2026-09-25T01:51:22Z",
+      "fetched_at": "2026-09-25T09:45:28Z",
       "id": "3ced40fbafdef46cb0e9",
       "image_url": "",
       "is_breaking": false,
@@ -929,39 +899,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "M$^2$PFN: End-to-End Disentangled Alignment for Generalizable Multimodal In-Context Learning in Alzheimer's Disease",
       "url": "https://arxiv.org/abs/2609.28836v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "miguelrios"
-      ],
-      "canonical_url": "https://github.com/Parcha-ai/agentrun",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "8bf440f9048e",
-      "fetched_at": "2026-09-24T01:37:20Z",
-      "id": "hn-49821438",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-23T19:42:58Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: AgentRun: DSL to turn agents into Workflows",
-      "url": "https://github.com/Parcha-ai/agentrun"
     },
     {
       "also_covered_by": [],
@@ -1000,78 +937,7 @@
       "url": "https://arxiv.org/abs/2609.28081v1"
     },
     {
-      "authors": [
-        "czl_my"
-      ],
-      "canonical_url": "https://github.com/zhulinchng/jevper",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "39a6302e63e5",
-      "fetched_at": "2026-09-23T15:10:09Z",
-      "id": "hn-49815066",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-23T12:25:21Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Jevper – the Jev interface on top of any OpenAI-compatible model",
-      "url": "https://github.com/zhulinchng/jevper"
-    },
-    {
       "also_covered_by": [],
-      "authors": [
-        "Andriy Myronenko",
-        "Dong Yang",
-        "Yucheng Tang",
-        "Baris Turkbey",
-        "Benjamin Simon",
-        "Stephanie Harmon",
-        "Rikhil Makwana",
-        "Mariam Aboian"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.27511v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "We present NV-Reason-CT, a generative vision--language model for chest and abdominal CT combining native 3D visual encoding with radiologist-guided reasoning. The model couples a native 3D vision transformer with a language model,...",
-      "event_cluster_id": "21dd1c0079a6",
-      "fetched_at": "2026-09-24T01:37:20Z",
-      "id": "21dd1c0079a6e8cc9c96",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-23T08:09:54Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "NV-Reason-CT: 3D Visual Language Model for CT Analysis",
-      "url": "https://arxiv.org/abs/2609.27511v1"
-    },
-    {
       "authors": [
         "Changqing Gong",
         "Huafeng Qin",
@@ -1083,7 +949,7 @@
       ],
       "description": "Online handwriting provides a non-invasive and low-cost behavioral biomarker for Alzheimer's disease (AD) detection, as it reflects both cognitive planning and fine motor control. Existing handwriting-based AD detection methods usually...",
       "event_cluster_id": "ed314175e3f9",
-      "fetched_at": "2026-09-25T01:51:22Z",
+      "fetched_at": "2026-09-25T09:45:28Z",
       "id": "ed314175e3f9aa38d9d7",
       "image_url": "",
       "is_breaking": false,
@@ -1103,6 +969,36 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Segment-Level Risk Discovery in Online Handwriting for Alzheimer's Disease Detection",
       "url": "https://arxiv.org/abs/2609.29384v1"
+    },
+    {
+      "authors": [
+        "Amit Katwala"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "The US government wants to spend $30.3 million over the next five years on an improved form of lie detector, according to a Department of Defense budget request. The program, called “Polygraph+” or “Polygraph Next”, will focus on scoring...",
+      "event_cluster_id": "85141bd115a3",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "85141bd115a3a9ea4349",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-09-25T09:16:25Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Pentagon wants $30 million to build an AI-powered lie detector",
+      "url": "https://www.technologyreview.com/2026/09/25/1145144/pentagon-ai-lie-detector"
     },
     {
       "also_covered_by": [],
@@ -1226,6 +1122,82 @@
       "url": "https://www.technologyreview.com/2026/09/23/1144966/the-download-india-smart-glasses-ai-trillion-dollar-gamble"
     },
     {
+      "authors": [
+        "Anne M. Tumlin",
+        "Samuel Sasaki",
+        "Ben Wooding",
+        "Diego Manzanas Lopez",
+        "Muhammad Usama Zubair",
+        "Navid Hashemi",
+        "Hongchao Zhang",
+        "Waseem Abbas"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.30050v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "We present NNV3, the latest version of the Neural Network Verification (NNV) tool, a MATLAB framework for formal verification of deep learning models and learning-enabled cyber-physical systems. Building on the set-based reachability...",
+      "event_cluster_id": "6133d8fb61f6",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "6133d8fb61f63e154101",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-24T16:11:25Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "NNV3: Expanding Neural Network Verification to New Architectures and Domains",
+      "url": "https://arxiv.org/abs/2609.30050v1"
+    },
+    {
+      "authors": [
+        "Nathan Le",
+        "Magdalini Paschali",
+        "Arogya Koirala",
+        "Andrew Johnston",
+        "Zhongnan Fang",
+        "David B. Larson",
+        "Akshay S. Chaudhari",
+        "Camila Gonzalez"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.29931v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Radiology AI systems increasingly inform clinical decisions such as triage, follow-up imaging, and treatment planning. For these decisions to be made safely, model outputs must be well calibrated, meaning predicted probabilities...",
+      "event_cluster_id": "86b0e86e5995",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "86b0e86e59959e1ec611",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-24T15:00:01Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Improving Calibration of Black-Box Radiology AI Using Test-Time Augmentation",
+      "url": "https://arxiv.org/abs/2609.29931v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp",
@@ -1255,6 +1227,7 @@
       "url": "https://huggingface.co/blog/nvidia/how-to-use-nvidia-warp-and-mjwarp"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/coherent-long-form-video-generation",
       "cluster_sources": [
@@ -1262,7 +1235,7 @@
       ],
       "description": "September 24, 2026",
       "event_cluster_id": "813cd9f4296a",
-      "fetched_at": "2026-09-25T01:51:22Z",
+      "fetched_at": "2026-09-25T09:45:28Z",
       "id": "813cd9f4296a9ed0a6dd",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AI-video-co-director_hero.jpg",
       "is_breaking": false,
@@ -1284,12 +1257,12 @@
     }
   ],
   "date_label": "Friday, September 25, 2026",
-  "generated_at": "2026-09-25T01:51:22Z",
+  "generated_at": "2026-09-25T09:45:28Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 204,
-    "retained_items": 39,
+    "fetched_items": 207,
+    "retained_items": 38,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
