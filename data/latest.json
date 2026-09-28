@@ -286,6 +286,68 @@
     },
     {
       "authors": [
+        "Anis_FA"
+      ],
+      "canonical_url": "https://github.com/apowerb/apowerb",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "247637418d47",
+      "fetched_at": "2026-09-25T09:45:28Z",
+      "id": "hn-49841997",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-25T09:12:30Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent, RAG",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Apowerb, the open-source AI agent runtime (RAG, Text-to-SQL, webhooks)",
+      "url": "https://github.com/apowerb/apowerb"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\"..",
+      "event_cluster_id": "c22628e02ed9",
+      "fetched_at": "2026-09-28T11:10:36Z",
+      "id": "c22628e02ed9c965bae2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-28T04:01:30Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Muse AI Agent",
+      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent"
+    },
+    {
+      "authors": [
         "Xinyue Wang",
         "Jiacheng Pang",
         "Kun Zhou",
@@ -358,6 +420,70 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "Shopping by algorithm: How agentic AI deploys human heuristics as a surrogate consumer",
       "url": "https://arxiv.org/abs/2609.28372v1"
+    },
+    {
+      "also_covered_by": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "authors": [
+        "joozio"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "b4a8a140e104",
+      "fetched_at": "2026-09-28T11:10:36Z",
+      "id": "hn-49876144",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-28T11:01:39Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "covered by multiple configured sources"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Who's liable when AI agents go rogue?",
+      "url": "https://www.technologyreview.com/2026/09/28/1145197/whos-liable-when-ai-agents-go-rogue"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/Hcompany/holo4",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "09d1d26fa19d",
+      "fetched_at": "2026-09-28T11:10:36Z",
+      "id": "09d1d26fa19dd694ec40",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-28T09:44:05Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Holo4: powering generalist computer-use agents",
+      "url": "https://huggingface.co/blog/Hcompany/holo4"
     },
     {
       "also_covered_by": [
@@ -523,38 +649,7 @@
       "url": "https://techcrunch.com/2026/09/22/everyone-can-find-a-reason-to-dislike-data-center-construction"
     },
     {
-      "authors": [
-        "charangan"
-      ],
-      "canonical_url": "https://github.com/Chaarangan/stepgate",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "2f34d6be5a5e",
-      "fetched_at": "2026-09-28T01:56:55Z",
-      "id": "hn-49872350",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-28T00:57:31Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Stepgate – AI agents that can't skip steps, in one portable file",
-      "url": "https://github.com/Chaarangan/stepgate"
-    },
-    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/27/2026-in-llms-so-far",
       "cluster_sources": [
@@ -615,6 +710,7 @@
       "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -645,6 +741,7 @@
       "url": "https://techcrunch.com/2026/09/27/anthropics-ceo-is-about-to-have-dinner-with-president-trump"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -675,6 +772,7 @@
       "url": "https://techcrunch.com/2026/09/27/can-muse-overcome-metas-trust-issues"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -684,7 +782,7 @@
       ],
       "description": "\"AI is the devil and I its maker.\"",
       "event_cluster_id": "a776633a7f7c",
-      "fetched_at": "2026-09-28T01:56:55Z",
+      "fetched_at": "2026-09-28T11:10:36Z",
       "id": "a776633a7f7c7026cb15",
       "image_url": "",
       "is_breaking": false,
@@ -706,12 +804,12 @@
     }
   ],
   "date_label": "Monday, September 28, 2026",
-  "generated_at": "2026-09-28T01:56:55Z",
+  "generated_at": "2026-09-28T11:10:36Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 204,
-    "retained_items": 21,
+    "fetched_items": 205,
+    "retained_items": 24,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
