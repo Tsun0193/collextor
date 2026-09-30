@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Chu Zhang",
         "Haoyu Jiang",
@@ -14,10 +15,10 @@
       ],
       "description": "The rapid expansion of large-scale medical datasets and computational resources has driven significant progress in medical foundation models. Given the inherent heterogeneity of medical imaging modalities, current research mainly follows...",
       "event_cluster_id": "54f161d310d5",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "54f161d310d59f88e60e",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-09-29T14:30:37Z",
@@ -141,6 +142,38 @@
       "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "the most confident DevDay yet.",
+      "event_cluster_id": "3439063e9fd7",
+      "fetched_at": "2026-09-30T10:41:10Z",
+      "id": "3439063e9fd745f73599",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/GjN3xLDuc8o",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-09-30T05:53:10Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: API",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] OpenAI DevDay 2026: Dots, 6.1 Sol, Ultrafast, Decisions API, Agents API, Spaces, Marketplace, and 1.2 Billion ChatGPT WAU",
+      "url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -150,10 +183,10 @@
       ],
       "description": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
       "event_cluster_id": "e2a232be530f",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "e2a232be530f75b6fb8c",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-09-29T17:45:51Z",
@@ -173,6 +206,7 @@
       "url": "https://techcrunch.com/2026/09/29/openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpts-own-office-suite"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -182,10 +216,10 @@
       ],
       "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
       "event_cluster_id": "e6349844de06",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "e6349844de066b99700b",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-09-29T17:17:15Z",
@@ -279,6 +313,39 @@
     },
     {
       "authors": [
+        "agusdiazcano"
+      ],
+      "canonical_url": "https://github.com/agustindiazcano/afaw-anti-fragile-agentic-workflow",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "be89b144042c",
+      "fetched_at": "2026-09-30T10:41:10Z",
+      "id": "hn-49906916",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-30T10:31:25Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: AFAW – A multi-agent coding workflow that doesn't trust the model",
+      "url": "https://github.com/agustindiazcano/afaw-anti-fragile-agentic-workflow"
+    },
+    {
+      "authors": [
         "linuztx"
       ],
       "canonical_url": "https://github.com/linuztx/alter-zero",
@@ -311,6 +378,7 @@
       "url": "https://github.com/linuztx/alter-zero"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team",
       "cluster_sources": [
@@ -340,6 +408,7 @@
       "url": "https://simonwillison.net/2026/Sep/29/anthropic-frontier-red-team"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -349,7 +418,7 @@
       ],
       "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
       "event_cluster_id": "bdf8116cd7d5",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "bdf8116cd7d58ff745bf",
       "image_url": "",
       "is_breaking": false,
@@ -470,83 +539,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Hangyul Yoon",
-        "Hyungyung Lee",
-        "Edward Choi",
-        "Eunho Yang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.34479v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Vision-language (VL) pretraining using paired chest X-ray (CXR) images and radiology reports has shown strong potential for medical image understanding. However, existing methods often remain dependent on task-specific finetuning because...",
-      "event_cluster_id": "f7d9eab9c686",
-      "fetched_at": "2026-09-30T02:19:52Z",
-      "id": "f7d9eab9c6868dd2a813",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-28T07:33:10Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: training",
-        "research relevance: medical image",
-        "technical relevance: vision-language"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for Multi-Task Zero-Shot Chest X-Ray Analysis",
-      "url": "https://arxiv.org/abs/2609.34479v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Xiaoye Liang",
-        "Ye Yan",
-        "Mingze Yin",
-        "Shikun Feng",
-        "Mai Xu",
-        "Haiguang Liu",
-        "Lai Jiang",
-        "Yiheng Zhu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.34235v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical image segmentation remains challenging in practical deployment, as models often struggle to generalize beyond the distributions covered by their training data and high-quality pixel-level annotations are typically unavailable for...",
-      "event_cluster_id": "74e7447463fa",
-      "fetched_at": "2026-09-30T02:19:52Z",
-      "id": "74e7447463fa720b07c9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-28T03:39:36Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model, training",
-        "research relevance: medical image",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "SegBanana: Steering Unified Multimodal Models into Medical Segmenters",
-      "url": "https://arxiv.org/abs/2609.34235v1"
-    },
-    {
-      "authors": [
         "Prathamesh Pradeep Khole",
         "Shreya Handa",
         "Utkarsh Gupta",
@@ -613,36 +605,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Bad news on the MX Keys Mini pickup. Usman showed up at your building around 9:15 and waited, messaged a bunch of times, and nobody came down. He left angry at 9:38 and left a negative rating. Worse, my auto-reply told him \"Yep I'm here!\"..",
-      "event_cluster_id": "c22628e02ed9",
-      "fetched_at": "2026-09-29T02:42:14Z",
-      "id": "c22628e02ed9c965bae2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-28T04:01:30Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Muse AI Agent",
-      "url": "https://simonwillison.net/2026/Sep/28/muse-ai-agent"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
       "canonical_url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
       "cluster_sources": [
         "Hugging Face Blog"
@@ -669,38 +631,6 @@
       "source_name": "Hugging Face Blog",
       "title": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
       "url": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source"
-    },
-    {
-      "authors": [
-        "nicowaltz"
-      ],
-      "canonical_url": "https://github.com/PostHog/jeeves",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "4b32c24d2dbc",
-      "fetched_at": "2026-09-29T16:36:59Z",
-      "id": "hn-49891290",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-29T11:13:54Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Jeeves. Reasoning improves Jev-like decision models",
-      "url": "https://github.com/PostHog/jeeves"
     },
     {
       "also_covered_by": [],
@@ -768,36 +698,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/Hcompany/holo4",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "09d1d26fa19d",
-      "fetched_at": "2026-09-28T11:10:36Z",
-      "id": "09d1d26fa19dd694ec40",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-28T09:44:05Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Holo4: powering generalist computer-use agents",
-      "url": "https://huggingface.co/blog/Hcompany/holo4"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Kirsten Korosec"
       ],
@@ -861,6 +761,7 @@
       "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jaewoo Jung",
         "Hyeonseo Yu",
@@ -877,7 +778,7 @@
       ],
       "description": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across...",
       "event_cluster_id": "b6ad1dd62c74",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "b6ad1dd62c741e2378d2",
       "image_url": "",
       "is_breaking": false,
@@ -900,6 +801,7 @@
       "url": "https://arxiv.org/abs/2609.38177v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Paras Dahal",
         "Anton Bakhtin",
@@ -916,7 +818,7 @@
       ],
       "description": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop....",
       "event_cluster_id": "7b3569de6706",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "7b3569de6706b7a4065b",
       "image_url": "",
       "is_breaking": false,
@@ -939,6 +841,7 @@
       "url": "https://arxiv.org/abs/2609.38147v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Cheng Qian",
         "Kunlun Zhu",
@@ -952,7 +855,7 @@
       ],
       "description": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models' weights...",
       "event_cluster_id": "1afe69dfed86",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "1afe69dfed86f9a69208",
       "image_url": "",
       "is_breaking": false,
@@ -975,6 +878,7 @@
       "url": "https://arxiv.org/abs/2609.38143v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Quang Hieu Pham",
         "Thuy Duong Nguyen",
@@ -987,7 +891,7 @@
       ],
       "description": "Language-model (LM) harnesses enable LMs to operate effectively over long contexts using additional compute. However, existing long-context evaluations are insufficient for distinguishing modern harnesses, reflected by saturated accuracy...",
       "event_cluster_id": "152f8dea5cc2",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "152f8dea5cc2585ebad4",
       "image_url": "",
       "is_breaking": false,
@@ -1010,6 +914,7 @@
       "url": "https://arxiv.org/abs/2609.38137v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ruoyu Lin",
         "Magnus Egerstedt",
@@ -1021,7 +926,7 @@
       ],
       "description": "Generative modeling is widely used for producing diverse objects from complex, multimodal distributions. However, its expressivity does not, in general, come with formal guarantees that the generated objects satisfy hard constraints or...",
       "event_cluster_id": "7af6b0b6d8dd",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "7af6b0b6d8dd51b46bc6",
       "image_url": "",
       "is_breaking": false,
@@ -1044,6 +949,7 @@
       "url": "https://arxiv.org/abs/2609.38133v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Hongzhu Guo",
         "Mohsen Fayyaz",
@@ -1055,7 +961,7 @@
       ],
       "description": "Vision-language models (VLMs) may accept false visual premises, answering questions about a target object's color, count, location, or state even when it is absent. We call this reliability-critical behavior a target-absence grounding...",
       "event_cluster_id": "3b2a3c59f4a2",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "3b2a3c59f4a2933cae47",
       "image_url": "",
       "is_breaking": false,
@@ -1141,39 +1047,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Saeid Firouzi Daghigh",
-        "Saeed Ayat"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.34520v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Deep learning models for Alzheimer disease (AD) classification routinely report near-perfect discrimination, yet few are shown to rest on AD-relevant neurobiology rather than on dataset artifacts, subject-level leakage, or non-brain...",
-      "event_cluster_id": "7d80c5061fec",
-      "fetched_at": "2026-09-30T02:19:52Z",
-      "id": "7d80c5061fecc4bc6d88",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-28T07:56:43Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: Alzheimer, MRI, PET"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Evidence Before Accuracy: A MRI-PET Fusion Network for Alzheimer Disease Classification with Causal Regional Validation",
-      "url": "https://arxiv.org/abs/2609.34520v1"
-    },
-    {
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog",
       "cluster_sources": [
@@ -1181,7 +1054,7 @@
       ],
       "description": "I'm at OpenAI DevDay today, in Fort Mason, San Francisco. Same as last year I'll be live blogging the keynote and some other notes during the day. OpenAI gave me a free ticket and a seat in the \"creator\" area for the keynote. Tags: ai ,...",
       "event_cluster_id": "0dc9ce3083b6",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "0dc9ce3083b6cf682baf",
       "image_url": "",
       "is_breaking": false,
@@ -1200,6 +1073,45 @@
       "source_name": "Simon Willison",
       "title": "OpenAI DevDay 2026 live blog",
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Jesse Phitidis",
+        "William N. Whiteley",
+        "Joanna M. Wardlaw",
+        "Miguel O. Bernabeu",
+        "Yajun Cheng",
+        "Xiaodi Liu",
+        "Junfang Zhang",
+        "Una Clancy"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.37387v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Enlarged perivascular spaces (PVS) visible in brain magnetic resonance imaging (MRI) are increasingly thought to be linked to poor brain health. PVS are elongated structures of less than 3 mm in diameter and can be numerous. To reflect...",
+      "event_cluster_id": "884cf3c2edbb",
+      "fetched_at": "2026-09-30T10:41:10Z",
+      "id": "884cf3c2edbb7ba3b094",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-29T12:34:15Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: MRI"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Multi-task learning for the automatic grading of enlarged perivascular space burden using MRI",
+      "url": "https://arxiv.org/abs/2609.37387v1"
     },
     {
       "also_covered_by": [],
@@ -1323,6 +1235,40 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Eric Ming Chen",
+        "Jin Woo Lee",
+        "Vincent Sitzmann"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.36737v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "The vocal tract is the region of the human body responsible for filtering one's voice to create speech. In this paper, we present a differentiable and GPU accelerated acoustic simulator for the vocal tract. The differentiable simulator...",
+      "event_cluster_id": "5d4beb77efbd",
+      "fetched_at": "2026-09-30T02:19:52Z",
+      "id": "5d4beb77efbd2025bcae",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-29T05:11:04Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: GPU"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Reconstructing the Vocal Tract with Differentiable Acoustic Simulation",
+      "url": "https://arxiv.org/abs/2609.36737v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
       "cluster_sources": [
@@ -1352,6 +1298,39 @@
       "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Mohammad Sadegh Sirjani"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.36134v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Functional Kolmogorov-Arnold Networks (FunKAN) achieve state-of-the-art accuracy on MRI Gibbs artifact removal and anatomical segmentation, but their 11.6 M parameters and 8.7 GFLOPs are too large for edge medical devices. We present...",
+      "event_cluster_id": "e1fd92e6a5ae",
+      "fetched_at": "2026-09-30T10:41:10Z",
+      "id": "e1fd92e6a5ae1d9f8ab8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-28T19:08:15Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: MRI, medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Hardware-Aware Functional Kolmogorov-Arnold Networks for Efficient Medical Image Enhancement and Segmentation",
+      "url": "https://arxiv.org/abs/2609.36134v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation",
       "cluster_sources": [
@@ -1359,7 +1338,7 @@
       ],
       "description": "September 29, 2026",
       "event_cluster_id": "b05df22ee898",
-      "fetched_at": "2026-09-30T02:19:52Z",
+      "fetched_at": "2026-09-30T10:41:10Z",
       "id": "b05df22ee898887491f1",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
       "is_breaking": false,
@@ -1381,13 +1360,13 @@
     }
   ],
   "date_label": "Wednesday, September 30, 2026",
-  "generated_at": "2026-09-30T02:19:52Z",
+  "generated_at": "2026-09-30T10:41:10Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 1,
-    "fetched_items": 204,
-    "retained_items": 42,
-    "successful_sources": 20
+    "failed_sources": 2,
+    "fetched_items": 195,
+    "retained_items": 41,
+    "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
 }
