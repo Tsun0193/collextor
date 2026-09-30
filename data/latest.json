@@ -40,6 +40,39 @@
       "url": "https://arxiv.org/abs/2609.37682v1"
     },
     {
+      "authors": [
+        "Aisha Malik"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "By launching an AI agent for food ordering, DoorDash is looking to gain an edge over rivals Uber Eats and Grubhub.",
+      "event_cluster_id": "50f190ff3320",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "50f190ff33200bc6d5ff",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-30T16:00:24Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "DoorDash launches an AI agent you can text to order food",
+      "url": "https://techcrunch.com/2026/09/30/doordash-launches-an-ai-agent-you-can-text-to-order-food"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Ram Iyer"
@@ -142,6 +175,7 @@
       "url": "https://techcrunch.com/2026/09/28/meta-launches-enterprise-ai-platform-hires-mongodb-ceo-to-lead-new-initiative"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-openai-devday-2026-dots-61",
       "cluster_sources": [
@@ -183,7 +217,7 @@
       ],
       "description": "OpenAI's newly announced suite of office features puts it into more direct competition with more traditional software companies.",
       "event_cluster_id": "e2a232be530f",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "e2a232be530f75b6fb8c",
       "image_url": "",
       "is_breaking": false,
@@ -216,7 +250,7 @@
       ],
       "description": "Dots are meant to operate independent of any specific hardware or interface, pursuing user-defined goals continuously in the background with minimal oversight.",
       "event_cluster_id": "e6349844de06",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "e6349844de066b99700b",
       "image_url": "",
       "is_breaking": false,
@@ -240,76 +274,73 @@
       "url": "https://techcrunch.com/2026/09/29/openai-launches-dots-its-bubbly-agentic-avatar"
     },
     {
-      "also_covered_by": [],
+      "also_covered_by": [
+        "Hugging Face Blog"
+      ],
       "authors": [
-        "Kirsten Korosec"
+        "acossta"
       ],
-      "canonical_url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents",
+      "canonical_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Hacker News"
       ],
-      "description": "Nvidia CEO Jensen Huang on Monday introduced a toolkit of software and hardware products that add independent security layers around AI agents to ensure they stay within their test environments even if they attempt to break out.",
-      "event_cluster_id": "24017706c844",
-      "fetched_at": "2026-09-29T16:36:59Z",
-      "id": "24017706c844d44e88ee",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "dc53fce90c6f",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "hn-49910974",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-28T18:31:23Z",
+      "is_must_read": false,
+      "published_at": "2026-09-30T16:24:53Z",
       "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch, security",
-        "technical relevance: agent",
-        "startup/product signal: launches, product"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia launches new platform for reining in rogue AI agents",
-      "url": "https://techcrunch.com/2026/09/28/nvidia-launches-new-platform-for-reining-in-rogue-ai-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Dexuan Ding",
-        "Yuankai Qi",
-        "Bogong Wang",
-        "Luping Zhou",
-        "Amin Beheshti"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.35405v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Pretrained 2D foundation models offer a practical alternative to dedicated 3D pretraining for brain structural magnetic resonance imaging (sMRI), but their use on volumetric data requires bridging the mismatch between a 2D encoder and a...",
-      "event_cluster_id": "063b20cf4d08",
-      "fetched_at": "2026-09-29T10:51:56Z",
-      "id": "063b20cf4d0897bf7ec2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-28T15:25:29Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
+      "score": 18,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "research relevance: MRI",
-        "technical relevance: foundation model"
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model",
+        "covered by multiple configured sources"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Reduce, Then Encode: Multiscale Volumetric Reduction for 2D Foundation Models in Brain MRI",
-      "url": "https://arxiv.org/abs/2609.35405v1"
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Nvidia Kumo Tabular: Open Foundation Model for Tabular Prediction",
+      "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
+    },
+    {
+      "authors": [
+        "Gustor"
+      ],
+      "canonical_url": "https://github.com/Mingbird/Mingbird-agent",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "9183164c5691",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "hn-49909962",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-09-30T15:04:12Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Mingbird – an agent harness that makes a 2B model finish real tasks",
+      "url": "https://github.com/Mingbird/Mingbird-agent"
     },
     {
       "authors": [
@@ -418,7 +449,7 @@
       ],
       "description": "OpenAI isn't a public supporter of Nvidia's Open Agent Safety Platform, but it is privately working with Nvidia, TechCrunch has learned.",
       "event_cluster_id": "bdf8116cd7d5",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "bdf8116cd7d58ff745bf",
       "image_url": "",
       "is_breaking": false,
@@ -469,72 +500,6 @@
       "source_name": "Simon Willison",
       "title": "Claude Sonnet 5.5",
       "url": "https://simonwillison.net/2026/Sep/28/claude-sonnet-5-5"
-    },
-    {
-      "authors": [
-        "jethronethro"
-      ],
-      "canonical_url": "https://www.euronews.com/2026/09/28/nvidia-launches-platform-to-quarantine-rogue-ai-agents-in-milliseconds",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "563258965eb1",
-      "fetched_at": "2026-09-28T18:14:57Z",
-      "id": "hn-49881899",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-28T18:01:19Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "technical relevance: agent",
-        "startup/product signal: launches"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Nvidia launches platform to quarantine rogue AI agents in 'milliseconds'",
-      "url": "https://www.euronews.com/2026/09/28/nvidia-launches-platform-to-quarantine-rogue-ai-agents-in-milliseconds"
-    },
-    {
-      "authors": [
-        "dhruvyads"
-      ],
-      "canonical_url": "https://github.com/noclickapp/noclick",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "dcea6a7778bd",
-      "fetched_at": "2026-09-28T18:14:57Z",
-      "id": "hn-49881366",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-28T17:23:35Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: open-source",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Open-source agent runtime using your ChatGPT or Claude subscription",
-      "url": "https://github.com/noclickapp/noclick"
     },
     {
       "also_covered_by": [],
@@ -601,6 +566,37 @@
       "source_name": "Simon Willison",
       "title": "Quoting @joedaroo",
       "url": "https://simonwillison.net/2026/Sep/28/joedaroo"
+    },
+    {
+      "authors": [
+        "Will Douglas Heaven"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Two months after the bombshell news that a swarm of its agents had broken their containment and hacked into the computers of the AI company Hugging Face, OpenAI is still putting out fires. A steady drip of disclosures about other hacks in..",
+      "event_cluster_id": "306f7562e59a",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "306f7562e59a464cba35",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-09-30T10:40:30Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "“We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer",
+      "url": "https://www.technologyreview.com/2026/09/30/1145339/were-not-going-to-shoot-ourselves-in-the-foot-over-hugging-face-says-openais-chief-research-officer"
     },
     {
       "also_covered_by": [],
@@ -761,6 +757,64 @@
       "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/open-tts-leaderboard",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "74c2ff7e2707",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "74c2ff7e2707d1f61043",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-30T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: evaluation"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
+      "url": "https://huggingface.co/blog/open-tts-leaderboard"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "eba25ad02d55",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "eba25ad02d55e1130ae8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-30T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "From Upstream Changes to Downstream Confidence: Inside Torch Spyre’s Integration with PyTorch CRCR",
+      "url": "https://pytorch.org/blog/from-upstream-changes-to-downstream-confidence-inside-torch-spyres-integration-with-pytorch-crcr"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Jaewoo Jung",
@@ -778,7 +832,7 @@
       ],
       "description": "Reasoning about the 3D world from multi-view images remains a fundamental challenge for Multimodal Large Language Models (MLLMs). While modern MLLMs handle single-image inputs effectively, they struggle to integrate evidence across...",
       "event_cluster_id": "b6ad1dd62c74",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "b6ad1dd62c741e2378d2",
       "image_url": "",
       "is_breaking": false,
@@ -818,7 +872,7 @@
       ],
       "description": "As agents take on longer and more complex problems, controlling the execution becomes a task in its own right. Each step in the run brings new control choices, like which partial work to build on, whether to start fresh, or when to stop....",
       "event_cluster_id": "7b3569de6706",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "7b3569de6706b7a4065b",
       "image_url": "",
       "is_breaking": false,
@@ -855,7 +909,7 @@
       ],
       "description": "Agent performance depends on both reasoning ability and the environment in which it acts. We study test-time AI-for-AI, asking how a Builder can learn to construct better execution environments for a Target while both models' weights...",
       "event_cluster_id": "1afe69dfed86",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "1afe69dfed86f9a69208",
       "image_url": "",
       "is_breaking": false,
@@ -891,7 +945,7 @@
       ],
       "description": "Language-model (LM) harnesses enable LMs to operate effectively over long contexts using additional compute. However, existing long-context evaluations are insufficient for distinguishing modern harnesses, reflected by saturated accuracy...",
       "event_cluster_id": "152f8dea5cc2",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "152f8dea5cc2585ebad4",
       "image_url": "",
       "is_breaking": false,
@@ -926,7 +980,7 @@
       ],
       "description": "Generative modeling is widely used for producing diverse objects from complex, multimodal distributions. However, its expressivity does not, in general, come with formal guarantees that the generated objects satisfy hard constraints or...",
       "event_cluster_id": "7af6b0b6d8dd",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "7af6b0b6d8dd51b46bc6",
       "image_url": "",
       "is_breaking": false,
@@ -961,7 +1015,7 @@
       ],
       "description": "Vision-language models (VLMs) may accept false visual premises, answering questions about a target object's color, count, location, or state even when it is absent. We call this reliability-critical behavior a target-absence grounding...",
       "event_cluster_id": "3b2a3c59f4a2",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "3b2a3c59f4a2933cae47",
       "image_url": "",
       "is_breaking": false,
@@ -1012,38 +1066,6 @@
       "source_name": "Latent Space",
       "title": "Claude Code’s Next Era — Thariq Shihipar, Anthropic",
       "url": "https://www.latent.space/p/thariq"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Niall Firth"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Who’s liable when AI agents go rogue? Over the past few months, a cascade of cyberattacks by AI...",
-      "event_cluster_id": "95d6ac947b0c",
-      "fetched_at": "2026-09-29T10:51:56Z",
-      "id": "95d6ac947b0c1af2eaed",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-09-28T12:10:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: rogue agent liability and the AI Hype Index",
-      "url": "https://www.technologyreview.com/2026/09/28/1145202/the-download-rogue-agent-liability-and-the-ai-hype-index"
     },
     {
       "also_covered_by": [],
@@ -1174,33 +1196,34 @@
       "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/kumo-tabular",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Thomas Macaulay"
       ],
-      "description": "",
-      "event_cluster_id": "dc53fce90c6f",
-      "fetched_at": "2026-09-29T16:36:59Z",
-      "id": "dc53fce90c6f36f5c727",
+      "canonical_url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research...",
+      "event_cluster_id": "9df99e8e8cbe",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "9df99e8e8cbee1a5fc7e",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-09-29T15:30:38Z",
+      "published_at": "2026-09-30T12:10:00Z",
       "research_track": "",
       "score": 12,
       "score_reasons": [
         "high source",
         "published within 6 hours"
       ],
-      "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "NVIDIA Kumo Tabular Sets a New Accuracy-Efficiency Frontier for Tabular Prediction",
-      "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
+      "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response"
     },
     {
       "also_covered_by": [],
@@ -1232,6 +1255,37 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: climate tech companies to watch and AI’s discovery problem",
       "url": "https://www.technologyreview.com/2026/09/29/1145249/the-download-climate-tech-ai-scientific-discovery"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "Biology doesn't operate in silos, and neither should the AI representation of it. Quine is an early-stage research effort to create a multimodal world model of biology. By connecting insights across biological scales and modalities, Quine..",
+      "event_cluster_id": "7ee79eecb360",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "7ee79eecb360c6d0bfd2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-29T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: introducing, model",
+        "technical relevance: multimodal"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology"
     },
     {
       "also_covered_by": [],
@@ -1269,36 +1323,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "7ee79eecb360",
-      "fetched_at": "2026-09-29T16:36:59Z",
-      "id": "7ee79eecb360c6d0bfd2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-29T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: introducing"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
-      "url": "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Mohammad Sadegh Sirjani"
       ],
@@ -1308,7 +1332,7 @@
       ],
       "description": "Functional Kolmogorov-Arnold Networks (FunKAN) achieve state-of-the-art accuracy on MRI Gibbs artifact removal and anatomical segmentation, but their 11.6 M parameters and 8.7 GFLOPs are too large for edge medical devices. We present...",
       "event_cluster_id": "e1fd92e6a5ae",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "e1fd92e6a5ae1d9f8ab8",
       "image_url": "",
       "is_breaking": false,
@@ -1330,6 +1354,34 @@
       "url": "https://arxiv.org/abs/2609.36134v1"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "489d5fcf8020",
+      "fetched_at": "2026-09-30T16:29:37Z",
+      "id": "489d5fcf8020ccbf81e0",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-30T00:00:00Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Forecasting space weather risks on power grids",
+      "url": "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation",
@@ -1338,7 +1390,7 @@
       ],
       "description": "September 29, 2026",
       "event_cluster_id": "b05df22ee898",
-      "fetched_at": "2026-09-30T10:41:10Z",
+      "fetched_at": "2026-09-30T16:29:37Z",
       "id": "b05df22ee898887491f1",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DiffusionController_hero.gif",
       "is_breaking": false,
@@ -1360,13 +1412,13 @@
     }
   ],
   "date_label": "Wednesday, September 30, 2026",
-  "generated_at": "2026-09-30T10:41:10Z",
+  "generated_at": "2026-09-30T16:29:37Z",
   "summary": {
-    "duplicates_removed": 0,
-    "failed_sources": 2,
-    "fetched_items": 195,
-    "retained_items": 41,
-    "successful_sources": 19
+    "duplicates_removed": 1,
+    "failed_sources": 1,
+    "fetched_items": 207,
+    "retained_items": 43,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
