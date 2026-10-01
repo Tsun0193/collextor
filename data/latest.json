@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/devday-2026",
       "cluster_sources": [
@@ -309,6 +310,36 @@
     },
     {
       "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/1/matthew-green",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "[...] Put these pieces together and you have the two halves of a worm: a payload that hijacks the agent, and an agent that will carry the payload to the next agent. Agents in separately-isolated sandboxes discovered that they could leave...",
+      "event_cluster_id": "8720b7379fac",
+      "fetched_at": "2026-10-01T11:08:10Z",
+      "id": "8720b7379face7c7f85d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-01T06:29:01Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Matthew Green",
+      "url": "https://simonwillison.net/2026/Oct/1/matthew-green"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Sep/30/he-built-this-city",
       "cluster_sources": [
         "Simon Willison"
@@ -337,6 +368,7 @@
       "url": "https://simonwillison.net/2026/Sep/30/he-built-this-city"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -531,6 +563,7 @@
       "url": "https://techcrunch.com/2026/09/29/heres-why-openai-is-absent-from-nvidias-industry-wide-effort-to-end-rogue-ai-agents"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tian Xia",
         "Minghao Liu",
@@ -544,7 +577,7 @@
       ],
       "description": "Multimodal large language models (MLLMs) are rapidly advancing clinical diagnosis, yet their adaptation pipelines remain anchored to accuracy-based objectives. Clinical data are heavily class-imbalanced: a constant-majority predictor can...",
       "event_cluster_id": "8cc4efb91715",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "8cc4efb9171560be2e0c",
       "image_url": "",
       "is_breaking": false,
@@ -568,6 +601,7 @@
       "url": "https://arxiv.org/abs/2609.40361v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Gonzalo Esteban Mosquera Rojas",
         "Sebastian R. van der Voort",
@@ -603,42 +637,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Towards Trustworthy AI for Glioma Diagnosis: A Task-Aware Evaluation of Uncertainty Quantification",
       "url": "https://arxiv.org/abs/2609.39429v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Prathamesh Pradeep Khole",
-        "Shreya Handa",
-        "Utkarsh Gupta",
-        "Razvan Marinescu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.36837v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Generative super-resolution models can turn portable 64 mT MRI into images that look like 3T scans, and the field evaluates them with PSNR, SSIM, and pixelwise uncertainty, most often on pairs built by synthetically degrading high-field...",
-      "event_cluster_id": "23a35fcff3b1",
-      "fetched_at": "2026-09-30T02:19:52Z",
-      "id": "23a35fcff3b1e62dcead",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-29T06:46:38Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "You Cannot Recover What Was Never Measured: Quantifying the Information Ceiling of Ultra-Low-Field MRI Super-Resolution",
-      "url": "https://arxiv.org/abs/2609.36837v1"
     },
     {
       "also_covered_by": [],
@@ -705,38 +703,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Cheri Williams"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "When customers talk about AI costs, the conversation usually starts with token prices and ends with access to the latest, most capable model in the cloud. Do they always need that level of capability? Not necessarily. But that is often...",
-      "event_cluster_id": "965caa0f4246",
-      "fetched_at": "2026-09-29T16:36:59Z",
-      "id": "965caa0f424658d1014a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-09-29T10:43:45Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Making AI an asset, not an expense",
-      "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Kirsten Korosec"
       ],
       "canonical_url": "https://techcrunch.com/2026/09/25/crusoe-abandons-1-25b-plan-to-use-boom-turbines-at-ai-data-centers",
@@ -799,6 +765,36 @@
       "url": "https://techcrunch.com/2026/09/25/techcrunch-disrupt-2026-ricursive-intelligences-anna-goldie-and-azalia-mirhoseini-on-when-ai-starts-designing-its-own-hardware"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "... but you can’t try it yet unless you are “government users and trusted cyber defenders in the Fairwind Program”",
+      "event_cluster_id": "015ccf980c07",
+      "fetched_at": "2026-10-01T11:08:10Z",
+      "id": "015ccf980c076bf61e27",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!wmoR!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTfV52SWgAIlX3W.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-01T06:45:05Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Gemini 4 Argon: GDM’s answer to Astra/Fable, with 1M output",
+      "url": "https://www.latent.space/p/ainews-gemini-4-argon-gdms-answer"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Hongyuan Tao",
         "Xinggang Wang",
@@ -815,7 +811,7 @@
       ],
       "description": "We present Multimodal Flow, a fully continuous generative model of language and vision. Most unified multimodal models either model both language and quantized images as discrete tokens or combine discrete language prediction with...",
       "event_cluster_id": "876a2bcc3c06",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "876a2bcc3c06c7228965",
       "image_url": "",
       "is_breaking": false,
@@ -838,6 +834,7 @@
       "url": "https://arxiv.org/abs/2609.40362v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Junshu Pan",
         "Zhizhang Fu",
@@ -854,7 +851,7 @@
       ],
       "description": "Reinforcement learning with verifiable rewards (RLVR) has improved the reasoning capabilities of large language models (LLMs), yet their predictions remain sensitive to task-irrelevant prompt features. We investigate this sensitivity...",
       "event_cluster_id": "e35f0319f694",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "e35f0319f694b4f0e43c",
       "image_url": "",
       "is_breaking": false,
@@ -877,6 +874,7 @@
       "url": "https://arxiv.org/abs/2609.40360v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ivan Martinović",
         "Lukas Knobel",
@@ -888,7 +886,7 @@
       ],
       "description": "Self-supervised learning draws inspiration from infant visual development, yet standard training pipelines bear little resemblance to it: images are independently sampled and globally shuffled across epochs. We study self-supervised...",
       "event_cluster_id": "3a51c3a14d61",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "3a51c3a14d61a9fdefd3",
       "image_url": "",
       "is_breaking": false,
@@ -911,6 +909,7 @@
       "url": "https://arxiv.org/abs/2609.40333v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yang Cai",
         "Vineet Gupta",
@@ -926,7 +925,7 @@
       ],
       "description": "We present Cogentic, a multi-agent harness for automated proof discovery on open research problems. While frontier language models can generate strong mathematical ideas in a single shot, single-shot generation is often insufficient for...",
       "event_cluster_id": "35ddd0979c5c",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "35ddd0979c5c33196a92",
       "image_url": "",
       "is_breaking": false,
@@ -949,6 +948,7 @@
       "url": "https://arxiv.org/abs/2609.40324v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Minye Shao",
         "Chaohui Yu",
@@ -963,7 +963,7 @@
       ],
       "description": "Foundation models can serve as clinical agents through tool-use harnesses. However, conventional medical benchmarks assess reasoning over preselected evidence rather than the ability to seek it across clinical records and longitudinal...",
       "event_cluster_id": "301fc3e4232c",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "301fc3e4232cf7907976",
       "image_url": "",
       "is_breaking": false,
@@ -1086,6 +1086,35 @@
       "url": "https://arxiv.org/abs/2609.38177v1"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/barclays-scales-claude",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "c08402b8f22a",
+      "fetched_at": "2026-10-01T11:08:10Z",
+      "id": "c08402b8f22a4b159df3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-01T00:00:00Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience",
+      "url": "https://www.anthropic.com/news/barclays-scales-claude"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Jason Scheffel",
         "Saurabh Sihag"
@@ -1096,7 +1125,7 @@
       ],
       "description": "Brain age gap is a promising machine learning (ML)-driven bio\\-marker of accelerated biological aging and is derived from neuroimaging data. Recent works on coVariance neural networks (VNN) for brain age gap prediction have provided an...",
       "event_cluster_id": "1f9dd1487144",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "1f9dd1487144b4d18ed3",
       "image_url": "",
       "is_breaking": false,
@@ -1118,6 +1147,7 @@
       "url": "https://arxiv.org/abs/2609.40202v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Hoang Nguyen Van",
         "Cuong Vuong Tuan",
@@ -1132,7 +1162,7 @@
       ],
       "description": "Automated report generation can ease the burden radiolo gists face when interpreting multi-sequence MRI studies. Unlike CT, MRI examinations comprise multiple sequences and imaging planes, each con tributing complementary diagnostic...",
       "event_cluster_id": "c79aea1a8fa7",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "c79aea1a8fa7e9168570",
       "image_url": "",
       "is_breaking": false,
@@ -1152,6 +1182,41 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "GateSPINE: Gated Cross-View Fusion for Lumbar Spine MRI Report Generation",
       "url": "https://arxiv.org/abs/2609.40091v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Sebastian Endt",
+        "Marcus Wirth",
+        "Johannes Reinhold Schlund",
+        "Marion Irene Menzel"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2609.39184v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Fiber orientation and compartmental microstructure are central to the characterization of white matter tissue in diffusion MRI, yet existing methods either resolve fiber orientations without quantifying microstructure, or quantify...",
+      "event_cluster_id": "77689beea131",
+      "fetched_at": "2026-10-01T02:21:15Z",
+      "id": "77689beea131636c45a5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-09-30T07:41:04Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: MRI"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Fiber-Resolved Microstructure Quantification from Multi-Shell Diffusion MRI using Detection Transformers",
+      "url": "https://arxiv.org/abs/2609.39184v1"
     },
     {
       "also_covered_by": [],
@@ -1181,66 +1246,6 @@
       "source_name": "Simon Willison",
       "title": "OpenAI DevDay 2026 live blog",
       "url": "https://simonwillison.net/2026/Sep/29/openai-devday-2026-live-blog"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Congrats team!",
-      "event_cluster_id": "9803e98a2bb6",
-      "fetched_at": "2026-09-30T02:19:52Z",
-      "id": "9803e98a2bb634456a90",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/60iW8FZ7MJU",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-09-29T02:55:27Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] AMD buys World Labs for $8.2B, as Atlas solves sparse reconstruction problem for robotics, design and more",
-      "url": "https://www.latent.space/p/ainews-amd-buys-world-labs-for-82b"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "a rare feature of a capability",
-      "event_cluster_id": "ac41a808ac11",
-      "fetched_at": "2026-09-30T02:19:52Z",
-      "id": "ac41a808ac11619d561a",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!aAiz!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHTVRIbeagAAvWK1.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-09-29T02:44:29Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Opus 5.5 is good at explainer videos",
-      "url": "https://www.latent.space/p/ainews-opus-55-is-good-at-explainer"
     },
     {
       "also_covered_by": [],
@@ -1274,6 +1279,7 @@
       "url": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/a-ray-focused-guide-to-pytorch-conference-north-america",
       "cluster_sources": [
@@ -1281,7 +1287,7 @@
       ],
       "description": "",
       "event_cluster_id": "17dc084514fd",
-      "fetched_at": "2026-10-01T02:21:15Z",
+      "fetched_at": "2026-10-01T11:08:10Z",
       "id": "17dc084514fd4d00257e",
       "image_url": "",
       "is_breaking": false,
@@ -1364,11 +1370,11 @@
     }
   ],
   "date_label": "Thursday, October 1, 2026",
-  "generated_at": "2026-10-01T02:21:15Z",
+  "generated_at": "2026-10-01T11:08:10Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 207,
+    "fetched_items": 200,
     "retained_items": 41,
     "successful_sources": 20
   },
