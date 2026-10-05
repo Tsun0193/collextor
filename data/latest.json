@@ -258,6 +258,38 @@
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
     },
     {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "AI slop seems to be overwhelming bug bounty programs.",
+      "event_cluster_id": "3b5df735b596",
+      "fetched_at": "2026-10-05T02:20:10Z",
+      "id": "3b5df735b596a6959b14",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-04T20:31:07Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: open source",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google froze its open source bug bounty program due to a ‘significant rise’ in AI submissions",
+      "url": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/3/newsletter",
@@ -286,39 +318,6 @@
       "source_name": "Simon Willison",
       "title": "September sponsors-only newsletter",
       "url": "https://simonwillison.net/2026/Oct/3/newsletter"
-    },
-    {
-      "authors": [
-        "stlhood"
-      ],
-      "canonical_url": "https://television.run",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "f304eaf60b0f",
-      "fetched_at": "2026-10-03T02:17:33Z",
-      "id": "hn-49939817",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-02T23:25:04Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: open source",
-        "technical relevance: agent",
-        "startup/product signal: Show HN, open source"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Television – an open source GUI for your agent harness",
-      "url": "https://television.run"
     },
     {
       "also_covered_by": [],
@@ -382,6 +381,45 @@
       "source_name": "Simon Willison",
       "title": "We're going to need default hard budget caps on pretty much everything",
       "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps"
+    },
+    {
+      "authors": [
+        "Ruihong Shen",
+        "Žiga Kovačič",
+        "Peter Kulits",
+        "Xingrui Wang",
+        "Zizhang Li",
+        "Joshua B. Tenenbaum",
+        "Alan Yuille",
+        "Jieneng Chen"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.03715v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We introduce 4DCodeBench, a benchmark for 4D inverse graphics through code generation, in which agents reconstruct dynamic scenes from video as executable graphics programs. To accomplish this, agents must translate visual observations...",
+      "event_cluster_id": "35a03e12a122",
+      "fetched_at": "2026-10-05T02:20:10Z",
+      "id": "35a03e12a12271c6d3ef",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-02T17:58:49Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "major-event keyword: benchmark",
+        "research relevance: PET",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "url": "https://arxiv.org/abs/2610.03715v1"
     },
     {
       "also_covered_by": [],
@@ -463,6 +501,7 @@
       "url": "https://arxiv.org/abs/2609.40361v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -590,66 +629,66 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Dan Goodin"
+        "moching_ai_dev"
       ],
-      "canonical_url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents",
+      "canonical_url": "https://github.com/moching-ai-dev/moching",
       "cluster_sources": [
-        "Ars Technica AI"
+        "Hacker News"
       ],
-      "description": "Meta says FDA isn't sufficient to Muse reading messages. Apple begs to differ.",
-      "event_cluster_id": "5432f5b94c34",
-      "fetched_at": "2026-10-03T02:17:33Z",
-      "id": "5432f5b94c34f514ec03",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/02/gatekeeping-ai-agents-500x500.jpg",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "86a4c7af9988",
+      "fetched_at": "2026-10-05T02:20:10Z",
+      "id": "hn-49959897",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-02T23:03:16Z",
+      "published_at": "2026-10-05T02:00:19Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Moching – AI desktop agent with 219 built-in tools (Rust)",
+      "url": "https://github.com/moching-ai-dev/moching"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "On Equity, we discussed the Trump administration's attempts to rebrand AI.",
+      "event_cluster_id": "960e033424ed",
+      "fetched_at": "2026-10-05T02:20:10Z",
+      "id": "960e033424ed8fb15991",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-04T20:08:34Z",
+      "research_track": "",
+      "score": 14,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
+        "published within 24 hours",
+        "major-event keyword: safety"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "Apple changes full-disk access permissions to curb abuse from AI agents",
-      "url": "https://arstechnica.com/security/2026/10/apple-changes-full-disk-access-permissions-to-curb-abuse-from-ai-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "MIT Technology Review Insights"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to..",
-      "event_cluster_id": "a95f825e3eeb",
-      "fetched_at": "2026-10-02T16:21:01Z",
-      "id": "a95f825e3eebacb117d8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-02T15:49:04Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Redefining enterprise intelligence with autonomous AI",
-      "url": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai"
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem?",
+      "url": "https://techcrunch.com/2026/10/04/can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem"
     },
     {
       "authors": [
@@ -778,115 +817,15 @@
       "source_name": "Latent Space",
       "title": "[AINews] not much happened today",
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-cee"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Apple says it will add new controls around macOS’s Full Disk Access permission, warning that increasingly capable AI agents make broad access to users’ files, messages, mail, and browsing history riskier.",
-      "event_cluster_id": "b3857f26daab",
-      "fetched_at": "2026-10-03T14:50:52Z",
-      "id": "b3857f26daabd24cdab2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-02T18:11:27Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents",
-      "url": "https://techcrunch.com/2026/10/02/apple-says-its-tightening-macos-full-disk-access-controls-due-to-new-risks-from-ai-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Theresa Loconsolo, Anthony Ha, Sean O'Kane, Kirsten Korosec"
-      ],
-      "canonical_url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "This week, the White House got nearly every major tech CEO in one room — Zuckerberg, Bezos, Musk, and Anthropic’s Dario Amodei among them — to sign an AI safety pledge that President Donald Trump called “morally binding.” Trump also...",
-      "event_cluster_id": "2fcd39b3c3f3",
-      "fetched_at": "2026-10-03T14:50:52Z",
-      "id": "2fcd39b3c3f30cd9992e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-02T17:56:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: safety"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Call it AI, call it Super Intelligence, only 2% of consumers are buying it",
-      "url": "https://techcrunch.com/podcast/call-it-ai-call-it-super-intelligence-only-2-of-consumers-are-buying-it"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Pengfei Li",
-        "Naufal Suryanto",
-        "Sicheng Zhang",
-        "Muzammal Naseer"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.02206v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "LLMs are increasingly applied to cybersecurity workflows, where they are expected to translate analysts' intent into tool invocations. However, existing evaluations focus on knowledge-based assessments or end-to-end agentic tasks, and do...",
-      "event_cluster_id": "cc61231f7447",
-      "fetched_at": "2026-10-02T16:21:01Z",
-      "id": "cc61231f7447ce7b0714",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-01T17:59:55Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark, security",
-        "technical relevance: agent, tool use, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards",
-      "url": "https://arxiv.org/abs/2610.02206v1"
     }
   ],
-  "date_label": "Sunday, October 4, 2026",
-  "generated_at": "2026-10-04T15:28:55Z",
+  "date_label": "Monday, October 5, 2026",
+  "generated_at": "2026-10-05T02:20:10Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
     "fetched_items": 204,
-    "retained_items": 26,
+    "retained_items": 24,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
