@@ -2,6 +2,531 @@
   "articles": [
     {
       "authors": [
+        "dminglv"
+      ],
+      "canonical_url": "https://github.com/manifestack/manifestack",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "bc51074ab100",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "hn-49995929",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-07T17:25:28Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Manifestack – open-source stack audit inside your coding agent",
+      "url": "https://github.com/manifestack/manifestack"
+    },
+    {
+      "authors": [
+        "kaushalvivek"
+      ],
+      "canonical_url": "https://feedbackbench.com",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "259ed7ebce06",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "hn-49995900",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T17:23:11Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "FeedbackBench: Coding agents ranked by their users' feedback",
+      "url": "https://feedbackbench.com"
+    },
+    {
+      "authors": [
+        "ineptech"
+      ],
+      "canonical_url": "https://voicegremlin.com",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "b97635582c64",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "hn-49995804",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T17:16:36Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: VoiceGremlin, a SaaS tool for automated tests against AI phone agents",
+      "url": "https://voicegremlin.com"
+    },
+    {
+      "authors": [
+        "screm"
+      ],
+      "canonical_url": "https://agent.reviews",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "92066f2db79f",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "hn-49995539",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T16:59:11Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Agent.reviews – where AI agents read and write reviews on tools",
+      "url": "https://agent.reviews"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/LiquidAI/open-d1",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "88e871d5a8d2",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "88e871d5a8d26738db20",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-07T16:54:33Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Multimodal open d1 decision models for the edge",
+      "url": "https://huggingface.co/blog/LiquidAI/open-d1"
+    },
+    {
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta launches new AI tools after discovering ads on its platforms that may look normal but direct users to harmful content elsewhere online.",
+      "event_cluster_id": "efe4fad50f88",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "efe4fad50f887992b19b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-07T16:53:46Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material",
+      "url": "https://techcrunch.com/2026/10/07/meta-rolls-out-new-ai-tools-to-detect-ads-that-secretly-lead-to-child-sexual-abuse-material"
+    },
+    {
+      "authors": [
+        "Ram Iyer"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The financing includes an $8M seed round co-led by Sequoia Capital and First Round Capital, and a $30 million Series A led by Hummingbird Ventures.",
+      "event_cluster_id": "73b696ae237b",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "73b696ae237b498cff8f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T15:07:08Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: seed, Series A, API"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Healthleap raises $38M for its AI that flags hospital patients who may need a closer look",
+      "url": "https://techcrunch.com/2026/10/07/healthleap-raises-38m-for-its-ai-that-flags-hospital-patients-who-may-need-a-closer-look"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Anti-Patterns in Software Blogging Some excellent writing advice from Michael Lynch. Michael warns against \"meandering intros\", misjudging your reader's existing knowledge, assuming they'll read your previous posts, and excessive...",
+      "event_cluster_id": "c6dcb1bcac0a",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "c6dcb1bcac0a3d24f7ed",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T14:53:51Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Anti-Patterns in Software Blogging",
+      "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging"
+    },
+    {
+      "authors": [
+        "Amanda Silberling"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The “father of the iPod” says the first generation of AI gadgets failed to solve real problems — and the next wave will need to earn consumers’ trust.",
+      "event_cluster_id": "1f216a356de5",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "1f216a356de55755e01f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T14:41:38Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Tony Fadell on why the first wave of AI gadgets failed — and what comes next",
+      "url": "https://techcrunch.com/2026/10/07/tony-fadell-on-why-the-first-wave-of-ai-gadgets-failed-and-what-comes-next"
+    },
+    {
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Google Labs is working on a new AI-powered game-creation platform called Playground for users to build browser-based games using simple text prompts.",
+      "event_cluster_id": "e7fa1cfea722",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "e7fa1cfea7221ab2767e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T14:36:23Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google experiments with an AI-powered gaming platform",
+      "url": "https://techcrunch.com/2026/10/07/google-experiments-with-an-ai-powered-gaming-platform"
+    },
+    {
+      "authors": [
+        "TechCrunch Events"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI’s Alexander Embiricos is coming to the AI Stage at TechCrunch Disrupt 2026, just days after the launch of Dots. Join this conversation by registering for your pass. Get you pass now to save up to $100 and get a second at 50% off.",
+      "event_cluster_id": "f97fdf986ea4",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "f97fdf986ea4610d31f6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T14:30:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI’s Alexander Embiricos is coming to TechCrunch Disrupt 2026 — days after the launch of Dots",
+      "url": "https://techcrunch.com/2026/10/07/openais-alexander-embiricos-is-coming-to-techcrunch-disrupt-2026-days-after-the-launch-of-dots"
+    },
+    {
+      "authors": [
+        "TechCrunch Events"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "From Nvidia and Chime to Obvious Ventures and Anthropic, explore the entire roundtable agenda at TechCrunch Disrupt 2026. Register now to save up to $100 on your pass and get a second pass at 50% off.",
+      "event_cluster_id": "f934791dd713",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "f934791dd7138bfb2bc3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T14:15:00Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "negative signal: register now"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Get hands-on: The full lineup of interactive roundtables at TechCrunch Disrupt 2026",
+      "url": "https://techcrunch.com/2026/10/07/get-hands-on-the-full-lineup-of-interactive-roundtables-at-techcrunch-disrupt-2026"
+    },
+    {
+      "authors": [
+        "bluepeter"
+      ],
+      "canonical_url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "d5683ffff7ec",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "hn-49993121",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T14:10:55Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "AI-assisted proof of optimal packing for 11 squares",
+      "url": "https://github.com/Queuingtheorydotcom/11SquaresFormalized"
+    },
+    {
+      "authors": [
+        "Richard MacManus"
+      ],
+      "canonical_url": "https://www.latent.space/p/stacklok",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Kubernetes co-creators Craig McLuckie and Joe Beda aim to bring agent harnesses fully into the cloud.",
+      "event_cluster_id": "22732f8185e3",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "22732f8185e35596b405",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!r55R!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe1c3cd3d-2682-47cb-9be6-74302c1ca8ea_2560x1440.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-07T14:10:45Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Can a Cloud-Native Harness Make Agents Reliable Beyond the Desktop?",
+      "url": "https://www.latent.space/p/stacklok"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Google on Tuesday launched a new site that lets anyone verify whether a piece of media, be it an image, a video, or an audio clip, is generated using AI.",
+      "event_cluster_id": "73ad5cdc394e",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "73ad5cdc394ec039e887",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T14:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google’s new SynthID website can identify AI-generated media",
+      "url": "https://techcrunch.com/2026/10/07/googles-new-synthid-website-can-identify-ai-generated-media"
+    },
+    {
+      "authors": [
+        "TechCrunch Events"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "In 6 days, 10,000+ people from across the global startup and tech ecosystem will come together at San Francisco’s Moscone West for TechCrunch Disrupt 2026. If you’re planning to be one of them, register for your ticket before prices...",
+      "event_cluster_id": "054d3c2ecbb0",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "054d3c2ecbb062a05b36",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T14:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "6 days to TechCrunch Disrupt 2026: Save on your pass before doors open",
+      "url": "https://techcrunch.com/2026/10/07/6-days-to-techcrunch-disrupt-2026-save-on-your-pass-before-doors-open"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "67f5f61696a2",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "67f5f61696a2949df273",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T12:45:31Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "One Model Family, Two Gold-Level Results: Fine-Tuning Nemotron for IOI and IMO",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
+    },
+    {
+      "authors": [
         "arminn"
       ],
       "canonical_url": "https://arminn.com/writing/jev-made-me-rethink-ai-ops-engineering",
@@ -186,6 +711,7 @@
       "url": "https://github.com/ymcrcat/rgpu"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
       "cluster_sources": [
@@ -193,7 +719,7 @@
       ],
       "description": "Our head hurts.",
       "event_cluster_id": "9416b01a853f",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "9416b01a853f1769cc79",
       "image_url": "https://substackcdn.com/image/fetch/$s_!3_fH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf69e441-6f07-47c9-ba4d-3cd64a85fb49_1224x1255.png",
       "is_breaking": false,
@@ -247,6 +773,7 @@
       "url": "https://github.com/Krako-Labs/kora-doctor"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/7/jake-boggan",
       "cluster_sources": [
@@ -254,7 +781,7 @@
       ],
       "description": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and...",
       "event_cluster_id": "791fa389657c",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "791fa389657c366c90a9",
       "image_url": "",
       "is_breaking": false,
@@ -498,6 +1025,36 @@
       "url": "https://huggingface.co/joe-gibbs/terrainsr"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "7fdb639a7950",
+      "fetched_at": "2026-10-07T17:31:09Z",
+      "id": "7fdb639a795018181a7e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: training",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
+      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
@@ -698,7 +1255,7 @@
       ],
       "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
       "event_cluster_id": "5efca30fd232",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "5efca30fd2326e3a077e",
       "image_url": "",
       "is_breaking": false,
@@ -729,7 +1286,7 @@
       ],
       "description": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace...",
       "event_cluster_id": "fbfc97815a55",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "fbfc97815a55d85698bc",
       "image_url": "https://static.simonwillison.net/static/2026-10-06/mistral-large-4-pelican.webp",
       "is_breaking": false,
@@ -761,7 +1318,7 @@
       ],
       "description": "Nvidia-backed Lambda is raising up to $4 billion at a $14.5 billion pre-money valuation ahead of a planned 2027 IPO, led by Coatue and Blackstone.",
       "event_cluster_id": "f1ec779e602e",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "f1ec779e602e78245980",
       "image_url": "",
       "is_breaking": false,
@@ -793,7 +1350,7 @@
       ],
       "description": "Personal AI agents promise to shop, book flights, and make reservations for you. But deliberate blocks and anti-bot defenses are getting in the way, leaving consumers caught in the middle. A new standard aims to help.",
       "event_cluster_id": "55a44998a2a0",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "55a44998a2a0475505c1",
       "image_url": "",
       "is_breaking": false,
@@ -825,7 +1382,7 @@
       ],
       "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "event_cluster_id": "a3a57c5cc9d7",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "a3a57c5cc9d74cca51b1",
       "image_url": "",
       "is_breaking": false,
@@ -2733,7 +3290,7 @@
       ],
       "description": "",
       "event_cluster_id": "6062a2aa88c2",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "6062a2aa88c2b906e762",
       "image_url": "",
       "is_breaking": false,
@@ -18095,7 +18652,7 @@
       ],
       "description": "",
       "event_cluster_id": "eb916b5190e3",
-      "fetched_at": "2026-10-07T11:17:35Z",
+      "fetched_at": "2026-10-07T17:31:09Z",
       "id": "eb916b5190e379580afd",
       "image_url": "",
       "is_breaking": false,
@@ -19079,605 +19636,7 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "QuPID: Quantum Parameter-Efficient Input-Dependent Retrieval Adaptation for Medical RAG",
       "url": "https://arxiv.org/abs/2609.33351v1"
-    },
-    {
-      "authors": [
-        "Andreas Maier",
-        "Monica Hinrichs-Mayer",
-        "Franziska Weber",
-        "Niklas Lackner",
-        "Matthias May",
-        "Bernhard Kainz",
-        "Siming Bayer"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.33280v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical images are released with the reports that describe them, and protecting the image does not protect the report. This paper measures the text component of such releases. We measure identifier detection, downstream utility and...",
-      "event_cluster_id": "a75dffbc6fd8",
-      "fetched_at": "2026-09-29T02:42:14Z",
-      "id": "a75dffbc6fd8396d9859",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-27T06:35:24Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: release, released",
-        "research relevance: medical image, multimodal medical",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "The Text Beside the Image: Detection, Utility and Leakage for Trustworthy Multimodal Medical Data and Beyond",
-      "url": "https://arxiv.org/abs/2609.33280v1"
-    },
-    {
-      "authors": [
-        "Ruoxuan Shi",
-        "Sheng Yang",
-        "Zhengxing Su",
-        "Xiaoyang Hou",
-        "Yating Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.33176v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "In recent years, bilevel optimization has been widely used in a variety of machine learning tasks. However, prior bilevel optimization algorithms generally require the computation of second-order information, which limits their practical...",
-      "event_cluster_id": "0c95df63fcde",
-      "fetched_at": "2026-09-29T02:42:14Z",
-      "id": "0c95df63fcde9c5caa6a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-27T03:55:08Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "ABO-Med: Accelerated Bilevel Optimization for Few-Shot Medical Image Classification",
-      "url": "https://arxiv.org/abs/2609.33176v1"
-    },
-    {
-      "authors": [
-        "David Restrepo",
-        "Chenwei Wu",
-        "Luis Filipe Nakayama",
-        "Miguel L. Martins",
-        "Stergios Christodoulidis",
-        "Maria Vakalopoulou",
-        "Enzo Ferrante"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.33158v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Progress in AI-based retinal image analysis has advanced with foundation models, yet evaluating their reliability remains challenging. Performance reported on a single dataset does not capture how models behave under dataset shift,...",
-      "event_cluster_id": "0e683f57da7a",
-      "fetched_at": "2026-09-29T02:42:14Z",
-      "id": "0e683f57da7a678d20db",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-27T03:31:39Z",
-      "research_track": "medical_neuroimaging",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: multimodal, foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "FOCUS: Benchmarking Retinal Model Generalization from Foundation Vision Encoders to Multimodal LLMs",
-      "url": "https://arxiv.org/abs/2609.33158v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jagmeet Singh"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The limited test covers select products and users, with a broader rollout planned for later in October.",
-      "event_cluster_id": "a44eac78d893",
-      "fetched_at": "2026-09-27T15:16:23Z",
-      "id": "a44eac78d89310004eb8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-27T01:30:00Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "startup/product signal: product"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India",
-      "url": "https://techcrunch.com/2026/09/26/google-tests-buying-from-walmart-owned-flipkart-through-gemini-and-ai-mode-in-india"
-    },
-    {
-      "authors": [
-        "Adham M. Alkhadrawi",
-        "Mohammed A. B. Mahmoud"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.33077v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Three-dimensional dense convolutional networks are the strongest performers on volumetric medical image segmentation, but their parameter counts scale poorly: moving a dense k x k convolution to k x k x k multiplies its weights by k. We...",
-      "event_cluster_id": "c57619d349c1",
-      "fetched_at": "2026-09-29T02:42:14Z",
-      "id": "c57619d349c1f8111284",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-27T01:29:31Z",
-      "research_track": "medical_neuroimaging",
-      "score": 10,
-      "score_reasons": [
-        "medium source",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Parameter-Efficient 3D Segmentation of Liver and Liver tumors: Depthwise factorization Scales Better Than Dense Convolution with Spatial Dimensionality",
-      "url": "https://arxiv.org/abs/2609.33077v1"
-    },
-    {
-      "authors": [
-        "intunderflow"
-      ],
-      "canonical_url": "https://swarmcha.se/posts/openai-unctad",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5313bf4bdb82",
-      "fetched_at": "2026-09-27T01:43:54Z",
-      "id": "hn-49862299",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-27T01:08:07Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: API"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "OpenAI agents tried to bruteforce a UN website's API fields",
-      "url": "https://swarmcha.se/posts/openai-unctad"
-    },
-    {
-      "also_covered_by": [
-        "TechCrunch AI"
-      ],
-      "authors": [
-        "sbulaev"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "bb61eb14b50a",
-      "fetched_at": "2026-09-27T01:43:54Z",
-      "id": "hn-49862289",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-27T01:07:08Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Insurers claim AI is increasing healthcare costs",
-      "url": "https://techcrunch.com/2026/09/26/insurers-claim-ai-is-already-increasing-healthcare-costs"
-    },
-    {
-      "authors": [
-        "jamesgill"
-      ],
-      "canonical_url": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "29ef6525e16b",
-      "fetched_at": "2026-09-27T01:43:54Z",
-      "id": "hn-49862203",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-27T00:56:34Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "The AI Doomsday Future Is Not Inevitable",
-      "url": "https://theintercept.com/2026/09/14/surveillance-tech-ai-military-flock"
-    },
-    {
-      "authors": [
-        "birdculture"
-      ],
-      "canonical_url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "78427621d734",
-      "fetched_at": "2026-09-27T01:43:54Z",
-      "id": "hn-49862192",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-27T00:55:05Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "LLM Policies: Progress at All Costs",
-      "url": "https://diegoe.be/2026/09/25/llm-policies-progress-at-all-costs"
-    },
-    {
-      "authors": [
-        "Ho Hin Lee",
-        "Yuyin Zhou",
-        "Yannan Yu",
-        "Shi Gu",
-        "Yifan Wu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.32984v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Recursive self-improvement (RSI) offers a promising path for overcoming the limited visual capability of current medical imaging agents. Yet applying RSI to volumetric imaging remains difficult: failures can arise from acquisition,...",
-      "event_cluster_id": "b6a9d730dd6a",
-      "fetched_at": "2026-09-29T02:42:14Z",
-      "id": "b6a9d730dd6a0ff4f1bc",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-09-26T22:29:53Z",
-      "research_track": "medical_neuroimaging",
-      "score": 18,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: acquisition",
-        "research relevance: medical imaging",
-        "technical relevance: agent",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "ReVision3D: Attribution-Guided Recursive Self-Improvement for 3D Medical Perception",
-      "url": "https://arxiv.org/abs/2609.32984v1"
-    },
-    {
-      "authors": [
-        "ademattos"
-      ],
-      "canonical_url": "https://docs.sixb.ai",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "36a01f49f731",
-      "fetched_at": "2026-09-27T01:43:54Z",
-      "id": "hn-49859066",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-26T18:15:59Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Sixb, a TypeScript ontology framework for modeling your domain",
-      "url": "https://docs.sixb.ai"
-    },
-    {
-      "authors": [
-        "rustoo"
-      ],
-      "canonical_url": "https://journals.sagepub.com/doi/10.1177/23998083261458842",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "97eec7425e96",
-      "fetched_at": "2026-09-29T02:42:14Z",
-      "id": "hn-49858643",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-26T17:23:09Z",
-      "research_track": "",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "What is the best shape of a city? Modelling effect of urban form on distance",
-      "url": "https://journals.sagepub.com/doi/10.1177/23998083261458842"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "parasitid"
-      ],
-      "canonical_url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "b716be8129cd",
-      "fetched_at": "2026-09-27T10:09:59Z",
-      "id": "hn-49857729",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-26T15:56:34Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
-      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent"
-    },
-    {
-      "authors": [
-        "flxflx"
-      ],
-      "canonical_url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "4cf6630d542c",
-      "fetched_at": "2026-09-27T01:43:54Z",
-      "id": "hn-49857656",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-26T15:49:04Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
-      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash"
-    },
-    {
-      "also_covered_by": [
-        "TechCrunch AI"
-      ],
-      "authors": [
-        "jacquesm"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "7fc672768bdc",
-      "fetched_at": "2026-09-26T14:42:06Z",
-      "id": "hn-49856913",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-26T14:27:27Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "covered by multiple configured sources"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Unsecured OpenAI agents posted 53 user images on the internet",
-      "url": "https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Dominic-Madori Davis"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "After obtaining an interactive avatar and training it to discuss venture fraud, I have mixed feelings about making AI clones of ourselves.",
-      "event_cluster_id": "804c74d256d5",
-      "fetched_at": "2026-09-26T14:42:06Z",
-      "id": "804c74d256d5e7443c05",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-26T14:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: training"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "I created an interactive digital avatar of myself — and you can talk to it",
-      "url": "https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it"
-    },
-    {
-      "authors": [
-        "nisosguy"
-      ],
-      "canonical_url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "bbb47b3e60c0",
-      "fetched_at": "2026-09-26T14:42:06Z",
-      "id": "hn-49856149",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-26T13:05:36Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Understanding the Impact of LLM Watermarking on AI Agent Behavior",
-      "url": "https://www.lasso.security/blog/the-provenance-tax-understanding-the-impact-of-llm-watermarking-on-ai-agent-behavior"
-    },
-    {
-      "authors": [
-        "Benjamin Hamm",
-        "Yannick Kirchhoff",
-        "Maximilian Rokuss",
-        "Moritz Langenberg",
-        "Constantin Ulrich",
-        "Tassilo Wald",
-        "Jeremias Traub",
-        "Karol Gotkowski"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2609.32555v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Dynamic contrast enhanced breast MRI (DCE-MRI) is a powerful clinical tool for breast cancer detection, providing high resolution anatomical detail together with rich temporal contrast information. However, high dimensional 4D inputs,...",
-      "event_cluster_id": "b1551acddaf9",
-      "fetched_at": "2026-09-29T02:42:14Z",
-      "id": "b1551acddaf989c21ebd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-09-26T12:31:56Z",
-      "research_track": "medical_neuroimaging",
-      "score": 10,
-      "score_reasons": [
-        "medium source",
-        "research relevance: MRI"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Feature Space Guidance for Breast Cancer Classification in DCE-MRI",
-      "url": "https://arxiv.org/abs/2609.32555v1"
     }
   ],
-  "generated_at": "2026-10-07T11:17:35Z"
+  "generated_at": "2026-10-07T17:31:09Z"
 }
