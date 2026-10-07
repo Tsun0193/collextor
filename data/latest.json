@@ -70,6 +70,7 @@
       "url": "https://simonwillison.net/2026/Oct/5/felix-rieseberg"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
@@ -79,10 +80,10 @@
       ],
       "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
       "event_cluster_id": "a3a57c5cc9d7",
-      "fetched_at": "2026-10-07T02:40:28Z",
+      "fetched_at": "2026-10-07T11:17:35Z",
       "id": "a3a57c5cc9d74cca51b1",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-10-06T18:22:45Z",
@@ -448,6 +449,7 @@
       "url": "https://huggingface.co/blog/nvidia/kumo-tabular"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
       "cluster_sources": [
@@ -477,6 +479,7 @@
       "url": "https://simonwillison.net/2026/Oct/6/victoria-kim"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Russell Brandom"
       ],
@@ -486,7 +489,7 @@
       ],
       "description": "On Tuesday, Musubi announced a lightweight decision model made for real-time moderation called PolicyLM-1.7B, released with open weights.",
       "event_cluster_id": "5efca30fd232",
-      "fetched_at": "2026-10-07T02:40:28Z",
+      "fetched_at": "2026-10-07T11:17:35Z",
       "id": "5efca30fd2326e3a077e",
       "image_url": "",
       "is_breaking": false,
@@ -542,40 +545,73 @@
       "url": "https://techcrunch.com/2026/10/06/mirror-particle-is-building-a-world-model-of-human-behavior"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "mrkn1"
+        "boxstream"
       ],
-      "canonical_url": "https://github.com/kouhxp/gutsy",
+      "canonical_url": "https://github.com/ymcrcat/rgpu",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "667c27cbb405",
-      "fetched_at": "2026-10-05T11:47:16Z",
-      "id": "hn-49961971",
+      "event_cluster_id": "47f52aa565d8",
+      "fetched_at": "2026-10-07T11:17:35Z",
+      "id": "hn-49988516",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-05T08:03:23Z",
+      "published_at": "2026-10-07T05:15:44Z",
       "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: inference",
-        "startup/product signal: API, Show HN"
+        "published within 24 hours",
+        "major-event keyword: GPU",
+        "technical relevance: PyTorch",
+        "startup/product signal: Show HN"
       ],
       "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Gutsy, subsecond decision model inference on CPU (Jev Style), no API",
-      "url": "https://github.com/kouhxp/gutsy"
+      "title": "Show HN: Rgpu – a PyTorch device whose tensors live on a remote GPU",
+      "url": "https://github.com/ymcrcat/rgpu"
     },
     {
+      "authors": [
+        "ilreb"
+      ],
+      "canonical_url": "https://github.com/nano-muse/nanoMuse",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "ee4f657a56bd",
+      "fetched_at": "2026-10-07T11:17:35Z",
+      "id": "hn-49987765",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-07T03:30:44Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: NanoMuse – An open-source AI agent for your phone and computer",
+      "url": "https://github.com/nano-muse/nanoMuse"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/6/le-chonk",
       "cluster_sources": [
@@ -583,7 +619,7 @@
       ],
       "description": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace...",
       "event_cluster_id": "fbfc97815a55",
-      "fetched_at": "2026-10-07T02:40:28Z",
+      "fetched_at": "2026-10-07T11:17:35Z",
       "id": "fbfc97815a55d85698bc",
       "image_url": "https://static.simonwillison.net/static/2026-10-06/mistral-large-4-pelican.webp",
       "is_breaking": false,
@@ -788,39 +824,6 @@
       "source_name": "Hacker News",
       "title": "UniEvo-VL: Self-Distillation Training for Multimodal Model Self-Improvement",
       "url": "https://arxiv.org/abs/2609.38721"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "fsbonetto"
-      ],
-      "canonical_url": "https://github.com/FeSens/openTPU",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "576ded508c0b",
-      "fetched_at": "2026-10-06T16:54:48Z",
-      "id": "hn-49980715",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-06T16:23:25Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "AI is now capable of developing its own inference hardware",
-      "url": "https://github.com/FeSens/openTPU"
     },
     {
       "also_covered_by": [],
@@ -1163,36 +1166,61 @@
       "url": "https://mistral.ai/news/mistral-large-4"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Will Douglas Heaven"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough",
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "Latent Space"
       ],
-      "description": "Over the summer I talked to the CEO of Springboards, a startup building an LLM that’s designed to come up with a wider variety of responses than its mainstream rivals do. At the start of the call, he said something that’s been stuck in my..",
-      "event_cluster_id": "13a36d318b9d",
-      "fetched_at": "2026-10-05T11:47:16Z",
-      "id": "13a36d318b9d9c72695f",
-      "image_url": "",
+      "description": "Our head hurts.",
+      "event_cluster_id": "9416b01a853f",
+      "fetched_at": "2026-10-07T11:17:35Z",
+      "id": "9416b01a853f1769cc79",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!3_fH!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fcf69e441-6f07-47c9-ba4d-3cd64a85fb49_1224x1255.png",
       "is_breaking": false,
       "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-10-05T08:00:00Z",
+      "published_at": "2026-10-07T04:55:44Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "startup/product signal: startup"
+        "published within 24 hours",
+        "long-read source"
       ],
-      "section": "startup_product",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "People really hate AI, so why can’t they get enough?",
-      "url": "https://www.technologyreview.com/2026/10/05/1145682/people-really-hate-ai-so-why-cant-they-get-enough"
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Quasi-Riemann-Hypothesis: OpenAI publishes 722 math papers solving 90 of the top 500 open math problems; “the most significant moment” in >100 years of mathematics",
+      "url": "https://www.latent.space/p/ainews-quasi-riemann-hypothesis-openai"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/7/jake-boggan",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "I was a graph theory junkie long ago and even moved to Budapest for awhile to study among the greats. While I was there I started working on Barnette's Conjecture which came to occupy my thoughts over the next 24 years of my life, on and...",
+      "event_cluster_id": "791fa389657c",
+      "fetched_at": "2026-10-07T11:17:35Z",
+      "id": "791fa389657c366c90a9",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-07T04:47:55Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Jake Boggan",
+      "url": "https://simonwillison.net/2026/Oct/7/jake-boggan"
     },
     {
       "also_covered_by": [],
@@ -1224,6 +1252,7 @@
       "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/cyber-verification-program",
       "cluster_sources": [
@@ -1284,36 +1313,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "MIT Technology Review"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Yossi Matias, Vice President & Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields. Step inside...",
-      "event_cluster_id": "dc799c6f2e00",
-      "fetched_at": "2026-10-06T03:17:47Z",
-      "id": "dc799c6f2e00016d2478",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-05T04:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "EmTech Future 2026: When AI Meets Everything",
-      "url": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything"
-    },
-    {
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/modernizing-table-batched-embeddings-with-fbtriton",
       "cluster_sources": [
@@ -1321,7 +1320,7 @@
       ],
       "description": "",
       "event_cluster_id": "6062a2aa88c2",
-      "fetched_at": "2026-10-07T02:40:28Z",
+      "fetched_at": "2026-10-07T11:17:35Z",
       "id": "6062a2aa88c2b906e762",
       "image_url": "",
       "is_breaking": false,
@@ -1343,13 +1342,13 @@
     }
   ],
   "date_label": "Wednesday, October 7, 2026",
-  "generated_at": "2026-10-07T02:40:28Z",
+  "generated_at": "2026-10-07T11:17:35Z",
   "summary": {
-    "duplicates_removed": 1,
-    "failed_sources": 1,
-    "fetched_items": 199,
+    "duplicates_removed": 0,
+    "failed_sources": 3,
+    "fetched_items": 174,
     "retained_items": 40,
-    "successful_sources": 20
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
