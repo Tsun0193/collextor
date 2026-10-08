@@ -1,44 +1,7 @@
 {
   "articles": [
     {
-      "authors": [
-        "Anam Hashmi",
-        "Mayug Maniparambil",
-        "Julia Dietlmeier",
-        "Kathleen M. Curran",
-        "Noel E. O'Connor"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.08109v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Cardiac magnetic resonance imaging reconstruction aims to recover high-quality images from undersampled acquisitions, enabling faster scans while preserving diagnostic fidelity. Recent reconstruction methods are typically trained from...",
-      "event_cluster_id": "edd073be8afb",
-      "fetched_at": "2026-10-07T02:40:28Z",
-      "id": "edd073be8afbf9534616",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-06T10:32:13Z",
-      "research_track": "medical_neuroimaging",
-      "score": 21,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, acquisition, training",
-        "research relevance: MRI",
-        "technical relevance: foundation model, serving",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Beyond Training from Scratch: Foundation Models for Data-Efficient and Generalizable Cardiac MRI Reconstruction",
-      "url": "https://arxiv.org/abs/2610.08109v1"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "Marina Temkin"
       ],
@@ -48,10 +11,10 @@
       ],
       "description": "The developer of Hermes Agent raised a $90 million Series B.",
       "event_cluster_id": "702bba9db21c",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "702bba9db21cf6ecff35",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-10-07T20:48:45Z",
@@ -72,6 +35,7 @@
       "url": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -81,10 +45,10 @@
       ],
       "description": "Meta’s AI agent Muse is now available on iPad, just a month after its mobile debut, as the company rapidly expands the assistant’s reach and integrations.",
       "event_cluster_id": "aff1e420fd1c",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "aff1e420fd1c7ccb0cd6",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-10-07T18:30:57Z",
@@ -105,6 +69,7 @@
       "url": "https://techcrunch.com/2026/10/07/metas-muse-launches-on-ipad-just-a-month-after-its-mobile-debut"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Shadi Alijani",
         "Fereshteh Aghaee Meibodi",
@@ -285,36 +250,36 @@
       "url": "https://arxiv.org/abs/2610.08482v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b",
-      "cluster_sources": [
-        "Latent Space"
+      "authors": [
+        "MIT Technology Review Insights"
       ],
-      "description": "A small win for US open source",
-      "event_cluster_id": "417c3a0572d8",
-      "fetched_at": "2026-10-06T11:27:30Z",
-      "id": "417c3a0572d8db459700",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/DIu7xA898go",
+      "canonical_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across...",
+      "event_cluster_id": "c9f8263218d1",
+      "fetched_at": "2026-10-08T11:34:36Z",
+      "id": "c9f8263218d16e7752e2",
+      "image_url": "",
       "is_breaking": true,
       "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-10-06T06:28:43Z",
+      "published_at": "2026-10-08T08:17:32Z",
       "research_track": "",
-      "score": 19,
+      "score": 18,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: model, open source",
-        "startup/product signal: open source",
-        "long-read source"
+        "major-event keyword: model",
+        "technical relevance: foundation model, agent"
       ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Reflection Beam - 501B-A23B American Open Model",
-      "url": "https://www.latent.space/p/ainews-reflection-beam-501b-a23b"
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Building a safer path to autonomous industrial AI",
+      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai"
     },
     {
       "also_covered_by": [],
@@ -382,6 +347,37 @@
     },
     {
       "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "yay small models",
+      "event_cluster_id": "c07b5023822d",
+      "fetched_at": "2026-10-08T11:34:36Z",
+      "id": "c07b5023822db3bc0560",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!q_iv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHUDOG1Jb0AAHQ2I.jpg",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-08T07:27:51Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
+      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5",
       "cluster_sources": [
         "Simon Willison"
@@ -410,6 +406,7 @@
       "url": "https://simonwillison.net/2026/Oct/7/claude-haiku-5-5"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -419,7 +416,7 @@
       ],
       "description": "Microsoft revealed the specs and price for its Surface Laptop Ultra, AI PCs that run on Nvidia chips that are designed to run AI models and agents.",
       "event_cluster_id": "90ddad468bc3",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "90ddad468bc385f317d2",
       "image_url": "",
       "is_breaking": false,
@@ -798,38 +795,6 @@
       "url": "https://arstechnica.com/security/2026/10/openai-agents-tried-to-hack-wikipedia-tools-and-flooded-it-with-traffic"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Geoffrey Kamadi"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "BasiGo aims to replace the tens of thousands of diesel-powered buses on sub-Saharan African roads with electric ones that generate far fewer emissions. The company’s pay-as-you-drive business model has helped make EVs more attainable and...",
-      "event_cluster_id": "750a0a11dea9",
-      "fetched_at": "2026-10-06T11:27:30Z",
-      "id": "750a0a11dea9b7d1711b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-06T10:35:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "BasiGo and its fleet of electric buses",
-      "url": "https://www.technologyreview.com/2026/10/06/1145216/2026-climate-tech-companies-to-watch-basigo-fleet-electric-buses"
-    },
-    {
       "authors": [
         "iphonecorridor"
       ],
@@ -862,6 +827,7 @@
       "url": "https://epoch.ai/publications/estimating-the-agent-population"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/7/ben-affleck",
       "cluster_sources": [
@@ -890,6 +856,7 @@
       "url": "https://simonwillison.net/2026/Oct/7/ben-affleck"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Saif Punjwani",
         "Micah Goldblum"
@@ -900,7 +867,7 @@
       ],
       "description": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas...",
       "event_cluster_id": "da1c4a5b6e7a",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "da1c4a5b6e7ad57f7caf",
       "image_url": "",
       "is_breaking": false,
@@ -923,6 +890,7 @@
       "url": "https://arxiv.org/abs/2610.10536v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Mikey Watts",
         "Yuchen Cui"
@@ -933,7 +901,7 @@
       ],
       "description": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points:...",
       "event_cluster_id": "1892b3b22dee",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "1892b3b22deee9e036e0",
       "image_url": "",
       "is_breaking": false,
@@ -956,6 +924,7 @@
       "url": "https://arxiv.org/abs/2610.10526v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yinling Zhang",
         "Langchen Liu",
@@ -971,7 +940,7 @@
       ],
       "description": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new...",
       "event_cluster_id": "71271ab2e542",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "71271ab2e542e35dc565",
       "image_url": "",
       "is_breaking": false,
@@ -994,6 +963,7 @@
       "url": "https://arxiv.org/abs/2610.10513v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yilun Hao",
         "Krishna Sayana",
@@ -1009,7 +979,7 @@
       ],
       "description": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt...",
       "event_cluster_id": "45abe5eae007",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "45abe5eae007502b3bbd",
       "image_url": "",
       "is_breaking": false,
@@ -1032,6 +1002,7 @@
       "url": "https://arxiv.org/abs/2610.10507v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Python Song",
         "Zhixuan Liang",
@@ -1046,7 +1017,7 @@
       ],
       "description": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be...",
       "event_cluster_id": "50440c17c814",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "50440c17c81477da0a3d",
       "image_url": "",
       "is_breaking": false,
@@ -1098,6 +1069,7 @@
       "url": "https://simonwillison.net/2026/Oct/7/anti-patterns-in-software-blogging"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Samuel Margolis",
         "Paul Schmiedmayer",
@@ -1168,6 +1140,7 @@
       "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Samrajya Thapa",
         "Daniel J. Quest",
@@ -1182,7 +1155,7 @@
       ],
       "description": "Medical imaging models often operate as black boxes, limiting interpretability and systematic debugging. We introduce an easy-to-use, plug-and-play framework for concept-based interpretation and model refinement. By aligning a...",
       "event_cluster_id": "356b6e5ace6c",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "356b6e5ace6c99912b3a",
       "image_url": "",
       "is_breaking": false,
@@ -1203,6 +1176,37 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Beyond Explanation: Debugging Medical Imaging Models via Concept Intervention",
       "url": "https://arxiv.org/abs/2610.09031v1"
+    },
+    {
+      "authors": [
+        "Xu L, Tu J, Zhang J, Zhang C, Sun Y."
+      ],
+      "canonical_url": "https://europepmc.org/article/PMC/PMC13643686",
+      "cluster_sources": [
+        "Europe PMC - Medical AI and Neuroimaging"
+      ],
+      "description": "",
+      "event_cluster_id": "ac42929d045b",
+      "fetched_at": "2026-10-08T11:34:36Z",
+      "id": "epmc-PMC13643686",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-08T00:00:00Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: Alzheimer"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "europe_pmc",
+      "source_name": "Europe PMC - Medical AI and Neuroimaging",
+      "title": "Blood biomarkers and artificial intelligence: toward precision medicine in Alzheimer’s disease",
+      "url": "https://europepmc.org/article/PMC/PMC13643686"
     },
     {
       "also_covered_by": [],
@@ -1265,34 +1269,71 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-emirati",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Ana Marija Kožuljević",
+        "Gabriela Jazvac",
+        "Luka Lotina",
+        "Luka Pavelić"
       ],
-      "description": "",
-      "event_cluster_id": "fe424883c3ca",
-      "fetched_at": "2026-10-06T11:27:30Z",
-      "id": "fe424883c3cacf664f5b",
+      "canonical_url": "https://arxiv.org/abs/2610.08195v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Directional information of incident gamma rays in radiation detection is essential to many applications, from medical imaging to mapping radioactive contamination after nuclear accidents, characterization of nuclear waste during...",
+      "event_cluster_id": "e0bcce9169b3",
+      "fetched_at": "2026-10-07T02:40:28Z",
+      "id": "e0bcce9169b3c775ac06",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-06T06:44:39Z",
+      "published_at": "2026-10-06T11:47:52Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical imaging"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Omnidirectional Radiation Detector with Perpendicular Dual Silicon Photomultiplier Readout - Directional Sensitivity and Machine Learning Source Positioning",
+      "url": "https://arxiv.org/abs/2610.08195v1"
+    },
+    {
+      "authors": [
+        "Jamie Condliffe"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white...",
+      "event_cluster_id": "93c31b5defc3",
+      "fetched_at": "2026-10-08T11:34:36Z",
+      "id": "93c31b5defc3d49a908d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-08T09:00:00Z",
       "research_track": "",
       "score": 12,
       "score_reasons": [
         "high source",
         "published within 6 hours"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Falcon-Emirati: When an LLM Learns the Dialect, the Culture, and the Nuance",
-      "url": "https://huggingface.co/blog/tiiuae/falcon-emirati"
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "AI breakthroughs in robotics won’t change your life any time soon",
+      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/does-better-work-always-mean-better-workers",
       "cluster_sources": [
@@ -1300,7 +1341,7 @@
       ],
       "description": "October 7, 2026",
       "event_cluster_id": "5c27d8596f5d",
-      "fetched_at": "2026-10-08T02:52:34Z",
+      "fetched_at": "2026-10-08T11:34:36Z",
       "id": "5c27d8596f5d5debdcd5",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
       "is_breaking": false,
@@ -1322,12 +1363,12 @@
     }
   ],
   "date_label": "Thursday, October 8, 2026",
-  "generated_at": "2026-10-08T02:52:34Z",
+  "generated_at": "2026-10-08T11:34:36Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 195,
-    "retained_items": 40,
+    "fetched_items": 200,
+    "retained_items": 41,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
