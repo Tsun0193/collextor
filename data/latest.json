@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -36,6 +37,45 @@
     },
     {
       "authors": [
+        "Sol Lee",
+        "Hyunji Kim",
+        "Sungrae Hong",
+        "Donghee Han",
+        "Mun Yi"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.11419v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multimodal brain tumor segmentation typically leverages multiple MRI modalities, yet incomplete modality acquisition is common in clinical practice due to protocol heterogeneity and scan failures. Although recent methods maintain...",
+      "event_cluster_id": "ac2b148e1d86",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "ac2b148e1d867e624b60",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-08T07:46:21Z",
+      "research_track": "medical_neuroimaging",
+      "score": 21,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: acquisition",
+        "research relevance: MRI",
+        "technical relevance: multimodal, RAG",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Missing Modality-Aware Calibration for Trustworthy Brain Tumor Segmentation",
+      "url": "https://arxiv.org/abs/2610.11419v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Ivan Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor",
@@ -65,6 +105,43 @@
       "source_name": "TechCrunch AI",
       "title": "Google releases a new local-first Granola competitor",
       "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor"
+    },
+    {
+      "authors": [
+        "Peter Kulits",
+        "Yiqing Xu",
+        "R. Kenny Jones",
+        "Cordelia Schmid",
+        "Jiajun Wu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.12452v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built....",
+      "event_cluster_id": "ccff47e68b74",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "ccff47e68b74d55af691",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-08T17:58:56Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: benchmark",
+        "research relevance: PET",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "BrickBench: Evaluating Agentic Brick Design",
+      "url": "https://arxiv.org/abs/2610.12452v1"
     },
     {
       "also_covered_by": [],
@@ -173,73 +250,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The AI lab's personal assistant is an operating system from the future designed to compete with Muse, Dots, and Instinct.",
-      "event_cluster_id": "a3a57c5cc9d7",
-      "fetched_at": "2026-10-07T17:31:09Z",
-      "id": "a3a57c5cc9d74cca51b1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-06T18:22:45Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: release",
-        "research relevance: PET"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Hark releases an AI personal assistant with a focus on privacy",
-      "url": "https://techcrunch.com/2026/10/06/hark-releases-an-ai-personal-assistant-with-a-focus-on-privacy"
-    },
-    {
-      "authors": [
-        "Jai Bardhan",
-        "Josef Sivic",
-        "Vladimir Petrik"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.08780v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world...",
-      "event_cluster_id": "229959c8ad1c",
-      "fetched_at": "2026-10-07T02:40:28Z",
-      "id": "229959c8ad1c28a707f9",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-06T17:59:00Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "DepthWorld: 3D World Model for Robot Manipulation",
-      "url": "https://arxiv.org/abs/2610.08780v1"
-    },
-    {
-      "authors": [
         "Aditya Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost",
@@ -304,6 +314,40 @@
       "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai"
     },
     {
+      "authors": [
+        "Chihun An",
+        "Ikbeom Jang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.11394v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multimodal Alzheimer's disease (AD) diagnosis benefits from integrating heterogeneous clinical, imaging, genomic, and biomarker evidence, but clinical cohorts frequently suffer from irregular modality missingness. Existing fusion methods...",
+      "event_cluster_id": "8a755ed83f1a",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "8a755ed83f1afe953dae",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-08T07:23:29Z",
+      "research_track": "medical_neuroimaging",
+      "score": 18,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: Alzheimer, Alzheimer's disease",
+        "technical relevance: multimodal",
+        "startup/product signal: product"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "CoPoE: Multimodal Fusion via Decomposable Disease-Coordinate Product-of-Experts for Missing-Modality Alzheimer's Diagnosis",
+      "url": "https://arxiv.org/abs/2610.11394v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/LiquidAI/open-d1",
@@ -333,6 +377,38 @@
       "source_name": "Hugging Face Blog",
       "title": "Multimodal open d1 decision models for the edge",
       "url": "https://huggingface.co/blog/LiquidAI/open-d1"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Google is turning Gemini into an AI agent that can plan, execute tasks, and work across business apps and systems. The agent can delegate work to subagents, use multiple AI models, and even gets its own workplace identity, complete with...",
+      "event_cluster_id": "16755fadce6a",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "16755fadce6aa8d0277f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-08T18:18:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google brings agentic AI to Gemini, starting with businesses",
+      "url": "https://techcrunch.com/2026/10/08/google-brings-agentic-ai-to-gemini-starting-with-businesses"
     },
     {
       "authors": [
@@ -528,36 +604,47 @@
       "url": "https://www.latent.space/p/stacklok"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/6/victoria-kim",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Zhongyu Yang",
+        "Jiale Tao",
+        "Ruitao Chen",
+        "Zuhao Yang",
+        "Yingfang Yuan",
+        "Xueliang Zhao",
+        "Auden",
+        "Kai Wang"
       ],
-      "description": "Since the Medicare breach, OpenAI has put in place additional monitoring to allow “immediate intervention” by staff to stop training if the company’s models access the internet in ways they’re not supposed to, Mr. Kwon [chief strategy...",
-      "event_cluster_id": "870569c2eeba",
-      "fetched_at": "2026-10-07T02:40:28Z",
-      "id": "870569c2eeba8a14e83f",
+      "canonical_url": "https://arxiv.org/abs/2610.12458v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal diagnostic task,...",
+      "event_cluster_id": "2946c56bd423",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "2946c56bd42337af19dd",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-06T23:58:56Z",
-      "research_track": "",
-      "score": 17,
+      "published_at": "2026-10-08T17:59:21Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: model, training"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal, reasoning, evaluation",
+        "startup/product signal: API"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Victoria Kim",
-      "url": "https://simonwillison.net/2026/Oct/6/victoria-kim"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
+      "url": "https://arxiv.org/abs/2610.12458v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "boxstream"
       ],
@@ -625,34 +712,65 @@
       "url": "https://github.com/nano-muse/nanoMuse"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/6/le-chonk",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "MIT Technology Review"
       ],
-      "description": "Introducing Mistral Large 4: Le chonk Mistral are back in the game. Today they're releasing a preview of Mistral Large 4, a 1 trillion parameter, 49 billion active parameter model trained on their own cluster of 3,800 NVIDIA Grace...",
-      "event_cluster_id": "fbfc97815a55",
-      "fetched_at": "2026-10-07T17:31:09Z",
-      "id": "fbfc97815a55d85698bc",
-      "image_url": "https://static.simonwillison.net/static/2026-10-06/mistral-large-4-pelican.webp",
+      "canonical_url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Friday, October 16, 2026 Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic viruses. It...",
+      "event_cluster_id": "4b1ee3039cb6",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "4b1ee3039cb69fe00e25",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-09T00:08:24Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
+      "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "ab11598507a9",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "ab11598507a92690b359",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-06T20:18:19Z",
+      "is_must_read": false,
+      "published_at": "2026-10-08T00:00:00Z",
       "research_track": "",
-      "score": 16,
+      "score": 15,
       "score_reasons": [
-        "critical source",
-        "published within 24 hours",
-        "major-event keyword: introducing, model"
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: inference",
+        "technical relevance: agent, inference"
       ],
       "section": "business_policy",
       "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Introducing Mistral Large 4: Le chonk",
-      "url": "https://simonwillison.net/2026/Oct/6/le-chonk"
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Session-Aware Agentic Inference with NVIDIA Dynamo",
+      "url": "https://pytorch.org/blog/session-aware-agentic-inference-with-nvidia-dynamo"
     },
     {
       "also_covered_by": [],
@@ -685,6 +803,208 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-ioi-and-imo-2026"
     },
     {
+      "also_covered_by": [],
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-not-much-happened-today-60f",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "a quiet day.",
+      "event_cluster_id": "9db9af42b7f6",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "9db9af42b7f614ecd074",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!DbYa!,w_256,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F73b0838a-bd14-46a1-801c-b6a2046e5c1e_1130x1130.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-08T23:29:43Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] not much happened today",
+      "url": "https://www.latent.space/p/ainews-not-much-happened-today-60f"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/8/carson-gross",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Computer programming is, fundamentally, about two things: Problem-solving using computers Learning to control complexity while solving these problems I have a hard time imagining a future where knowing how to solve problems with computers..",
+      "event_cluster_id": "3618833fba59",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "3618833fba59bdc647a6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-08T21:05:44Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Carson Gross",
+      "url": "https://simonwillison.net/2026/Oct/8/carson-gross"
+    },
+    {
+      "authors": [
+        "Abbas Raftari"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.12463v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "In 2026, cybersecurity evaluations involving OpenAI, Anthropic, and Google agents reached real systems outside their authorized test scope. The paths were different. OpenAI agents exploited research infrastructure, coordinated across...",
+      "event_cluster_id": "ed889c864095",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "ed889c864095afbddddb",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-08T17:59:49Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: security",
+        "technical relevance: agent, evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "From Reactive Containment to Proactive Assurance: Lessons from OpenAI, Anthropic, and Google Agent Security Incidents",
+      "url": "https://arxiv.org/abs/2610.12463v1"
+    },
+    {
+      "authors": [
+        "Jiahua Dong",
+        "Anurag Bagchi",
+        "Yash Jangir",
+        "Muhammad Zubair Irshad",
+        "Sergey Zakharov",
+        "Martial Hebert",
+        "Homanga Bharadhwaj",
+        "Yu-Xiong Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.12464v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "World models offer a promising alternative to physics-based simulators, yet remain far from practical deployment. We ask how far scaling ego-centric human video takes them, using a dataset of 30,000 hours spanning over 1,000 scene types...",
+      "event_cluster_id": "efbbc21e8ffb",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "efbbc21e8ffb87bb10e3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-08T17:59:49Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: RAG"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+      "url": "https://arxiv.org/abs/2610.12464v1"
+    },
+    {
+      "authors": [
+        "Boyao Han",
+        "Chen Shi",
+        "Jingjing Qian",
+        "ZhuoTan Tian",
+        "Li Jiang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.12451v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Vision-Language-Action (VLA) models have emerged as powerful foundations for robotic manipulation, but their reliance on fixed camera configurations during training makes them brittle to changes in camera count or pose during deployment....",
+      "event_cluster_id": "09749b75dbee",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "09749b75dbeef7b0679c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-08T17:58:47Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: vision-language"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "VersaCamVLA: Camera-Configurable VLA Policies for Robotic Manipulation",
+      "url": "https://arxiv.org/abs/2610.12451v1"
+    },
+    {
+      "authors": [
+        "Oskar J. Hollinsworth",
+        "Alex F. Spies",
+        "Tigist Diriba",
+        "Adam Gleave",
+        "Chris Cundy"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.12445v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Recent incidents have highlighted the challenge of monitoring LLM agents and the danger of models deceiving people. We show that white-box deception detection via probes can be scaled up to frontier monitoring settings by collecting the...",
+      "event_cluster_id": "1157bf5576b3",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "1157bf5576b30425e55e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-08T17:58:13Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Caught in the Act: Probes Effectively Detect Sabotage and Catch Unverbalized Deception",
+      "url": "https://arxiv.org/abs/2610.12445v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/periodic",
       "cluster_sources": [
@@ -714,6 +1034,36 @@
       "url": "https://www.latent.space/p/periodic"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/anthropic-cyber-mission",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "c4a1f46e5a98",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "c4a1f46e5a98744a7c57",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-08T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours",
+        "major-event keyword: introducing"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Oct 8, 2026 Announcements Introducing the Anthropic Cyber Mission",
+      "url": "https://www.anthropic.com/news/anthropic-cyber-mission"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/building-spyre-as-a-native-pytorch-device",
       "cluster_sources": [
@@ -772,188 +1122,39 @@
       "url": "https://simonwillison.net/2026/Oct/7/ben-affleck"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Saif Punjwani",
-        "Micah Goldblum"
+        "Akeem Temitope Otapo",
+        "Ghazaleh Khodabandelou",
+        "Zuheng Ming",
+        "Alice Othmani"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.10536v1",
+      "canonical_url": "https://arxiv.org/abs/2610.10648v1",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Modern language models undergo reinforcement learning with verifiable rewards (RLVR) on top of already-trained checkpoints. A key promise of RLVR is the discovery of new reasoning strategies. In principle, a model can sample novel ideas...",
-      "event_cluster_id": "da1c4a5b6e7a",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "da1c4a5b6e7ad57f7caf",
+      "description": "Alzheimer's disease prediction involves irregular visits, heterogeneous measurements and incomplete modalities. This study presents a multimodal multitask framework combining an adapted SFCN MRI encoder, four causal clinical...",
+      "event_cluster_id": "2ea25148f652",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "2ea25148f65293c30c9c",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-07T17:59:26Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-10-07T15:38:18Z",
+      "research_track": "medical_neuroimaging",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
+        "published within 48 hours",
+        "research relevance: Alzheimer, Alzheimer's disease, MRI",
+        "technical relevance: multimodal"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Decoupling Exploration from Optimization in RLVR",
-      "url": "https://arxiv.org/abs/2610.10536v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Mikey Watts",
-        "Yuchen Cui"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.10526v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-language-action models (VLAs) are strikingly sensitive to instruction phrasing and do not inherit the language robustness of the vision-language models they are built on. A one-word edit can move success by tens of points:...",
-      "event_cluster_id": "1892b3b22dee",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "1892b3b22deee9e036e0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-07T17:57:38Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Rephrase Before You Act: Characterizing and Mitigating Language Sensitivity in Vision-Language-Action Models",
-      "url": "https://arxiv.org/abs/2610.10526v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yinling Zhang",
-        "Langchen Liu",
-        "Dongbin Xiu",
-        "Xueyan Zou",
-        "Xu Kuang",
-        "Mengdi Wang",
-        "Shilong Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.10513v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Language-model agents are increasingly asked to carry out open-ended scientific research, yet their results are usually graded against a known answer, a rubric, or a language-model reviewer, none of which can tell whether a new...",
-      "event_cluster_id": "71271ab2e542",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "71271ab2e542e35dc565",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-07T17:52:52Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "SciExam for ENSO: Can AI Agents Build Climate Models?",
-      "url": "https://arxiv.org/abs/2610.10513v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yilun Hao",
-        "Krishna Sayana",
-        "Isabella Ye",
-        "James S Ren",
-        "Sukhdeep Sodhi",
-        "Craig Boutilier",
-        "Chuchu Fan"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.10507v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language models are increasingly applied to tasks grounded in long, heterogeneous information sources. Conventional Retrieval-Augmented Generation (RAG) relies on fixed similarity-based retrieval, while agentic variants adapt...",
-      "event_cluster_id": "45abe5eae007",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "45abe5eae007502b3bbd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-07T17:51:08Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent, RAG"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "RECAST: Learning to Compute the Right Context through Adaptive Evidence Routing",
-      "url": "https://arxiv.org/abs/2610.10507v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Python Song",
-        "Zhixuan Liang",
-        "Kelsey Fu",
-        "Mengdi Wang",
-        "Junfeng Yang",
-        "Shilong Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.10498v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Robot foundation models provide strong visuomotor control, yet their performance can degrade when object positions or task instructions change. Further improvements often require post-training on substantial robot data, which can be...",
-      "event_cluster_id": "50440c17c814",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "50440c17c81477da0a3d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-07T17:48:02Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "EmbodiedRSI: Active Continual Robot Learning Through Hypothesis-Guided Co-Evolution",
-      "url": "https://arxiv.org/abs/2610.10498v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Leakage-Controlled Multimodal Learning for Diagnosis and Progression Prediction in Alzheimer's Disease Research",
+      "url": "https://arxiv.org/abs/2610.10648v1"
     },
     {
       "also_covered_by": [],
@@ -1025,75 +1226,45 @@
       "url": "https://arxiv.org/abs/2610.09558v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses",
-      "cluster_sources": [
-        "Microsoft Research Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "7fdb639a7950",
-      "fetched_at": "2026-10-07T17:31:09Z",
-      "id": "7fdb639a795018181a7e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-07T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: training",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "microsoft_research",
-      "source_name": "Microsoft Research Blog",
-      "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
-      "url": "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Samrajya Thapa",
-        "Daniel J. Quest",
-        "Timothy L. Kline",
-        "Carrie L. Langstraat",
-        "Emanuel C. Trabuco",
-        "Wei Le"
+        "Jialei He",
+        "Enhe Liu",
+        "Sifan Song",
+        "Pengfei Jin",
+        "Jionglong Su",
+        "Hongbin Wang",
+        "Zhixiang Lu",
+        "Yanhao Huang"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.09031v1",
+      "canonical_url": "https://arxiv.org/abs/2610.12337v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Medical imaging models often operate as black boxes, limiting interpretability and systematic debugging. We introduce an easy-to-use, plug-and-play framework for concept-based interpretation and model refinement. By aligning a...",
-      "event_cluster_id": "356b6e5ace6c",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "356b6e5ace6c99912b3a",
+      "description": "Anatomical continuity provides complementary information for medical image restoration, but its use requires accounting for local anatomy and variations in slice sampling. We introduce ContiLNN, which augments two-dimensional restoration...",
+      "event_cluster_id": "6a508cf4e954",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "6a508cf4e9541a7523d0",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-06T19:31:42Z",
+      "published_at": "2026-10-08T17:13:32Z",
       "research_track": "medical_neuroimaging",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: medical imaging"
+        "published within 24 hours",
+        "research relevance: medical image"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Beyond Explanation: Debugging Medical Imaging Models via Concept Intervention",
-      "url": "https://arxiv.org/abs/2610.09031v1"
+      "title": "ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration",
+      "url": "https://arxiv.org/abs/2610.12337v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/2026-usage-policy-update",
       "cluster_sources": [
@@ -1122,6 +1293,7 @@
       "url": "https://www.anthropic.com/news/2026-usage-policy-update"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/genesis-mission-commitment",
       "cluster_sources": [
@@ -1241,6 +1413,7 @@
       "url": "https://simonwillison.net/2026/Oct/7/jake-boggan"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -1303,13 +1476,43 @@
     },
     {
       "authors": [],
+      "canonical_url": "https://huggingface.co/blog/building-with-ml-intern",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "ffd281819637",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "ffd2818196374b7e8d98",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-08T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "The model that didn't exist, so you made it yourself",
+      "url": "https://huggingface.co/blog/building-with-ml-intern"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/tiiuae/falcon-asr",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "16b7810afb00",
-      "fetched_at": "2026-10-08T17:34:16Z",
+      "fetched_at": "2026-10-09T03:03:23Z",
       "id": "16b7810afb00bdc03cf9",
       "image_url": "",
       "is_breaking": false,
@@ -1329,151 +1532,15 @@
       "source_name": "Hugging Face Blog",
       "title": "Introducing Falcon ASR",
       "url": "https://huggingface.co/blog/tiiuae/falcon-asr"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Xingrui Gu",
-        "Hanxue Gu",
-        "Yuxiang Zhang",
-        "Yang Yang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.09194v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Longitudinal models forecast how a patient's imaging state evolves, but accuracy does not show whether the patient's observed trajectory drives the prediction. A population-average forecast may be useful but cannot establish a...",
-      "event_cluster_id": "ca380429e5e7",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "ca380429e5e73aeae451",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-06T22:45:39Z",
-      "research_track": "medical_neuroimaging",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "technical relevance: RAG"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Patient, Place, Prior (P$^3$): What Counts as Personalization in Medical World Models?",
-      "url": "https://arxiv.org/abs/2610.09194v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jaehoan Kim",
-        "Indrajit Ghosh",
-        "Debdeep Pati",
-        "Dipankar Bandyopadhyay"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.09452v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Conditional density estimation describes how the entire distribution of a response changes with covariates, and in imaging studies also with location. Logistic Gaussian processes (LGP) give a flexible prior for such densities. However,...",
-      "event_cluster_id": "93e072a1b7c2",
-      "fetched_at": "2026-10-08T02:52:34Z",
-      "id": "93e072a1b7c24391c045",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-07T05:08:58Z",
-      "research_track": "medical_neuroimaging",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Finite-Rank Logistic Gaussian Processes with Exact Likelihood for Conditional Density Estimation",
-      "url": "https://arxiv.org/abs/2610.09452v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/does-better-work-always-mean-better-workers",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "October 7, 2026",
-      "event_cluster_id": "5c27d8596f5d",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "5c27d8596f5d5debdcd5",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/BetterWork2-AverageRedliningScore.png",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-07T00:00:00Z",
-      "research_track": "",
-      "score": 6,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "October 7, 2026 Does better work always mean better workers?",
-      "url": "https://research.google/blog/does-better-work-always-mean-better-workers"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jianhai Zhang",
-        "Donghao Zhang",
-        "Pattarawut Charatpangoon",
-        "Bijoy Menon",
-        "M. Ethan MacDonald",
-        "Wu Qiu",
-        "Aravind Ganesh"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.09056v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "We develop a geometry-based capacity theory for exact-key retrieval in compressed finite-feature Hebbian associative memory. For random or approximately isotropic values, retrieval interference separates into finite-feature noise, which...",
-      "event_cluster_id": "429fbc67c8aa",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "429fbc67c8aa961df2a4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-06T20:07:53Z",
-      "research_track": "medical_neuroimaging",
-      "score": 6,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A Geometry-Based Capacity Theory for Finite-Feature Associative Memory",
-      "url": "https://arxiv.org/abs/2610.09056v1"
     }
   ],
   "date_label": "Friday, October 9, 2026",
-  "generated_at": "2026-10-08T17:34:16Z",
+  "generated_at": "2026-10-09T03:03:23Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 201,
-    "retained_items": 45,
+    "fetched_items": 199,
+    "retained_items": 47,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
