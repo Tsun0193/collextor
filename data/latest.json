@@ -72,45 +72,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Sol Lee",
-        "Hyunji Kim",
-        "Sungrae Hong",
-        "Donghee Han",
-        "Mun Yi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.11419v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Multimodal brain tumor segmentation typically leverages multiple MRI modalities, yet incomplete modality acquisition is common in clinical practice due to protocol heterogeneity and scan failures. Although recent methods maintain...",
-      "event_cluster_id": "ac2b148e1d86",
-      "fetched_at": "2026-10-09T03:03:23Z",
-      "id": "ac2b148e1d867e624b60",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-08T07:46:21Z",
-      "research_track": "medical_neuroimaging",
-      "score": 21,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: acquisition",
-        "research relevance: MRI",
-        "technical relevance: multimodal, RAG",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Missing Modality-Aware Calibration for Trustworthy Brain Tumor Segmentation",
-      "url": "https://arxiv.org/abs/2610.11419v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Ivan Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor",
@@ -142,6 +103,7 @@
       "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/9/deno-is-joining-cloudflare",
       "cluster_sources": [
@@ -309,74 +271,37 @@
       "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "MIT Technology Review Insights"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai",
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "Latent Space"
       ],
-      "description": "Industrial AI is entering a new phase. After decades of predictive analytics and other specialized applications, advances in foundation models, physical AI, and agentic AI are making it possible to automate more complex tasks across...",
-      "event_cluster_id": "c9f8263218d1",
-      "fetched_at": "2026-10-08T11:34:36Z",
-      "id": "c9f8263218d16e7752e2",
-      "image_url": "",
-      "is_breaking": true,
+      "description": "Wow.",
+      "event_cluster_id": "2e1397672f85",
+      "fetched_at": "2026-10-10T10:46:00Z",
+      "id": "2e1397672f85f38dce73",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!JxMf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2108594586310631424.jpg",
+      "is_breaking": false,
       "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-10-08T08:17:32Z",
+      "published_at": "2026-10-10T06:45:57Z",
       "research_track": "",
-      "score": 18,
+      "score": 17,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model, agent"
+        "major-event keyword: launch",
+        "long-read source"
       ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Building a safer path to autonomous industrial AI",
-      "url": "https://www.technologyreview.com/2026/10/08/1144020/building-a-safer-path-to-autonomous-industrial-ai"
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
+      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b"
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Chihun An",
-        "Ikbeom Jang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.11394v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Multimodal Alzheimer's disease (AD) diagnosis benefits from integrating heterogeneous clinical, imaging, genomic, and biomarker evidence, but clinical cohorts frequently suffer from irregular modality missingness. Existing fusion methods...",
-      "event_cluster_id": "8a755ed83f1a",
-      "fetched_at": "2026-10-09T03:03:23Z",
-      "id": "8a755ed83f1afe953dae",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-08T07:23:29Z",
-      "research_track": "medical_neuroimaging",
-      "score": 18,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: Alzheimer, Alzheimer's disease",
-        "technical relevance: multimodal",
-        "startup/product signal: product"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "CoPoE: Multimodal Fusion via Decomposable Disease-Coordinate Product-of-Experts for Missing-Modality Alzheimer's Diagnosis",
-      "url": "https://arxiv.org/abs/2610.11394v1"
-    },
-    {
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/10/the-new-york-times",
       "cluster_sources": [
@@ -503,37 +428,6 @@
       "source_name": "TechCrunch AI",
       "title": "China’s Manus raises over $500M in first funding round since split with Meta",
       "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "yay small models",
-      "event_cluster_id": "c07b5023822d",
-      "fetched_at": "2026-10-08T11:34:36Z",
-      "id": "c07b5023822db3bc0560",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!q_iv!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fpbs.substack.com%2Fmedia%2FHUDOG1Jb0AAHQ2I.jpg",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-08T07:27:51Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Claude Haiku 5.5 — better than GPT-6 Luna at the same pricing",
-      "url": "https://www.latent.space/p/ainews-claude-haiku-55-better-than"
     },
     {
       "also_covered_by": [],
@@ -736,6 +630,7 @@
       "url": "https://www.technologyreview.com/2026/10/08/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/biohub-deepmind",
       "cluster_sources": [
@@ -1131,37 +1026,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Jamie Condliffe"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "The story is a collaboration between MIT Technology Review and Aventine, a non-profit research foundation that creates and supports content about how technology and science are changing the way we live. A robot shaped like a human—white...",
-      "event_cluster_id": "93c31b5defc3",
-      "fetched_at": "2026-10-08T11:34:36Z",
-      "id": "93c31b5defc3d49a908d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-08T09:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "AI breakthroughs in robotics won’t change your life any time soon",
-      "url": "https://www.technologyreview.com/2026/10/08/1145923/ai-breakthroughs-in-robotics-wont-change-your-life-any-time-soon"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Sixu Chen",
         "Mingrui Yang",
         "Qiang Guan",
@@ -1193,40 +1057,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression",
       "url": "https://arxiv.org/abs/2610.12134v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ruibo Wen",
-        "Hang Shao",
-        "Yiming Lei"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.11153v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Fine-grained visual classification requires models to recognize subtle local traits while exposing the visual evidence behind their predictions. Class-specific attention pathways provide a natural basis for interpretable recognition, but...",
-      "event_cluster_id": "13929125074d",
-      "fetched_at": "2026-10-09T03:03:23Z",
-      "id": "13929125074d860a215f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-08T03:15:12Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "CARE: Constrained Attention Refinement for Fine-Grained Visual Classification via Teacher-Student Distillation",
-      "url": "https://arxiv.org/abs/2610.11153v1"
     },
     {
       "also_covered_by": [],
@@ -1264,12 +1094,12 @@
     }
   ],
   "date_label": "Saturday, October 10, 2026",
-  "generated_at": "2026-10-10T02:40:56Z",
+  "generated_at": "2026-10-10T10:46:00Z",
   "summary": {
     "duplicates_removed": 2,
     "failed_sources": 1,
-    "fetched_items": 203,
-    "retained_items": 38,
+    "fetched_items": 206,
+    "retained_items": 33,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
