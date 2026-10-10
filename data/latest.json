@@ -72,35 +72,79 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Ivan Mehta"
+        "Sol Lee",
+        "Hyunji Kim",
+        "Sungrae Hong",
+        "Donghee Han",
+        "Mun Yi"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor",
+      "canonical_url": "https://arxiv.org/abs/2610.11419v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Google’s new AI Edge Foresight app takes on Granola with an offline meeting note-taker that can transcribe conversations, generate notes, and answer questions using on-device AI.",
-      "event_cluster_id": "5a13e119ab15",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "5a13e119ab15417a5550",
+      "description": "Multimodal brain tumor segmentation typically leverages multiple MRI modalities, yet incomplete modality acquisition is common in clinical practice due to protocol heterogeneity and scan failures. Although recent methods maintain...",
+      "event_cluster_id": "ac2b148e1d86",
+      "fetched_at": "2026-10-09T03:03:23Z",
+      "id": "ac2b148e1d867e624b60",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-08T13:28:39Z",
-      "research_track": "",
-      "score": 20,
+      "published_at": "2026-10-08T07:46:21Z",
+      "research_track": "medical_neuroimaging",
+      "score": 21,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release",
-        "research relevance: PET"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: acquisition",
+        "research relevance: MRI",
+        "technical relevance: multimodal, RAG",
+        "startup/product signal: acquisition"
       ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Google releases a new local-first Granola competitor",
-      "url": "https://techcrunch.com/2026/10/08/google-releases-a-new-local-first-granola-competitor"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Missing Modality-Aware Calibration for Trustworthy Brain Tumor Segmentation",
+      "url": "https://arxiv.org/abs/2610.11419v1"
+    },
+    {
+      "authors": [
+        "Anam Hashmi",
+        "Mayug Maniparambil",
+        "Julia Dietlmeier",
+        "Kathleen M. Curran",
+        "Noel E. O'Connor"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.08109v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Cardiac magnetic resonance imaging reconstruction aims to recover high-quality images from undersampled acquisitions, enabling faster scans while preserving diagnostic fidelity. Recent reconstruction methods are typically trained from...",
+      "event_cluster_id": "edd073be8afb",
+      "fetched_at": "2026-10-07T02:40:28Z",
+      "id": "edd073be8afbf9534616",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-06T10:32:13Z",
+      "research_track": "medical_neuroimaging",
+      "score": 21,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, acquisition, training",
+        "research relevance: MRI",
+        "technical relevance: foundation model, serving",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Beyond Training from Scratch: Foundation Models for Data-Efficient and Generalizable Cardiac MRI Reconstruction",
+      "url": "https://arxiv.org/abs/2610.08109v1"
     },
     {
       "also_covered_by": [],
@@ -271,6 +315,39 @@
       "url": "https://techcrunch.com/2026/10/08/goodfire-says-its-new-inside-out-monitors-catch-rogue-ai-agents-at-a-fraction-of-the-cost"
     },
     {
+      "authors": [
+        "Richard MacManus"
+      ],
+      "canonical_url": "https://www.latent.space/p/standard-bots",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
+      "event_cluster_id": "9a2a489d753a",
+      "fetched_at": "2026-10-10T15:56:40Z",
+      "id": "9a2a489d753abcefd301",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!yzyh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58f7268-94a0-42f5-b0fc-9ecf300bb03d_2560x1440.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-10T14:04:11Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
+      "url": "https://www.latent.space/p/standard-bots"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
       "cluster_sources": [
@@ -399,39 +476,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Kate Park"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
-      "event_cluster_id": "8c1fc774e742",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "8c1fc774e74201011228",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-08T13:20:32Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: funding",
-        "startup/product signal: funding, API"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "China’s Manus raises over $500M in first funding round since split with Meta",
-      "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Julie Bort"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
@@ -461,6 +505,72 @@
       "source_name": "TechCrunch AI",
       "title": "Microsoft releases new Nvidia-chip AI PCs with revamped Windows 11",
       "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Ben Affleck is going viral for his deep knowledge of AI, from neural networks and transformers to open weights. The actor, who sold his AI filmmaking startup to Netflix earlier this year, is proving he's more than just a Hollywood star.",
+      "event_cluster_id": "b80f4c18cfa4",
+      "fetched_at": "2026-10-09T17:09:49Z",
+      "id": "b80f4c18cfa43dcf3d4e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-08T18:20:32Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: open weights",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Ben Affleck is an AI nerd, and the internet is impressed",
+      "url": "https://techcrunch.com/2026/10/08/ben-affleck-is-an-ai-nerd-and-the-internet-is-impressed"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The company behind the popular LMArena leaderboard has raised $200 million led by Lightspeed and Khosla, and is now measuring AI models on alignment issues such as lying.",
+      "event_cluster_id": "eff5c639f496",
+      "fetched_at": "2026-10-09T17:09:49Z",
+      "id": "eff5c639f496b787b390",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-08T18:19:45Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "startup/product signal: raised"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Popular AI leaderboard Arena nearly doubles valuation to $3.1B valuation in 10 months",
+      "url": "https://techcrunch.com/2026/10/08/popular-ai-leaderboard-arena-nearly-doubles-valuation-to-3-1b-valuation-in-10-months"
     },
     {
       "also_covered_by": [],
@@ -502,6 +612,37 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
       "url": "https://arxiv.org/abs/2610.12458v1"
+    },
+    {
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
+      "event_cluster_id": "2640e3ae8dcd",
+      "fetched_at": "2026-10-10T15:56:40Z",
+      "id": "2640e3ae8dcdb9be477d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-10T14:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Here are the top AI agents that can live in your text messages",
+      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages"
     },
     {
       "authors": [
@@ -991,115 +1132,15 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "ContiLNN: Mitigating Slice Sampling Discontinuity with Liquid Neural Networks for Medical Image Restoration",
       "url": "https://arxiv.org/abs/2610.12337v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI breakthroughs in robotics won’t change your life any time soon The hype around humanoid robots is..",
-      "event_cluster_id": "66f33d3c2978",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "66f33d3c297836e0e0d8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-08T12:10:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: AI roadblocks for humanoids and portable rubber dams",
-      "url": "https://www.technologyreview.com/2026/10/08/1146045/the-download-ai-roadblocks-humanoids-portable-rubber-dams"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sixu Chen",
-        "Mingrui Yang",
-        "Qiang Guan",
-        "Xiaojuan Li"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.12134v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Knee osteoarthritis (KOA) progression prediction can support patient monitoring, requiring the integration of multimodal data and multidomain expertise. Moreover, isolated risk estimates provide limited insight underlying a prediction....",
-      "event_cluster_id": "cceab53394ed",
-      "fetched_at": "2026-10-09T11:28:29Z",
-      "id": "cceab53394edf4fc85b4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-08T15:23:02Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: multimodal, agent"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression",
-      "url": "https://arxiv.org/abs/2610.12134v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Arman Adibi",
-        "Mohammadreza Maleki",
-        "Sanjeev Kulkarni",
-        "H. Vincent Poor"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.12200v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Classical CUSUM relies on the log-likelihood ratio of the underlying distributions, which cannot generally be computed from finite pre- and post-change samples alone. We propose diffusion-integrated score CUSUM (DI-SCUSUM), a...",
-      "event_cluster_id": "326ad1e29d76",
-      "fetched_at": "2026-10-09T11:28:29Z",
-      "id": "326ad1e29d765f0d22a9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-08T15:53:36Z",
-      "research_track": "medical_neuroimaging",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Quickest Change Detection with Diffusion-Integrated Scores",
-      "url": "https://arxiv.org/abs/2610.12200v1"
     }
   ],
   "date_label": "Saturday, October 10, 2026",
-  "generated_at": "2026-10-10T10:46:00Z",
+  "generated_at": "2026-10-10T15:56:40Z",
   "summary": {
     "duplicates_removed": 2,
     "failed_sources": 1,
     "fetched_items": 206,
-    "retained_items": 33,
+    "retained_items": 34,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
