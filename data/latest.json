@@ -220,6 +220,7 @@
       "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -283,37 +284,6 @@
       "source_name": "Latent Space",
       "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
       "url": "https://www.latent.space/p/standard-bots"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Wow.",
-      "event_cluster_id": "2e1397672f85",
-      "fetched_at": "2026-10-10T10:46:00Z",
-      "id": "2e1397672f85f38dce73",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!JxMf!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F__ss-rehost__tw-video-preview-13_2108594586310631424.jpg",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-10T06:45:57Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] TypeSafe/Jev at >$100M ARR, $7.5B valuation 3 weeks after launch",
-      "url": "https://www.latent.space/p/ainews-typesafejev-at-100m-arr-75b"
     },
     {
       "also_covered_by": [],
@@ -479,6 +449,38 @@
     },
     {
       "authors": [
+        "princejain756"
+      ],
+      "canonical_url": "https://github.com/princejain756/ctxvitals",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "73bbd5f04ee3",
+      "fetched_at": "2026-10-12T12:21:29Z",
+      "id": "hn-50055215",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-12T12:08:58Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Ctxvitals – a vitals check for your AI agent stack (npx ctxvitals)",
+      "url": "https://github.com/princejain756/ctxvitals"
+    },
+    {
+      "authors": [
         "vmatsiiako"
       ],
       "canonical_url": "https://github.com/hashicorp/boundary",
@@ -542,38 +544,7 @@
       "url": "https://github.com/plimsollmark/plimsoll"
     },
     {
-      "authors": [
-        "alentodorov"
-      ],
-      "canonical_url": "https://www.seodata.dev",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "a18432f068d9",
-      "fetched_at": "2026-10-12T02:37:32Z",
-      "id": "hn-50048892",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-11T22:56:59Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Seodata.dev (1.1) Free search data for AI agents",
-      "url": "https://www.seodata.dev"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -583,7 +554,7 @@
       ],
       "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
       "event_cluster_id": "2b537537572c",
-      "fetched_at": "2026-10-12T02:37:32Z",
+      "fetched_at": "2026-10-12T12:21:29Z",
       "id": "2b537537572cb2b2a4a9",
       "image_url": "",
       "is_breaking": false,
@@ -758,13 +729,13 @@
     }
   ],
   "date_label": "Monday, October 12, 2026",
-  "generated_at": "2026-10-12T02:37:32Z",
+  "generated_at": "2026-10-12T12:21:29Z",
   "summary": {
     "duplicates_removed": 2,
-    "failed_sources": 2,
-    "fetched_items": 189,
-    "retained_items": 23,
-    "successful_sources": 19
+    "failed_sources": 3,
+    "fetched_items": 173,
+    "retained_items": 22,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
