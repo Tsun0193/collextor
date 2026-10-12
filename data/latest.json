@@ -3,6 +3,75 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
+      "event_cluster_id": "a313f2017606",
+      "fetched_at": "2026-10-08T17:34:16Z",
+      "id": "a313f2017606e2230f38",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-08T14:00:00Z",
+      "research_track": "",
+      "score": 25,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "research relevance: PET",
+        "technical relevance: agent",
+        "startup/product signal: startup, raised"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
+      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup"
+    },
+    {
+      "authors": [
+        "chairmanlee8"
+      ],
+      "canonical_url": "https://liquidinference.ai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "e7ba2b24b444",
+      "fetched_at": "2026-10-09T17:09:49Z",
+      "id": "hn-50021354",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-09T14:52:04Z",
+      "research_track": "",
+      "score": 22,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "research relevance: PET",
+        "technical relevance: inference",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Liquid Inference – auto-routing to competitive LLM marketplace",
+      "url": "https://liquidinference.ai"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Sol Lee",
         "Hyunji Kim",
         "Sungrae Hong",
@@ -76,6 +145,36 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Beyond Training from Scratch: Foundation Models for Data-Efficient and Generalizable Cardiac MRI Reconstruction",
       "url": "https://arxiv.org/abs/2610.08109v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/12/python-3-15",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Python 3.15 is here ! Here's the essential What's new in Python 3.15 guide, this year curated by 3.14 and 3.15 release manager Hugo van Kemenade. As someone who builds open source software that works in every supported Python version, I...",
+      "event_cluster_id": "e8d8f43511a9",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "e8d8f43511a9291fb5e3",
+      "image_url": "https://static.simonwillison.net/static/2026/profiler-output.webp",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-12T18:15:38Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, open source",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
+      "url": "https://simonwillison.net/2026/Oct/12/python-3-15"
     },
     {
       "also_covered_by": [],
@@ -220,6 +319,38 @@
       "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card"
     },
     {
+      "authors": [
+        "Richard MacManus"
+      ],
+      "canonical_url": "https://www.latent.space/p/claude-dynamic-workflows",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "At AI Engineer New York, Anthropic drew on lessons from Unix and Linux to explain how agents can tackle bigger projects without overwhelming developers.",
+      "event_cluster_id": "e71374164f2c",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "e71374164f2cb1add8d9",
+      "image_url": "https://substack-post-media.s3.amazonaws.com/public/images/dda42c05-6ce1-4e54-b544-f7d1557f04b2_1280x720.jpeg",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-12T18:18:17Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "How Anthropic’s Dynamic Workflows Coordinate Claude Agents",
+      "url": "https://www.latent.space/p/claude-dynamic-workflows"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Anthony Ha"
@@ -255,39 +386,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Richard MacManus"
-      ],
-      "canonical_url": "https://www.latent.space/p/standard-bots",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Inside Standard Bots’ AI stack, pretrained models learn factory tasks from demonstrations and improve through corrections from real deployments.",
-      "event_cluster_id": "9a2a489d753a",
-      "fetched_at": "2026-10-10T15:56:40Z",
-      "id": "9a2a489d753abcefd301",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!yzyh!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fe58f7268-94a0-42f5-b0fc-9ecf300bb03d_2560x1440.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-10T14:04:11Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "Building AI for Reliable Execution: Lessons From Industrial Robotics",
-      "url": "https://www.latent.space/p/standard-bots"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Julie Bort"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11",
@@ -319,6 +417,7 @@
       "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Junkai Liu",
         "Le Zhang"
@@ -329,7 +428,7 @@
       ],
       "description": "Self-supervised learning on 3D medical images commonly relies on random sub-volume sampling during pretraining. However, random cropping implicitly treats all spatial regions as equally worth observing, despite anatomical priors and...",
       "event_cluster_id": "658a0b7b5599",
-      "fetched_at": "2026-10-12T02:37:32Z",
+      "fetched_at": "2026-10-12T19:58:31Z",
       "id": "658a0b7b5599d47981ec",
       "image_url": "",
       "is_breaking": false,
@@ -350,6 +449,100 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning",
       "url": "https://arxiv.org/abs/2610.13915v1"
+    },
+    {
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Where Muse Spark aimed to be a lightweight model that could perform at low latency, the Wonder models are larger and said to be more capable, with higher benchmark scores and better results on complex tasks like coding.",
+      "event_cluster_id": "1e2db47d258d",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "1e2db47d258dd52efadf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-12T17:56:56Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: release, model, benchmark"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta releases its first frontier model, Muse Wonder",
+      "url": "https://techcrunch.com/2026/10/12/meta-releases-its-first-frontier-model-muse-wonder"
+    },
+    {
+      "authors": [
+        "vishnukool"
+      ],
+      "canonical_url": "https://news.ycombinator.com/item?id=50059096",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "93481ec2e3a9",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "hn-50059096",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-12T16:46:34Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
+      "url": "https://news.ycombinator.com/item?id=50059096"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Microsoft president Brad Smith calls for urgent AI regulation, saying milk and washing machines have more oversight than AI companies.",
+      "event_cluster_id": "3280ed302a3e",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "3280ed302a3eecae2a95",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-12T15:31:19Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: regulation"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Microsoft president says UK is best placed to drive AI regulation",
+      "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
     },
     {
       "authors": [
@@ -416,86 +609,22 @@
       "url": "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Lauren Forristal"
+        "Bluestein"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "event_cluster_id": "2640e3ae8dcd",
-      "fetched_at": "2026-10-10T15:56:40Z",
-      "id": "2640e3ae8dcdb9be477d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-10T14:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/10/all-the-ai-agents-that-can-live-in-your-text-messages"
-    },
-    {
-      "authors": [
-        "princejain756"
-      ],
-      "canonical_url": "https://github.com/princejain756/ctxvitals",
+      "canonical_url": "https://learnbchs.org",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "73bbd5f04ee3",
-      "fetched_at": "2026-10-12T12:21:29Z",
-      "id": "hn-50055215",
+      "event_cluster_id": "8d89f38b4c3e",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "hn-50062036",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-12T12:08:58Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Ctxvitals – a vitals check for your AI agent stack (npx ctxvitals)",
-      "url": "https://github.com/princejain756/ctxvitals"
-    },
-    {
-      "authors": [
-        "vmatsiiako"
-      ],
-      "canonical_url": "https://github.com/hashicorp/boundary",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "a3f0b7b88993",
-      "fetched_at": "2026-10-12T02:37:32Z",
-      "id": "hn-50049498",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-12T00:02:45Z",
+      "published_at": "2026-10-12T19:52:54Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
@@ -508,72 +637,101 @@
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "HashiCorp archives the Boundary open source repo",
-      "url": "https://github.com/hashicorp/boundary"
+      "title": "BCHS is an open source software stack for web apps. BSD, C, httpd, SQLite",
+      "url": "https://learnbchs.org"
     },
     {
       "authors": [
-        "cagster"
+        "fhub"
       ],
-      "canonical_url": "https://github.com/plimsollmark/plimsoll",
+      "canonical_url": "https://news.ycombinator.com/item?id=50061936",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "b69ea5748fd3",
-      "fetched_at": "2026-10-12T02:37:32Z",
-      "id": "hn-50049388",
+      "event_cluster_id": "0141237712f2",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "hn-50061936",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-11T23:47:59Z",
+      "published_at": "2026-10-12T19:45:23Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
+        "research relevance: PET"
       ],
-      "section": "startup_product",
+      "section": "ai_engineering",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Plimsoll, a self-hosted sandbox for code your AI agent writes",
-      "url": "https://github.com/plimsollmark/plimsoll"
+      "title": "HN Feature Request: Option to hide repetitive AI complaints",
+      "url": "https://news.ycombinator.com/item?id=50061936"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Anthony Ha"
+        "Tim Fernholz"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas",
+      "canonical_url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "On Equity, we debate the impact of data center moratoriums and whether the AI industry has a communication problem.",
-      "event_cluster_id": "2b537537572c",
-      "fetched_at": "2026-10-12T12:21:29Z",
-      "id": "2b537537572cb2b2a4a9",
+      "description": "A Silicon Valley startup that uses weather balloons and AI to predict the weather won a U.S. military contract worth almost $50 million.",
+      "event_cluster_id": "5086a26c24b9",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "5086a26c24b9017fd585",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-11T16:52:33Z",
+      "published_at": "2026-10-12T17:19:14Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "major-event keyword: data center"
+        "published within 6 hours",
+        "startup/product signal: startup"
       ],
-      "section": "business_policy",
+      "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Can the AI industry persuade data center opponents by getting rid of NDAs?",
-      "url": "https://techcrunch.com/2026/10/11/can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas"
+      "title": "WindBorne wins a hefty US Air Force contract for its balloon data",
+      "url": "https://techcrunch.com/2026/10/12/windborne-wins-a-hefty-us-air-force-contract-for-its-balloon-data"
+    },
+    {
+      "authors": [
+        "Kirsten Korosec"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Blueprints AI, a bootstrapped startup based in Santa Monica, developed software that produces code-compliant construction blueprints from a photo, PDF, or sketch.",
+      "event_cluster_id": "de563f5e428a",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "de563f5e428af2e8e50b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-12T15:27:59Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "This AI startup says it can generate permit-ready blueprints in minutes",
+      "url": "https://techcrunch.com/2026/10/12/this-ai-startup-says-it-can-generate-permit-ready-blueprints-in-minutes"
     },
     {
       "also_covered_by": [],
@@ -664,78 +822,42 @@
       "url": "https://www.latent.space/p/nyc2026"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "TechCrunch Events"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream",
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Microsoft Research Blog"
       ],
-      "description": "TechCrunch Disrupt 2026 takes place October 13-15 in San Francisco. Over 300 startups will show what they’ve built to 10,000 tech leaders. Plus, 250+ speakers are ready to share insights across 200+ sessions. Register before doors open to..",
-      "event_cluster_id": "8ae1f3582524",
-      "fetched_at": "2026-10-10T15:56:40Z",
-      "id": "8ae1f35825243b102a50",
+      "description": "",
+      "event_cluster_id": "ca946f1238ba",
+      "fetched_at": "2026-10-12T19:58:31Z",
+      "id": "ca946f1238ba7f960eed",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-10T15:00:00Z",
+      "published_at": "2026-10-12T00:00:00Z",
       "research_track": "",
-      "score": 14,
+      "score": 8,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "startup/product signal: startup"
+        "medium source",
+        "published within 24 hours"
       ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "3 days to TechCrunch Disrupt 2026: Meet the startups before they hit mainstream",
-      "url": "https://techcrunch.com/2026/10/10/3-days-to-disrupt-2026-meet-the-startups-before-they-hit-mainstream"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Is Apple hoping to get into the AI-generated podcast business?",
-      "event_cluster_id": "498030eadd31",
-      "fetched_at": "2026-10-11T16:24:25Z",
-      "id": "498030eadd312a222ba1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-10T19:50:00Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Apple discloses deal to hire team and license tech from personalized podcast startup Huxe",
-      "url": "https://techcrunch.com/2026/10/10/apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-startup-huxe"
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Simulating student learning for better AI tutoring",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring"
     }
   ],
-  "date_label": "Monday, October 12, 2026",
-  "generated_at": "2026-10-12T12:21:29Z",
+  "date_label": "Tuesday, October 13, 2026",
+  "generated_at": "2026-10-12T19:58:31Z",
   "summary": {
     "duplicates_removed": 2,
-    "failed_sources": 3,
-    "fetched_items": 173,
-    "retained_items": 22,
-    "successful_sources": 18
+    "failed_sources": 1,
+    "fetched_items": 204,
+    "retained_items": 26,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
