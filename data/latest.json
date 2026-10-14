@@ -3,41 +3,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Zach Yadegari, the teen co-founder of popular Cal AI calorie tracking app, has launched a new personal AI agent startup that competes with Instinct, Muse, and Bee.",
-      "event_cluster_id": "a313f2017606",
-      "fetched_at": "2026-10-08T17:34:16Z",
-      "id": "a313f2017606e2230f38",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-08T14:00:00Z",
-      "research_track": "",
-      "score": 25,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "research relevance: PET",
-        "technical relevance: agent",
-        "startup/product signal: startup, raised"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Cal AI’s 19-year-old founder just raised $10M for his new AI startup",
-      "url": "https://techcrunch.com/2026/10/08/cal-ais-19-year-old-founder-just-raised-10m-for-his-new-ai-startup"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
@@ -71,44 +36,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Sol Lee",
-        "Hyunji Kim",
-        "Sungrae Hong",
-        "Donghee Han",
-        "Mun Yi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.11419v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Multimodal brain tumor segmentation typically leverages multiple MRI modalities, yet incomplete modality acquisition is common in clinical practice due to protocol heterogeneity and scan failures. Although recent methods maintain...",
-      "event_cluster_id": "ac2b148e1d86",
-      "fetched_at": "2026-10-09T03:03:23Z",
-      "id": "ac2b148e1d867e624b60",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-08T07:46:21Z",
-      "research_track": "medical_neuroimaging",
-      "score": 21,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: acquisition",
-        "research relevance: MRI",
-        "technical relevance: multimodal, RAG",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Missing Modality-Aware Calibration for Trustworthy Brain Tumor Segmentation",
-      "url": "https://arxiv.org/abs/2610.11419v1"
-    },
-    {
       "authors": [],
       "canonical_url": "https://www.latent.space/p/dyna",
       "cluster_sources": [
@@ -140,6 +67,117 @@
       "url": "https://www.latent.space/p/dyna"
     },
     {
+      "authors": [
+        "Milad Rostamian",
+        "Mohammadreza Mohammadi",
+        "Ender Konukoglu",
+        "Mohsen Soryani"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18571v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Different MRI modalities reveal different parts of a brain tumor. Segmentation models combine information from these modalities to outline tumor regions. Many models use a separate encoder for each modality. However, exchanging features...",
+      "event_cluster_id": "3892d580496a",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "3892d580496a699e44b0",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-13T15:39:20Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: MRI",
+        "technical relevance: multimodal"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Parameter-Efficient Multimodal Brain Tumor Segmentation With Stage-Wise Shared Adapters",
+      "url": "https://arxiv.org/abs/2610.18571v1"
+    },
+    {
+      "authors": [
+        "Parth Giramkar",
+        "Aryan Patle",
+        "Vanita Kshirsagar"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18556v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Deep learning for medical image restoration is often constrained by the need for paired training data. Acquiring perfectly registered clean-noisy radiographs in vivo is impractical due to patient motion and radiation-dose limits. To...",
+      "event_cluster_id": "2abb504093ac",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "2abb504093ac7bc6093a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-13T15:29:53Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: training",
+        "research relevance: medical image",
+        "technical relevance: self-supervised"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Denoise X: Self-Supervised U-Net for Quantum Mottle Suppression in Chest Radiography",
+      "url": "https://arxiv.org/abs/2610.18556v1"
+    },
+    {
+      "authors": [
+        "Xi Zhu",
+        "Yijie Li",
+        "Xiaofan Wang",
+        "Wei Zhang",
+        "Huafu Chen",
+        "Ce Zhu",
+        "Fan Zhang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.17968v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Diffusion MRI (dMRI) probes water diffusion within the brain, providing unique information about tissue microstructure and white matter connectivity. High-quality dMRI enables advanced and accurate analyses but demands dense...",
+      "event_cluster_id": "7bbe4c90a304",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "7bbe4c90a3040fe9342c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-13T08:43:06Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model, acquisition",
+        "research relevance: MRI",
+        "technical relevance: foundation model",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "dMRI-F: A Foundation Model for Generalizable Diffusion MRI Analysis from Sparse Acquisitions",
+      "url": "https://arxiv.org/abs/2610.17968v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/12/python-3-15",
@@ -169,80 +207,6 @@
       "source_name": "Simon Willison",
       "title": "Hello Python 3.15, goodbye 3.10, and now I can use 3.11",
       "url": "https://simonwillison.net/2026/Oct/12/python-3-15"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Peter Kulits",
-        "Yiqing Xu",
-        "R. Kenny Jones",
-        "Cordelia Schmid",
-        "Jiajun Wu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.12452v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "We propose BrickBench, a benchmark for agentic text-conditioned LEGO-set design. Given a prompt, an agent is tasked with producing an assembly that not only satisfies semantic and design criteria, but that can also be physically built....",
-      "event_cluster_id": "ccff47e68b74",
-      "fetched_at": "2026-10-09T17:09:49Z",
-      "id": "ccff47e68b74d55af691",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-08T17:58:56Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "research relevance: PET",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "BrickBench: Evaluating Agentic Brick Design",
-      "url": "https://arxiv.org/abs/2610.12452v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Shadi Alijani",
-        "Fereshteh Aghaee Meibodi",
-        "Homayoun Najjaran"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.09392v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Reliable volumetric segmentation is critical for clinical diagnostics, yet foundation models such as MedSAM remain deterministic and lack calibrated uncertainty under distribution shift. Existing conformal prediction methods offer...",
-      "event_cluster_id": "135e60070b1a",
-      "fetched_at": "2026-10-08T02:52:34Z",
-      "id": "135e60070b1a966b83f8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-07T03:51:16Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: foundation model"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Quantifying Volumetric Risk: Class-Aware Asymmetric Weighted Conformal Prediction for 3D Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2610.09392v1"
     },
     {
       "also_covered_by": [],
@@ -311,39 +275,69 @@
       "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Chihun An",
-        "Ikbeom Jang"
+        "hoihoihoi"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.11394v1",
+      "canonical_url": "https://veecle.ai/chiplab",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Hacker News"
       ],
-      "description": "Multimodal Alzheimer's disease (AD) diagnosis benefits from integrating heterogeneous clinical, imaging, genomic, and biomarker evidence, but clinical cohorts frequently suffer from irregular modality missingness. Existing fusion methods...",
-      "event_cluster_id": "8a755ed83f1a",
-      "fetched_at": "2026-10-09T03:03:23Z",
-      "id": "8a755ed83f1afe953dae",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "0b059d718014",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "hn-50084365",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-08T07:23:29Z",
-      "research_track": "medical_neuroimaging",
-      "score": 18,
+      "published_at": "2026-10-14T08:43:42Z",
+      "research_track": "",
+      "score": 17,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "research relevance: Alzheimer, Alzheimer's disease",
-        "technical relevance: multimodal",
-        "startup/product signal: product"
+        "published within 6 hours",
+        "major-event keyword: chip",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "CoPoE: Multimodal Fusion via Decomposable Disease-Coordinate Product-of-Experts for Missing-Modality Alzheimer's Diagnosis",
-      "url": "https://arxiv.org/abs/2610.11394v1"
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Chiplab - Give your AI agent access to virtual hardware",
+      "url": "https://veecle.ai/chiplab"
+    },
+    {
+      "authors": [
+        "Latent.Space"
+      ],
+      "canonical_url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
+      "event_cluster_id": "43abc94dd1f0",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "43abc94dd1f0ca280d72",
+      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/akEqiXFo3GM",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-14T05:40:28Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: benchmark",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
+      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon"
     },
     {
       "also_covered_by": [],
@@ -572,81 +566,156 @@
       "url": "https://techcrunch.com/2026/10/07/microsoft-releases-new-nvidia-chip-ai-pcs-with-revamped-windows-11"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Junkai Liu",
-        "Le Zhang"
+        "Aimon Rahman",
+        "Joymallya Chakraborty",
+        "Vidit Bansal",
+        "Abhishek Dan"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.13915v1",
+      "canonical_url": "https://arxiv.org/abs/2610.18858v1",
       "cluster_sources": [
         "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Self-supervised learning on 3D medical images commonly relies on random sub-volume sampling during pretraining. However, random cropping implicitly treats all spatial regions as equally worth observing, despite anatomical priors and...",
-      "event_cluster_id": "658a0b7b5599",
-      "fetched_at": "2026-10-13T17:46:41Z",
-      "id": "658a0b7b5599d47981ec",
+      "description": "Multimodal large language models have advanced rapidly, but most remain optimized for single-image inputs. Multi-image reasoning is costly because each image adds many visual tokens, increasing encoding and attention demands. Existing...",
+      "event_cluster_id": "e71440553435",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "e714405534354bab515e",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-09T17:51:47Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: training",
-        "research relevance: medical image",
-        "technical relevance: serving, self-supervised"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Where to Look Matters: Rethinking Sub-Volume Sampling in 3D Medical Self-supervised Learning",
-      "url": "https://arxiv.org/abs/2610.13915v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Zhongyu Yang",
-        "Jiale Tao",
-        "Ruitao Chen",
-        "Zuhao Yang",
-        "Yingfang Yuan",
-        "Xueliang Zhao",
-        "Auden",
-        "Kai Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.12458v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Multimodal large language models (MLLMs) are rapidly evolving toward continuous audio--visual reasoning, creating an urgent need for evaluations that expose their capability limits. Audio--visual captioning is an ideal diagnostic task,...",
-      "event_cluster_id": "2946c56bd423",
-      "fetched_at": "2026-10-09T17:09:49Z",
-      "id": "2946c56bd42337af19dd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-08T17:59:21Z",
+      "published_at": "2026-10-13T17:59:24Z",
       "research_track": "multimodal_foundation",
       "score": 16,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
         "major-event keyword: model",
-        "technical relevance: multimodal, reasoning, evaluation",
+        "technical relevance: multimodal, reasoning",
         "startup/product signal: API"
       ],
       "section": "multimodal_foundation",
       "source_category": "research",
       "source_id": "arxiv_multimodal",
       "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning",
-      "url": "https://arxiv.org/abs/2610.12458v1"
+      "title": "Visual Tokens on Demand: Visual Budgeting for Scalable and Efficient Multi-Image Reasoning in Multimodal LLMs",
+      "url": "https://arxiv.org/abs/2610.18858v1"
     },
     {
+      "authors": [
+        "Michalis Pistos",
+        "Bartłomiej W. Papież"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18543v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Foundation models are increasingly used as feature extractors for downstream tasks with limited data, typically through representations obtained from their encoders. However, foundation models trained for structured tasks such as...",
+      "event_cluster_id": "16583174546f",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "16583174546fce3d5901",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-13T15:22:00Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model",
+        "startup/product signal: API"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Beyond the Encoder: Object-Centric Representations Emerging from Segmentation Foundation Models",
+      "url": "https://arxiv.org/abs/2610.18543v1"
+    },
+    {
+      "authors": [
+        "Ivana Janíčková",
+        "Yen Y. Tan",
+        "Thomas H. Helbich",
+        "Philipp Seeböck",
+        "Julieta Di Marco",
+        "Zsuzsanna Bago-Horvath",
+        "Ulrike Heber",
+        "Thomas Spiegel"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18110v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multimodal medical data captures complementary aspects of disease. It provides a comprehensive basis for diagnosis and the identification of biological associations linked to progression or treatment response. Established contrastive...",
+      "event_cluster_id": "74c58c7e9b94",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "74c58c7e9b9483dc06c2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-13T10:24:09Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: multimodal medical",
+        "technical relevance: multimodal"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "SYNPRED: A Synergistic Approach to Multimodal Learning for Clinical Prediction",
+      "url": "https://arxiv.org/abs/2610.18110v1"
+    },
+    {
+      "authors": [
+        "Gaurav Rudravaram",
+        "Lianrui Zuo",
+        "Ema Topolnjak",
+        "Michael E. Kim",
+        "Adam M. Saunders",
+        "Elyssa M. McMaster",
+        "Paula Trujillo",
+        "Ely E. Wesley"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.17401v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Incomplete field-of-view (FOV) diffusion MRI (dMRI) acquisitions compromise whole-brain white matter analysis by excluding brain regions from tractography and connectivity studies. While deep generative models for dMRI FOV extension have...",
+      "event_cluster_id": "b95dbd9a5dc9",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "b95dbd9a5dc9d6dd9ff3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-12T21:10:25Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model, acquisition",
+        "research relevance: MRI",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Generalizable field of view extension for diffusion MRI via conditional flow matching",
+      "url": "https://arxiv.org/abs/2610.17401v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Aisha Malik"
       ],
@@ -870,39 +939,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "vishnukool"
-      ],
-      "canonical_url": "https://news.ycombinator.com/item?id=50059096",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "93481ec2e3a9",
-      "fetched_at": "2026-10-12T19:58:31Z",
-      "id": "hn-50059096",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-12T16:46:34Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents",
-      "url": "https://news.ycombinator.com/item?id=50059096"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Rebecca Bellan"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation",
@@ -933,6 +969,7 @@
       "url": "https://techcrunch.com/2026/10/12/microsoft-president-says-uk-is-best-placed-to-drive-ai-regulation"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic",
       "cluster_sources": [
@@ -959,6 +996,221 @@
       "source_name": "Simon Willison",
       "title": "Redesigning source control at Anthropic",
       "url": "https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic"
+    },
+    {
+      "authors": [
+        "Bingxin Xu",
+        "Wenrui Bao",
+        "Xinxin Liu",
+        "Jiawei Zhou",
+        "Yuzhang Shang",
+        "Emilio Ferrara"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18874v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Agentic robotics places a large language model (LLM) agent in the robot control loop, where it composes perception, motion, and vision-language-action (VLA) tools under the guidance of a memory and thereby generalizes to new tasks...",
+      "event_cluster_id": "4e6f0a718a24",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "4e6f0a718a24ab39f7d4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-13T17:59:57Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "ChunkAct: Action Chunking for Agentic Robotics",
+      "url": "https://arxiv.org/abs/2610.18874v1"
+    },
+    {
+      "authors": [
+        "Mingxuan Yan",
+        "Litian Gong",
+        "Dihong Huang",
+        "Zhixu Li",
+        "Tianyu Zhang",
+        "Wenqian Zhang",
+        "Hefeifei Jiang",
+        "Peihao Li"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18869v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "How should demonstration quality be used during vision-language-action (VLA) pretraining to improve performance after target-task fine-tuning? We compare weighting, filtering, and conditioning across reward definitions and label...",
+      "event_cluster_id": "c1c68626cc1e",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "c1c68626cc1ea2e32042",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-13T17:59:52Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: benchmark, training",
+        "technical relevance: vision-language"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "What Matters in Quality-Aware VLA Pretraining: A Benchmark and Empirical Study",
+      "url": "https://arxiv.org/abs/2610.18869v1"
+    },
+    {
+      "authors": [
+        "Minghao Luo",
+        "Liang Chen"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18862v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Reasoning models achieve strong performance through long chains of thought (CoT), but often spend more tokens than needed to solve a problem. Existing ways to shorten the CoT require additional training for each model, add a fixed...",
+      "event_cluster_id": "2666d59a3a2b",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "2666d59a3a2bcda8a497",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-13T17:59:32Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning",
+      "url": "https://arxiv.org/abs/2610.18862v1"
+    },
+    {
+      "authors": [
+        "Sijie Zhao",
+        "Zeqi Zhou",
+        "Heli Qi",
+        "Xuanchao Fu",
+        "Zhuo Zheng",
+        "Junshi Xia",
+        "Junjue Wang",
+        "Weihao Xuan"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18845v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Earth observation (EO) models are still built by hand. For each new task, experts design a training recipe and tune it against a benchmark. We show that this loop can be handed to an agent. Any verifiable task can be cast as a harness...",
+      "event_cluster_id": "eff1a5c22897",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "eff1a5c228975911d9aa",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-13T17:57:51Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark, training",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "The Last Remote Sensing Model Built by Humans? Casting Any Earth Observation Task as Recursive Self-Improvement",
+      "url": "https://arxiv.org/abs/2610.18845v1"
+    },
+    {
+      "authors": [
+        "Andrea Yaoyun Cui",
+        "Hanyu Wang",
+        "Xinyi Wang",
+        "Bangzheng Li",
+        "Lin Zhang",
+        "Zhenggang Tang",
+        "Shyamal Buch",
+        "Dejia Xu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.18843v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Robot policies are expected to generalize across deployment environments, including variations in the robot itself: cameras are bumped and remounted, calibrations drift, controllers run at different rates, and end-effector pads wear...",
+      "event_cluster_id": "255aaf5e1cb7",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "255aaf5e1cb79a49ce4d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-13T17:57:18Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: vision-language"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "LIBERO-RIG: A Hardware-Setup Robustness Benchmark for Vision-Language-Action Models",
+      "url": "https://arxiv.org/abs/2610.18843v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/singapore-office-opening",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "",
+      "event_cluster_id": "241a0eb7150b",
+      "fetched_at": "2026-10-14T09:40:44Z",
+      "id": "241a0eb7150b75c2c4dd",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-14T00:00:00Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Oct 14, 2026 Announcements Anthropic opens Singapore office and signs MOU with the Government of Singapore",
+      "url": "https://www.anthropic.com/news/singapore-office-opening"
     },
     {
       "also_covered_by": [],
@@ -991,13 +1243,13 @@
     }
   ],
   "date_label": "Wednesday, October 14, 2026",
-  "generated_at": "2026-10-14T02:07:37Z",
+  "generated_at": "2026-10-14T09:40:44Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 3,
-    "fetched_items": 179,
-    "retained_items": 30,
-    "successful_sources": 18
+    "failed_sources": 1,
+    "fetched_items": 197,
+    "retained_items": 37,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
