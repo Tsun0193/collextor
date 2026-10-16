@@ -70,6 +70,78 @@
     },
     {
       "authors": [
+        "Sara Inácio",
+        "Hugo Proença",
+        "João C. Neves"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.21809v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Foundation models have shown significant potential across diverse fields and have been applied to medical imaging, but their robustness across patient populations remains unclear. In this work, we investigate foundation models' ability...",
+      "event_cluster_id": "c245bf73c5f2",
+      "fetched_at": "2026-10-16T09:13:38Z",
+      "id": "c245bf73c5f295955a54",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-15T12:57:08Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "research relevance: medical imaging",
+        "technical relevance: foundation model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "From Adults to Children: Benchmarking Foundation Models for Chest X-Ray Classification under Domain Shift",
+      "url": "https://arxiv.org/abs/2610.21809v1"
+    },
+    {
+      "authors": [
+        "Shrish Shrinath Vaidya",
+        "Gowthamaan Palani",
+        "Minmini Selvam",
+        "Gokulraja Srinivasaraja",
+        "Ganapathy Krishnamurthi"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.21794v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Despite the remarkable generalization capabilities of Large Language Models, generating clinically accurate and structured radiology reports from medical images remains a significant challenge. Current end-to-end approaches function as...",
+      "event_cluster_id": "a902664f7e1e",
+      "fetched_at": "2026-10-16T09:13:38Z",
+      "id": "a902664f7e1ea488ec5a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-15T12:46:06Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: agent"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MedPAO-VL: Interpretable and Protocol-Compliant Agent for Structured Radiology Report Generation",
+      "url": "https://arxiv.org/abs/2610.21794v1"
+    },
+    {
+      "authors": [
         "Islam Mesabah",
         "Sary Elmansoury",
         "Gerrit Großmann",
@@ -330,6 +402,37 @@
       "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Nick Cammarata out of nowhere with some major claims!",
+      "event_cluster_id": "fe88897c2a46",
+      "fetched_at": "2026-10-16T09:13:38Z",
+      "id": "fe88897c2a464af3e362",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!riZI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50483d29-b6d4-485b-b93a-5b6a14e29ce6_2028x1228.png",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-16T04:16:45Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "long-read source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
+      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -428,6 +531,7 @@
       "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sankalp Vaish",
         "Rishank Singh",
@@ -442,7 +546,7 @@
       ],
       "description": "Dementia affects millions of older adults worldwide, yet early detection remains difficult outside clinical settings. Traditional models primarily rely on text or voice-based responses, capturing only a limited view of human cognition...",
       "event_cluster_id": "86e3c72dff39",
-      "fetched_at": "2026-10-16T01:36:48Z",
+      "fetched_at": "2026-10-16T09:13:38Z",
       "id": "86e3c72dff39077c2d50",
       "image_url": "",
       "is_breaking": false,
@@ -464,110 +568,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Task-Centric Multimodal Learning for Cognitive Impairment Detection",
       "url": "https://arxiv.org/abs/2610.20906v1"
-    },
-    {
-      "authors": [
-        "Sankalp Vaish",
-        "Sumukh Veeramalla",
-        "Rishank Singh",
-        "Caroline Summerour",
-        "John A. Batsis",
-        "Xiaohui Liang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.20877v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Early detection of mild cognitive impairment remains a critical bottleneck in dementia care, demanding scalable tools capable of capturing subtle behavioral decay. To capture the subtle temporal changes of cognitive decline, we introduce...",
-      "event_cluster_id": "931a4563abfe",
-      "fetched_at": "2026-10-16T01:36:48Z",
-      "id": "931a4563abfe68641d1b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-14T20:08:01Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: dementia, mild cognitive impairment, MCI",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "CogDrift-4D: Hierarchical Multimodal Modeling of Temporal Behavioral Decay for MCI Detection",
-      "url": "https://arxiv.org/abs/2610.20877v1"
-    },
-    {
-      "authors": [
-        "hoihoihoi"
-      ],
-      "canonical_url": "https://veecle.ai/chiplab",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0b059d718014",
-      "fetched_at": "2026-10-14T09:40:44Z",
-      "id": "hn-50084365",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-14T08:43:42Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: chip",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Chiplab - Give your AI agent access to virtual hardware",
-      "url": "https://veecle.ai/chiplab"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Latent.Space"
-      ],
-      "canonical_url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Gemini 4 Argon went GA today, but we already gave it title story 2 weeks ago and most benchmarks, like CursorBench, simply independently confirm their claims.",
-      "event_cluster_id": "43abc94dd1f0",
-      "fetched_at": "2026-10-14T09:40:44Z",
-      "id": "43abc94dd1f0ca280d72",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/akEqiXFo3GM",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-14T05:40:28Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: benchmark",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] AI Engineer NYC: Gemini 4 Argon, Vals AI Benchmarks",
-      "url": "https://www.latent.space/p/ainews-ai-engineer-nyc-gemini-4-argon"
     },
     {
       "also_covered_by": [],
@@ -703,6 +703,7 @@
       "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/meta-muse-spark-open",
       "cluster_sources": [
@@ -710,7 +711,7 @@
       ],
       "description": "",
       "event_cluster_id": "ff0cf28c5d75",
-      "fetched_at": "2026-10-16T01:36:48Z",
+      "fetched_at": "2026-10-16T09:13:38Z",
       "id": "ff0cf28c5d7530571030",
       "image_url": "",
       "is_breaking": false,
@@ -830,6 +831,67 @@
     },
     {
       "authors": [
+        "pitifulsurround"
+      ],
+      "canonical_url": "https://news.ycombinator.com/item?id=50116016",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2dfb2ab9ae44",
+      "fetched_at": "2026-10-16T09:13:38Z",
+      "id": "hn-50116016",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-16T09:12:27Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Ask HN: Has anyone started using OpenAI Agents API",
+      "url": "https://news.ycombinator.com/item?id=50116016"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "138e9b7e7d97",
+      "fetched_at": "2026-10-16T09:13:38Z",
+      "id": "138e9b7e7d9747243aa5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-16T01:44:47Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: training"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+    },
+    {
+      "authors": [
         "aravindnatch"
       ],
       "canonical_url": "https://guessthellm.com",
@@ -859,6 +921,118 @@
       "source_name": "Hacker News",
       "title": "Show HN: Guess the LLM – read an answer and guess which model wrote it",
       "url": "https://guessthellm.com"
+    },
+    {
+      "authors": [
+        "Shuanglin Li",
+        "Jiaying Lin",
+        "Shuquan Ye"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.22360v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthesis. However, beyond visual fidelity, task-specific correctness grounded in 3D evidence remains a major challenge. We...",
+      "event_cluster_id": "7d478a4e4275",
+      "fetched_at": "2026-10-16T09:13:38Z",
+      "id": "7d478a4e4275ddfd570d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-15T17:59:01Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Grounding Generative Verification in 3D Content",
+      "url": "https://arxiv.org/abs/2610.22360v1"
+    },
+    {
+      "authors": [
+        "Jiachen Yao",
+        "Xiyuan Zhang",
+        "Annan Yu",
+        "Boran Han",
+        "Abdul Fatir Ansari",
+        "Shuai Zhang",
+        "Michael Bohlke-Schneider",
+        "Bernie Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.22358v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This...",
+      "event_cluster_id": "ec12d0795973",
+      "fetched_at": "2026-10-16T09:13:38Z",
+      "id": "ec12d079597390fea2a3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-15T17:58:45Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
+      "url": "https://arxiv.org/abs/2610.22358v1"
+    },
+    {
+      "authors": [
+        "Han Su",
+        "Meng Tian",
+        "Tianyu Huang",
+        "Mingyu Gao",
+        "Lennox Wei",
+        "Dongxu Li",
+        "Jianhua Han",
+        "Hang Xu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.22356v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual tokens, but aligning these features...",
+      "event_cluster_id": "0a97b8371551",
+      "fetched_at": "2026-10-16T09:13:38Z",
+      "id": "0a97b8371551f3adb904",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-15T17:58:15Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, VLM, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.22356v1"
     },
     {
       "authors": [
@@ -952,112 +1126,6 @@
       "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d"
     },
     {
-      "authors": [
-        "Marta Knežević",
-        "Seyed Parsa Neshaei",
-        "Jibril Frej",
-        "Vinitra Swamy",
-        "Tanja Käser"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.21604v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Scientific inquiry involves iterative cycles of exploration, hypothesis generation, and reasoning over observations to uncover relationships in complex systems. Large language models (LLMs) have demonstrated strong capabilities in...",
-      "event_cluster_id": "04b11079a186",
-      "fetched_at": "2026-10-16T01:36:48Z",
-      "id": "04b11079a186404a70ff",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T09:52:14Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Evaluating Inquiry Learning in LLM-Based Agents: Hypothesizing, Reasoning, and Exploration",
-      "url": "https://arxiv.org/abs/2610.21604v1"
-    },
-    {
-      "authors": [
-        "Kim Sung-Bin",
-        "Lee Jung-Mok",
-        "Jinwoo Jung",
-        "Oh Hyun-Bin",
-        "Hyeonggon Ryu",
-        "David Harwath",
-        "Tae-Hyun Oh"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.21588v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Audio-visual large language models (AV-LLMs) have made strong progress in multimodal understanding, yet most treat audio as monaural semantic content, limiting their ability to reason about where sounds originate and how they relate to...",
-      "event_cluster_id": "5f69239abb01",
-      "fetched_at": "2026-10-16T01:36:48Z",
-      "id": "5f69239abb0111045304",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T09:34:05Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Hear, Localize, and Reason: Spatially Aware Scene Understanding for Audio-Visual LLMs",
-      "url": "https://arxiv.org/abs/2610.21588v1"
-    },
-    {
-      "authors": [
-        "Mushir Akhtar"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.21581v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Mathematical agents are commonly evaluated by answer accuracy or proof acceptance. We introduce ClaimScope, a 72-task benchmark for auditing proposed claims through a verdict, scope, counterexample, and repair. Tasks cover...",
-      "event_cluster_id": "2b4b1005aba4",
-      "fetched_at": "2026-10-16T01:36:48Z",
-      "id": "2b4b1005aba4661eeae3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T09:29:02Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "ClaimScope: Label-Blind Witness Verification for Mathematical Claim Auditing",
-      "url": "https://arxiv.org/abs/2610.21581v1"
-    },
-    {
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
       "cluster_sources": [
@@ -1117,40 +1185,6 @@
       "url": "https://mistral.ai/news/timestral"
     },
     {
-      "authors": [
-        "Md Asif Akram",
-        "Arif Faisal",
-        "Sakir Hossain Faruque",
-        "Sharun Akter Khushbu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.21164v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Dementia severely impairs communication abilities and turns everyday conversations into challenging experiences. Individuals affected by dementia frequently struggle to express their thoughts or complete sentences, making it difficult...",
-      "event_cluster_id": "f52769514fa8",
-      "fetched_at": "2026-10-16T01:36:48Z",
-      "id": "f52769514fa82444ad51",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T03:24:24Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: dementia"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Automatic Sentence Completion Using Bengali Audio Speech with a Transformer-Based Early Speech Recognition System",
-      "url": "https://arxiv.org/abs/2610.21164v1"
-    },
-    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games",
@@ -1180,6 +1214,7 @@
       "url": "https://simonwillison.net/2026/Oct/14/ai-is-mass-decompiling-games"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
       "cluster_sources": [
@@ -1208,6 +1243,7 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/muse-spark-open",
       "cluster_sources": [
@@ -1215,7 +1251,7 @@
       ],
       "description": "",
       "event_cluster_id": "60629ba0f233",
-      "fetched_at": "2026-10-16T01:36:48Z",
+      "fetched_at": "2026-10-16T09:13:38Z",
       "id": "60629ba0f2339a9d66f7",
       "image_url": "",
       "is_breaking": false,
@@ -1237,6 +1273,7 @@
       "url": "https://pytorch.org/blog/muse-spark-open"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/an-update-on-independent-evaluators",
       "cluster_sources": [
@@ -1244,7 +1281,7 @@
       ],
       "description": "",
       "event_cluster_id": "c3f9aa1e97f3",
-      "fetched_at": "2026-10-16T01:36:48Z",
+      "fetched_at": "2026-10-16T09:13:38Z",
       "id": "c3f9aa1e97f35f2465d0",
       "image_url": "",
       "is_breaking": false,
@@ -1323,6 +1360,7 @@
       "url": "https://huggingface.co/blog/allenai/hiro-acev2"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/flux-3",
       "cluster_sources": [
@@ -1330,7 +1368,7 @@
       ],
       "description": "",
       "event_cluster_id": "eb67409897ed",
-      "fetched_at": "2026-10-16T01:36:48Z",
+      "fetched_at": "2026-10-16T09:13:38Z",
       "id": "eb67409897ed2136a753",
       "image_url": "",
       "is_breaking": false,
@@ -1351,6 +1389,7 @@
       "url": "https://huggingface.co/blog/flux-3"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
       "cluster_sources": [
@@ -1358,7 +1397,7 @@
       ],
       "description": "",
       "event_cluster_id": "467c8e42acb6",
-      "fetched_at": "2026-10-16T01:36:48Z",
+      "fetched_at": "2026-10-16T09:13:38Z",
       "id": "467c8e42acb6bdc9ebe7",
       "image_url": "",
       "is_breaking": false,
@@ -1380,13 +1419,13 @@
     }
   ],
   "date_label": "Friday, October 16, 2026",
-  "generated_at": "2026-10-16T01:36:48Z",
+  "generated_at": "2026-10-16T09:13:38Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 1,
-    "fetched_items": 194,
-    "retained_items": 42,
-    "successful_sources": 20
+    "failed_sources": 2,
+    "fetched_items": 182,
+    "retained_items": 43,
+    "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
 }
