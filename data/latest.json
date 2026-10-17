@@ -11,7 +11,7 @@
       ],
       "description": "According to Elorian's evaluations, Glimpse outperforms even GPT-6 Astra on scientific chart reasoning and short-form video captioning, with competitive results on other visual reasoning tasks.",
       "event_cluster_id": "75fa23d8834b",
-      "fetched_at": "2026-10-17T08:44:57Z",
+      "fetched_at": "2026-10-17T13:53:38Z",
       "id": "75fa23d8834b88f0cdaa",
       "image_url": "",
       "is_breaking": false,
@@ -143,82 +143,6 @@
       "url": "https://arxiv.org/abs/2610.21794v1"
     },
     {
-      "authors": [
-        "Islam Mesabah",
-        "Sary Elmansoury",
-        "Gerrit Großmann",
-        "Peter Neigel",
-        "Sebastian J. Vollmer"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.21573v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Decision trees can make vision-language model (VLM) classification interpretable by replacing a single prediction with a sequence of root-to-leaf questions. However, the accuracy cost of this greedy, non-backtracking procedure remains...",
-      "event_cluster_id": "8cdcf37f802e",
-      "fetched_at": "2026-10-16T01:36:48Z",
-      "id": "8cdcf37f802e1cde392c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-15T09:25:10Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: vision-language, VLM, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "MYOPIA: Understanding the Limits of Tree-Based Reasoning in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.21573v1"
-    },
-    {
-      "authors": [
-        "Sergio Burdisso",
-        "Esaú Villatoro-Tello",
-        "Dairazalia Sánchez-Cortés",
-        "Yanis Labrak",
-        "Jordi Luque",
-        "Milos Cernak",
-        "Petr Motlicek"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.21561v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language models (LLMs) deployed as conversational agents are increasingly expected to follow procedural logic. While factual hallucination has received extensive attention, a different failure mode has been overlooked: procedural...",
-      "event_cluster_id": "498f58c9b59b",
-      "fetched_at": "2026-10-16T01:36:48Z",
-      "id": "498f58c9b59b636af26a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-15T09:18:32Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents",
-      "url": "https://arxiv.org/abs/2610.21561v1"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Imen Bajar",
@@ -255,6 +179,39 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Quantifying privacy risks in foundation model representations of brain MRI",
       "url": "https://arxiv.org/abs/2610.20494v1"
+    },
+    {
+      "authors": [
+        "sardor_r1"
+      ],
+      "canonical_url": "https://github.com/SRKRZ23/vramkit",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "2c726fe0919e",
+      "fetched_at": "2026-10-17T13:53:38Z",
+      "id": "hn-50131035",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-17T13:32:41Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook",
+      "url": "https://github.com/SRKRZ23/vramkit"
     },
     {
       "also_covered_by": [],
@@ -356,39 +313,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Amazon-owned Bee has launched its first new AI devices since its acquisition, including an updated wearable and a credit-card-sized recorder that attaches to smartphones. The devices can summarize conversations, create to-do lists, and...",
-      "event_cluster_id": "a0dd901df9cb",
-      "fetched_at": "2026-10-15T15:18:38Z",
-      "id": "a0dd901df9cb7cea9e7f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-15T12:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch, acquisition",
-        "startup/product signal: acquisition, launches"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Amazon’s Bee launches two new personal AI devices, starting at $75",
-      "url": "https://techcrunch.com/2026/10/15/amazons-bee-launches-two-new-personal-ai-devices-starting-at-75"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Theresa Loconsolo"
       ],
       "canonical_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
@@ -397,7 +321,7 @@
       ],
       "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards..",
       "event_cluster_id": "bf815e64fedf",
-      "fetched_at": "2026-10-17T08:44:57Z",
+      "fetched_at": "2026-10-17T13:53:38Z",
       "id": "bf815e64fedf96f62911",
       "image_url": "",
       "is_breaking": false,
@@ -430,7 +354,7 @@
       ],
       "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards..",
       "event_cluster_id": "7cf2fb520322",
-      "fetched_at": "2026-10-17T08:44:57Z",
+      "fetched_at": "2026-10-17T13:53:38Z",
       "id": "7cf2fb5203224340531f",
       "image_url": "",
       "is_breaking": false,
@@ -648,6 +572,7 @@
       "url": "https://github.com/bimal1023/agentfork"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
       "cluster_sources": [
@@ -716,7 +641,7 @@
       ],
       "description": "Listen to the session or watch below Can AI design new life forms? In 2025, Stanford University PhD student Samuel King came up with a preliminary answer when he used a generative AI model to propose genetic blueprints for microscopic...",
       "event_cluster_id": "e9e1470690b0",
-      "fetched_at": "2026-10-17T08:44:57Z",
+      "fetched_at": "2026-10-17T13:53:38Z",
       "id": "e9e1470690b03f8063d3",
       "image_url": "",
       "is_breaking": false,
@@ -736,38 +661,6 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "Roundtables: A Conversation With the Creator of AI-Designed Viruses",
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
-    },
-    {
-      "authors": [
-        "zeshama"
-      ],
-      "canonical_url": "https://anima.arcumet.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "4cbb27b29b45",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "hn-50118303",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-16T13:41:53Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, open source",
-        "startup/product signal: Show HN, open source"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Anima, interactive biology models from plain English (open source)",
-      "url": "https://anima.arcumet.com"
     },
     {
       "also_covered_by": [],
@@ -986,91 +879,83 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Shangheng Du",
+        "Jinxin Shi",
+        "Shuaiyu Zhang",
+        "Yiming Wu",
+        "Junpeng Zhao",
+        "Shiyang Feng",
+        "Xin Li",
+        "Liang He"
       ],
-      "description": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO The phrase \"told investors\" appears four times in this FT article, which reports on Anthropic's day of hosting investors on Wednesday. Lots of details in...",
-      "event_cluster_id": "e58311dcd137",
-      "fetched_at": "2026-10-15T15:18:38Z",
-      "id": "e58311dcd1376969cb59",
+      "canonical_url": "https://arxiv.org/abs/2610.22344v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvement (RSI)....",
+      "event_cluster_id": "4d248e47d080",
+      "fetched_at": "2026-10-16T14:58:50Z",
+      "id": "4d248e47d080d7f8ce87",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-15T13:04:03Z",
-      "research_track": "",
+      "published_at": "2026-10-15T17:56:32Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
-        "critical source",
-        "published within 6 hours"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Anthropic tells investors quarterly revenue up nearly 50% to $16.8bn ahead of IPO",
-      "url": "https://simonwillison.net/2026/Oct/15/anthropic-tells-investors"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
+      "url": "https://arxiv.org/abs/2610.22344v1"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d",
+      "authors": [
+        "Hongchang Liu",
+        "Jian Liu",
+        "Yujuan Ding",
+        "Liang Peng",
+        "Xun Jiang",
+        "Fei Ma",
+        "Xing Xu",
+        "Yi Bin"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.22343v1",
       "cluster_sources": [
-        "Latent Space"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Sandboxes are all you need.",
-      "event_cluster_id": "2a289299a4bd",
-      "fetched_at": "2026-10-15T15:18:38Z",
-      "id": "2a289299a4bd88c46601",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/J-smU_ImO5g",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-15T10:08:08Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Modal’s $1B ARR, $16B Series D makes it NYC’s newest AI Infra Decacorn, 3x usage and 3x valuation in 5 months, 15x in 1 yr",
-      "url": "https://www.latent.space/p/ainews-modals-1b-arr-16b-series-d"
-    },
-    {
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "39052ad94a8a",
-      "fetched_at": "2026-10-15T15:18:38Z",
-      "id": "39052ad94a8a76cc68a2",
+      "description": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles scene dynamics with...",
+      "event_cluster_id": "439fd5a09ddf",
+      "fetched_at": "2026-10-16T14:58:50Z",
+      "id": "439fd5a09ddffe918a29",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-15T09:08:45Z",
-      "research_track": "",
+      "published_at": "2026-10-15T17:56:18Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "major-event keyword: release"
+        "major-event keyword: model",
+        "technical relevance: foundation model"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Apertus 1.5 Release Notes",
-      "url": "https://huggingface.co/blog/swiss-ai/apertus-v15-release-notes"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
+      "url": "https://arxiv.org/abs/2610.22343v1"
     },
     {
       "also_covered_by": [],
@@ -1110,7 +995,7 @@
       ],
       "description": "October 16, 2026",
       "event_cluster_id": "9394bb5d588b",
-      "fetched_at": "2026-10-17T08:44:57Z",
+      "fetched_at": "2026-10-17T13:53:38Z",
       "id": "9394bb5d588b9fd80681",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
       "is_breaking": false,
@@ -1140,7 +1025,7 @@
       ],
       "description": "",
       "event_cluster_id": "eba601e60a18",
-      "fetched_at": "2026-10-17T08:44:57Z",
+      "fetched_at": "2026-10-17T13:53:38Z",
       "id": "eba601e60a1807fcccc1",
       "image_url": "",
       "is_breaking": false,
@@ -1162,12 +1047,12 @@
     }
   ],
   "date_label": "Saturday, October 17, 2026",
-  "generated_at": "2026-10-17T08:44:57Z",
+  "generated_at": "2026-10-17T13:53:38Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 197,
-    "retained_items": 35,
+    "fetched_items": 195,
+    "retained_items": 31,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
