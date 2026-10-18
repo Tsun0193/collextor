@@ -327,6 +327,7 @@
       "url": "https://arxiv.org/abs/2610.20494v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -390,37 +391,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook",
       "url": "https://github.com/SRKRZ23/vramkit"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Nick Cammarata out of nowhere with some major claims!",
-      "event_cluster_id": "fe88897c2a46",
-      "fetched_at": "2026-10-16T09:13:38Z",
-      "id": "fe88897c2a464af3e362",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!riZI!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F50483d29-b6d4-485b-b93a-5b6a14e29ce6_2028x1228.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-16T04:16:45Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "long-read source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Agents disprove Polysemanticity; greatly improve Interpretability & Alignment",
-      "url": "https://www.latent.space/p/ainews-agents-disprove-polysemanticity"
     },
     {
       "also_covered_by": [],
@@ -841,43 +811,41 @@
       "url": "https://www.technologyreview.com/2026/10/16/1146224/roundtables-a-conversation-with-the-creator-of-ai-designed-viruses"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "canonical_url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Simon Willison"
       ],
-      "description": "",
-      "event_cluster_id": "138e9b7e7d97",
-      "fetched_at": "2026-10-17T01:29:26Z",
-      "id": "138e9b7e7d9747243aa5",
+      "description": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline",
+      "event_cluster_id": "60deb4eddb49",
+      "fetched_at": "2026-10-18T09:00:42Z",
+      "id": "60deb4eddb490dcc038b",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-16T01:44:47Z",
+      "published_at": "2026-10-17T21:11:12Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: training"
+        "critical source",
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript"
     }
   ],
   "date_label": "Sunday, October 18, 2026",
-  "generated_at": "2026-10-18T01:28:50Z",
+  "generated_at": "2026-10-18T09:00:42Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 198,
-    "retained_items": 26,
+    "fetched_items": 191,
+    "retained_items": 25,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"

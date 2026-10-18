@@ -2,6 +2,97 @@
   "articles": [
     {
       "authors": [
+        "rebeccapowell"
+      ],
+      "canonical_url": "https://rebecca-powell.com/posts/meat-ai-universe-test-harness",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "3ac2195b3f07",
+      "fetched_at": "2026-10-18T09:00:42Z",
+      "id": "hn-50139275",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-18T09:00:20Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "The Universe as a Test Harness: Meat AI and God's Admin Panel",
+      "url": "https://rebecca-powell.com/posts/meat-ai-universe-test-harness"
+    },
+    {
+      "authors": [
+        "classified"
+      ],
+      "canonical_url": "https://abolish-ai.net/abolish-ai-a-manifesto",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "9d4061e543f9",
+      "fetched_at": "2026-10-18T09:00:42Z",
+      "id": "hn-50139072",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-18T08:20:45Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Abolish AI Manifesto (under construction)",
+      "url": "https://abolish-ai.net/abolish-ai-a-manifesto"
+    },
+    {
+      "authors": [
+        "critiquebrowser"
+      ],
+      "canonical_url": "https://sphinx-six-theta.vercel.app",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a8924e6a6192",
+      "fetched_at": "2026-10-18T09:00:42Z",
+      "id": "hn-50137950",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-18T04:33:49Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app"
+    },
+    {
+      "authors": [
         "SongWang"
       ],
       "canonical_url": "https://defuzex.ai/blog/what-500-minimax-code-tests-revealed-about-ai-saying-done",
@@ -279,6 +370,7 @@
       "url": "https://primerkit.ai"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -311,6 +403,35 @@
       "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Inline rendering with document​.currentScript Lean Rada describes a neat trick that takes advantage of the document.currentScript property. You can use that to drop in a tiny inline",
+      "event_cluster_id": "60deb4eddb49",
+      "fetched_at": "2026-10-18T09:00:42Z",
+      "id": "60deb4eddb490dcc038b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-17T21:11:12Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Inline rendering with document​.currentScript",
+      "url": "https://simonwillison.net/2026/Oct/17/document-currentscript"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -341,6 +462,7 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Kirsten Korosec, Lucas Ropek, Rebecca Bellan"
       ],
@@ -350,7 +472,7 @@
       ],
       "description": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
       "event_cluster_id": "f1da4b6eb4e4",
-      "fetched_at": "2026-10-18T01:28:50Z",
+      "fetched_at": "2026-10-18T09:00:42Z",
       "id": "f1da4b6eb4e4c122ec56",
       "image_url": "",
       "is_breaking": false,
@@ -10811,7 +10933,7 @@
       ],
       "description": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like...",
       "event_cluster_id": "ca946f1238ba",
-      "fetched_at": "2026-10-18T01:28:50Z",
+      "fetched_at": "2026-10-18T09:00:42Z",
       "id": "ca946f1238ba7f960eed",
       "image_url": "",
       "is_breaking": false,
@@ -19426,149 +19548,7 @@
       "source_name": "Hacker News",
       "title": "Claude Code’s suggested message feature: I think the real customer is the model",
       "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature"
-    },
-    {
-      "authors": [
-        "Mingju Gao",
-        "Qingle Liu",
-        "Yuzhao Peng",
-        "Xinjie Lin",
-        "Ziming Qin",
-        "Zheng Jiang",
-        "Wenyi Li",
-        "Calvin Xiao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.08791v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Video world models can produce visually convincing yet physically inconsistent sequences, raising concerns about their reliability for prediction and planning in embodied AI systems. Existing evaluations often rely on model-based...",
-      "event_cluster_id": "9462b5f9e418",
-      "fetched_at": "2026-10-07T02:40:28Z",
-      "id": "9462b5f9e418112302cb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-06T17:59:56Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "World Models' Last Exam in Physics",
-      "url": "https://arxiv.org/abs/2610.08791v1"
-    },
-    {
-      "authors": [
-        "Shiqi Li",
-        "Sean Cho",
-        "Yijie Li",
-        "Fengzhi Guo",
-        "Bowen Wen",
-        "Cheng Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.08782v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Existing methods for 4D hand-object reconstruction often rely on costly per-sequence optimization, while generative approaches typically synthesize interactions from random noise, which can lead to unstable interaction prediction. We...",
-      "event_cluster_id": "12708468232f",
-      "fetched_at": "2026-10-07T02:40:28Z",
-      "id": "12708468232f053e493c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-06T17:59:02Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction",
-      "url": "https://arxiv.org/abs/2610.08782v1"
-    },
-    {
-      "authors": [
-        "Jai Bardhan",
-        "Josef Sivic",
-        "Vladimir Petrik"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.08780v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "World models offer a data-driven alternative to traditional simulators for robotics, with applications spanning policy evaluation, improvement, and planning. All of these uses depend on faithful 3D geometry, yet current video-based world...",
-      "event_cluster_id": "229959c8ad1c",
-      "fetched_at": "2026-10-07T02:40:28Z",
-      "id": "229959c8ad1c28a707f9",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-06T17:59:00Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "DepthWorld: 3D World Model for Robot Manipulation",
-      "url": "https://arxiv.org/abs/2610.08780v1"
-    },
-    {
-      "authors": [
-        "Zhenghong Zhou",
-        "Zhe Lin",
-        "Jiebo Luo",
-        "Yuqian Zhou"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.08779v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Current video editors can insert objects but often struggle to make them participate in interactions such as being picked up or manipulated. We introduce ALIVE, a framework that makes inserted objects \"alive\" through coherent...",
-      "event_cluster_id": "fd0b6ad347e5",
-      "fetched_at": "2026-10-07T02:40:28Z",
-      "id": "fd0b6ad347e5ca78dead",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-06T17:58:51Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing",
-      "url": "https://arxiv.org/abs/2610.08779v1"
     }
   ],
-  "generated_at": "2026-10-18T01:28:50Z"
+  "generated_at": "2026-10-18T09:00:42Z"
 }
