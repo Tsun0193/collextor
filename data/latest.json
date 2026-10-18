@@ -37,6 +37,40 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing at TechCrunch Disrupt's Startup...",
+      "event_cluster_id": "f0f1c2f3634e",
+      "fetched_at": "2026-10-13T17:46:41Z",
+      "id": "f0f1c2f3634e5356d16e",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-13T17:30:00Z",
+      "research_track": "",
+      "score": 22,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "research relevance: PET",
+        "technical relevance: agent",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
+      "url": "https://techcrunch.com/2026/10/13/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Ivan Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
@@ -143,6 +177,118 @@
       "url": "https://arxiv.org/abs/2610.21794v1"
     },
     {
+      "authors": [
+        "Islam Mesabah",
+        "Sary Elmansoury",
+        "Gerrit Großmann",
+        "Peter Neigel",
+        "Sebastian J. Vollmer"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.21573v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Decision trees can make vision-language model (VLM) classification interpretable by replacing a single prediction with a sequence of root-to-leaf questions. However, the accuracy cost of this greedy, non-backtracking procedure remains...",
+      "event_cluster_id": "8cdcf37f802e",
+      "fetched_at": "2026-10-16T01:36:48Z",
+      "id": "8cdcf37f802e1cde392c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-15T09:25:10Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: PET",
+        "technical relevance: vision-language, VLM, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "MYOPIA: Understanding the Limits of Tree-Based Reasoning in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.21573v1"
+    },
+    {
+      "authors": [
+        "Sergio Burdisso",
+        "Esaú Villatoro-Tello",
+        "Dairazalia Sánchez-Cortés",
+        "Yanis Labrak",
+        "Jordi Luque",
+        "Milos Cernak",
+        "Petr Motlicek"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.21561v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Large language models (LLMs) deployed as conversational agents are increasingly expected to follow procedural logic. While factual hallucination has received extensive attention, a different failure mode has been overlooked: procedural...",
+      "event_cluster_id": "498f58c9b59b",
+      "fetched_at": "2026-10-16T01:36:48Z",
+      "id": "498f58c9b59b636af26a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-15T09:18:32Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: PET",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents",
+      "url": "https://arxiv.org/abs/2610.21561v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Artin Tajdini",
+        "Manpreet Kaur",
+        "Peng Qi"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.20576v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Post-training binds the competence of an LLM agent to the interface it was trained on. Semantics-preserving perturbations of that interface, such as renaming an action or changing the notation, leave the underlying task unchanged yet...",
+      "event_cluster_id": "87801066b31d",
+      "fetched_at": "2026-10-15T15:18:38Z",
+      "id": "87801066b31d1a8d03c8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-14T17:56:06Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: training",
+        "research relevance: PET",
+        "technical relevance: agent, serving"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "One Task, Many Interfaces: Simple Cross-Interface Consistency Training Improves LLM Agent Robustness",
+      "url": "https://arxiv.org/abs/2610.20576v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Imen Bajar",
@@ -179,6 +325,38 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Quantifying privacy risks in foundation model representations of brain MRI",
       "url": "https://arxiv.org/abs/2610.20494v1"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+      "event_cluster_id": "5eb559e50fd7",
+      "fetched_at": "2026-10-18T01:28:50Z",
+      "id": "5eb559e50fd7886d16ab",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-17T21:31:32Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: training",
+        "startup/product signal: raised, API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns"
     },
     {
       "authors": [
@@ -280,39 +458,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Lauren Forristal"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The new shopping tool is available in the U.S. across Google Search and the Gemini app.",
-      "event_cluster_id": "8560a2cd1b5a",
-      "fetched_at": "2026-10-15T15:18:38Z",
-      "id": "8560a2cd1b5ad897d1f0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-15T14:29:33Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "startup/product signal: launches"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Google’s Universal Cart shopping tool launches in the US",
-      "url": "https://techcrunch.com/2026/10/15/googles-universal-cart-shopping-tool-launches-in-the-us"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Theresa Loconsolo"
       ],
       "canonical_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
@@ -375,6 +520,71 @@
       "source_name": "TechCrunch AI",
       "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
       "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The data comes from Vercel's AI gateway, a unified API service similar to OpenRouter.",
+      "event_cluster_id": "08ae3f1b7d83",
+      "fetched_at": "2026-10-17T13:53:38Z",
+      "id": "08ae3f1b7d83d7996372",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-16T15:33:49Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "startup/product signal: API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Jev is Vercel’s fastest-adopted AI model ever",
+      "url": "https://techcrunch.com/2026/10/16/jev-is-vercels-fastest-adopted-ai-model-ever"
+    },
+    {
+      "authors": [
+        "YaoAnthony"
+      ],
+      "canonical_url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "11340bc4775c",
+      "fetched_at": "2026-10-18T01:28:50Z",
+      "id": "hn-50136669",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-18T00:36:34Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
+      "url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs"
     },
     {
       "authors": [
@@ -540,38 +750,6 @@
       "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient"
     },
     {
-      "authors": [
-        "bkumal"
-      ],
-      "canonical_url": "https://github.com/bimal1023/agentfork",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5139c1ff054e",
-      "fetched_at": "2026-10-17T08:44:57Z",
-      "id": "hn-50128913",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-17T07:53:40Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Agentfork – Replay an LLM agent from any step and test fixes",
-      "url": "https://github.com/bimal1023/agentfork"
-    },
-    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
@@ -691,368 +869,15 @@
       "source_name": "Hugging Face Blog",
       "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
       "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/reflection-beam",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "c9a6184923cc",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "c9a6184923cc1a5837b4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-16T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
-      "url": "https://huggingface.co/blog/reflection-beam"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Shuanglin Li",
-        "Jiaying Lin",
-        "Shuquan Ye"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.22360v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Recent advances in multimodal large language models (MLLMs) and 3D generation have expanded 3D understanding and synthesis. However, beyond visual fidelity, task-specific correctness grounded in 3D evidence remains a major challenge. We...",
-      "event_cluster_id": "7d478a4e4275",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "7d478a4e4275ddfd570d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T17:59:01Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Grounding Generative Verification in 3D Content",
-      "url": "https://arxiv.org/abs/2610.22360v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jiachen Yao",
-        "Xiyuan Zhang",
-        "Annan Yu",
-        "Boran Han",
-        "Abdul Fatir Ansari",
-        "Shuai Zhang",
-        "Michael Bohlke-Schneider",
-        "Bernie Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.22358v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Time series foundation models are becoming increasingly popular for general-purpose forecasting. However, most leading models predict marginal quantiles, leaving the dependence structure of future trajectories unspecified. This...",
-      "event_cluster_id": "ec12d0795973",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "ec12d079597390fea2a3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T17:58:45Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "PathFM: Fast Generative Forecasting of Multivariate Trajectories",
-      "url": "https://arxiv.org/abs/2610.22358v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Han Su",
-        "Meng Tian",
-        "Tianyu Huang",
-        "Mingyu Gao",
-        "Lennox Wei",
-        "Dongxu Li",
-        "Jianhua Han",
-        "Hang Xu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.22356v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-language models still struggle to understand 3D spatial relations across views and update spatial judgments as the observer moves. A common approach fuses 3D reconstruction features into visual tokens, but aligning these features...",
-      "event_cluster_id": "0a97b8371551",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "0a97b8371551f3adb904",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T17:58:15Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, VLM, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "DK-VLM: Geometry as Position for Spatial Reasoning in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2610.22356v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Bowei Liu",
-        "Xinchen Zhang",
-        "Xuhuan Li",
-        "Tianlin Zhang",
-        "Kaian Jiang",
-        "Jingwei Liu",
-        "Congyang Zhao",
-        "Yifei Qian"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.22355v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Generative visual verifiers play a crucial role in advancing multimodal intelligence. To enhance the robustness of visual verifiers in complex multimodal scenarios involving compositional requirements, we move beyond conventional binary...",
-      "event_cluster_id": "04b856465a05",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "04b856465a05a2cd25f4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T17:58:04Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling",
-      "url": "https://arxiv.org/abs/2610.22355v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Shangheng Du",
-        "Jinxin Shi",
-        "Shuaiyu Zhang",
-        "Yiming Wu",
-        "Junpeng Zhao",
-        "Shiyang Feng",
-        "Xin Li",
-        "Liang He"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.22344v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Large language models (LLMs) are expanding from assisting scientific research and engineering to autonomously developing and improving AI systems, advancing AI for AI (AI4AI) as a pathway toward recursive self-improvement (RSI)....",
-      "event_cluster_id": "4d248e47d080",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "4d248e47d080d7f8ce87",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T17:56:32Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering",
-      "url": "https://arxiv.org/abs/2610.22344v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Hongchang Liu",
-        "Jian Liu",
-        "Yujuan Ding",
-        "Liang Peng",
-        "Xun Jiang",
-        "Fei Ma",
-        "Xing Xu",
-        "Yi Bin"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.22343v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Recent 3D world models increasingly use features from geometry foundation models (GFMs) as predictive world states, benefiting from their rich geometric priors. However, the view dependence of these features entangles scene dynamics with...",
-      "event_cluster_id": "439fd5a09ddf",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "439fd5a09ddffe918a29",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T17:56:18Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "GeoState: Learning View-Decoupled Geometry States for 3D World Modeling",
-      "url": "https://arxiv.org/abs/2610.22343v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "d33064359577",
-      "fetched_at": "2026-10-16T01:36:48Z",
-      "id": "d330643595776f9f542e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-15T20:34:01Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "October 16, 2026",
-      "event_cluster_id": "9394bb5d588b",
-      "fetched_at": "2026-10-17T13:53:38Z",
-      "id": "9394bb5d588b9fd80681",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AutonomousWetLabs_Cover.gif",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-16T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "October 16, 2026 Grounding AI agents in biological reality: Building blocks for autonomous wet labs General Science · Health & Bioscience · Robotics",
-      "url": "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/bringing-elastically-deterministic-data-loading-to-torchtitan-with-zephon",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "eba601e60a18",
-      "fetched_at": "2026-10-17T13:53:38Z",
-      "id": "eba601e60a1807fcccc1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-16T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Bringing Elastically Deterministic Data Loading to TorchTitan with Zephon",
-      "url": "https://pytorch.org/blog/bringing-elastically-deterministic-data-loading-to-torchtitan-with-zephon"
     }
   ],
-  "date_label": "Saturday, October 17, 2026",
-  "generated_at": "2026-10-17T13:53:38Z",
+  "date_label": "Sunday, October 18, 2026",
+  "generated_at": "2026-10-18T01:28:50Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 195,
-    "retained_items": 31,
+    "fetched_items": 198,
+    "retained_items": 26,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
