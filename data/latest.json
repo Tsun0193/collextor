@@ -293,6 +293,42 @@
       "url": "https://arxiv.org/abs/2610.20494v1"
     },
     {
+      "also_covered_by": [
+        "Mistral AI News"
+      ],
+      "authors": [
+        "groar"
+      ],
+      "canonical_url": "https://mistral.ai/news/timestral",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "370d8453b070",
+      "fetched_at": "2026-10-19T10:11:58Z",
+      "id": "hn-50150434",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-19T09:59:32Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: release, model",
+        "technical relevance: foundation model",
+        "covered by multiple configured sources"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Timestral: Mistral release time-series foundation models",
+      "url": "https://mistral.ai/news/timestral"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Anthony Ha"
@@ -357,6 +393,39 @@
       "source_name": "Hacker News",
       "title": "Show HN: Vramkit – lossless VRAM compression for LLM inference, on a MacBook",
       "url": "https://github.com/SRKRZ23/vramkit"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Meta and Apple have teamed up for the launch of the social media giant's newest model, Muse Spark Open, which will run locally on Apple silicon.",
+      "event_cluster_id": "8243c9a70d3f",
+      "fetched_at": "2026-10-16T01:36:48Z",
+      "id": "8243c9a70d3f19e15eb8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-15T20:04:53Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch, model, open-weight",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Meta launches an open-weight AI model that runs on Macs",
+      "url": "https://techcrunch.com/2026/10/15/meta-launches-an-open-weight-model-that-runs-on-macs"
     },
     {
       "also_covered_by": [],
@@ -426,6 +495,37 @@
     },
     {
       "authors": [
+        "Amit Katwala"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "What do AI agents do if you don’t tell them to do anything? The answer looks a lot like play. Researchers repeatedly stranded them alone on a virtual desert island for 30 hours in an experiment reminiscent of the movies Cast Away or Home...",
+      "event_cluster_id": "3d42f5bc85a7",
+      "fetched_at": "2026-10-19T10:11:58Z",
+      "id": "3d42f5bc85a72e6c5f67",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-19T09:08:05Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "AI researchers stranded Claude on a virtual desert island. It started to “play.”",
+      "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"
+    },
+    {
+      "authors": [
         "YaoAnthony"
       ],
       "canonical_url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs",
@@ -455,38 +555,6 @@
       "source_name": "Hacker News",
       "title": "We ran 53 open-source AI agents through behavioral tests and filed 37 bugs",
       "url": "https://defuzex.ai/blog/we-ran-53-open-source-ai-agents-through-behavioral-tests-and-filed-37-bugs"
-    },
-    {
-      "authors": [
-        "ghuntley"
-      ],
-      "canonical_url": "https://ghuntley.com/underclass",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "e3d731e23a26",
-      "fetched_at": "2026-10-17T08:44:57Z",
-      "id": "hn-50128995",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-17T08:09:56Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Pooling OpenAI subscriptions and bypassing regional inference capacity limits",
-      "url": "https://ghuntley.com/underclass"
     },
     {
       "also_covered_by": [
@@ -557,35 +625,35 @@
     },
     {
       "authors": [
-        "dom96"
+        "ggcr"
       ],
-      "canonical_url": "https://bench.killswitch-lang.org",
+      "canonical_url": "https://vllm-project.github.io/agentic-api",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "ba02c7da2678",
-      "fetched_at": "2026-10-18T14:07:36Z",
-      "id": "hn-50139549",
+      "event_cluster_id": "f8afea9c612a",
+      "fetched_at": "2026-10-19T10:11:58Z",
+      "id": "hn-50150518",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-18T09:53:06Z",
+      "published_at": "2026-10-19T10:11:33Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: benchmark",
-        "startup/product signal: Show HN"
+        "technical relevance: agent, vLLM",
+        "startup/product signal: API"
       ],
-      "section": "startup_product",
+      "section": "ai_engineering",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Benchmarking LLM ability to code in an adversarial language",
-      "url": "https://bench.killswitch-lang.org"
+      "title": "vLLM Agentic API",
+      "url": "https://vllm-project.github.io/agentic-api"
     },
     {
       "also_covered_by": [],
@@ -622,36 +690,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "a quiet day lets us pilot a new show",
-      "event_cluster_id": "66a8784860f5",
-      "fetched_at": "2026-10-17T08:44:57Z",
-      "id": "66a8784860f53e7737f3",
-      "image_url": "https://substackcdn.com/image/youtube/w_728,c_limit/ZOH8Q401vt0",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-17T07:47:38Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] High Taste Testers Ep. 1",
-      "url": "https://www.latent.space/p/ainews-high-taste-testers-ep-1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/17/document-currentscript",
       "cluster_sources": [
         "Simon Willison"
@@ -679,6 +717,7 @@
       "url": "https://simonwillison.net/2026/Oct/17/document-currentscript"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -740,6 +779,7 @@
       "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -749,7 +789,7 @@
       ],
       "description": "The filing also says that the “vast majority” of Character.AI employees who were offered jobs at Disney accepted them. However, this is a stalking horse bid, so another company could come forward with a higher offer.",
       "event_cluster_id": "71e1590c6c97",
-      "fetched_at": "2026-10-19T01:36:33Z",
+      "fetched_at": "2026-10-19T10:11:58Z",
       "id": "71e1590c6c971a337879",
       "image_url": "",
       "is_breaking": false,
@@ -770,6 +810,7 @@
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/public-benefit-fund",
       "cluster_sources": [
@@ -777,7 +818,7 @@
       ],
       "description": "",
       "event_cluster_id": "a0595c813318",
-      "fetched_at": "2026-10-19T01:36:33Z",
+      "fetched_at": "2026-10-19T10:11:58Z",
       "id": "a0595c813318ccae8c08",
       "image_url": "",
       "is_breaking": false,
@@ -799,12 +840,12 @@
     }
   ],
   "date_label": "Monday, October 19, 2026",
-  "generated_at": "2026-10-19T01:36:33Z",
+  "generated_at": "2026-10-19T10:11:58Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 197,
-    "retained_items": 24,
+    "fetched_items": 195,
+    "retained_items": 25,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
