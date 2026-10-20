@@ -108,6 +108,40 @@
     {
       "also_covered_by": [],
       "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
+      "event_cluster_id": "657188b4be63",
+      "fetched_at": "2026-10-16T14:58:50Z",
+      "id": "657188b4be634999a7ee",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-16T14:00:00Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: chip",
+        "technical relevance: RAG",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
+      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Aditya Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
@@ -116,7 +150,7 @@
       ],
       "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept...",
       "event_cluster_id": "ed940cd024f6",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "ed940cd024f6727677f8",
       "image_url": "",
       "is_breaking": false,
@@ -242,6 +276,38 @@
       "url": "https://mistral.ai/news/timestral"
     },
     {
+      "authors": [
+        "Kate Park"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "event_cluster_id": "05dce4322e45",
+      "fetched_at": "2026-10-20T15:20:36Z",
+      "id": "05dce4322e459d220d19",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-20T13:07:24Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
@@ -316,7 +382,7 @@
       ],
       "description": "Spatiotemporal forecasting of 3D anatomical changes is a critical generative vision challenge for modeling Alzheimer's Disease (AD) progression. While brain MRI forecasting from single-modality data has advanced, other key complementary...",
       "event_cluster_id": "ff6215cff78e",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "ff6215cff78e34cf10ad",
       "image_url": "",
       "is_breaking": false,
@@ -353,7 +419,7 @@
       ],
       "description": "Post-training compression of pretrained medical segmentation models commonly uses quantization, pruning, or distillation to reduce model size and computational cost. Existing medical segmentation quantization studies mainly evaluate...",
       "event_cluster_id": "2697cc5e8552",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "2697cc5e8552e9201e74",
       "image_url": "",
       "is_breaking": false,
@@ -379,38 +445,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "After drawing acquisition interest earlier this year, the Nvidia challenger raised $1.5 billion to remain independent.",
-      "event_cluster_id": "958a6b96d178",
-      "fetched_at": "2026-10-20T09:35:14Z",
-      "id": "958a6b96d1783a5bd35b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-19T18:37:27Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: open-weight, acquisition, chip",
-        "startup/product signal: raised, acquisition"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Tenstorrent hits $6.2B valuation to scale open-weight AI chips",
-      "url": "https://techcrunch.com/2026/10/19/tenstorrent-hits-6-2b-valuation-to-scale-open-weight-ai-chips"
-    },
-    {
-      "authors": [
         "Yu Zhou",
         "Cheng-Fu Yang",
         "Rui Sun",
@@ -426,7 +460,7 @@
       ],
       "description": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply...",
       "event_cluster_id": "e59dcd5a5c8f",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "e59dcd5a5c8f023706bf",
       "image_url": "",
       "is_breaking": false,
@@ -450,6 +484,7 @@
       "url": "https://arxiv.org/abs/2610.26860v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Abdullah Kavaklı",
         "Faik Boray Tek"
@@ -460,7 +495,7 @@
       ],
       "description": "Background: Existing dementia risk scores rely on fixed, pre-selected features and linear models, or ignore bias from informative missingness in cohort data. Here we introduce the Istanbul Technical University Dementia Risk Score...",
       "event_cluster_id": "733ba637480e",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "733ba637480e59fd9219",
       "image_url": "",
       "is_breaking": false,
@@ -483,6 +518,7 @@
       "url": "https://arxiv.org/abs/2610.26604v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Frank-Peter Schilling",
         "Daniel Barco",
@@ -518,6 +554,7 @@
       "url": "https://arxiv.org/abs/2610.26475v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Milad Rostamian",
         "Mohammadreza Mohammadi",
@@ -585,6 +622,67 @@
       "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "536f23cd94f1",
+      "fetched_at": "2026-10-20T15:20:36Z",
+      "id": "536f23cd94f139849c62",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T15:19:48Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
+      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
+    },
+    {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good...",
+      "event_cluster_id": "d2a2776b8cfa",
+      "fetched_at": "2026-10-20T15:20:36Z",
+      "id": "d2a2776b8cfaa901bcb9",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-20T12:10:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
+      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "ggcr"
       ],
@@ -617,6 +715,7 @@
       "url": "https://github.com/deepseek-ai/DeepInfer"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Michelle Kim"
       ],
@@ -777,6 +876,64 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "41fb25a47d12",
+      "fetched_at": "2026-10-20T15:20:36Z",
+      "id": "41fb25a47d12d204a957",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
+      "url": "https://huggingface.co/blog/anylanguagemodel-1-0"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/mps-pytorch-2-15",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "c2b4b68d7e00",
+      "fetched_at": "2026-10-20T15:20:36Z",
+      "id": "c2b4b68d7e0027f0e436",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "MPS in PyTorch 2.15",
+      "url": "https://huggingface.co/blog/mps-pytorch-2-15"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "James O'Donnell"
@@ -787,7 +944,7 @@
       ],
       "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites...",
       "event_cluster_id": "ad159791a7e2",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "ad159791a7e240b880a5",
       "image_url": "",
       "is_breaking": false,
@@ -809,6 +966,7 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tianqi Liu",
         "Hanfei Zhao",
@@ -825,7 +983,7 @@
       ],
       "description": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multimodal supervision....",
       "event_cluster_id": "60460504a8e9",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "60460504a8e9c2aeac9e",
       "image_url": "",
       "is_breaking": false,
@@ -848,6 +1006,7 @@
       "url": "https://arxiv.org/abs/2610.26855v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Heejeong Nam",
         "Divyat Mahajan",
@@ -861,7 +1020,7 @@
       ],
       "description": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliable, however, the...",
       "event_cluster_id": "b3e4981a9faf",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "b3e4981a9faf03b10fe1",
       "image_url": "",
       "is_breaking": false,
@@ -991,7 +1150,7 @@
       ],
       "description": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head,...",
       "event_cluster_id": "39de9490ca71",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "39de9490ca71f5b32d24",
       "image_url": "",
       "is_breaking": false,
@@ -1013,6 +1172,7 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yu Yu Chang",
         "Tzu-Hsuan Weng",
@@ -1050,6 +1210,36 @@
       "url": "https://arxiv.org/abs/2610.26404v1"
     },
     {
+      "authors": [
+        "TripleTen"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line....",
+      "event_cluster_id": "71337cf68638",
+      "fetched_at": "2026-10-20T15:20:36Z",
+      "id": "71337cf68638cffa3aa2",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-20T12:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "AI adoption by industry shows what other sectors can learn",
+      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/hf-torchneuron",
@@ -1058,7 +1248,7 @@
       ],
       "description": "",
       "event_cluster_id": "5c52b7d34bec",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "5c52b7d34becd1ccf770",
       "image_url": "",
       "is_breaking": false,
@@ -1090,7 +1280,7 @@
       ],
       "description": "",
       "event_cluster_id": "e519473a547a",
-      "fetched_at": "2026-10-20T09:35:14Z",
+      "fetched_at": "2026-10-20T15:20:36Z",
       "id": "epmc-PMC13669838",
       "image_url": "",
       "is_breaking": false,
@@ -1113,12 +1303,12 @@
     }
   ],
   "date_label": "Tuesday, October 20, 2026",
-  "generated_at": "2026-10-20T09:35:14Z",
+  "generated_at": "2026-10-20T15:20:36Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 201,
-    "retained_items": 33,
+    "fetched_items": 204,
+    "retained_items": 39,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
