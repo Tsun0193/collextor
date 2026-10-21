@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source",
       "cluster_sources": [
@@ -111,7 +112,7 @@
       ],
       "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
       "event_cluster_id": "f934cb40a046",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "f934cb40a0468190f365",
       "image_url": "",
       "is_breaking": false,
@@ -149,7 +150,7 @@
       ],
       "description": "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not identify the scene evidence underlying its inputs. NarraSpace links words and speech times to named picture elements...",
       "event_cluster_id": "661ddf44a405",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "661ddf44a4056a2ae363",
       "image_url": "",
       "is_breaking": false,
@@ -173,6 +174,7 @@
       "url": "https://arxiv.org/abs/2610.28616v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Spiros Maggioros",
         "Guray Erus",
@@ -188,7 +190,7 @@
       ],
       "description": "Deep learning models have become essential tools in medical imaging, yet training them end-to-end for diverse tasks remains challenging due to limited labeled data and computational constraints. To address this, we introduce Brain2Vec, a...",
       "event_cluster_id": "15ec2834cc25",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "15ec2834cc255097fa64",
       "image_url": "",
       "is_breaking": false,
@@ -212,6 +214,7 @@
       "url": "https://arxiv.org/abs/2610.28411v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yiqing Shen",
         "Mathias Unberath"
@@ -222,7 +225,7 @@
       ],
       "description": "Deep learning has become the default tool for medical image analysis, driven by the open-source movement. However, achieving the best performance on a given task remains difficult, with architecture selection and hyperparameter...",
       "event_cluster_id": "b0136c97c5d8",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "b0136c97c5d8061a27de",
       "image_url": "",
       "is_breaking": false,
@@ -246,6 +249,7 @@
       "url": "https://arxiv.org/abs/2610.28410v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Cecilia Diana-Albelda",
         "Fiona Kekwick",
@@ -462,42 +466,39 @@
       "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
     },
     {
-      "also_covered_by": [
-        "Mistral AI News"
-      ],
       "authors": [
-        "groar"
+        "Dan McAteer"
       ],
-      "canonical_url": "https://mistral.ai/news/timestral",
+      "canonical_url": "https://www.latent.space/p/claude-mods",
       "cluster_sources": [
-        "Hacker News"
+        "Latent Space"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "370d8453b070",
-      "fetched_at": "2026-10-19T10:11:58Z",
-      "id": "hn-50150434",
-      "image_url": "",
+      "description": "Claude Mods is an early form of the Attention Interface. It flips the agent harness paradigm from the harness facing the machine, to the harness facing the human.",
+      "event_cluster_id": "1cd487805b81",
+      "fetched_at": "2026-10-21T15:33:20Z",
+      "id": "1cd487805b8193f0c7f2",
+      "image_url": "https://substackcdn.com/image/fetch/$s_!Kjjn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fc61f4d99-31a9-4e4c-aa02-65e5b5db1799_1280x720.png",
       "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-19T09:59:32Z",
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-21T13:04:19Z",
       "research_track": "",
-      "score": 18,
+      "score": 17,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 6 hours",
-        "major-event keyword: release, model",
-        "technical relevance: foundation model",
-        "covered by multiple configured sources"
+        "technical relevance: agent",
+        "long-read source"
       ],
       "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Timestral: Mistral release time-series foundation models",
-      "url": "https://mistral.ai/news/timestral"
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Claude Mods: Flipping the Harness Inside Out",
+      "url": "https://www.latent.space/p/claude-mods"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/tenex",
       "cluster_sources": [
@@ -529,6 +530,38 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Anthropic is reportedly struggling to secure enough compute from cloud providers that increasingly view it as a competitor, even as its infrastructure spending balloons ahead of a planned November IPO.",
+      "event_cluster_id": "eacbe85de5f0",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "eacbe85de5f03673a4b6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-20T21:25:22Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic’s cloud partnerships are getting messy",
+      "url": "https://techcrunch.com/2026/10/20/anthropics-cloud-partnerships-are-getting-messy"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/pytorch-foundation-welcomes-nine-new-members-as-momentum-builds-around-open-source-ai-center-of-gravity",
       "cluster_sources": [
@@ -536,7 +569,7 @@
       ],
       "description": "",
       "event_cluster_id": "f2227f263ba3",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "f2227f263ba3b597383d",
       "image_url": "",
       "is_breaking": false,
@@ -598,7 +631,7 @@
       ],
       "description": "From GPU trading to physical settlement, independent markets, and programmable compute",
       "event_cluster_id": "1aa70594680b",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "1aa70594680b7e71ad22",
       "image_url": "",
       "is_breaking": false,
@@ -621,6 +654,7 @@
       "url": "https://www.latent.space/p/sfcompute2"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Edric Castel C. Hao",
         "Rez Samantha Z. Floresca"
@@ -707,7 +741,7 @@
       ],
       "description": "Object: Motion artefacts remain a major limitation of routine two-dimensional T2-weighted turbo spin-echo (TSE) brain MRI, reducing diagnostic confidence and often necessitating repeated acquisitions. MoSAIK (Motion Search with AI in...",
       "event_cluster_id": "c8bf99df00f9",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "c8bf99df00f90b66c94d",
       "image_url": "",
       "is_breaking": false,
@@ -965,6 +999,38 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents"
     },
     {
+      "authors": [
+        "skull8888888"
+      ],
+      "canonical_url": "https://news.ycombinator.com/item?id=50154029",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "6a23445afa18",
+      "fetched_at": "2026-10-19T17:08:04Z",
+      "id": "hn-50154029",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-19T16:00:18Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: launch, model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
+      "url": "https://news.ycombinator.com/item?id=50154029"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
@@ -1025,6 +1091,7 @@
       "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Noor Abo Mokh",
         "Teresa Lynn",
@@ -1041,7 +1108,7 @@
       ],
       "description": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Benchmark, the first manually curated...",
       "event_cluster_id": "dbffdd4f77d9",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "dbffdd4f77d971eb69ef",
       "image_url": "",
       "is_breaking": false,
@@ -1064,6 +1131,7 @@
       "url": "https://arxiv.org/abs/2610.28607v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Vasilii Feofanov",
         "Zhenghan Tai",
@@ -1076,7 +1144,7 @@
       ],
       "description": "TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by linear probing. Since then, the field...",
       "event_cluster_id": "f6d34145757a",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "f6d34145757a87992c82",
       "image_url": "",
       "is_breaking": false,
@@ -1107,7 +1175,7 @@
       ],
       "description": "",
       "event_cluster_id": "ef73bf2ace8a",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "ef73bf2ace8ac6719291",
       "image_url": "",
       "is_breaking": false,
@@ -1259,7 +1327,7 @@
       ],
       "description": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit...",
       "event_cluster_id": "d0f0045fb40f",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "d0f0045fb40f11c22501",
       "image_url": "https://static.simonwillison.net/static/2026/battledrones-v1.webp",
       "is_breaking": false,
@@ -1312,6 +1380,62 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "c2ed162a1577",
+      "fetched_at": "2026-10-21T15:33:20Z",
+      "id": "c2ed162a157709f5cb47",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T14:58:18Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "5c32755a71da",
+      "fetched_at": "2026-10-21T15:33:20Z",
+      "id": "5c32755a71da49edb4fe",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T12:51:24Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast"
+    },
+    {
       "authors": [
         "TripleTen"
       ],
@@ -1350,9 +1474,9 @@
       ],
       "description": "Research",
       "event_cluster_id": "4c6292fc5ecb",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "4c6292fc5ecba5f2e0a9",
-      "image_url": "https://mistral.ai/_astro/Thumbnail-Model-Voxtral_ojI3r.webp?dpl=6ad7d2609d879d2481cef4a7",
+      "image_url": "https://mistral.ai/_astro/Thumbnail-Model-Voxtral_ojI3r.webp?dpl=6ad8d5fd16f4ff6016bdfc9a",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
@@ -1380,7 +1504,7 @@
       ],
       "description": "",
       "event_cluster_id": "c034a4c64e00",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "c034a4c64e009d8724df",
       "image_url": "",
       "is_breaking": false,
@@ -1407,7 +1531,7 @@
       "canonical_url": "https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member",
       "description": "",
       "event_cluster_id": "c034a4c64e00",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "5fd4f225bfb0eccc7bd1",
       "image_url": "",
       "is_breaking": false,
@@ -1429,21 +1553,20 @@
       "url": "https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "canonical_url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Mistral AI News"
       ],
-      "description": "",
-      "event_cluster_id": "e8a8161ff834",
-      "fetched_at": "2026-10-21T09:32:09Z",
-      "id": "e8a8161ff83426ef4f6b",
-      "image_url": "",
+      "description": "Company",
+      "event_cluster_id": "856c26ca4c2d",
+      "fetched_at": "2026-10-21T15:33:20Z",
+      "id": "856c26ca4c2d04bcedc9",
+      "image_url": "https://mistral.ai/_astro/Linkedin-Partnership-nvidia_Z2ak9l2.webp?dpl=6ad8d5fd16f4ff6016bdfc9a",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-20T18:17:47Z",
+      "published_at": "2026-10-21T00:00:00Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
@@ -1451,40 +1574,11 @@
         "published within 24 hours"
       ],
       "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/hf-torchtpu",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "39e60f901a73",
-      "fetched_at": "2026-10-21T09:32:09Z",
-      "id": "39e60f901a735303e0c0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
-      "url": "https://huggingface.co/blog/hf-torchtpu"
+      "source_category": "official-lab",
+      "source_id": "mistral_news",
+      "source_name": "Mistral AI News",
+      "title": "Company Mistral Advances AI for Engineering with NVIDIA Mistral is collaborating with NVIDIA to develop a new generation of AI-native engineering workflows powered by NVIDIA accelerated computing. October 21, 2026 By Mistral",
+      "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
     },
     {
       "also_covered_by": [],
@@ -1495,7 +1589,7 @@
       ],
       "description": "",
       "event_cluster_id": "86bdd611f70b",
-      "fetched_at": "2026-10-21T09:32:09Z",
+      "fetched_at": "2026-10-21T15:33:20Z",
       "id": "86bdd611f70bddf92142",
       "image_url": "",
       "is_breaking": false,
@@ -1517,12 +1611,12 @@
     }
   ],
   "date_label": "Wednesday, October 21, 2026",
-  "generated_at": "2026-10-21T09:32:09Z",
+  "generated_at": "2026-10-21T15:33:20Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 189,
-    "retained_items": 46,
+    "fetched_items": 200,
+    "retained_items": 49,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
