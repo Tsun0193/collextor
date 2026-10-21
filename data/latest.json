@@ -106,38 +106,112 @@
       "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Ivan Mehta"
+        "Julie Bort"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods",
+      "canonical_url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Counterfeiters are getting better at replicating brands' marks and passing off dupes, known as \"superfakes,\" as genuine items. A startup called Veritas wants to tackle the problem with its own chip that verifies goods.",
-      "event_cluster_id": "657188b4be63",
-      "fetched_at": "2026-10-16T14:58:50Z",
-      "id": "657188b4be634999a7ee",
+      "description": "Google has joined Amazon in releasing a developer tool that makes it easy for PyTorch users to move their apps off Nvidia GPUs.",
+      "event_cluster_id": "f934cb40a046",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "f934cb40a0468190f365",
       "image_url": "",
       "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-16T14:00:00Z",
+      "published_at": "2026-10-20T18:38:24Z",
       "research_track": "",
-      "score": 20,
+      "score": 19,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: chip",
-        "technical relevance: RAG",
-        "startup/product signal: startup"
+        "published within 24 hours",
+        "major-event keyword: GPU",
+        "technical relevance: PyTorch",
+        "startup/product signal: developer tool"
       ],
       "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
-      "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods"
+      "title": "Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers",
+      "url": "https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers"
+    },
+    {
+      "also_covered_by": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "authors": [
+        "Jianfei Xu",
+        "Huizhi Liang",
+        "Judith Harrison",
+        "John-Paul Taylor",
+        "Jaume Bacardit",
+        "Varun Ojha"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.27941v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "AI-assisted dementia detection usually requires multimodal fusion of diverse data, such as clinical tabular assessments and neuroimaging data. However, most existing approaches perform feature fusion in Euclidean space. This overlooks...",
+      "event_cluster_id": "2635d48a422d",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "2635d48a422de8fd800e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-20T09:49:08Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: dementia, neuroimaging",
+        "technical relevance: multimodal",
+        "covered by multiple configured sources"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data",
+      "url": "https://arxiv.org/abs/2610.27941v1"
+    },
+    {
+      "authors": [
+        "Yuping Yan",
+        "Yaochu Jin"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.27644v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Federated optimization over heterogeneous multimodal data enables distributed institutions to collaboratively optimize a shared model using medical images, genomic profiles, clinical records, and physiological signals without...",
+      "event_cluster_id": "ec0ed82ac0ca",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "ec0ed82ac0cae9db5aa5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-20T05:04:19Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: multimodal"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Secure Multimodal Federated Optimization via Hierarchical DNA-Based Key Management",
+      "url": "https://arxiv.org/abs/2610.27644v1"
     },
     {
       "also_covered_by": [],
@@ -276,36 +350,35 @@
       "url": "https://mistral.ai/news/timestral"
     },
     {
-      "authors": [
-        "Kate Park"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/pytorch-foundation-welcomes-nine-new-members-as-momentum-builds-around-open-source-ai-center-of-gravity",
       "cluster_sources": [
-        "TechCrunch AI"
+        "PyTorch Blog"
       ],
-      "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "event_cluster_id": "05dce4322e45",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "05dce4322e459d220d19",
+      "description": "",
+      "event_cluster_id": "f2227f263ba3",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "f2227f263ba3b597383d",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-20T13:07:24Z",
+      "published_at": "2026-10-20T00:00:00Z",
       "research_track": "",
       "score": 17,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: security",
-        "startup/product signal: product"
+        "published within 48 hours",
+        "major-event keyword: open source",
+        "technical relevance: PyTorch",
+        "startup/product signal: open source"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems"
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "PyTorch Foundation Welcomes Nine New Members As Momentum Builds Around Open Source AI Center of Gravity",
+      "url": "https://pytorch.org/blog/pytorch-foundation-welcomes-nine-new-members-as-momentum-builds-around-open-source-ai-center-of-gravity"
     },
     {
       "also_covered_by": [],
@@ -338,109 +411,110 @@
       "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium",
+      "canonical_url": "https://www.latent.space/p/sfcompute2",
       "cluster_sources": [
-        "PyTorch Blog"
+        "Latent Space"
       ],
-      "description": "",
-      "event_cluster_id": "67255789a273",
-      "fetched_at": "2026-10-19T17:08:04Z",
-      "id": "67255789a2733335050b",
+      "description": "From GPU trading to physical settlement, independent markets, and programmable compute",
+      "event_cluster_id": "1aa70594680b",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "1aa70594680b7e71ad22",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-10-19T00:00:00Z",
+      "published_at": "2026-10-20T19:31:57Z",
       "research_track": "",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: introducing",
-        "technical relevance: PyTorch"
+        "major-event keyword: GPU, data center",
+        "long-read source"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Introducing TorchNeuron: Native PyTorch backend for AWS Trainium",
-      "url": "https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium"
+      "section": "business_policy",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
+      "url": "https://www.latent.space/p/sfcompute2"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Antonio Scardace",
-        "Silvia Ingala",
-        "Sebastiano Battiato",
-        "Daniele Ravì"
+        "Younghyun Kim",
+        "Wooseok Seo",
+        "Minseo Kim",
+        "Seunghyuk Oh",
+        "Minjae Lee",
+        "Donghoon Kim",
+        "Hyung Il Koo",
+        "Jaehyung Kim"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.25481v1",
+      "canonical_url": "https://arxiv.org/abs/2610.27889v1",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Spatiotemporal forecasting of 3D anatomical changes is a critical generative vision challenge for modeling Alzheimer's Disease (AD) progression. While brain MRI forecasting from single-modality data has advanced, other key complementary...",
-      "event_cluster_id": "ff6215cff78e",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "ff6215cff78e34cf10ad",
+      "description": "Recent studies in harness optimization have shown substantial performance gains in language model agents without updating model weights. A well-designed harness more effectively leverages the underlying model's capabilities by shaping...",
+      "event_cluster_id": "71b65957b51d",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "71b65957b51d64cee08f",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-18T19:09:40Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
+      "published_at": "2026-10-20T09:11:39Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
       "score_reasons": [
         "medium source",
-        "published within 48 hours",
+        "published within 24 hours",
         "major-event keyword: model",
-        "research relevance: Alzheimer, Alzheimer's disease, MRI",
-        "technical relevance: multimodal"
+        "technical relevance: agent, RAG",
+        "startup/product signal: API"
       ],
-      "section": "medical_neuroimaging",
+      "section": "multimodal_foundation",
       "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Multimodal-Conditioned Latent Diffusion Models for Spatiotemporal Brain MRI Forecasting",
-      "url": "https://arxiv.org/abs/2610.25481v1"
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Elicitation or Expansion? Demystifying Gains from Agent Harness Optimization",
+      "url": "https://arxiv.org/abs/2610.27889v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Sagar Kumar",
-        "Shailja Sharma",
-        "Tirthajit Baruah",
-        "Punit Rathore"
+        "Oscar Dabrowski",
+        "Abijith Jagannath",
+        "Frédéric Grouiller",
+        "Sébastien Courvoisier"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.25460v1",
+      "canonical_url": "https://arxiv.org/abs/2610.27156v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Post-training compression of pretrained medical segmentation models commonly uses quantization, pruning, or distillation to reduce model size and computational cost. Existing medical segmentation quantization studies mainly evaluate...",
-      "event_cluster_id": "2697cc5e8552",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "2697cc5e8552e9201e74",
+      "description": "Object: Motion artefacts remain a major limitation of routine two-dimensional T2-weighted turbo spin-echo (TSE) brain MRI, reducing diagnostic confidence and often necessitating repeated acquisitions. MoSAIK (Motion Search with AI in...",
+      "event_cluster_id": "c8bf99df00f9",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "c8bf99df00f90b66c94d",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-18T18:44:14Z",
+      "published_at": "2026-10-19T18:49:59Z",
       "research_track": "medical_neuroimaging",
-      "score": 17,
+      "score": 16,
       "score_reasons": [
         "medium source",
         "published within 48 hours",
-        "major-event keyword: model, training",
-        "research relevance: medical image",
-        "technical relevance: serving"
+        "major-event keyword: acquisition",
+        "research relevance: MRI",
+        "startup/product signal: acquisition"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Reliability-Preserving Compression for Deployable Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2610.25460v1"
+      "title": "MoSAIK: Motion Search with Artificial Intelligence in K-space",
+      "url": "https://arxiv.org/abs/2610.27156v1"
     },
     {
       "also_covered_by": [],
@@ -590,38 +664,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Theresa Loconsolo"
-      ],
-      "canonical_url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards..",
-      "event_cluster_id": "bf815e64fedf",
-      "fetched_at": "2026-10-17T13:53:38Z",
-      "id": "bf815e64fedf96f62911",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-16T16:30:00Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: safety",
-        "startup/product signal: product"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-      "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet"
-    },
-    {
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
       "cluster_sources": [
@@ -846,6 +888,165 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147095/ai-stranded-claude-virtual-desert-island-play"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "eMudhra Intermediate CA Compromise This is very, very bad news: The private keys of eight eMudhra intermediate CA certificates have been compromised. They chain to roots trusted by the Mozilla, Microsoft, Apple and Chrome root programs...",
+      "event_cluster_id": "28dc766197a7",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "28dc766197a743808dd5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T23:50:25Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "eMudhra Intermediate CA Compromise",
+      "url": "https://simonwillison.net/2026/Oct/20/emudhra-certificates"
+    },
+    {
+      "authors": [
+        "Anne Wilson"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Strokes leave 5 million people with long-term impairments each year, and a growing shortage of physical therapists makes it hard for them to get the care they need. A new approach tries to solve that problem by combining artificial...",
+      "event_cluster_id": "806cbc442e27",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "806cbc442e276faa926b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-20T21:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: API"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Robotic therapy for stroke patients",
+      "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/allenai/fairstress",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "ef73bf2ace8a",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "ef73bf2ace8ac6719291",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T16:09:19Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: evaluation"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "FairStress: A deeper evaluation of fairness in LLM decision-making",
+      "url": "https://huggingface.co/blog/allenai/fairstress"
+    },
+    {
+      "authors": [
+        "Jaeyoung Kim",
+        "Eunseok Kim",
+        "Dongsuk Jang",
+        "Seunghyun Kim"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.27943v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Subliminal learning is the phenomenon in which a model transmits its preferences to another model through data that do not explicitly express them. As models increasingly curate training data for other models, we ask whether this...",
+      "event_cluster_id": "bedbf7da604f",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "bedbf7da604fda80fa38",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T09:51:18Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: vision-language"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Near-Duplicate Image Selection Transfers Preferences in Vision-Language Models",
+      "url": "https://arxiv.org/abs/2610.27943v1"
+    },
+    {
+      "authors": [
+        "Jiahui Ning",
+        "Liang Chen",
+        "Yuchen Liang",
+        "Yi Zhang",
+        "Fenglei Fan"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.27913v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Model compression makes large language models deployable, but today's evaluation tells an incomplete story. Standard practice measures retained task performance and stops there. This misses a critical fact: compression perturbs the...",
+      "event_cluster_id": "039ddd60da91",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "039ddd60da910ed9d1dc",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T09:26:20Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: evaluation"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "ACE-Compression: An Ability-Centric Evaluation of Compressed Large Language Models",
+      "url": "https://arxiv.org/abs/2610.27913v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-not-much-happened-today-f09",
@@ -876,6 +1077,41 @@
       "url": "https://www.latent.space/p/ainews-not-much-happened-today-f09"
     },
     {
+      "authors": [
+        "Md Morshedul Islam",
+        "Hossain Shahriar",
+        "Alfredo Cuzzocrea"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.27470v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Federated learning (FL) is a distributed machine learning paradigm that reduces transmission costs, mitigates cross-border data sharing restrictions, and enhances privacy by keeping raw data on local devices. Clients in FL systems train...",
+      "event_cluster_id": "9f66617585fc",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "9f66617585fc413048c5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T01:41:12Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: medical imaging",
+        "technical relevance: serving"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Privacy-Preserving Personalized Federated Learning (PPP-FL) for Medical Imaging",
+      "url": "https://arxiv.org/abs/2610.27470v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
       "cluster_sources": [
@@ -905,6 +1141,7 @@
       "url": "https://huggingface.co/blog/anylanguagemodel-1-0"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/mps-pytorch-2-15",
       "cluster_sources": [
@@ -966,178 +1203,32 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Tianqi Liu",
-        "Hanfei Zhao",
-        "Qifeng Liang",
-        "Hui En Pang",
-        "Jiarui Xu",
-        "Sayang Mu",
-        "Penghao Qiu",
-        "YingSheng Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.26855v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "World models enable embodied agents to anticipate action consequences, yet jointly modeling locomotion and manipulation across diverse embodiments remains challenging due to heterogeneous action spaces and limited multimodal supervision....",
-      "event_cluster_id": "60460504a8e9",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "60460504a8e9c2aeac9e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-19T17:59:55Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal, agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
-      "url": "https://arxiv.org/abs/2610.26855v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Heejeong Nam",
-        "Divyat Mahajan",
-        "Quentin Le Lidec",
-        "Randall Balestriero",
-        "David Klindt"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.26844v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "The goal of a world model is to capture the dynamics of an environment. This has the great appeal that it allows agents to plan and simulate a course of actions with the help of a world model. For these uses to be reliable, however, the...",
-      "event_cluster_id": "b3e4981a9faf",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "b3e4981a9faf03b10fe1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-19T17:59:05Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "AnyGoal: On World Model Generalization Beyond Expert Rollouts",
-      "url": "https://arxiv.org/abs/2610.26844v1"
-    },
-    {
-      "authors": [
-        "Suxing Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.25978v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Multi-hop question answering (QA) requires models to chain intermediate conclusions while remaining cost-aware. Existing training-free self-reflective protocols (generate -> critique -> revise) improve accuracy but operate on a flat...",
-      "event_cluster_id": "e27913b653a4",
-      "fetched_at": "2026-10-20T02:01:58Z",
-      "id": "e27913b653a470d47a4a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-19T08:06:10Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "GraphEvoResearcher: Graph-Aware Training-Free Self-Reflective Reasoning for Cost-Bounded Multi-Hop Question Answering",
-      "url": "https://arxiv.org/abs/2610.25978v1"
-    },
-    {
-      "authors": [
-        "Xinyue Peng",
-        "Zhenlin Liang",
-        "Meng Cai",
-        "Hua Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.25970v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Chain-of-thought (CoT) reasoning can improve problem solving, but models often keep generating after the correct answer is already reachable; the extra steps raise serving costs and may replace a correct intermediate result with an...",
-      "event_cluster_id": "c7120c46bb50",
-      "fetched_at": "2026-10-20T02:01:58Z",
-      "id": "c7120c46bb50e62b6659",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-19T08:01:32Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning, serving"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "GLOBE: Geometry-Led Online Behavioral Early Exit via Unit-Sphere Trajectories",
-      "url": "https://arxiv.org/abs/2610.25970v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq",
+      "canonical_url": "https://simonwillison.net/2026/Oct/20/battledrones",
       "cluster_sources": [
-        "PyTorch Blog"
+        "Simon Willison"
       ],
-      "description": "",
-      "event_cluster_id": "fbdddd7a931b",
-      "fetched_at": "2026-10-19T17:08:04Z",
-      "id": "fbdddd7a931bf1451b7a",
-      "image_url": "",
+      "description": "My latest vibe coded game experiment is a Command & Conquer style RTS (Real Time Strategy) game called Battle Drones ( play it here ). Unlike my previous experiments , this one is actually fun to play . I'm somewhat embarrassed to admit...",
+      "event_cluster_id": "d0f0045fb40f",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "d0f0045fb40f11c22501",
+      "image_url": "https://static.simonwillison.net/static/2026/battledrones-v1.webp",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-19T00:00:00Z",
+      "published_at": "2026-10-20T19:34:19Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: PyTorch"
+        "critical source",
+        "published within 24 hours"
       ],
-      "section": "business_policy",
+      "section": "ai_engineering",
       "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "One Search, Two Layers: Compiler Controls Inside PyTorch Helion using NVIDIA CompileIQ",
-      "url": "https://pytorch.org/blog/one-search-two-layers-compiler-controls-inside-pytorch-helion-using-nvidia-compileiq"
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Battle Drones - a vibe coded RTS with audio-based multiplayer",
+      "url": "https://simonwillison.net/2026/Oct/20/battledrones"
     },
     {
       "also_covered_by": [],
@@ -1172,143 +1263,181 @@
       "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Yu Yu Chang",
-        "Tzu-Hsuan Weng",
-        "Youssef Mohamed Amin",
-        "Mohaned Ahmed Elsayed",
-        "Hung-Hsuan Chen",
-        "Min-Te Sun",
-        "Sherine Shawky"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.26404v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Referring Expression Comprehension (REC) localizes the image region described by a natural language expression, underpinning applications such as autonomous navigation, human-robot interaction, and medical image analysis. Under weak...",
-      "event_cluster_id": "167aab753805",
-      "fetched_at": "2026-10-20T09:35:14Z",
-      "id": "167aab753805dc52e74c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-19T13:43:46Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "LaMER: Language-Conditioned Multi-Expert Routing for Weakly Supervised Referring Expression Comprehension",
-      "url": "https://arxiv.org/abs/2610.26404v1"
-    },
-    {
-      "authors": [
-        "TripleTen"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line....",
-      "event_cluster_id": "71337cf68638",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "71337cf68638cffa3aa2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-20T12:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/hf-torchneuron",
+      "canonical_url": "https://mistral.ai/news/voxtral-3",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Mistral AI News"
       ],
-      "description": "",
-      "event_cluster_id": "5c52b7d34bec",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "5c52b7d34becd1ccf770",
-      "image_url": "",
+      "description": "Research",
+      "event_cluster_id": "4c6292fc5ecb",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "4c6292fc5ecba5f2e0a9",
+      "image_url": "https://mistral.ai/_astro/Thumbnail-Model-Voxtral_ojI3r.webp?dpl=6ad7d2609d879d2481cef4a7",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-19T00:00:00Z",
+      "published_at": "2026-10-20T00:00:00Z",
       "research_track": "",
       "score": 12,
       "score_reasons": [
         "high source",
         "published within 48 hours",
-        "major-event keyword: model"
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "mistral_news",
+      "source_name": "Mistral AI News",
+      "title": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
+      "url": "https://mistral.ai/news/voxtral-3"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/nebius-joins-the-pytorch-foundation-as-a-platinum-member",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "c034a4c64e00",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "c034a4c64e009d8724df",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Nebius Joins the PyTorch Foundation as a Platinum Member",
+      "url": "https://pytorch.org/blog/nebius-joins-the-pytorch-foundation-as-a-platinum-member"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member",
+      "description": "",
+      "event_cluster_id": "c034a4c64e00",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "5fd4f225bfb0eccc7bd1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "technical relevance: PyTorch"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Nscale Joins the PyTorch Foundation as a Platinum Member",
+      "url": "https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "e8a8161ff834",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "e8a8161ff83426ef4f6b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T18:17:47Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/hf-torchtpu",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "39e60f901a73",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "39e60f901a735303e0c0",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-20T00:00:00Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron"
+      "title": "Hugging Face ❤️ TorchTPU: TPUs, Natively",
+      "url": "https://huggingface.co/blog/hf-torchtpu"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Liu E, Cheng M, Ju Y, Ru Y, Liu Y, Min D."
-      ],
-      "canonical_url": "https://europepmc.org/article/PMC/PMC13669838",
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre",
       "cluster_sources": [
-        "Europe PMC - Medical AI and Neuroimaging"
+        "PyTorch Blog"
       ],
       "description": "",
-      "event_cluster_id": "e519473a547a",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "epmc-PMC13669838",
+      "event_cluster_id": "86bdd611f70b",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "86bdd611f70bddf92142",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-19T00:00:00Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
+      "published_at": "2026-10-20T00:00:00Z",
+      "research_track": "",
+      "score": 9,
       "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "research relevance: Alzheimer"
+        "high source",
+        "published within 48 hours"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "europe_pmc",
-      "source_name": "Europe PMC - Medical AI and Neuroimaging",
-      "title": "The application progress of artificial intelligence in the diagnosis of Alzheimer’s disease",
-      "url": "https://europepmc.org/article/PMC/PMC13669838"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "From KTIR to SpyreCode: An MLIR Dataflow Backend for IBM Spyre",
+      "url": "https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre"
     }
   ],
-  "date_label": "Tuesday, October 20, 2026",
-  "generated_at": "2026-10-20T15:20:36Z",
+  "date_label": "Wednesday, October 21, 2026",
+  "generated_at": "2026-10-21T01:57:28Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 1,
-    "fetched_items": 204,
-    "retained_items": 39,
+    "fetched_items": 194,
+    "retained_items": 44,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
