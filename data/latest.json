@@ -34,72 +34,40 @@
       "url": "https://www.latent.space/p/ainews-deepseek-deepinfer-open-source"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Rebecca Bellan"
+        "Hrishikesh Singh",
+        "Aarti Sharma",
+        "Divyanshu Kumar",
+        "Millie Pant"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world",
+      "canonical_url": "https://arxiv.org/abs/2610.29358v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "University of Michigan spinout Laplace Intelligence uses AI agents and interactive simulation to stress-test robots and self-driving vehicles before deployment. The profitable startup is competing in Startup Battlefield at TechCrunch...",
-      "event_cluster_id": "48afd38211c9",
-      "fetched_at": "2026-10-20T09:35:14Z",
-      "id": "48afd38211c9b19987c9",
+      "description": "Deep learning based models accurately delineate tumours on dynamic contrast-enhanced MRI (DCE-MRI), but segmentation masks alone do not provide the rationales or reasoning used by radiologists to assess the lesion suspicion. This limits...",
+      "event_cluster_id": "50a35e1977f2",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "50a35e1977f268e64efd",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-19T12:30:00Z",
-      "research_track": "",
-      "score": 21,
+      "published_at": "2026-10-21T07:50:20Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 24 hours",
-        "research relevance: PET",
-        "technical relevance: agent",
-        "startup/product signal: startup"
+        "major-event keyword: model",
+        "research relevance: MRI",
+        "technical relevance: reasoning"
       ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Laplace Intelligence red-teams robots and self-driving cars before they hit the real world",
-      "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "event_cluster_id": "bfa70917f3b1",
-      "fetched_at": "2026-10-19T17:08:04Z",
-      "id": "bfa70917f3b198d14601",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-19T15:37:09Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch, model, data center",
-        "technical relevance: agent",
-        "startup/product signal: launches"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Reading the Mask: Descriptor-Grounded BI-RADS Rationale Generation for Breast MRI Segmentation",
+      "url": "https://arxiv.org/abs/2610.29358v1"
     },
     {
       "also_covered_by": [],
@@ -366,106 +334,101 @@
       "url": "https://arxiv.org/abs/2610.27644v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
         "Aditya Mehta"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts",
+      "canonical_url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "OpenCode is an open source AI coding agent that's become a popular alternative to Claude Code and Cursor. But hackers got into part of its online platform and stole some users’ API keys, and the AI tools it turned to for help kept...",
-      "event_cluster_id": "ed940cd024f6",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "ed940cd024f6727677f8",
+      "description": "Startup Recursive has released Flint, a free, laptop-sized coding model built largely by its own AI research system, as an early test of AI that improves itself.",
+      "event_cluster_id": "e9fc027fe2ea",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "e9fc027fe2ea965dad45",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-19T19:28:34Z",
+      "published_at": "2026-10-21T20:27:41Z",
       "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: open source",
-        "technical relevance: agent",
-        "startup/product signal: API, open source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts",
-      "url": "https://techcrunch.com/2026/10/19/hackers-hit-ai-coding-tool-opencode-running-up-charges-on-users-ai-accounts"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Microsoft wants enterprises to closely watch the agents that employees use with systems not controlled by AI labs like OpenAI and Anthropic.",
-      "event_cluster_id": "fa2bb646c4b8",
-      "fetched_at": "2026-10-20T02:01:58Z",
-      "id": "fa2bb646c4b88b13d0bb",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-19T22:04:28Z",
-      "research_track": "",
-      "score": 18,
+      "score": 17,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: model",
+        "major-event keyword: launch, release, released",
+        "startup/product signal: startup, launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Recursive launches Flint, a laptop coding model it says was largely built by AI",
+      "url": "https://techcrunch.com/2026/10/21/recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
+      "event_cluster_id": "298ab808d891",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "298ab808d89166c7be15",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-21T19:30:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: introducing",
         "technical relevance: agent"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’",
-      "url": "https://techcrunch.com/2026/10/19/microsoft-says-ai-agents-are-like-insider-threats-as-frontier-models-cant-be-trusted"
+      "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+      "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "40a01666d562",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "40a01666d562060bfdf9",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-21T17:35:36Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization"
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "event_cluster_id": "4adb94a84a67",
-      "fetched_at": "2026-10-20T02:01:58Z",
-      "id": "4adb94a84a67ec0181f8",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-19T20:09:24Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: chip",
-        "technical relevance: PyTorch"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
-    },
-    {
       "authors": [
         "Dan McAteer"
       ],
@@ -562,65 +525,160 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/pytorch-foundation-welcomes-nine-new-members-as-momentum-builds-around-open-source-ai-center-of-gravity",
-      "cluster_sources": [
-        "PyTorch Blog"
+      "authors": [
+        "Julie Bort"
       ],
-      "description": "",
-      "event_cluster_id": "f2227f263ba3",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "f2227f263ba3b597383d",
+      "canonical_url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "OpenAI says it's adding Orchestra's team and technology to work on Rosalind, its AI model for life sciences research, and to its related Rosalind Workbench tool, a harness that aims to help researchers plan experiments and analyze results.",
+      "event_cluster_id": "70cbed806b5b",
+      "fetched_at": "2026-10-21T01:57:28Z",
+      "id": "70cbed806b5b38bf6725",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-20T00:00:00Z",
+      "published_at": "2026-10-20T20:35:10Z",
       "research_track": "",
       "score": 17,
       "score_reasons": [
         "high source",
-        "published within 48 hours",
-        "major-event keyword: open source",
-        "technical relevance: PyTorch",
-        "startup/product signal: open source"
+        "published within 6 hours",
+        "major-event keyword: model",
+        "startup/product signal: startup"
       ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "PyTorch Foundation Welcomes Nine New Members As Momentum Builds Around Open Source AI Center of Gravity",
-      "url": "https://pytorch.org/blog/pytorch-foundation-welcomes-nine-new-members-as-momentum-builds-around-open-source-ai-center-of-gravity"
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI acquires startup Orchestra Bio⁠ to beef up its biotech business",
+      "url": "https://techcrunch.com/2026/10/20/openai-acquires-startup-orchestra-bio%e2%81%a0-to-beef-up-its-biotech-business"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming",
-      "cluster_sources": [
-        "Simon Willison"
+      "authors": [
+        "Kate Park"
       ],
-      "description": "My obituary for programming Jeremy Scheff poignantly captures the key loss caused by coding agents for career programmers who enjoyed the puzzle of developing code: Programming turned into one of the greatest jobs you could imagine. You...",
-      "event_cluster_id": "efd79bd778da",
-      "fetched_at": "2026-10-20T02:01:58Z",
-      "id": "efd79bd778da1c28678a",
+      "canonical_url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "event_cluster_id": "05dce4322e45",
+      "fetched_at": "2026-10-20T15:20:36Z",
+      "id": "05dce4322e459d220d19",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-19T23:58:25Z",
+      "published_at": "2026-10-20T13:07:24Z",
       "research_track": "",
       "score": 17,
       "score_reasons": [
-        "critical source",
+        "high source",
         "published within 6 hours",
-        "technical relevance: agent"
+        "major-event keyword: security",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/21/php-security-release",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have...",
+      "event_cluster_id": "de377fdb3304",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "de377fdb3304eb693b54",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-21T18:41:53Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "major-event keyword: release, security"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "simon_willison",
       "source_name": "Simon Willison",
-      "title": "My obituary for programming",
-      "url": "https://simonwillison.net/2026/Oct/19/my-obituary-for-programming"
+      "title": "Today's PHP Security Release, and How We're Strengthening PHP Security",
+      "url": "https://simonwillison.net/2026/Oct/21/php-security-release"
+    },
+    {
+      "authors": [
+        "kmansm27"
+      ],
+      "canonical_url": "https://github.com/omnara-ai/omnara",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "a1ee33a52509",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "hn-50183892",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-21T16:44:53Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: open-source",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Omnara – Open-Source Alternative to Claude Managed Agents",
+      "url": "https://github.com/omnara-ai/omnara"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/21/panache",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and...",
+      "event_cluster_id": "24e7bc554495",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "24e7bc55449594d80a5d",
+      "image_url": "https://static.simonwillison.net/static/2026/battledrones-french.jpg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-21T16:25:16Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "major-event keyword: release, released"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Panache — RTS Belle Époque pour mobile",
+      "url": "https://simonwillison.net/2026/Oct/21/panache"
     },
     {
       "also_covered_by": [],
@@ -728,84 +786,6 @@
       "url": "https://arxiv.org/abs/2610.27889v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Oscar Dabrowski",
-        "Abijith Jagannath",
-        "Frédéric Grouiller",
-        "Sébastien Courvoisier"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.27156v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Object: Motion artefacts remain a major limitation of routine two-dimensional T2-weighted turbo spin-echo (TSE) brain MRI, reducing diagnostic confidence and often necessitating repeated acquisitions. MoSAIK (Motion Search with AI in...",
-      "event_cluster_id": "c8bf99df00f9",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "c8bf99df00f90b66c94d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-19T18:49:59Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: acquisition",
-        "research relevance: MRI",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MoSAIK: Motion Search with Artificial Intelligence in K-space",
-      "url": "https://arxiv.org/abs/2610.27156v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Yu Zhou",
-        "Cheng-Fu Yang",
-        "Rui Sun",
-        "Di Wu",
-        "Sibo Peng",
-        "Mingyang Zhang",
-        "Zhen Yang",
-        "Ruiyi Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.26860v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Multimodal large language models (MLLMs) have made rapid progress on visual reasoning, yet many tasks require evidence that is difficult to obtain through internal reasoning alone: our controlled study on 22 benchmarks shows that simply...",
-      "event_cluster_id": "e59dcd5a5c8f",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "e59dcd5a5c8f023706bf",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-19T17:59:58Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: multimodal, agent, reasoning",
-        "startup/product signal: API"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
-      "url": "https://arxiv.org/abs/2610.26860v1"
-    },
-    {
       "authors": [
         "jklp"
       ],
@@ -836,6 +816,36 @@
       "source_name": "Hacker News",
       "title": "Agent Atoll: Visualise your Claude Code/Codex history on a 3D living archipelago",
       "url": "https://agent-atoll.pages.dev"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/accelerating-pytorch-on-amd-gpus-with-flydsl",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "a65cc8a1d974",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "a65cc8a1d97493aa845d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T00:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: GPU",
+        "technical relevance: PyTorch"
+      ],
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "Accelerating PyTorch on AMD GPUs with FlyDSL",
+      "url": "https://pytorch.org/blog/accelerating-pytorch-on-amd-gpus-with-flydsl"
     },
     {
       "also_covered_by": [],
@@ -964,71 +974,169 @@
       "url": "https://www.technologyreview.com/2026/10/20/1145916/dispatch-visit-to-samsung-massive-new-semiconductor-hub"
     },
     {
-      "also_covered_by": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "authors": [
-        "joozio"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents",
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/kumo-relational",
       "cluster_sources": [
-        "Hacker News"
+        "Hugging Face Blog"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "4901a770d277",
-      "fetched_at": "2026-10-19T17:08:04Z",
-      "id": "hn-50154857",
+      "description": "",
+      "event_cluster_id": "94a5f6526ead",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "94a5f6526eada9bc0f52",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-19T17:01:45Z",
+      "published_at": "2026-10-21T18:26:30Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent, serving",
-        "covered by multiple configured sources"
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: training"
       ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "The Download: preserving the Arctic permafrost, and playful AI agents",
-      "url": "https://www.technologyreview.com/2026/10/19/1147103/the-download-preserving-the-arctic-permafrost-and-playful-ai-agents"
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational"
     },
     {
       "authors": [
-        "skull8888888"
+        "signa11"
       ],
-      "canonical_url": "https://news.ycombinator.com/item?id=50154029",
+      "canonical_url": "https://edgcpp.org",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "6a23445afa18",
-      "fetched_at": "2026-10-19T17:08:04Z",
-      "id": "hn-50154029",
+      "event_cluster_id": "8320bffd70e0",
+      "fetched_at": "2026-10-21T15:33:20Z",
+      "id": "hn-50182679",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-19T16:00:18Z",
+      "published_at": "2026-10-21T15:29:34Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: launch, model",
-        "technical relevance: agent"
+        "major-event keyword: open source",
+        "startup/product signal: open source"
       ],
       "section": "ai_engineering",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Launch HN: Laminar (YC S24) – We trained a model to catch silent agent failures",
-      "url": "https://news.ycombinator.com/item?id=50154029"
+      "title": "EDG Is Open Source",
+      "url": "https://edgcpp.org"
+    },
+    {
+      "authors": [
+        "Martin Thißen",
+        "Elke Hergenröther"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.29581v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Despite the success of foundation models in image synthesis, achieving fine-grained spatial control remains a significant challenge, typically requiring auxiliary structural adapters or complex inference-time steering. While modern...",
+      "event_cluster_id": "46b6802c61e8",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "46b6802c61e8e5a480d0",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T11:22:58Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: foundation model, inference"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Unlocking Spatial Grounding in Flow-Matching Models via SNR Tuning",
+      "url": "https://arxiv.org/abs/2610.29581v1"
+    },
+    {
+      "authors": [
+        "Ahmed Mahrous",
+        "Roberto Di Pietro"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.29577v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Many learning systems are performative: once deployed, their predictions change the data distribution on which future models are trained. In multi-agent settings, this feedback is routed through a network of interacting learners, so...",
+      "event_cluster_id": "a58c42bb7b4d",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "a58c42bb7b4dad54cf6e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T11:20:29Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction",
+      "url": "https://arxiv.org/abs/2610.29577v1"
+    },
+    {
+      "authors": [
+        "Xin Zhang",
+        "Haochen Wang",
+        "Beibei Lin",
+        "Zhaoxiang Zhang",
+        "Robby T. Tan",
+        "Jason Li",
+        "Dacheng Tao"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.29552v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Fine-grained multimodal intelligence requires models to both understand a designated region and localize it from language. Existing methods learn these directions with separate objectives and task-specific annotations. We present...",
+      "event_cluster_id": "ae9ea68238a5",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "ae9ea68238a5825c33c6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T10:39:56Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding",
+      "url": "https://arxiv.org/abs/2610.29552v1"
     },
     {
       "also_covered_by": [],
@@ -1089,82 +1197,6 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "Robotic therapy for stroke patients",
       "url": "https://www.technologyreview.com/2026/10/20/1145282/robotic-therapy-for-stroke-patients"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Noor Abo Mokh",
-        "Teresa Lynn",
-        "Nizar Habash",
-        "Ahmed Elshabrawy",
-        "Sara Alhajeri",
-        "Alaa Elsetohy",
-        "Preslav Nakov",
-        "Alham Fikri Aji"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28607v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Benchmark, the first manually curated...",
-      "event_cluster_id": "dbffdd4f77d9",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "dbffdd4f77d971eb69ef",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:50:13Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Benchmarking Arabic Dialects for Math Problems",
-      "url": "https://arxiv.org/abs/2610.28607v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Vasilii Feofanov",
-        "Zhenghan Tai",
-        "Andrei Ermakov",
-        "Irina Rish"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28602v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by linear probing. Since then, the field...",
-      "event_cluster_id": "f6d34145757a",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "f6d34145757a87992c82",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:47:51Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: foundation model, self-supervised"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
-      "url": "https://arxiv.org/abs/2610.28602v1"
     },
     {
       "also_covered_by": [],
@@ -1229,98 +1261,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/anylanguagemodel-1-0",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "41fb25a47d12",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "41fb25a47d12d204a957",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "AnyLanguageModel 1.0: One Year of Local Models on Apple Platforms",
-      "url": "https://huggingface.co/blog/anylanguagemodel-1-0"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/mps-pytorch-2-15",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "c2b4b68d7e00",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "c2b4b68d7e0027f0e436",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "MPS in PyTorch 2.15",
-      "url": "https://huggingface.co/blog/mps-pytorch-2-15"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "James O'Donnell"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Until recently, you could divide internet users into just two categories: bots and people. Websites...",
-      "event_cluster_id": "ad159791a7e2",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "ad159791a7e240b880a5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-19T18:22:47Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Making the internet better for AI agents might make it worse for everyone else",
-      "url": "https://www.technologyreview.com/2026/10/19/1147186/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/20/battledrones",
       "cluster_sources": [
         "Simon Willison"
@@ -1349,37 +1289,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Will Douglas Heaven"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "“I think I have good news about the nature of neural networks.” With those simple words of optimism, Nick Cammarata, a researcher at the AI startup Goodfire, kicked off a 26,000-word blog post that has knocked the AI world on its head,...",
-      "event_cluster_id": "39de9490ca71",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "39de9490ca71f5b32d24",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-19T17:45:55Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "“We were looking at it wrong”: The explosive claim that’s upended the AI world",
-      "url": "https://www.technologyreview.com/2026/10/19/1147149/we-were-looking-at-it-wrong-the-explosive-claim-thats-upended-the-ai-world"
-    },
-    {
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
       "cluster_sources": [
@@ -1436,6 +1345,35 @@
       "url": "https://huggingface.co/blog/nvidia/kumo-forecast"
     },
     {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/torchtitan-update-new-sota-models-performance-at-scale-titanrl",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "78340b9572da",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "78340b9572da290be2da",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T00:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 48 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "TorchTitan Update: New SOTA Models, Performance at Scale, TitanRL",
+      "url": "https://pytorch.org/blog/torchtitan-update-new-sota-models-performance-at-scale-titanrl"
+    },
+    {
       "authors": [
         "TripleTen"
       ],
@@ -1466,93 +1404,35 @@
       "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://mistral.ai/news/voxtral-3",
+      "canonical_url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
       "cluster_sources": [
-        "Mistral AI News"
+        "Anthropic News"
       ],
-      "description": "Research",
-      "event_cluster_id": "4c6292fc5ecb",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "4c6292fc5ecba5f2e0a9",
-      "image_url": "https://mistral.ai/_astro/Thumbnail-Model-Voxtral_ojI3r.webp?dpl=6ad8d5fd16f4ff6016bdfc9a",
+      "description": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and...",
+      "event_cluster_id": "252684366be4",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "252684366be4bd9dc11d",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-20T00:00:00Z",
+      "published_at": "2026-10-21T00:00:00Z",
       "research_track": "",
-      "score": 12,
+      "score": 11,
       "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: agent"
+        "critical source",
+        "published within 48 hours"
       ],
       "section": "ai_engineering",
       "source_category": "official-lab",
-      "source_id": "mistral_news",
-      "source_name": "Mistral AI News",
-      "title": "Research Voxtral 3 Build agents that can listen, reason, speak, and act, with Voxtral 3. October 20, 2026 By Mistral",
-      "url": "https://mistral.ai/news/voxtral-3"
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Physicist Christopher Stubbs joins Anthropic's Long-Term Benefit Trust",
+      "url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/nebius-joins-the-pytorch-foundation-as-a-platinum-member",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "c034a4c64e00",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "c034a4c64e009d8724df",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T00:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Nebius Joins the PyTorch Foundation as a Platinum Member",
-      "url": "https://pytorch.org/blog/nebius-joins-the-pytorch-foundation-as-a-platinum-member"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member",
-      "description": "",
-      "event_cluster_id": "c034a4c64e00",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "5fd4f225bfb0eccc7bd1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T00:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Nscale Joins the PyTorch Foundation as a Platinum Member",
-      "url": "https://pytorch.org/blog/nscale-joins-the-pytorch-foundation-as-a-platinum-member"
-    },
-    {
       "authors": [],
       "canonical_url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering",
       "cluster_sources": [
@@ -1581,42 +1461,69 @@
       "url": "https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre",
+      "canonical_url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
       "cluster_sources": [
-        "PyTorch Blog"
+        "Google Research Blog"
+      ],
+      "description": "October 21, 2026",
+      "event_cluster_id": "27c0a5d3fc25",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "27c0a5d3fc2551345d33",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T00:00:00Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "October 21, 2026 Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience · Machine Perception",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture",
+      "cluster_sources": [
+        "Microsoft Research Blog"
       ],
       "description": "",
-      "event_cluster_id": "86bdd611f70b",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "86bdd611f70bddf92142",
+      "event_cluster_id": "77ec6ad66af3",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "77ec6ad66af3dcc4f613",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-20T00:00:00Z",
+      "published_at": "2026-10-21T00:00:00Z",
       "research_track": "",
-      "score": 9,
+      "score": 6,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 48 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "From KTIR to SpyreCode: An MLIR Dataflow Backend for IBM Spyre",
-      "url": "https://pytorch.org/blog/from-ktir-to-spyrecode-an-mlir-dataflow-backend-for-ibm-spyre"
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "url": "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture"
     }
   ],
-  "date_label": "Wednesday, October 21, 2026",
-  "generated_at": "2026-10-21T15:33:20Z",
+  "date_label": "Thursday, October 22, 2026",
+  "generated_at": "2026-10-22T01:46:38Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 200,
-    "retained_items": 49,
+    "fetched_items": 190,
+    "retained_items": 47,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
