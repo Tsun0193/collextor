@@ -220,87 +220,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Cecilia Diana-Albelda",
-        "Fiona Kekwick",
-        "Raghav Mehta",
-        "Aleksandra Kulbaka",
-        "Paul M. Matthews",
-        "Jesus Bescos",
-        "Álvaro García-Martín",
-        "Wenjia Bai"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28255v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Adapting Vision Foundation Models (VFMs) to medical imaging via LoRA has become standard practice, yet model selection is guided almost entirely by downstream task metrics, treating backbones with similar performance as interchangeable....",
-      "event_cluster_id": "ca1e2fd3f05c",
-      "fetched_at": "2026-10-21T09:32:09Z",
-      "id": "ca1e2fd3f05c1e8c9569",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-20T14:12:44Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI, medical imaging",
-        "technical relevance: foundation model, RAG"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Convergent Performance, Divergent Mechanisms in LoRA-Adapted Vision Foundation Models for Brain MRI",
-      "url": "https://arxiv.org/abs/2610.28255v1"
-    },
-    {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "authors": [
-        "Jianfei Xu",
-        "Huizhi Liang",
-        "Judith Harrison",
-        "John-Paul Taylor",
-        "Jaume Bacardit",
-        "Varun Ojha"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.27941v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "AI-assisted dementia detection usually requires multimodal fusion of diverse data, such as clinical tabular assessments and neuroimaging data. However, most existing approaches perform feature fusion in Euclidean space. This overlooks...",
-      "event_cluster_id": "2635d48a422d",
-      "fetched_at": "2026-10-21T01:57:28Z",
-      "id": "2635d48a422de8fd800e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-20T09:49:08Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: dementia, neuroimaging",
-        "technical relevance: multimodal",
-        "covered by multiple configured sources"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "HypTI: Hyperbolic Geometry-Aware Multimodal Feature Fusion Framework for Dementia Detection Based on Tabular-Image Data",
-      "url": "https://arxiv.org/abs/2610.27941v1"
-    },
-    {
-      "authors": [
         "Tim Rausch"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
@@ -330,6 +249,67 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "AI’s hidden storage bill: What inference leaves behind",
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/22/armin-ronacher",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "As fun as AI is, we built so much bad software over the last 30 years, and now the universe is punishing us for our sins. — Armin Ronacher Tags: security , generative-ai , armin-ronacher , ai , ai-security-research , llms",
+      "event_cluster_id": "661913408709",
+      "fetched_at": "2026-10-22T15:35:11Z",
+      "id": "6619134087094c0c5f50",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-22T15:34:13Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Armin Ronacher",
+      "url": "https://simonwillison.net/2026/Oct/22/armin-ronacher"
+    },
+    {
+      "authors": [
+        "Kate Park"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
+      "event_cluster_id": "feacd6de002e",
+      "fetched_at": "2026-10-22T15:35:11Z",
+      "id": "feacd6de002e3968f976",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-22T13:11:13Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: funding, security",
+        "startup/product signal: funding, raised"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "DeepSeek reportedly raises $15B days after US restrictions",
+      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions"
     },
     {
       "also_covered_by": [],
@@ -375,7 +355,7 @@
       ],
       "description": "As Amazon blocks AI agents from shopping on its site, Walmart is taking the opposite approach, introducing new technology that lets AI agents make purchases on customers' behalf, with controls over spending and transaction approvals.",
       "event_cluster_id": "298ab808d891",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "298ab808d89166c7be15",
       "image_url": "",
       "is_breaking": false,
@@ -406,7 +386,7 @@
       ],
       "description": "",
       "event_cluster_id": "40a01666d562",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "40a01666d562060bfdf9",
       "image_url": "",
       "is_breaking": false,
@@ -559,39 +539,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Kate Park"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "event_cluster_id": "05dce4322e45",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "05dce4322e459d220d19",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-20T13:07:24Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: security",
-        "startup/product signal: product"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/21/php-security-release",
       "cluster_sources": [
@@ -599,7 +546,7 @@
       ],
       "description": "Today's PHP Security Release, and How We're Strengthening PHP Security If you're running anything on PHP it's vital you upgrade - today's updates (across the entire PHP 8.x line) address two remote code execution holes, and there have...",
       "event_cluster_id": "de377fdb3304",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "de377fdb3304eb693b54",
       "image_url": "",
       "is_breaking": false,
@@ -621,6 +568,7 @@
       "url": "https://simonwillison.net/2026/Oct/21/php-security-release"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Shibo Jin",
         "Zhiqiu Xu",
@@ -634,7 +582,7 @@
       ],
       "description": "Through a tangle of real-world interactions, from synthetic training pipelines to data shared on the open web, frontier LLMs absorb what their predecessors and competitors create. How well does each model play its role in this ecosystem,...",
       "event_cluster_id": "0372742febd1",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "0372742febd17fbf89f5",
       "image_url": "",
       "is_breaking": false,
@@ -667,7 +615,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "a1ee33a52509",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "hn-50183892",
       "image_url": "",
       "is_breaking": false,
@@ -699,7 +647,7 @@
       ],
       "description": "Panache — RTS Belle Époque pour mobile Well this is delightful: I released Battle Drones yesterday under an Apache 2.0 License and there's already a French language fork which reskins the game to take place in steampunk 1900s France and...",
       "event_cluster_id": "24e7bc554495",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "24e7bc55449594d80a5d",
       "image_url": "https://static.simonwillison.net/static/2026/battledrones-french.jpg",
       "is_breaking": false,
@@ -752,38 +700,35 @@
       "url": "https://www.latent.space/p/sfcompute2"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Edric Castel C. Hao",
-        "Rez Samantha Z. Floresca"
+        "MIT Technology Review Insights"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.28000v1",
+      "canonical_url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "VLMs for medical image interpretation are typically evaluated on clean inputs, despite the progressive evidence loss that can occur in high stakes clinical settings. Existing robustness studies show that performance can degrade while...",
-      "event_cluster_id": "caf9dcad8cc0",
-      "fetched_at": "2026-10-21T09:32:09Z",
-      "id": "caf9dcad8cc0c6f41943",
+      "description": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships...",
+      "event_cluster_id": "147faa697ca7",
+      "fetched_at": "2026-10-22T15:35:11Z",
+      "id": "147faa697ca744457def",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-20T10:45:40Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-22T10:00:00Z",
+      "research_track": "",
+      "score": 15,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image",
-        "technical relevance: VLM, RAG"
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Beyond the Evidence Boundary: Behavioral Mirage Under Progressive Degradation in Medical VLMs",
-      "url": "https://arxiv.org/abs/2610.28000v1"
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Making the case for context-aware AI",
+      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai"
     },
     {
       "authors": [
@@ -818,6 +763,7 @@
       "url": "https://reylo.dev"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
       "cluster_sources": [
@@ -887,7 +833,7 @@
       ],
       "description": "",
       "event_cluster_id": "a65cc8a1d974",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "a65cc8a1d97493aa845d",
       "image_url": "",
       "is_breaking": false,
@@ -910,99 +856,68 @@
       "url": "https://pytorch.org/blog/accelerating-pytorch-on-amd-gpus-with-flydsl"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "536f23cd94f1",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "536f23cd94f139849c62",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T15:19:48Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model",
-      "url": "https://huggingface.co/blog/ibm-research/altk-evolve-bc"
-    },
-    {
       "authors": [
-        "Thomas Macaulay"
+        "simonmaddox"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. “We were looking at it wrong”: The explosive claim that’s upended the AI world “I think I have good...",
-      "event_cluster_id": "d2a2776b8cfa",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "d2a2776b8cfaa901bcb9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-20T12:10:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: the claim shaking up AI and the internet’s agent problem",
-      "url": "https://www.technologyreview.com/2026/10/20/1147355/the-download-claim-shaking-up-ai-internet-agent-problem"
-    },
-    {
-      "authors": [
-        "dave8172"
-      ],
-      "canonical_url": "https://quirkyagents.com/wizard/projects/tinytowns",
+      "canonical_url": "https://airlock.sorrel.systems",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "04f69160db78",
-      "fetched_at": "2026-10-22T09:34:15Z",
-      "id": "hn-50192950",
+      "event_cluster_id": "69650a0a4d63",
+      "fetched_at": "2026-10-22T15:35:11Z",
+      "id": "hn-50196751",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-22T08:57:59Z",
+      "published_at": "2026-10-22T15:28:26Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: model",
+        "technical relevance: agent",
         "startup/product signal: Show HN"
       ],
       "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: Tinytowns, a small model to generate realistic sounding town names",
-      "url": "https://quirkyagents.com/wizard/projects/tinytowns"
+      "title": "Show HN: Airlock, which sandboxes AI agents, is available on the Mac App Store",
+      "url": "https://airlock.sorrel.systems"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.latent.space/p/moshi",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
+      "event_cluster_id": "5c67f86b19de",
+      "fetched_at": "2026-10-22T15:35:11Z",
+      "id": "5c67f86b19de93a0a9e8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-22T14:03:40Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "You are the Team  — Anekha Sokhal, Moshi",
+      "url": "https://www.latent.space/p/moshi"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
       "cluster_sources": [
@@ -1040,7 +955,7 @@
       ],
       "description": "",
       "event_cluster_id": "94a5f6526ead",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "94a5f6526eada9bc0f52",
       "image_url": "",
       "is_breaking": false,
@@ -1062,6 +977,7 @@
       "url": "https://huggingface.co/blog/nvidia/kumo-relational"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zhennan Wan",
         "Jianfei Chen"
@@ -1072,7 +988,7 @@
       ],
       "description": "Reinforcement learning (RL) is an effective way to strengthen the long-context reasoning of large language models (LLMs), but it needs training data that are long, diverse, challenging, and verifiable. Human annotation of such data is...",
       "event_cluster_id": "ea10ab104278",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "ea10ab104278cd3210af",
       "image_url": "",
       "is_breaking": false,
@@ -1095,6 +1011,7 @@
       "url": "https://arxiv.org/abs/2610.30132v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Adrien Ramanana Rahary",
         "Yutong Bai",
@@ -1108,7 +1025,7 @@
       ],
       "description": "Video world models predict future frames from past frames and actions. They serve as simulators in which agents train, plan or are evaluated, and that humans can control interactively. They generate in the latent space of a video...",
       "event_cluster_id": "258aecd6bd45",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "258aecd6bd45e2f5c82f",
       "image_url": "",
       "is_breaking": false,
@@ -1131,6 +1048,7 @@
       "url": "https://arxiv.org/abs/2610.30129v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zhichao Zhai",
         "Menglei Zhao",
@@ -1146,7 +1064,7 @@
       ],
       "description": "Language models' abilities to interpret tasks and generate programs offer a promising basis for 3D spatial reasoning. Yet following spatial instructions in 3D scenes requires programs to construct geometric references that language...",
       "event_cluster_id": "4338b76824ac",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "4338b76824ac1d6fa79c",
       "image_url": "",
       "is_breaking": false,
@@ -1167,6 +1085,46 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
       "url": "https://arxiv.org/abs/2610.30127v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Houde Qian",
+        "Zheng Jiang",
+        "Wenyi Li",
+        "Chenxi Xu",
+        "Xinjie Lin",
+        "Yuzhao Peng",
+        "Ruoyu Han",
+        "Youjie Zheng"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.30113v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Quantitative research is an iterative loop: a researcher proposes a market hypothesis, implements it as an executable signal, tests it on historical data, and decides what to keep. Existing benchmarks score formulas, code, or individual...",
+      "event_cluster_id": "a3d6ca4e4487",
+      "fetched_at": "2026-10-22T15:35:11Z",
+      "id": "a3d6ca4e4487a27386c9",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T17:54:01Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research",
+      "url": "https://arxiv.org/abs/2610.30113v1"
     },
     {
       "also_covered_by": [],
@@ -1294,6 +1252,80 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Samuel Halimi",
+        "Loic Themyr",
+        "Arnaud Abreu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.29830v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Deep learning models for chest X-ray anomaly detection remain vulnerable to subtle distributional shifts (e.g., acquisition technique, patient-related factors, and preprocessing). Traditional error analysis often relies on semantic...",
+      "event_cluster_id": "9ca612d1e566",
+      "fetched_at": "2026-10-22T09:34:15Z",
+      "id": "9ca612d1e566df46ce9b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T14:53:45Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, acquisition",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Revealing Hidden Failure Modes in Chest X-ray Classification via Spectral Domain Analysis",
+      "url": "https://arxiv.org/abs/2610.29830v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Zeju Li",
+        "Konstantinos Kamnitsas",
+        "Mobarakol Islam",
+        "Melanie Roschewitz",
+        "Cheng Ouyang",
+        "Chen Chen",
+        "Ben Glocker"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.29262v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "The main challenge in applying deep neural networks to real-world scenarios lies in distributional discrepancies between training and test datasets, often caused by variations in data acquisition conditions. Assessing the performance of...",
+      "event_cluster_id": "c4ce316e39c9",
+      "fetched_at": "2026-10-22T01:46:38Z",
+      "id": "c4ce316e39c990a36645",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T06:13:50Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, acquisition, training",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Estimating Performance for Safe Deployment of Machine Learning Models",
+      "url": "https://arxiv.org/abs/2610.29262v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/20/battledrones",
       "cluster_sources": [
@@ -1351,6 +1383,34 @@
       "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "5c32755a71da",
+      "fetched_at": "2026-10-21T15:33:20Z",
+      "id": "5c32755a71da49edb4fe",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-21T12:51:24Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/torchtitan-update-new-sota-models-performance-at-scale-titanrl",
@@ -1359,7 +1419,7 @@
       ],
       "description": "",
       "event_cluster_id": "78340b9572da",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "78340b9572da290be2da",
       "image_url": "",
       "is_breaking": false,
@@ -1381,36 +1441,6 @@
       "url": "https://pytorch.org/blog/torchtitan-update-new-sota-models-performance-at-scale-titanrl"
     },
     {
-      "authors": [
-        "TripleTen"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "The current narrative around artificial intelligence in the workplace is largely driven by Silicon Valley. But treating the tech sector as an island misses the actual trends in technology adoption–tech is just the first industry in line....",
-      "event_cluster_id": "71337cf68638",
-      "fetched_at": "2026-10-20T15:20:36Z",
-      "id": "71337cf68638cffa3aa2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-20T12:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "AI adoption by industry shows what other sectors can learn",
-      "url": "https://www.technologyreview.com/2026/10/20/1145423/ai-adoption-by-industry-shows-what-other-sectors-can-learn"
-    },
-    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/christopher-stubbs-joins-long-term-benefit-trust",
@@ -1419,7 +1449,7 @@
       ],
       "description": "Dr. Christopher Stubbs, an experimental physicist and former Dean of Science at Harvard University, has joined Anthropic’s Long-Term Benefit Trust. He brings to the Trust decades of scientific expertise across observational cosmology and...",
       "event_cluster_id": "252684366be4",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "252684366be4bd9dc11d",
       "image_url": "",
       "is_breaking": false,
@@ -1477,7 +1507,7 @@
       ],
       "description": "October 21, 2026",
       "event_cluster_id": "27c0a5d3fc25",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "27c0a5d3fc2551345d33",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/FrontlineMaternalCarewithAI2_ModelOverview.png",
       "is_breaking": false,
@@ -1506,7 +1536,7 @@
       ],
       "description": "",
       "event_cluster_id": "77ec6ad66af3",
-      "fetched_at": "2026-10-22T09:34:15Z",
+      "fetched_at": "2026-10-22T15:35:11Z",
       "id": "77ec6ad66af3dcc4f613",
       "image_url": "",
       "is_breaking": false,
@@ -1528,12 +1558,12 @@
     }
   ],
   "date_label": "Thursday, October 22, 2026",
-  "generated_at": "2026-10-22T09:34:15Z",
+  "generated_at": "2026-10-22T15:35:11Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 196,
-    "retained_items": 47,
+    "fetched_items": 198,
+    "retained_items": 48,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
