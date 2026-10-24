@@ -43,7 +43,7 @@
       ],
       "description": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster,...",
       "event_cluster_id": "b5619922e4bc",
-      "fetched_at": "2026-10-24T09:03:10Z",
+      "fetched_at": "2026-10-24T14:06:03Z",
       "id": "b5619922e4bc775139e3",
       "image_url": "https://static.simonwillison.net/static/2026-10-23/image-2.png",
       "is_breaking": false,
@@ -138,6 +138,41 @@
       "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Julie Bort"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
+      "event_cluster_id": "bfa70917f3b1",
+      "fetched_at": "2026-10-19T17:08:04Z",
+      "id": "bfa70917f3b198d14601",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-19T15:37:09Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch, model, data center",
+        "technical relevance: agent",
+        "startup/product signal: launches"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
+      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "swyx .ai"
       ],
@@ -303,87 +338,6 @@
       "source_name": "Latent Space",
       "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
       "url": "https://latent.space/p/modal-d"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ronald Fecso",
-        "José Morano",
-        "Botond Fazekas",
-        "Paul Widmann-Sedlnitzky",
-        "Dorota Himel",
-        "Laetita Hinterhuber",
-        "Virginia Mares",
-        "Andreas Pollreisz"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.31205v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Multimodal large language models (MLLMs) can answer clinical questions about medical images, but trustworthy use requires visual grounding: models should localize the pathology they report rather than rely on spurious shortcuts. Whether...",
-      "event_cluster_id": "05e74e8430c9",
-      "fetched_at": "2026-10-23T09:30:27Z",
-      "id": "05e74e8430c9ec75538c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-22T12:54:19Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "research relevance: medical image",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A Visual Grounding Benchmark for Retinal OCT with Multimodal Large Language Models",
-      "url": "https://arxiv.org/abs/2610.31205v1"
-    },
-    {
-      "authors": [
-        "Shuhang Li",
-        "Haiwang Yu",
-        "Gabor Galgoczi",
-        "Yeonju Go",
-        "Yi Huang",
-        "David Park",
-        "Michael Peters",
-        "Christof Roland"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.31180v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Modern high energy nuclear and particle physics experiments produce large amounts of sparse data that must be reduced significantly in size before performing physics analysis. Recently, there has been an effort to evaluate Foundation...",
-      "event_cluster_id": "8f3930a9ebda",
-      "fetched_at": "2026-10-23T01:52:16Z",
-      "id": "8f3930a9ebda51f0a61f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-22T12:32:26Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Track finding and particle identification performance with particle physics foundation models",
-      "url": "https://arxiv.org/abs/2610.31180v1"
     },
     {
       "also_covered_by": [],
@@ -581,39 +535,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Kate Park"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the US ordered federal agencies to remove its technology over national security concerns.",
-      "event_cluster_id": "feacd6de002e",
-      "fetched_at": "2026-10-22T15:35:11Z",
-      "id": "feacd6de002e3968f976",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-22T13:11:13Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: funding, security",
-        "startup/product signal: funding, raised"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "DeepSeek reportedly raises $15B days after US restrictions",
-      "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Shengqiong Wu",
         "Meng Luo",
         "Bobo Li",
@@ -759,37 +680,6 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Evaluation of Uncertainty-Aware Multi-Software Ensembles for Hippocampal Segmentation",
       "url": "https://arxiv.org/abs/2610.31505v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/sfcompute2",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "From GPU trading to physical settlement, independent markets, and programmable compute",
-      "event_cluster_id": "1aa70594680b",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "1aa70594680b7e71ad22",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-20T19:31:57Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: GPU, data center",
-        "long-read source"
-      ],
-      "section": "business_policy",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "url": "https://www.latent.space/p/sfcompute2"
     },
     {
       "also_covered_by": [],
@@ -957,38 +847,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "MIT Technology Review Insights"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Enterprise AI can generate recommendations, automate tasks, and help organizations make decisions faster. But without an understanding of how a business actually operates, even powerful models can miss the constraints and relationships...",
-      "event_cluster_id": "147faa697ca7",
-      "fetched_at": "2026-10-22T15:35:11Z",
-      "id": "147faa697ca744457def",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-22T10:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Making the case for context-aware AI",
-      "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "swyx .ai"
       ],
       "canonical_url": "https://latent.space/p/ainews-black-october",
@@ -1017,6 +875,38 @@
       "source_name": "Latent Space",
       "title": "[AINews] Black October",
       "url": "https://latent.space/p/ainews-black-october"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Jagmeet Singh"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "inDrive plans to begin testing Pony.ai's robotaxis in Kazakhstan's capital in the first half of 2027.",
+      "event_cluster_id": "ad858d5150de",
+      "fetched_at": "2026-10-23T09:30:27Z",
+      "id": "ad858d5150de79be8c33",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-23T04:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: API"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvidia",
+      "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia"
     },
     {
       "also_covered_by": [],
@@ -1155,58 +1045,30 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/moshi",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "How Moshi turns market data into actionable insights, and why AI tools have to fit the trader’s workflow.",
-      "event_cluster_id": "5c67f86b19de",
-      "fetched_at": "2026-10-22T15:35:11Z",
-      "id": "5c67f86b19de93a0a9e8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-22T14:03:40Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "You are the Team  — Anekha Sokhal, Moshi",
-      "url": "https://www.latent.space/p/moshi"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
-        "Fabian Isensee",
-        "Constantin Ulrich Harsy",
-        "Maximilian Rokuss",
-        "Benjamin Hamm",
-        "Philipp Vollmuth",
-        "Klaus H. Maier-Hein"
+        "Ava Pun",
+        "Kevin Dai",
+        "Sally Chen",
+        "Maxwell Jones",
+        "Ruixuan Liu",
+        "Kangle Deng",
+        "Changliu Liu",
+        "Maneesh Agrawala"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.31080v1",
+      "canonical_url": "https://arxiv.org/abs/2610.31651v1",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Interactive 3D segmentation models such as nnInteractive turn a few spatial prompts (points, scribbles, boxes) into accurate volumetric masks, but a human still does the annotation work: finding each structure, placing prompts, checking...",
-      "event_cluster_id": "f03907f950c5",
-      "fetched_at": "2026-10-23T09:30:27Z",
-      "id": "f03907f950c536cf8331",
+      "description": "Frontier coding agents are becoming increasingly adept at 3D modeling. Yet, they still face challenges when building objects meant to be assembled in the physical world, often creating invalid assemblies with floating, colliding, or...",
+      "event_cluster_id": "d81d3f03fd86",
+      "fetched_at": "2026-10-23T15:24:53Z",
+      "id": "d81d3f03fd86d0cbf952",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-22T10:55:15Z",
-      "research_track": "medical_neuroimaging",
+      "published_at": "2026-10-22T17:57:20Z",
+      "research_track": "multimodal_foundation",
       "score": 14,
       "score_reasons": [
         "medium source",
@@ -1214,12 +1076,12 @@
         "major-event keyword: model",
         "technical relevance: agent"
       ],
-      "section": "medical_neuroimaging",
+      "section": "multimodal_foundation",
       "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "nnInteractive Agent: General-Purpose AI Agents as 3D Image Annotators",
-      "url": "https://arxiv.org/abs/2610.31080v1"
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
+      "url": "https://arxiv.org/abs/2610.31651v1"
     },
     {
       "also_covered_by": [],
@@ -1293,7 +1155,7 @@
       ],
       "description": "",
       "event_cluster_id": "5d794c3788a3",
-      "fetched_at": "2026-10-24T09:03:10Z",
+      "fetched_at": "2026-10-24T14:06:03Z",
       "id": "5d794c3788a3a4be0d42",
       "image_url": "",
       "is_breaking": false,
@@ -1390,7 +1252,7 @@
       ],
       "description": "October 23, 2026",
       "event_cluster_id": "30a34d758ba6",
-      "fetched_at": "2026-10-24T09:03:10Z",
+      "fetched_at": "2026-10-24T14:06:03Z",
       "id": "30a34d758ba63be21f09",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AIforTBScreening2_Xray.png",
       "is_breaking": false,
@@ -1447,13 +1309,13 @@
     }
   ],
   "date_label": "Saturday, October 24, 2026",
-  "generated_at": "2026-10-24T09:03:10Z",
+  "generated_at": "2026-10-24T14:06:03Z",
   "summary": {
     "duplicates_removed": 1,
-    "failed_sources": 3,
-    "fetched_items": 187,
-    "retained_items": 43,
-    "successful_sources": 18
+    "failed_sources": 2,
+    "fetched_items": 198,
+    "retained_items": 39,
+    "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
 }
