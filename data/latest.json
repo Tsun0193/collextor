@@ -35,6 +35,7 @@
       "url": "https://www.technologyreview.com/2026/10/22/1146109/designing-an-ai-serving-harness-built-to-last"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/23/kimi-k31-pro",
       "cluster_sources": [
@@ -42,10 +43,10 @@
       ],
       "description": "Introducing Kimi K3.1 Pro Kimi K3.1 Pro landed on the Kimi API today - it's not yet open weights, but Moonshot promise \"Full model weights will be released by Nov 4, 2026\". They're also offering a \"Highspeed\" version that's 2-3x faster,...",
       "event_cluster_id": "b5619922e4bc",
-      "fetched_at": "2026-10-24T01:54:59Z",
+      "fetched_at": "2026-10-24T09:03:10Z",
       "id": "b5619922e4bc775139e3",
       "image_url": "https://static.simonwillison.net/static/2026-10-23/image-2.png",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-10-23T19:40:54Z",
@@ -137,38 +138,37 @@
       "url": "https://techcrunch.com/2026/10/19/laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the-real-world"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Julie Bort"
+        "swyx .ai"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs",
+      "canonical_url": "https://latent.space/p/ainews-kimi-31",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Latent Space"
       ],
-      "description": "Nvidia is leaning hard into the trend of enterprise companies wanting to run their own open models in their own data centers and also trying to make on-device, private AI agents a thing.",
-      "event_cluster_id": "bfa70917f3b1",
-      "fetched_at": "2026-10-19T17:08:04Z",
-      "id": "bfa70917f3b198d14601",
-      "image_url": "",
+      "description": "We have Fable at home... or so we are being told by paid shills",
+      "event_cluster_id": "a74122a98f64",
+      "fetched_at": "2026-10-24T09:03:10Z",
+      "id": "a74122a98f64e13284b1",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/996d69ac-2a1f-4064-a383-641eebc365b8/SCR-20261024-bbmb.jpeg?t=1792826292",
       "is_breaking": true,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-10-19T15:37:09Z",
+      "published_at": "2026-10-24T07:18:29Z",
       "research_track": "",
-      "score": 20,
+      "score": 19,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: launch, model, data center",
-        "technical relevance: agent",
-        "startup/product signal: launches"
+        "technical relevance: open weights",
+        "startup/product signal: API",
+        "long-read source"
       ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia launches new open models to run agents in the enterprise and on PCs",
-      "url": "https://techcrunch.com/2026/10/19/nvidia-launches-new-open-models-to-run-agents-in-the-enterprise-and-on-pcs"
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Kimi 3.1 Pro 104BA-2.8T: Fable-5.1-Class Open Weights narrows Closed-AI lead to 1 month... and Pro Highspeed API with 2-3× speed",
+      "url": "https://latent.space/p/ainews-kimi-31"
     },
     {
       "also_covered_by": [],
@@ -483,6 +483,39 @@
       "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
     },
     {
+      "authors": [
+        "ntnsndr"
+      ],
+      "canonical_url": "https://inference.coop",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "c395390ad826",
+      "fetched_at": "2026-10-24T09:03:10Z",
+      "id": "hn-50218142",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-24T03:32:54Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Inference Cooperative, user-governed AI",
+      "url": "https://inference.coop"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Ankit Maloo"
@@ -759,6 +792,7 @@
       "url": "https://www.latent.space/p/sfcompute2"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
@@ -951,68 +985,6 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "Making the case for context-aware AI",
       "url": "https://www.technologyreview.com/2026/10/22/1146812/making-the-case-for-context-aware-ai"
-    },
-    {
-      "authors": [
-        "porridgeraisin"
-      ],
-      "canonical_url": "https://reylo.dev",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0601e9b6c3a5",
-      "fetched_at": "2026-10-22T09:34:15Z",
-      "id": "hn-50193178",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-22T09:32:53Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Reylo: Import .sql files into your TypeScript code with full type inference",
-      "url": "https://reylo.dev"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "0e5fad3ca5f8",
-      "fetched_at": "2026-10-22T09:34:15Z",
-      "id": "0e5fad3ca5f8a881acf7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-22T07:51:31Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Ensemble forecasting with IBM Granite time-series models",
-      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1"
     },
     {
       "also_covered_by": [],
@@ -1252,71 +1224,6 @@
     {
       "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "The Big Hardening begins",
-      "event_cluster_id": "4c49390f8994",
-      "fetched_at": "2026-10-22T09:34:15Z",
-      "id": "4c49390f8994fee2de1e",
-      "image_url": "https://substackcdn.com/image/fetch/$s_!Ak4o!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f193200-5a32-4d16-8cef-d36ab44b0848_1440x1290.png",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-22T07:42:44Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] OpenAI’s Patch the Planet program is 1 of 2 parties to discover PHP2Shell vulnerabilities in core PHP affecting 70% of the web, using GPT-5.6 Sol; coordinated response over 2 months",
-      "url": "https://www.latent.space/p/ainews-openais-patch-the-planet-program"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Mei Wang",
-        "Minghui Li",
-        "Libin Lan"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.30672v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Various task-specific medical segmentation models have demonstrated strong performance, their heavy reliance on extensive annotations and highly specialized architectures limits their versatility, scalability, and clinical applicability....",
-      "event_cluster_id": "592b60897d88",
-      "fetched_at": "2026-10-24T01:54:59Z",
-      "id": "592b60897d88a8d5feb7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-22T03:35:59Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "CVP-BAA: Efficiently Adapting Segment Anything Model for Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2610.30672v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/22/de-staat-freedom",
       "cluster_sources": [
         "Simon Willison"
@@ -1378,6 +1285,7 @@
       "url": "https://arxiv.org/abs/2610.31523v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/allenai/litpivot",
       "cluster_sources": [
@@ -1385,7 +1293,7 @@
       ],
       "description": "",
       "event_cluster_id": "5d794c3788a3",
-      "fetched_at": "2026-10-24T01:54:59Z",
+      "fetched_at": "2026-10-24T09:03:10Z",
       "id": "5d794c3788a3a4be0d42",
       "image_url": "",
       "is_breaking": false,
@@ -1474,6 +1382,7 @@
       "url": "https://arxiv.org/abs/2610.31315v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening",
       "cluster_sources": [
@@ -1481,7 +1390,7 @@
       ],
       "description": "October 23, 2026",
       "event_cluster_id": "30a34d758ba6",
-      "fetched_at": "2026-10-24T01:54:59Z",
+      "fetched_at": "2026-10-24T09:03:10Z",
       "id": "30a34d758ba63be21f09",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AIforTBScreening2_Xray.png",
       "is_breaking": false,
@@ -1501,16 +1410,50 @@
       "source_name": "Google Research Blog",
       "title": "October 23, 2026 Bringing foundational models to the front lines of TB screening Generative AI · Health & Bioscience",
       "url": "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Jihoon Hong",
+        "Alireza Kheirandish",
+        "Rohan Sanda",
+        "Sara Fridovich-Keil"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.31538v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Local anomaly detection is the task of identifying spatially confined anomalous or out-of-distribution (OOD) regions within an otherwise in-distribution (ID) image. Most existing methods are designed for a specific context, with a strong...",
+      "event_cluster_id": "361744be3bf8",
+      "fetched_at": "2026-10-23T15:24:53Z",
+      "id": "361744be3bf8a9f9b926",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-22T16:46:09Z",
+      "research_track": "medical_neuroimaging",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "LACToS: Local Anomaly Detection via Conditional Typicality of Superpixels",
+      "url": "https://arxiv.org/abs/2610.31538v1"
     }
   ],
   "date_label": "Saturday, October 24, 2026",
-  "generated_at": "2026-10-24T01:54:59Z",
+  "generated_at": "2026-10-24T09:03:10Z",
   "summary": {
     "duplicates_removed": 1,
-    "failed_sources": 2,
-    "fetched_items": 197,
-    "retained_items": 45,
-    "successful_sources": 19
+    "failed_sources": 3,
+    "fetched_items": 187,
+    "retained_items": 43,
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
