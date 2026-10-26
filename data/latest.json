@@ -301,37 +301,36 @@
       "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Julie Bort"
+        "Sam Hiner, Emma Leiken"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool",
+      "canonical_url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
       "cluster_sources": [
-        "TechCrunch AI"
+        "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "Amazon wants to break Nvidia’s hold on PyTorch, the free toolkit used to build most AI apps, so that more developers run their apps on alternative chips like its own.",
-      "event_cluster_id": "4adb94a84a67",
-      "fetched_at": "2026-10-20T02:01:58Z",
-      "id": "4adb94a84a67ec0181f8",
+      "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and...",
+      "event_cluster_id": "007c8953914a",
+      "fetched_at": "2026-10-26T16:56:32Z",
+      "id": "007c8953914a9cefba68",
       "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
+      "is_breaking": false,
+      "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-10-19T20:09:24Z",
+      "published_at": "2026-10-26T09:01:00Z",
       "research_track": "",
-      "score": 18,
+      "score": 17,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: chip",
-        "technical relevance: PyTorch"
+        "published within 24 hours",
+        "major-event keyword: safety",
+        "technical relevance: RAG"
       ],
       "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool",
-      "url": "https://techcrunch.com/2026/10/19/amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool"
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
     },
     {
       "also_covered_by": [],
@@ -467,67 +466,133 @@
       "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.latent.space/p/sfcompute2",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "From GPU trading to physical settlement, independent markets, and programmable compute",
-      "event_cluster_id": "1aa70594680b",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "1aa70594680b7e71ad22",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-20T19:31:57Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: GPU, data center",
-        "long-read source"
-      ],
-      "section": "business_policy",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "The Programmable Data Center — Evan Conrad, SF Compute",
-      "url": "https://www.latent.space/p/sfcompute2"
-    },
-    {
       "authors": [
-        "shcallaway"
+        "Aditya Mehta"
       ],
-      "canonical_url": "https://www.sazabi.com/blog/introducing-cve-now",
+      "canonical_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
       "cluster_sources": [
-        "Hacker News"
+        "TechCrunch AI"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ddb16d3077dd",
-      "fetched_at": "2026-10-26T01:36:45Z",
-      "id": "hn-50237852",
+      "description": "SpaceX has locked in a binding commitment for roughly $40 billion in financing to pay for AI chips and related data center equipment, the company disclosed in a regulatory filing Monday. In a statement, SpaceX called it the “largest...",
+      "event_cluster_id": "3f7382b7697a",
+      "fetched_at": "2026-10-26T16:56:32Z",
+      "id": "3f7382b7697aab5a75bf",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-26T01:18:43Z",
+      "published_at": "2026-10-26T16:46:36Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: chip, GPU, data center"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo"
+    },
+    {
+      "also_covered_by": [
+        "Simon Willison",
+        "Anthropic News"
+      ],
+      "authors": [
+        "saikatsg"
+      ],
+      "canonical_url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "bdc7b775ab8d",
+      "fetched_at": "2026-10-26T16:56:32Z",
+      "id": "hn-50246751",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-26T16:40:28Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: security",
-        "technical relevance: agent"
+        "technical relevance: agent",
+        "covered by multiple configured sources"
       ],
       "section": "ai_engineering",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Cve.now: A Free Feed of Security Vulnerabilities for Agents",
-      "url": "https://www.sazabi.com/blog/introducing-cve-now"
+      "title": "Donating Agent Skills to the Agentic AI Foundation",
+      "url": "https://www.anthropic.com/news/donating-agent-skills-to-the-agentic-ai-foundation"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
+      "event_cluster_id": "fcee7fe2ae9b",
+      "fetched_at": "2026-10-26T16:56:32Z",
+      "id": "fcee7fe2ae9bec9bd7c9",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-26T14:35:22Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: safety"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic officially files for its public debut",
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut"
+    },
+    {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The focus on AI safety disasters ignores everyday harms —Sam Hiner, cofounder of the Young...",
+      "event_cluster_id": "86d0619a8029",
+      "fetched_at": "2026-10-26T16:56:32Z",
+      "id": "86d0619a80290feea7c7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-26T12:40:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: safety"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: everyday AI harms and the race to nuclear spaceflight",
+      "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight"
     },
     {
       "also_covered_by": [],
@@ -562,68 +627,62 @@
       "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Ivan Mehta"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human",
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/s1-sec",
       "cluster_sources": [
-        "TechCrunch AI"
+        "Anthropic News"
       ],
-      "description": "Block said that the voice model can run locally on a MacBook M4 Max",
-      "event_cluster_id": "ed1379dde355",
-      "fetched_at": "2026-10-25T14:32:40Z",
-      "id": "ed1379dde355db6ba1e1",
+      "description": "",
+      "event_cluster_id": "9a064d95901e",
+      "fetched_at": "2026-10-26T16:56:32Z",
+      "id": "9a064d95901e645ea065",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-24T16:00:00Z",
+      "published_at": "2026-10-26T00:00:00Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
+        "critical source",
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Block’s new voice model sounds eerily human",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human"
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Anthropic files S-1 with the SEC for proposed initial public offering",
+      "url": "https://www.anthropic.com/news/s1-sec"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Lauren Forristal"
+        "Rebecca Bellan"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages",
+      "canonical_url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
-      "event_cluster_id": "f75803cafe6e",
-      "fetched_at": "2026-10-25T09:20:00Z",
-      "id": "f75803cafe6ee4fcd06d",
+      "description": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
+      "event_cluster_id": "68dfb7cd14f8",
+      "fetched_at": "2026-10-26T16:56:32Z",
+      "id": "68dfb7cd14f88c587aae",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-24T14:00:00Z",
+      "published_at": "2026-10-26T16:49:42Z",
       "research_track": "",
-      "score": 14,
+      "score": 12,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "technical relevance: agent"
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Here are the top AI agents that can live in your text messages",
-      "url": "https://techcrunch.com/2026/10/24/all-the-ai-agents-that-can-live-in-your-text-messages"
+      "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked",
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked"
     },
     {
       "also_covered_by": [],
@@ -655,46 +714,15 @@
       "source_name": "TechCrunch AI",
       "title": "The hottest AI wearables and gadgets you should know about",
       "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "event_cluster_id": "79ffda0a470c",
-      "fetched_at": "2026-10-26T10:25:24Z",
-      "id": "79ffda0a470cc0fd1c29",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-25T16:57:32Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist"
     }
   ],
   "date_label": "Monday, October 26, 2026",
-  "generated_at": "2026-10-26T10:25:24Z",
+  "generated_at": "2026-10-26T16:56:32Z",
   "summary": {
-    "duplicates_removed": 2,
+    "duplicates_removed": 3,
     "failed_sources": 2,
-    "fetched_items": 198,
-    "retained_items": 20,
+    "fetched_items": 200,
+    "retained_items": 21,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
