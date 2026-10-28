@@ -1,31 +1,31 @@
 {
   "analysis": {
     "bullets": [
-      "Chip names look firmer: the configured chip basket averages +2.52%, with ASML at +0.67% and AMD at +4.89%.",
-      "AI platform stocks are split: 1 up and 3 down across the tracked cloud/lab names.",
-      "Largest tracked moves: META -9.82%, GOOGL -5.62%, AMD +4.89%."
+      "Chip names look firmer: the configured chip basket averages +2.23%, with ASML at +0.29% and AMD at +4.77%.",
+      "AI platform stocks are split: 0 up and 4 down across the tracked cloud/lab names.",
+      "Largest tracked moves: META -10.67%, GOOGL -5.79%, AMD +4.77%."
     ],
     "disclaimer": "Delayed public market data and rule-based context only. Not investment advice.",
     "headline": "AI market tape is mixed",
     "related_articles": [
       {
-        "source_name": "Latent Space",
-        "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
-        "url": "https://latent.space/p/modal-d"
-      },
-      {
-        "source_name": "MIT Technology Review - Artificial Intelligence",
-        "title": "AI’s hidden storage bill: What inference leaves behind",
-        "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind"
-      },
-      {
         "source_name": "MIT Technology Review - Artificial Intelligence",
         "title": "The focus on AI safety disasters ignores everyday harms",
         "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
+      },
+      {
+        "source_name": "TechCrunch AI",
+        "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+        "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo"
+      },
+      {
+        "source_name": "TechCrunch AI",
+        "title": "The data center boom has an upside: innovation for the US grid",
+        "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid"
       }
     ]
   },
-  "generated_at": "2026-10-27T16:01:02Z",
+  "generated_at": "2026-10-28T02:34:54Z",
   "source": {
     "name": "Yahoo Finance",
     "note": "Delayed public market quotes from Yahoo Finance chart data. No API key or account is required.",
@@ -34,153 +34,153 @@
   "symbols": [
     {
       "category": "chips",
-      "change": 2.54,
-      "change_percent": 1.17,
+      "change": 1.47,
+      "change_percent": 0.68,
       "currency": "USD",
       "date": "2026-10-27",
       "high": 219.19,
       "low": 215.53,
       "name": "NVIDIA",
-      "price": 219.01,
+      "price": 217.94,
       "symbol": "NVDA",
-      "time": "2026-10-27T16:01:01Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/NVDA",
-      "volume": 38567733
+      "volume": 84307573
     },
     {
       "category": "chips",
-      "change": 26.151,
-      "change_percent": 4.89,
+      "change": 25.52,
+      "change_percent": 4.77,
       "currency": "USD",
       "date": "2026-10-27",
-      "high": 561.309,
+      "high": 563.915,
       "low": 538.5,
       "name": "AMD",
-      "price": 560.891,
+      "price": 560.26,
       "symbol": "AMD",
-      "time": "2026-10-27T16:01:01Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/AMD",
-      "volume": 10064174
+      "volume": 20488014
     },
     {
       "category": "chips",
-      "change": 13.225,
-      "change_percent": 3.11,
+      "change": 11.79,
+      "change_percent": 2.77,
       "currency": "USD",
       "date": "2026-10-27",
-      "high": 438.48,
+      "high": 438.58,
       "low": 426.0,
       "name": "TSMC",
-      "price": 438.305,
+      "price": 436.87,
       "symbol": "TSM",
-      "time": "2026-10-27T16:01:01Z",
+      "time": "2026-10-27T20:00:02Z",
       "url": "https://finance.yahoo.com/quote/TSM",
-      "volume": 4461794
+      "volume": 8992418
     },
     {
       "category": "chips",
-      "change": 10.93,
-      "change_percent": 0.67,
+      "change": 4.73,
+      "change_percent": 0.29,
       "currency": "USD",
       "date": "2026-10-27",
-      "high": 1642.89,
+      "high": 1643.67,
       "low": 1598.94,
       "name": "ASML",
-      "price": 1641.77,
+      "price": 1635.57,
       "symbol": "ASML",
-      "time": "2026-10-27T16:01:00Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/ASML",
-      "volume": 606408
+      "volume": 1328652
     },
     {
       "category": "chips",
-      "change": 8.525,
-      "change_percent": 2.55,
+      "change": 7.96,
+      "change_percent": 2.38,
       "currency": "USD",
       "date": "2026-10-27",
       "high": 345.67,
       "low": 336.87,
       "name": "Broadcom",
-      "price": 342.895,
+      "price": 342.33,
       "symbol": "AVGO",
-      "time": "2026-10-27T16:01:01Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/AVGO",
-      "volume": 10584208
+      "volume": 25480570
     },
     {
       "category": "hyperscaler",
-      "change": 2.73,
-      "change_percent": 0.51,
+      "change": -0.54,
+      "change_percent": -0.1,
       "currency": "USD",
       "date": "2026-10-27",
       "high": 534.7,
       "low": 528.331,
       "name": "Microsoft",
-      "price": 534.6,
+      "price": 531.33,
       "symbol": "MSFT",
-      "time": "2026-10-27T16:01:01Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/MSFT",
-      "volume": 5497890
+      "volume": 19419705
     },
     {
       "category": "lab",
-      "change": -19.115,
-      "change_percent": -5.62,
+      "change": -19.7,
+      "change_percent": -5.79,
       "currency": "USD",
       "date": "2026-10-27",
-      "high": 323.4,
+      "high": 323.875,
       "low": 316.898,
       "name": "Alphabet",
-      "price": 321.165,
+      "price": 320.58,
       "symbol": "GOOGL",
-      "time": "2026-10-27T16:01:00Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/GOOGL",
-      "volume": 11787311
+      "volume": 28434977
     },
     {
       "category": "lab",
-      "change": -68.16,
-      "change_percent": -9.82,
+      "change": -74.06,
+      "change_percent": -10.67,
       "currency": "USD",
       "date": "2026-10-27",
       "high": 628.46,
-      "low": 621.36,
+      "low": 619.22,
       "name": "Meta",
-      "price": 626.09,
+      "price": 620.19,
       "symbol": "META",
-      "time": "2026-10-27T16:01:00Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/META",
-      "volume": 21853030
+      "volume": 50659475
     },
     {
       "category": "cloud",
-      "change": -10.19,
-      "change_percent": -3.88,
+      "change": -9.53,
+      "change_percent": -3.63,
       "currency": "USD",
       "date": "2026-10-27",
-      "high": 252.53,
+      "high": 254.67,
       "low": 248.71,
       "name": "Amazon",
-      "price": 252.44,
+      "price": 253.1,
       "symbol": "AMZN",
-      "time": "2026-10-27T16:01:01Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/AMZN",
-      "volume": 10325168
+      "volume": 33975762
     },
     {
       "category": "chips",
-      "change": 6.005,
-      "change_percent": 2.72,
+      "change": 5.54,
+      "change_percent": 2.51,
       "currency": "USD",
       "date": "2026-10-27",
       "high": 227.83,
       "low": 222.01,
       "name": "Arm",
-      "price": 227.065,
+      "price": 226.6,
       "symbol": "ARM",
-      "time": "2026-10-27T16:00:54Z",
+      "time": "2026-10-27T20:00:01Z",
       "url": "https://finance.yahoo.com/quote/ARM",
-      "volume": 1532333
+      "volume": 3737607
     }
   ]
 }
