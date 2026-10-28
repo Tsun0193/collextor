@@ -45,6 +45,7 @@
       "url": "https://arxiv.org/abs/2610.35842v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Latent.Space"
       ],
@@ -54,10 +55,10 @@
       ],
       "description": "Katelyn Lesse and Angela Jiang join Latent Space to explain the engineering behind the Claude Platform: launching Opus 5.5, separating the model’s “brain” from the agent’s “hands,” scaling APIs, and building reliable managed agents. A new..",
       "event_cluster_id": "add40a8fdaef",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "add40a8fdaeffba739e5",
       "image_url": "https://i.ytimg.com/vi/MRQTlwcW-aQ/maxresdefault.jpg",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": true,
       "is_must_read": true,
       "published_at": "2026-10-27T18:40:19Z",
@@ -79,6 +80,7 @@
       "url": "https://latent.space/p/how_anthropic_ships_the_1_llm_in_the_world_safely_separating_the_brain_from_the_hands"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jelmer van Lune",
         "Miha Fuderer",
@@ -95,7 +97,7 @@
       ],
       "description": "Macromolecular pool fraction (MPF) is a quantitative imaging biomarker sensitive to myelin integrity and other changes in tissue macromolecular content, but specialized acquisitions and reconstruction methods limit its use in large-scale...",
       "event_cluster_id": "3f3a7d280b5c",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "3f3a7d280b5cc1a6873c",
       "image_url": "",
       "is_breaking": false,
@@ -185,6 +187,7 @@
       "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Nuria Balbás-Esteban",
         "Albert Belenguer-Llorens",
@@ -199,7 +202,7 @@
       ],
       "description": "Early identification of neurodegenerative disorders using structural T1-weighted MRI is essential for timely clinical intervention, yet supervised deep learning models often struggle to generalize due to limited annotations and...",
       "event_cluster_id": "4203b6bd4fcb",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "4203b6bd4fcb981553b4",
       "image_url": "",
       "is_breaking": false,
@@ -257,6 +260,41 @@
       "url": "https://arxiv.org/abs/2610.35430v1"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Latent.Space"
+      ],
+      "canonical_url": "https://latent.space/p/modal-d",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Elastic GPUs, sandbox growth, and the economics of the agent cloud",
+      "event_cluster_id": "8347efbf60ca",
+      "fetched_at": "2026-10-23T15:24:53Z",
+      "id": "8347efbf60cad1ffc9bb",
+      "image_url": "https://i.ytimg.com/vi/IiZ9yd2Do8I/maxresdefault.jpg",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-22T17:40:57Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: GPU",
+        "technical relevance: agent",
+        "long-read source"
+      ],
+      "section": "business_policy",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Why AI Compute Comes in Rectangles — Erik Bernhardsson, Modal CEO",
+      "url": "https://latent.space/p/modal-d"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/LiquidAI/lfm3",
       "cluster_sources": [
@@ -264,7 +302,7 @@
       ],
       "description": "",
       "event_cluster_id": "1c5b51464767",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "1c5b51464767c2ad2949",
       "image_url": "",
       "is_breaking": false,
@@ -421,38 +459,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Sam Hiner, Emma Leiken"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and...",
-      "event_cluster_id": "007c8953914a",
-      "fetched_at": "2026-10-27T02:23:07Z",
-      "id": "007c8953914a9cefba68",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-26T09:01:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: safety",
-        "technical relevance: RAG"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The focus on AI safety disasters ignores everyday harms",
-      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
-    },
-    {
-      "authors": [
         "Dominic-Madori Davis"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
@@ -461,7 +467,7 @@
       ],
       "description": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
       "event_cluster_id": "ff390db43c3b",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "ff390db43c3b5faf08c1",
       "image_url": "",
       "is_breaking": false,
@@ -484,6 +490,7 @@
       "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "swyx .ai"
       ],
@@ -493,7 +500,7 @@
       ],
       "description": "Katelyn Lesse and Angela Jiang on Opus 5.5, the Claude Platform, and the engineering behind AI agents.",
       "event_cluster_id": "2247b97d682b",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "2247b97d682bdb4bd15f",
       "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f111395b-ddfb-4ddc-969e-2424a5d05eb7/chatgpt.png?t=1793127236",
       "is_breaking": false,
@@ -516,6 +523,7 @@
       "url": "https://latent.space/p/opus55"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Igor Shilov",
         "Xiaoxue Yang",
@@ -532,7 +540,7 @@
       ],
       "description": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and...",
       "event_cluster_id": "4d7ec723f445",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "4d7ec723f445c21af82a",
       "image_url": "",
       "is_breaking": false,
@@ -555,6 +563,7 @@
       "url": "https://arxiv.org/abs/2610.37657v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sheethal Bhat",
         "Mahfuzur Rahman Chowdhury",
@@ -569,7 +578,7 @@
       ],
       "description": "Individualized attribution estimates which functional networks drive a model prediction for a given subject and is often proposed as an interpretable resting-state fMRI (rs-fMRI) biomarker, but its test-retest reliability is rarely...",
       "event_cluster_id": "1559982eae7f",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "1559982eae7f8fb2acf7",
       "image_url": "",
       "is_breaking": false,
@@ -592,6 +601,7 @@
       "url": "https://arxiv.org/abs/2610.37472v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sami Alnawali",
         "Muhammad Atif Saeed",
@@ -606,7 +616,7 @@
       ],
       "description": "Deep learning shows promise for breast cancer diagnosis, but limited interpretability hinders clinical adoption. We benchmark ten ImageNet-pretrained models (ResNet50, VGG19, InceptionV3, DenseNet121, Xception, MobileNetV2, EfficientNet,...",
       "event_cluster_id": "b7e41fd6f7d2",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "b7e41fd6f7d2da7dfb2a",
       "image_url": "",
       "is_breaking": false,
@@ -662,73 +672,7 @@
       "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo"
     },
     {
-      "authors": [
-        "Tianjian Cao",
-        "Jun Tao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.35080v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Wafer-map defect classification often requires labeled data and retraining when production conditions change. We present a training-free six-class framework that combines connected-component highlighting with morphology-, location-, and...",
-      "event_cluster_id": "5c92c326d389",
-      "fetched_at": "2026-10-27T02:23:07Z",
-      "id": "5c92c326d389f11606a0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-26T09:24:24Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: multimodal",
-        "startup/product signal: product"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Zero-Shot Multi-Class Wafer Map Classification with Rule-Ordered Prompts for Large Multimodal Models",
-      "url": "https://arxiv.org/abs/2610.35080v1"
-    },
-    {
-      "authors": [
-        "svsairevanth"
-      ],
-      "canonical_url": "https://github.com/nodecode-ai/nodecode",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "04a5ff0ef6c5",
-      "fetched_at": "2026-10-26T10:25:24Z",
-      "id": "hn-50238751",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-26T03:30:18Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: open-source",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Nodecode, open-source living agent in Lisp that rewrites itself for you",
-      "url": "https://github.com/nodecode-ai/nodecode"
-    },
-    {
+      "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
       ],
@@ -861,6 +805,98 @@
       "url": "https://www.technologyreview.com/2026/10/26/1147650/the-download-everyday-ai-harms-nuclear-spaceflight"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does...",
+      "event_cluster_id": "6d1e998db622",
+      "fetched_at": "2026-10-28T10:45:57Z",
+      "id": "6d1e998db622c805a94e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-28T10:09:07Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Terk Terkowitz",
+      "url": "https://simonwillison.net/2026/Oct/28/terk-terkowitz"
+    },
+    {
+      "authors": [
+        "swyx .ai"
+      ],
+      "canonical_url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Since coding is solved, why code for the job?",
+      "event_cluster_id": "e889cfac982d",
+      "fetched_at": "2026-10-28T10:45:57Z",
+      "id": "e889cfac982d4f3fb89c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-28T08:50:30Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Anthropic ends Coding Interviews: \"Hunger beats tenure\"",
+      "url": "https://latent.space/p/ainews-anthropic-ends-coding-interviews-hunger-beats-tenure"
+    },
+    {
+      "authors": [
+        "reiase"
+      ],
+      "canonical_url": "https://github.com/DeepLink-org/pvisor",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "f9d562a5e15d",
+      "fetched_at": "2026-10-28T02:32:54Z",
+      "id": "hn-50268585",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-28T02:17:04Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: PVisor, VM-isolated containers for agents",
+      "url": "https://github.com/DeepLink-org/pvisor"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Chaehyun Kim",
         "Chi-Pin Huang",
@@ -876,7 +912,7 @@
       ],
       "description": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much...",
       "event_cluster_id": "befd66ab0deb",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "befd66ab0debac532cdf",
       "image_url": "",
       "is_breaking": false,
@@ -899,6 +935,7 @@
       "url": "https://arxiv.org/abs/2610.37666v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jialv Zou",
         "Xiaotong Li",
@@ -915,7 +952,7 @@
       ],
       "description": "Discrete visual tokens represent vision in a discrete form analogous to language, offering a native interface for multimodal modeling under a shared next-token prediction objective. However, quantization error is widely assumed to cause...",
       "event_cluster_id": "2e1a38de9a2e",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "2e1a38de9a2ee09789d5",
       "image_url": "",
       "is_breaking": false,
@@ -938,6 +975,7 @@
       "url": "https://arxiv.org/abs/2610.37662v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zack Yu",
         "Nicholas Lee",
@@ -954,7 +992,7 @@
       ],
       "description": "Large Language Models (LLMs) are increasingly used in multi-turn agentic workloads that require sustained interaction with complex environments. Existing reflective prompt optimizers such as GEPA learn from failed rollouts, but agentic...",
       "event_cluster_id": "38ed68bbcb1a",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "38ed68bbcb1adec4e562",
       "image_url": "",
       "is_breaking": false,
@@ -977,6 +1015,7 @@
       "url": "https://arxiv.org/abs/2610.37651v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Andrew Szot",
         "Samira Abnar",
@@ -993,7 +1032,7 @@
       ],
       "description": "We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects the training of...",
       "event_cluster_id": "092baa0aebd8",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "092baa0aebd81af7844d",
       "image_url": "",
       "is_breaking": false,
@@ -1014,6 +1053,46 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
       "url": "https://arxiv.org/abs/2610.37648v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Mingyu Zhao",
+        "Shuhang Lin",
+        "Ligong Han",
+        "Xiaojing Yu",
+        "Zhenting Wang",
+        "Yifei Pang",
+        "Yang Zhou",
+        "Dimitris N. Metaxas"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.37642v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Diffusion language models offer a promising path to efficient agents through parallel token generation. However, efficient interaction requires adapting both where computation is spent and how much text is generated. We introduce a...",
+      "event_cluster_id": "056689f0a3fe",
+      "fetched_at": "2026-10-28T10:45:57Z",
+      "id": "056689f0a3fe3a58c739",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-27T17:55:24Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: agent, inference"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Metacognitive Decoding: Efficient Inference for Diffusion Language Agents",
+      "url": "https://arxiv.org/abs/2610.37642v1"
     },
     {
       "also_covered_by": [],
@@ -1048,6 +1127,7 @@
       "url": "https://latent.space/p/ainews-anthropic-s1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge",
       "cluster_sources": [
@@ -1055,7 +1135,7 @@
       ],
       "description": "Game Boy Color on My Conference Badge I'm at GitHub Universe this week and, similar to last year , the conference badge is a full-blown color screen computer. I've been hacking around with it again, and then I ran into with Steve...",
       "event_cluster_id": "68b12007f7f4",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "68b12007f7f448554e3b",
       "image_url": "https://static.simonwillison.net/static/2026-10-27/IMG_9339.jpeg",
       "is_breaking": false,
@@ -1076,6 +1156,7 @@
       "url": "https://simonwillison.net/2026/Oct/27/game-boy-color-on-my-conference-badge"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.anthropic.com/news/expanding-partnership-gsa",
       "cluster_sources": [
@@ -1083,7 +1164,7 @@
       ],
       "description": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
       "event_cluster_id": "550f4d88633d",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "550f4d88633d42452645",
       "image_url": "",
       "is_breaking": false,
@@ -1165,6 +1246,7 @@
       "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/allenai/novelty-bench",
       "cluster_sources": [
@@ -1172,7 +1254,7 @@
       ],
       "description": "",
       "event_cluster_id": "1d6c5c59e46e",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "1d6c5c59e46e52b936cb",
       "image_url": "",
       "is_breaking": false,
@@ -1224,6 +1306,7 @@
       "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages",
       "cluster_sources": [
@@ -1231,7 +1314,7 @@
       ],
       "description": "",
       "event_cluster_id": "5ed14fffd174",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "5ed14fffd1748be81239",
       "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/agentic-promo-nemotron-models-eu-gtc-berlin-press-1600x900-5811620-660x370-png.webp",
       "is_breaking": false,
@@ -1252,6 +1335,7 @@
       "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
       "cluster_sources": [
@@ -1259,7 +1343,7 @@
       ],
       "description": "October 27, 2026",
       "event_cluster_id": "e97319d8730a",
-      "fetched_at": "2026-10-28T02:32:54Z",
+      "fetched_at": "2026-10-28T10:45:57Z",
       "id": "e97319d8730a2e801954",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
       "is_breaking": false,
@@ -1281,12 +1365,12 @@
     }
   ],
   "date_label": "Wednesday, October 28, 2026",
-  "generated_at": "2026-10-28T02:32:54Z",
+  "generated_at": "2026-10-28T10:45:57Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 2,
-    "fetched_items": 202,
-    "retained_items": 38,
+    "fetched_items": 200,
+    "retained_items": 40,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
