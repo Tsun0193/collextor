@@ -1,50 +1,6 @@
 {
   "articles": [
     {
-      "also_covered_by": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "authors": [
-        "Chenglong Ma",
-        "Yuanfeng Ji",
-        "Junzhi Ning",
-        "Jiyao Liu",
-        "Yujie Wei",
-        "Shaohao Rui",
-        "Chaoyang Zhang",
-        "Wenjie Li"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.35842v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Multimodal medical AI requires a common visual interface for encoding heterogeneous imaging evidence for patient condition modeling. However, existing medical visual tokenizers are often tied to a specific dimension and imaging modality,...",
-      "event_cluster_id": "a2e8085a8579",
-      "fetched_at": "2026-10-27T15:59:10Z",
-      "id": "a2e8085a8579f66a0d6c",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-26T17:54:40Z",
-      "research_track": "medical_neuroimaging",
-      "score": 22,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: multimodal medical",
-        "technical relevance: multimodal",
-        "covered by multiple configured sources"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MedVTok: A General-Purpose Medical Visual Tokenizer",
-      "url": "https://arxiv.org/abs/2610.35842v1"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Latent.Space"
@@ -157,37 +113,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "GPT-6.1 Terra It's always interesting to note which aspects of a new model are emphasized in the release announcement. In the case of GPT-6.1 Terra, OpenAI went with visual reasoning and computer use: We’re introducing GPT-6.1 Terra , a...",
-      "event_cluster_id": "670bdc25a85e",
-      "fetched_at": "2026-10-27T02:23:07Z",
-      "id": "670bdc25a85edb1886da",
-      "image_url": "https://static.simonwillison.net/static/2026-10-26/terra-max.webp",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-26T23:53:07Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "major-event keyword: release, introducing, model",
-        "technical relevance: reasoning"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "GPT-6.1 Terra",
-      "url": "https://simonwillison.net/2026/Oct/26/gpt-61-terra"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Nuria Balbás-Esteban",
         "Albert Belenguer-Llorens",
@@ -260,6 +185,100 @@
       "url": "https://latent.space/p/modal-d"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Tim Rausch"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a...",
+      "event_cluster_id": "bbe8759f3c89",
+      "fetched_at": "2026-10-22T09:34:15Z",
+      "id": "bbe8759f3c898013e695",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-22T08:41:18Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: GPU, inference",
+        "technical relevance: inference, RAG"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "url": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/28/ted-sanders",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in...",
+      "event_cluster_id": "bfb31ceb6c55",
+      "fetched_at": "2026-10-29T02:46:45Z",
+      "id": "bfb31ceb6c55c182711c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-28T23:23:21Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Ted Sanders",
+      "url": "https://simonwillison.net/2026/Oct/28/ted-sanders"
+    },
+    {
+      "authors": [
+        "Aditya Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+      "event_cluster_id": "3801bfeec840",
+      "fetched_at": "2026-10-29T02:46:45Z",
+      "id": "3801bfeec8403796ab0b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-28T21:58:32Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
       "cluster_sources": [
@@ -289,6 +308,7 @@
       "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -486,35 +506,131 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Dominic-Madori Davis"
+        "Sam Hiner, Emma Leiken"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+      "canonical_url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms",
       "cluster_sources": [
-        "TechCrunch AI"
+        "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
-      "event_cluster_id": "ff390db43c3b",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "ff390db43c3b5faf08c1",
+      "description": "Consider what passes for success in technology policy. An AI company promises that its chatbot will not encourage suicide. A social media platform makes it more difficult for children to buy fentanyl. These are important protections, and...",
+      "event_cluster_id": "007c8953914a",
+      "fetched_at": "2026-10-27T02:23:07Z",
+      "id": "007c8953914a9cefba68",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": true,
-      "published_at": "2026-10-27T18:55:35Z",
+      "published_at": "2026-10-26T09:01:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: safety",
+        "technical relevance: RAG"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The focus on AI safety disasters ignores everyday harms",
+      "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
+    },
+    {
+      "authors": [
+        "swyx .ai"
+      ],
+      "canonical_url": "https://latent.space/p/supabase",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
+      "event_cluster_id": "59788a007bb4",
+      "fetched_at": "2026-10-29T02:46:45Z",
+      "id": "59788a007bb479e47758",
+      "image_url": "https://i.ytimg.com/vi/zHG6sAss_kE/maxresdefault.jpg",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-28T19:48:05Z",
       "research_track": "",
       "score": 16,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: chip",
-        "startup/product signal: startup"
+        "technical relevance: agent",
+        "long-read source"
       ],
-      "section": "startup_product",
+      "section": "ai_engineering",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Why Agents Love Supabase",
+      "url": "https://latent.space/p/supabase"
+    },
+    {
+      "authors": [
+        "Theresa Loconsolo"
+      ],
+      "canonical_url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking...",
+      "event_cluster_id": "40e02ac52743",
+      "fetched_at": "2026-10-29T02:46:45Z",
+      "id": "40e02ac52743a94781d1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-28T19:05:46Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: open source",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Disruptive raises $10B fund to make big bets on at least 10 companies",
-      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies"
+      "title": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+      "url": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse"
+    },
+    {
+      "authors": [
+        "Theresa Loconsolo, Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking...",
+      "event_cluster_id": "b0b0b86290ad",
+      "fetched_at": "2026-10-29T02:46:45Z",
+      "id": "b0b0b86290ad20602242",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-28T18:50:39Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: open source",
+        "startup/product signal: open source"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto"
     },
     {
       "also_covered_by": [],
@@ -698,66 +814,34 @@
       "url": "https://armincat.com/articles/fast-models-slow-agents"
     },
     {
-      "authors": [
-        "Amanda Silberling"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/pytorch-2-15-release-blog",
       "cluster_sources": [
-        "TechCrunch AI"
+        "PyTorch Blog"
       ],
-      "description": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
-      "event_cluster_id": "29526404518c",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "29526404518cacde12de",
+      "description": "",
+      "event_cluster_id": "9bbfa53edb2c",
+      "fetched_at": "2026-10-29T02:46:45Z",
+      "id": "9bbfa53edb2c676244cf",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-28T15:53:52Z",
+      "published_at": "2026-10-28T00:00:00Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "technical relevance: RAG"
+        "published within 48 hours",
+        "major-event keyword: release",
+        "technical relevance: PyTorch"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AI execs may be too out of touch to build for the general public",
-      "url": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public"
-    },
-    {
-      "authors": [
-        "Julie Bort"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to...",
-      "event_cluster_id": "83a93c348b55",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "83a93c348b55de589206",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-28T15:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, released, model"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
-      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model"
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "PyTorch 2.15 Release Blog",
+      "url": "https://pytorch.org/blog/pytorch-2-15-release-blog"
     },
     {
       "authors": [
@@ -792,6 +876,7 @@
       "url": "https://blog.christianperone.com/2026/10/pandora-m1-a-training-monitor-box-64-nodes-x-8-gpus-support"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
       "cluster_sources": [
@@ -1213,64 +1298,41 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://www.anthropic.com/news/expanding-partnership-gsa",
-      "cluster_sources": [
-        "Anthropic News"
+      "authors": [
+        "Eduardo Nieto",
+        "Ibai Genua",
+        "Davide Scorza",
+        "Karen López-Linares"
       ],
-      "description": "We are expanding our partnership with the General Services Administration (GSA) through a new agreement that gives government partners a 40% discount on Claude Enterprise, Claude for Government, and the Claude API.",
-      "event_cluster_id": "550f4d88633d",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "550f4d88633d42452645",
+      "canonical_url": "https://arxiv.org/abs/2610.37134v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Magnetic Resonance Imaging (MRI) is routinely used to diagnose spinal disorders, but surgical planning often requires Computed Tomography (CT) for better visualization of vertebral bone anatomy. Synthesizing CT from MRI could avoid...",
+      "event_cluster_id": "a6973598c243",
+      "fetched_at": "2026-10-28T10:45:57Z",
+      "id": "a6973598c24383e14b0a",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-27T00:00:00Z",
-      "research_track": "",
+      "published_at": "2026-10-27T12:32:47Z",
+      "research_track": "medical_neuroimaging",
       "score": 13,
       "score_reasons": [
-        "critical source",
-        "published within 48 hours",
-        "startup/product signal: API"
+        "medium source",
+        "published within 24 hours",
+        "research relevance: MRI"
       ],
-      "section": "ai_engineering",
-      "source_category": "official-lab",
-      "source_id": "anthropic_news",
-      "source_name": "Anthropic News",
-      "title": "Expanding our partnership with GSA to bring Claude to all levels of government",
-      "url": "https://www.anthropic.com/news/expanding-partnership-gsa"
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MRI-to-CT Translation of Spinal Images via Anatomy-Guided Pseudo-Pairing and Adversarial Diffusion",
+      "url": "https://arxiv.org/abs/2610.37134v1"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/26/jason-koebler",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "Because big tech platforms essentially do not have customer support and make it impossible for their users to contact a human, many people experiencing run-of-the-mill tech problems have turned to ChatGPT. And, increasingly, ChatGPT is...",
-      "event_cluster_id": "7788db215579",
-      "fetched_at": "2026-10-27T15:59:10Z",
-      "id": "7788db21557944ebc000",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-26T19:00:25Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "critical source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Jason Koebler",
-      "url": "https://simonwillison.net/2026/Oct/26/jason-koebler"
-    },
-    {
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
       "cluster_sources": [
@@ -1299,6 +1361,7 @@
       "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "MIT Technology Review Insights"
       ],
@@ -1360,6 +1423,64 @@
       "url": "https://www.technologyreview.com/2026/10/27/1147684/solid-state-transformers"
     },
     {
+      "authors": [
+        "MIT Technology Review Insights"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated,...",
+      "event_cluster_id": "a6bc564ba823",
+      "fetched_at": "2026-10-29T02:46:45Z",
+      "id": "a6bc564ba8236e2b33a3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-28T20:32:02Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Creating AI value with enterprise context",
+      "url": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions",
+      "cluster_sources": [
+        "Anthropic News"
+      ],
+      "description": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
+      "event_cluster_id": "e63c44ee2537",
+      "fetched_at": "2026-10-29T02:46:45Z",
+      "id": "e63c44ee253751eb72ae",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-28T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "critical source",
+        "published within 48 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "AI for Science expands to foundations and research institutions",
+      "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
+    },
+    {
       "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/allenai/novelty-bench",
@@ -1387,104 +1508,15 @@
       "source_name": "Hugging Face Blog",
       "title": "Can we trust LLMs to judge whether a research idea is novel?",
       "url": "https://huggingface.co/blog/allenai/novelty-bench"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Will Douglas Heaven"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. After weeks of frenzied speculation, Anthropic has filed its IPO prospectus. The 335-page document...",
-      "event_cluster_id": "ff107500928a",
-      "fetched_at": "2026-10-27T15:59:10Z",
-      "id": "ff107500928ad2ca234e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-26T17:45:43Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Will the real Anthropic please stand up",
-      "url": "https://www.technologyreview.com/2026/10/26/1147672/will-the-real-anthropic-please-stand-up"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages",
-      "cluster_sources": [
-        "NVIDIA Technical Blog - Machine Learning and AI"
-      ],
-      "description": "",
-      "event_cluster_id": "5ed14fffd174",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "5ed14fffd1748be81239",
-      "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/agentic-promo-nemotron-models-eu-gtc-berlin-press-1600x900-5811620-660x370-png.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-27T00:00:00Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "high source",
-        "published within 48 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "infrastructure",
-      "source_id": "nvidia_ml_blog",
-      "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
-      "title": "Fine-Tuning NVIDIA Nemotron to Know Local Rules, Not Just Local Languages",
-      "url": "https://developer.nvidia.com/blog/fine-tuning-nvidia-nemotron-to-know-local-rules-not-just-local-languages"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
-      "cluster_sources": [
-        "Google Research Blog"
-      ],
-      "description": "October 27, 2026",
-      "event_cluster_id": "e97319d8730a",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "e97319d8730a2e801954",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/LLMSleep_Cover.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-27T00:00:00Z",
-      "research_track": "",
-      "score": 6,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "research-lab",
-      "source_id": "google_research",
-      "source_name": "Google Research Blog",
-      "title": "October 27, 2026 The sleep framework: A new way for LLMs to retain knowledge in continual learning Education Innovation · General Science · Machine Intelligence · Natural Language Processing",
-      "url": "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning"
     }
   ],
-  "date_label": "Wednesday, October 28, 2026",
-  "generated_at": "2026-10-28T16:47:50Z",
+  "date_label": "Thursday, October 29, 2026",
+  "generated_at": "2026-10-29T02:46:45Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 2,
-    "fetched_items": 201,
-    "retained_items": 44,
+    "fetched_items": 198,
+    "retained_items": 45,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
