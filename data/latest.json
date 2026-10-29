@@ -1,6 +1,50 @@
 {
   "articles": [
     {
+      "also_covered_by": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "authors": [
+        "Chenglong Ma",
+        "Yuanfeng Ji",
+        "Junzhi Ning",
+        "Jiyao Liu",
+        "Yujie Wei",
+        "Shaohao Rui",
+        "Chaoyang Zhang",
+        "Wenjie Li"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2610.35842v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multimodal medical AI requires a common visual interface for encoding heterogeneous imaging evidence for patient condition modeling. However, existing medical visual tokenizers are often tied to a specific dimension and imaging modality,...",
+      "event_cluster_id": "a2e8085a8579",
+      "fetched_at": "2026-10-27T15:59:10Z",
+      "id": "a2e8085a8579f66a0d6c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-26T17:54:40Z",
+      "research_track": "medical_neuroimaging",
+      "score": 22,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: multimodal medical",
+        "technical relevance: multimodal",
+        "covered by multiple configured sources"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "MedVTok: A General-Purpose Medical Visual Tokenizer",
+      "url": "https://arxiv.org/abs/2610.35842v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Latent.Space"
@@ -78,6 +122,39 @@
       "url": "https://arxiv.org/abs/2610.37213v1"
     },
     {
+      "authors": [
+        "Richard MacManus"
+      ],
+      "canonical_url": "https://latent.space/p/elorian",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "A new decoy counting benchmark exposes a gap between seeing and reasoning. Elorian’s Glimpse tries to bridge it by thinking with images.",
+      "event_cluster_id": "35c84e950b28",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "35c84e950b2805665db7",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/c0263f23-d8f4-45a5-8e75-1ea88650605f/Elorian_Decoy_Feature_Image.png?t=1793221147",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-10-29T16:00:00Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: reasoning",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "Can Frontier Models See Past a Decoy? Elorian Tests Visual Reasoning",
+      "url": "https://latent.space/p/elorian"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
@@ -112,6 +189,37 @@
       "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Oct/29/ben-hylak",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're...",
+      "event_cluster_id": "2d0c2102a719",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "2d0c2102a71995514b23",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-29T14:06:27Z",
+      "research_track": "",
+      "score": 19,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: product"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Ben Hylak",
+      "url": "https://simonwillison.net/2026/Oct/29/ben-hylak"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "swyx .ai"
       ],
@@ -143,45 +251,6 @@
       "source_name": "Latent Space",
       "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
       "url": "https://latent.space/p/ainews-gemini-4-carbon"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Nuria Balbás-Esteban",
-        "Albert Belenguer-Llorens",
-        "Elaheh Moradi",
-        "Jussi Tohka",
-        "Vanessa Gómez-Verdejo",
-        "Carlos Sevilla-Salcedo"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.37074v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Early identification of neurodegenerative disorders using structural T1-weighted MRI is essential for timely clinical intervention, yet supervised deep learning models often struggle to generalize due to limited annotations and...",
-      "event_cluster_id": "4203b6bd4fcb",
-      "fetched_at": "2026-10-28T10:45:57Z",
-      "id": "4203b6bd4fcb981553b4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-27T11:36:12Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI",
-        "technical relevance: representation learning"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Systematic Morphometric Brain Autoencoding for Representation Learning in Neurodegenerative Diseases",
-      "url": "https://arxiv.org/abs/2610.37074v1"
     },
     {
       "also_covered_by": [],
@@ -218,6 +287,7 @@
       "url": "https://latent.space/p/modal-d"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Madhulika Srikumar, Claire Leibowicz"
       ],
@@ -248,6 +318,68 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "We urgently need to monitor AI agents’ actions in real time",
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+      "event_cluster_id": "f8adb1021dcc",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "f8adb1021dcc3d4cffb4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-29T14:35:26Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: raised"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+      "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://mistral.ai/news/mistral-large-4-oss",
+      "cluster_sources": [
+        "Mistral AI News"
+      ],
+      "description": "Research",
+      "event_cluster_id": "5a25565ab71a",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "5a25565ab71a8d06b3b9",
+      "image_url": "https://mistral.ai/_astro/ml4-oss_1OJhxm.webp?dpl=6ae36973fa0cbf68822ef69d",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-29T00:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: release, model, security",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "official-lab",
+      "source_id": "mistral_news",
+      "source_name": "Mistral AI News",
+      "title": "Research Le Chonk: Built for Coders, Trusted by Defenders. We release the weights of Le Chonk, advancing the frontier of open models in agentic coding and cybersecurity. October 29, 2026 By Mistral",
+      "url": "https://mistral.ai/news/mistral-large-4-oss"
     },
     {
       "also_covered_by": [],
@@ -406,105 +538,6 @@
       "url": "https://huggingface.co/blog/LiquidAI/lfm3"
     },
     {
-      "authors": [
-        "nicchia"
-      ],
-      "canonical_url": "https://nicchia-code.github.io/trama",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "2b80110731ee",
-      "fetched_at": "2026-10-27T15:59:10Z",
-      "id": "hn-50261185",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-27T15:56:02Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: release, released",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Trama, Meta Vibe Coding Agent 0.1.1 Released",
-      "url": "https://nicchia-code.github.io/trama"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Rohit Patel is departing Meta after eight years working on AI evaluations and reinforcement learning, TechCrunch has exclusively learned. His startup, Ndoc, aims to take on Microsoft Office Suite.",
-      "event_cluster_id": "dc291fa0a78d",
-      "fetched_at": "2026-10-27T15:59:10Z",
-      "id": "dc291fa0a78ddf3b2364",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-27T14:59:09Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: evaluation",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace",
-      "url": "https://techcrunch.com/2026/10/27/meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-workspace"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rittika Jindal"
-      ],
-      "canonical_url": "https://latent.space/p/offline-coding",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "How to set up and run an offline coding agent using OpenCode, Ollama and Qwen.",
-      "event_cluster_id": "f3da086cf64c",
-      "fetched_at": "2026-10-27T15:59:10Z",
-      "id": "f3da086cf64ca1574761",
-      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/425b6203-2bf9-4c0a-9545-27f2704fa9aa/himilayas-no-wifi-1280x720.png?t=1793103846",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-27T14:41:25Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "long-read source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "Coding From the Himalayas With an Offline AI Agent",
-      "url": "https://latent.space/p/offline-coding"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Sam Hiner, Emma Leiken"
@@ -548,7 +581,7 @@
       ],
       "description": "Paul Copplestone and Ant Wilson on building the backend for AI agents",
       "event_cluster_id": "59788a007bb4",
-      "fetched_at": "2026-10-29T11:02:49Z",
+      "fetched_at": "2026-10-29T17:03:07Z",
       "id": "59788a007bb479e47758",
       "image_url": "https://i.ytimg.com/vi/zHG6sAss_kE/maxresdefault.jpg",
       "is_breaking": false,
@@ -581,7 +614,7 @@
       ],
       "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking...",
       "event_cluster_id": "40e02ac52743",
-      "fetched_at": "2026-10-29T11:02:49Z",
+      "fetched_at": "2026-10-29T17:03:07Z",
       "id": "40e02ac52743a94781d1",
       "image_url": "",
       "is_breaking": false,
@@ -614,7 +647,7 @@
       ],
       "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking...",
       "event_cluster_id": "b0b0b86290ad",
-      "fetched_at": "2026-10-29T11:02:49Z",
+      "fetched_at": "2026-10-29T17:03:07Z",
       "id": "b0b0b86290ad20602242",
       "image_url": "",
       "is_breaking": false,
@@ -743,77 +776,130 @@
       "url": "https://arxiv.org/abs/2610.37657v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Sheethal Bhat",
-        "Mahfuzur Rahman Chowdhury",
-        "Imam Ahmed Shaik",
-        "Rose Dawn Bharath",
-        "Siming Bayer",
-        "Andreas Maier"
+        "Julie Bort"
       ],
-      "canonical_url": "https://arxiv.org/abs/2610.37472v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Individualized attribution estimates which functional networks drive a model prediction for a given subject and is often proposed as an interpretable resting-state fMRI (rs-fMRI) biomarker, but its test-retest reliability is rarely...",
-      "event_cluster_id": "1559982eae7f",
-      "fetched_at": "2026-10-28T10:45:57Z",
-      "id": "1559982eae7f8fb2acf7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-27T16:04:54Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI, fMRI"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "How Reliable Is Individualized Functional-Network Attribution in Resting-State fMRI Cognitive Prediction in ADNI?",
-      "url": "https://arxiv.org/abs/2610.37472v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Aditya Mehta"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+      "canonical_url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
-      "event_cluster_id": "3f7382b7697a",
-      "fetched_at": "2026-10-27T15:59:10Z",
-      "id": "3f7382b7697aab5a75bf",
+      "description": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
+      "event_cluster_id": "990b533cbb64",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "990b533cbb64ab7a1489",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-26T16:46:36Z",
+      "is_must_read": false,
+      "published_at": "2026-10-29T16:42:32Z",
       "research_track": "",
-      "score": 16,
+      "score": 15,
       "score_reasons": [
         "high source",
-        "published within 24 hours",
-        "major-event keyword: GPU",
-        "startup/product signal: API"
+        "published within 6 hours",
+        "major-event keyword: chip"
       ],
       "section": "business_policy",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "SpaceX locks in $40B GPU financing deal with Apollo",
-      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo"
+      "title": "U.S. investigated Chinese spy plot aimed at Nvidia CEO",
+      "url": "https://techcrunch.com/2026/10/29/u-s-investigated-chinese-spy-plot-aimed-at-nvidia-ceo"
     },
     {
+      "authors": [
+        "shong0504"
+      ],
+      "canonical_url": "https://news.ycombinator.com/item?id=50291116",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "700f3e4bbfb4",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "hn-50291116",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-29T15:56:32Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
+      "url": "https://news.ycombinator.com/item?id=50291116"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "e508e29ae812",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "e508e29ae812fe586e8d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-29T13:37:07Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1"
+    },
+    {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire...",
+      "event_cluster_id": "ea15336c2c7e",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "ea15336c2c7ed5b9a02a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-10-29T12:10:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: AI agent tracking and climate feedback loops",
+      "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "James Temple"
       ],
@@ -885,7 +971,7 @@
       ],
       "description": "",
       "event_cluster_id": "9bbfa53edb2c",
-      "fetched_at": "2026-10-29T11:02:49Z",
+      "fetched_at": "2026-10-29T17:03:07Z",
       "id": "9bbfa53edb2c676244cf",
       "image_url": "",
       "is_breaking": false,
@@ -970,6 +1056,35 @@
       "source_name": "Hacker News",
       "title": "HeavyAI (formerly MapD) is now open source",
       "url": "https://github.com/heavyai/heavydb"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/anydecisionmodel",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "6394645bd510",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "6394645bd5105adc5435",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-29T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: introducing, model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel"
     },
     {
       "also_covered_by": [],
@@ -1330,41 +1445,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Eduardo Nieto",
-        "Ibai Genua",
-        "Davide Scorza",
-        "Karen López-Linares"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.37134v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Magnetic Resonance Imaging (MRI) is routinely used to diagnose spinal disorders, but surgical planning often requires Computed Tomography (CT) for better visualization of vertebral bone anatomy. Synthesizing CT from MRI could avoid...",
-      "event_cluster_id": "a6973598c243",
-      "fetched_at": "2026-10-28T10:45:57Z",
-      "id": "a6973598c24383e14b0a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-27T12:32:47Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: MRI"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MRI-to-CT Translation of Spinal Images via Anatomy-Guided Pseudo-Pairing and Adversarial Diffusion",
-      "url": "https://arxiv.org/abs/2610.37134v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
       "cluster_sources": [
@@ -1424,6 +1504,62 @@
       "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/announcing-project-protostar",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "718617961cab",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "718617961cab3abcc8e8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-29T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/mistral-large4",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "b6b30743068c",
+      "fetched_at": "2026-10-29T17:03:07Z",
+      "id": "b6b30743068c26272d89",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-29T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+      "url": "https://huggingface.co/blog/mistral-large4"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "MIT Technology Review Insights"
@@ -1434,7 +1570,7 @@
       ],
       "description": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated,...",
       "event_cluster_id": "a6bc564ba823",
-      "fetched_at": "2026-10-29T11:02:49Z",
+      "fetched_at": "2026-10-29T17:03:07Z",
       "id": "a6bc564ba8236e2b33a3",
       "image_url": "",
       "is_breaking": false,
@@ -1463,7 +1599,7 @@
       ],
       "description": "We’re highlighting 20 scientific foundations, institutions, and research groups around the world that we’ve partnered with in an expansion of our AI for Science program.",
       "event_cluster_id": "e63c44ee2537",
-      "fetched_at": "2026-10-29T11:02:49Z",
+      "fetched_at": "2026-10-29T17:03:07Z",
       "id": "e63c44ee253751eb72ae",
       "image_url": "",
       "is_breaking": false,
@@ -1482,44 +1618,15 @@
       "source_name": "Anthropic News",
       "title": "AI for Science expands to foundations and research institutions",
       "url": "https://www.anthropic.com/news/ai-for-science-expands-foundations-research-institutions"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "1d6c5c59e46e",
-      "fetched_at": "2026-10-28T10:45:57Z",
-      "id": "1d6c5c59e46e52b936cb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-27T16:12:42Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench"
     }
   ],
-  "date_label": "Thursday, October 29, 2026",
-  "generated_at": "2026-10-29T11:02:49Z",
+  "date_label": "Friday, October 30, 2026",
+  "generated_at": "2026-10-29T17:03:07Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 2,
-    "fetched_items": 202,
-    "retained_items": 45,
+    "fetched_items": 200,
+    "retained_items": 49,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
