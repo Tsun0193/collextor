@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "swyx .ai"
       ],
@@ -109,39 +110,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Tim Fernholz"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
-      "event_cluster_id": "8f3cfb5cce39",
-      "fetched_at": "2026-10-27T15:59:10Z",
-      "id": "8f3cfb5cce39de3e6208",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-27T13:00:00Z",
-      "research_track": "",
-      "score": 20,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: chip, inference",
-        "technical relevance: inference",
-        "startup/product signal: Series A"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
-      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative"
-    },
-    {
       "authors": [
         "Amartya Bhattacharya",
         "Bashirul Azam Biswas",
@@ -279,6 +247,71 @@
       "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time"
     },
     {
+      "authors": [
+        "emmanueltsakpo"
+      ],
+      "canonical_url": "https://inbin-gate.vercel.app",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "fc331a9f9cbb",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "hn-50306538",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-30T16:46:11Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: safety",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: I built a safety gate for autonomous coding agents",
+      "url": "https://inbin-gate.vercel.app"
+    },
+    {
+      "authors": [
+        "Dominic-Madori Davis"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "event_cluster_id": "3ff23f142c77",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "3ff23f142c77481e11a6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-30T13:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Sarah Perez"
@@ -406,69 +439,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/28/vibe-game-development",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software...",
-      "event_cluster_id": "70f2bbbd704a",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "70f2bbbd704a353daaa0",
-      "image_url": "https://static.simonwillison.net/static/2026/tree-appreciator.webp",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-28T13:55:15Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "The October inflection point for vibe game development",
-      "url": "https://simonwillison.net/2026/Oct/28/vibe-game-development"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. AI labs are buying data from dead startups to train their models When Keelan Miskell began winding...",
-      "event_cluster_id": "0c62d1b8c055",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "0c62d1b8c05503d7ca0d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-28T12:10:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: dead startups fueling AI and interspecies communication",
-      "url": "https://www.technologyreview.com/2026/10/28/1147767/the-download-dead-startups-fueling-ai-interspecies-communication"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Sam Hiner, Emma Leiken"
       ],
@@ -541,7 +511,7 @@
       ],
       "description": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
       "event_cluster_id": "79cec0107600",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "79cec0107600d9d54854",
       "image_url": "",
       "is_breaking": false,
@@ -574,7 +544,7 @@
       ],
       "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
       "event_cluster_id": "3e7c26f58863",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "3e7c26f588631c0faae7",
       "image_url": "",
       "is_breaking": false,
@@ -604,7 +574,7 @@
       ],
       "description": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with...",
       "event_cluster_id": "e65fcafff408",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "e65fcafff408f8083fa1",
       "image_url": "https://static.simonwillison.net/static/2026-10-29/IMG_9406.webp",
       "is_breaking": false,
@@ -626,6 +596,7 @@
       "url": "https://simonwillison.net/2026/Oct/29/how-i-built-the-most-ai-pilled-company-in-the-world"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Md Kawsar Ahmed",
         "Mathews Jacob"
@@ -727,39 +698,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Theresa Loconsolo, Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking...",
-      "event_cluster_id": "b0b0b86290ad",
-      "fetched_at": "2026-10-29T17:03:07Z",
-      "id": "b0b0b86290ad20602242",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-28T18:50:39Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: open source",
-        "startup/product signal: open source"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
-      "url": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Aditya Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo",
@@ -789,6 +727,38 @@
       "source_name": "TechCrunch AI",
       "title": "SpaceX locks in $40B GPU financing deal with Apollo",
       "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo"
+    },
+    {
+      "authors": [
+        "tosh"
+      ],
+      "canonical_url": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "0e98622582a5",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "hn-50306329",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T16:32:47Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "OpenRouter rebuilt provider routing for better, faster inference",
+      "url": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing"
     },
     {
       "authors": [
@@ -888,39 +858,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "shong0504"
-      ],
-      "canonical_url": "https://news.ycombinator.com/item?id=50291116",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "700f3e4bbfb4",
-      "fetched_at": "2026-10-29T17:03:07Z",
-      "id": "hn-50291116",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-29T15:56:32Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Launch HN: Simantic (YC F26) – Firmware Simulation for AI Agents",
-      "url": "https://news.ycombinator.com/item?id=50291116"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
       "cluster_sources": [
@@ -1014,38 +951,39 @@
       "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot"
     },
     {
+      "also_covered_by": [],
       "authors": [
-        "armcat"
+        "Julie Bort"
       ],
-      "canonical_url": "https://armincat.com/articles/fast-models-slow-agents",
+      "canonical_url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
       "cluster_sources": [
-        "Hacker News"
+        "TechCrunch AI"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "615b1bef2de6",
+      "description": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to...",
+      "event_cluster_id": "83a93c348b55",
       "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "hn-50276482",
+      "id": "83a93c348b55de589206",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-28T16:39:01Z",
+      "published_at": "2026-10-28T15:00:00Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
+        "major-event keyword: release, released, model"
       ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Fast Models, Slow Agents",
-      "url": "https://armincat.com/articles/fast-models-slow-agents"
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Voice AI in vogue: Nvidia releases new open transcription model",
+      "url": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Baiqiao Yin",
         "Zhongang Cai",
@@ -1060,7 +998,7 @@
       ],
       "description": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is...",
       "event_cluster_id": "29e6c25ba84f",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "29e6c25ba84f01bc7ea8",
       "image_url": "",
       "is_breaking": false,
@@ -1083,6 +1021,7 @@
       "url": "https://arxiv.org/abs/2610.40636v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Pranjal Aggarwal",
         "Sean Welleck"
@@ -1093,7 +1032,7 @@
       ],
       "description": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only a narrow range of real-world tasks and...",
       "event_cluster_id": "8354237bbbcd",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "8354237bbbcdadca85d8",
       "image_url": "",
       "is_breaking": false,
@@ -1116,6 +1055,7 @@
       "url": "https://arxiv.org/abs/2610.40565v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Santiago Posso-Murillo"
       ],
@@ -1215,34 +1155,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "GitHub Octoverse 2026 I'm at GitHub Universe today (GitHub gave me a free ticket through their \"GitHub Stars\" program). EVP Jay Parikh just announced this year's Octoverse report, and highlighted these numbers in particular: This is a...",
-      "event_cluster_id": "5e9e44475572",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "5e9e44475572a25994c0",
-      "image_url": "https://static.simonwillison.net/static/2026/github-numbers.jpg",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-28T16:45:23Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "GitHub Octoverse 2026",
-      "url": "https://simonwillison.net/2026/Oct/28/github-octoverse-2026"
-    },
-    {
       "authors": [
         "Xuewen Zhou",
         "Zhen Chen"
@@ -1375,66 +1287,36 @@
       "url": "https://arxiv.org/abs/2610.38737v1"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Microsoft Research Blog"
       ],
       "description": "",
-      "event_cluster_id": "ec733f799e1a",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "ec733f799e1aaee3d1ac",
+      "event_cluster_id": "bafa68df361f",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "bafa68df361fc999449e",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-28T14:58:17Z",
+      "published_at": "2026-10-30T00:00:00Z",
       "research_track": "",
-      "score": 12,
+      "score": 11,
       "score_reasons": [
-        "high source",
-        "published within 6 hours"
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: evaluation"
       ],
-      "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary"
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "MIT Technology Review Insights"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "",
-      "event_cluster_id": "f143bf66df7b",
-      "fetched_at": "2026-10-28T16:47:50Z",
-      "id": "f143bf66df7b8ac9cf15",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-10-28T12:00:00Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Pairing industrial AI autonomy and human control",
-      "url": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control"
-    },
-    {
       "authors": [
         "Roxanne De Maeyer",
         "Ine Dirks",
@@ -1561,12 +1443,12 @@
     }
   ],
   "date_label": "Friday, October 30, 2026",
-  "generated_at": "2026-10-30T10:59:23Z",
+  "generated_at": "2026-10-30T16:48:02Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 2,
-    "fetched_items": 200,
-    "retained_items": 48,
+    "fetched_items": 196,
+    "retained_items": 44,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"

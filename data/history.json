@@ -2,6 +2,348 @@
   "articles": [
     {
       "authors": [
+        "philippb"
+      ],
+      "canonical_url": "https://twitter.com/AlexKsendzovsky/status/2116153410101944352",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "71d0ee478ac8",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "hn-50306553",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T16:47:02Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "First video gen model trained on real neurons online",
+      "url": "https://twitter.com/AlexKsendzovsky/status/2116153410101944352"
+    },
+    {
+      "authors": [
+        "emmanueltsakpo"
+      ],
+      "canonical_url": "https://inbin-gate.vercel.app",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "fc331a9f9cbb",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "hn-50306538",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-30T16:46:11Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: safety",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: I built a safety gate for autonomous coding agents",
+      "url": "https://inbin-gate.vercel.app"
+    },
+    {
+      "authors": [
+        "NKTgAI"
+      ],
+      "canonical_url": "https://nktg.org",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "e36a236bed79",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "hn-50306424",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T16:38:55Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: NKTg AI – An LLM that decodes text before generating",
+      "url": "https://nktg.org"
+    },
+    {
+      "authors": [
+        "ingve"
+      ],
+      "canonical_url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "38937f7fd47a",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "hn-50306359",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T16:34:47Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Postgres 19 is late, and it's AI's fault",
+      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html"
+    },
+    {
+      "authors": [
+        "tosh"
+      ],
+      "canonical_url": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "0e98622582a5",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "hn-50306329",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T16:32:47Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "OpenRouter rebuilt provider routing for better, faster inference",
+      "url": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing"
+    },
+    {
+      "authors": [
+        "Amanda Silberling"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+      "event_cluster_id": "9d1f246a30c4",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "9d1f246a30c48eae12f8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T16:03:45Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: API"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+      "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people"
+    },
+    {
+      "authors": [
+        "dorianniemiec"
+      ],
+      "canonical_url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "55737272f83d",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "hn-50305693",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T15:52:18Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "AI Isn't Replacing SREs. It's Deskilling Them",
+      "url": "https://newsletter.signoz.io/p/ai-isnt-replacing-sres-its-deskilling"
+    },
+    {
+      "authors": [
+        "TechCrunch Events"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "At TechCrunch Founder Summit 2026, happening November 4 at SoWa Power Station in Boston, networking powered by Braindate is designed to make those conversations easier to find, whether they are in 1:1 or small-group on-site meetings....",
+      "event_cluster_id": "2c05349924df",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "2c05349924dfc396b121",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T14:00:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit with Braindate",
+      "url": "https://techcrunch.com/2026/10/30/skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit-with-braindate"
+    },
+    {
+      "authors": [
+        "Ivan Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "DoorDash said that it is open to working with third-party agent makers.",
+      "event_cluster_id": "6e71e92aae50",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "6e71e92aae50069aef3a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T13:54:25Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "DoorDash said it’s only received ‘several hundred’ orders from AI agents",
+      "url": "https://techcrunch.com/2026/10/30/doordash-said-its-only-received-several-hundred-orders-from-ai-agents"
+    },
+    {
+      "authors": [
+        "Dominic-Madori Davis"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+      "event_cluster_id": "3ff23f142c77",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "3ff23f142c77481e11a6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-10-30T13:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+      "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out"
+    },
+    {
+      "authors": [
+        "TechCrunch Events"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "5 days to save up to $100, plus a second pass for free to TechCrunch Founder Summit 2026 in Boston on November 4. Register now.",
+      "event_cluster_id": "7b125f4febdf",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "7b125f4febdfadbb1b65",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T13:00:00Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "negative signal: register now"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "5 days left: Your last chance to connect, scale, and save at TechCrunch Founder Summit 2026",
+      "url": "https://techcrunch.com/2026/10/30/5-days-left-your-last-chance-to-connect-scale-and-save-at-techcrunch-founder-summit-2026"
+    },
+    {
+      "authors": [
         "JumpCrisscross"
       ],
       "canonical_url": "https://twitter.com/elshayib_/status/2113710752741892476",
@@ -124,6 +466,7 @@
       "url": "https://news.ycombinator.com/item?id=50302109"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "swyx .ai"
       ],
@@ -311,6 +654,35 @@
       "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work"
     },
     {
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "bafa68df361f",
+      "fetched_at": "2026-10-30T16:48:02Z",
+      "id": "bafa68df361fc999449e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-30T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: evaluation"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
+      "url": "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
@@ -478,7 +850,7 @@
       ],
       "description": "As AI transforms how people find information online, Reddit is rethinking its open-web roots to protect its audience and business.",
       "event_cluster_id": "b35042356bf7",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "b35042356bf7a80acb00",
       "image_url": "",
       "is_breaking": false,
@@ -509,7 +881,7 @@
       ],
       "description": "Rivian doesn't disclose if the value of its $5.8 billion joint venture will expand as a result.",
       "event_cluster_id": "f3117e1d89a1",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "f3117e1d89a120caf342",
       "image_url": "",
       "is_breaking": false,
@@ -540,7 +912,7 @@
       ],
       "description": "OpenAI-backed Thrive Holdings is buying ADT in a $15.3 billion deal, with plans to bring AI to the home security business.",
       "event_cluster_id": "5229178591e0",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "5229178591e013ae66fa",
       "image_url": "",
       "is_breaking": false,
@@ -572,7 +944,7 @@
       ],
       "description": "The app connects to Instagram to build a virtual closet from photos you’ve already shared, or lets you add items manually by snapping a photo, recording a quick video, or uploading images from your camera roll.",
       "event_cluster_id": "79cec0107600",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "79cec0107600d9d54854",
       "image_url": "",
       "is_breaking": false,
@@ -628,6 +1000,7 @@
       "url": "https://github.com/phpclaw-php/phpclaw-monorepo"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Nicolas Dufour",
         "Elouan Gardès",
@@ -641,7 +1014,7 @@
       ],
       "description": "The Neural Thickets hypothesis posits that pretrained language models lie in dense neighborhoods of task-specific experts in weight space, which random Gaussian perturbations can uncover. We reproduce the reported gains, but show that...",
       "event_cluster_id": "20f2814dcfa2",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "20f2814dcfa23f12b719",
       "image_url": "",
       "is_breaking": false,
@@ -663,6 +1036,7 @@
       "url": "https://arxiv.org/abs/2610.40649v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Minghan Yu",
         "Mengyu Dai",
@@ -675,7 +1049,7 @@
       ],
       "description": "Extreme weather is forecast days ahead, yet its consequences for agriculture remain hard to predict: a forecast says where a storm will strike, not which crops will suffer or how much is at risk, and the records that could tell span many...",
       "event_cluster_id": "5deadd170ccd",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "5deadd170ccdf431919c",
       "image_url": "",
       "is_breaking": false,
@@ -697,6 +1071,7 @@
       "url": "https://arxiv.org/abs/2610.40641v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Baiqiao Yin",
         "Zhongang Cai",
@@ -711,7 +1086,7 @@
       ],
       "description": "An observer sees only part of the surrounding world, yet must keep track of what lies beyond the current view. Spatial perception therefore involves more than recognizing individual images: it calls for a persistent spatial state that is...",
       "event_cluster_id": "29e6c25ba84f",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "29e6c25ba84f01bc7ea8",
       "image_url": "",
       "is_breaking": false,
@@ -734,6 +1109,7 @@
       "url": "https://arxiv.org/abs/2610.40636v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Fnu Aryan",
         "Yaqi Xie",
@@ -750,7 +1126,7 @@
       ],
       "description": "As robots and intelligent systems increasingly interact with humans, they must anticipate long sequences of future actions from only brief observations. While purely neural models typically require extensive observations to predict...",
       "event_cluster_id": "7f638c75e14c",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "7f638c75e14c5a0528bc",
       "image_url": "",
       "is_breaking": false,
@@ -782,7 +1158,7 @@
       ],
       "description": "Uno reverse! After Wispr added meeting notes to its dictation app, Granola is adding dictation to its meeting notetaker. The voice AI wars are getting interesting.",
       "event_cluster_id": "3e7c26f58863",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "3e7c26f588631c0faae7",
       "image_url": "",
       "is_breaking": false,
@@ -804,6 +1180,7 @@
       "url": "https://techcrunch.com/2026/10/29/granola-crunches-up-a-dictation-feature-to-compete-with-wispr"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "El Mustapha Mansouri",
         "Eikichi Kimura",
@@ -816,7 +1193,7 @@
       ],
       "description": "An autonomous research laboratory could conduct an entire study, from formulating questions to preparing manuscripts. Artificial intelligence (AI) offers one route towards this goal. Recent AI systems take on several research roles, but...",
       "event_cluster_id": "09813ad3bba0",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "09813ad3bba008a8db20",
       "image_url": "",
       "is_breaking": false,
@@ -838,6 +1215,7 @@
       "url": "https://arxiv.org/abs/2610.40589v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Leonidas Raghav"
       ],
@@ -847,7 +1225,7 @@
       ],
       "description": "When AI agents share channels and credentials, one agent can press another to break its operator's rule, a first step towards collusion. Output filters check only what an agent has already written. Can an overseer tell beforehand that an...",
       "event_cluster_id": "fccd693baa0d",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "fccd693baa0d9aa62907",
       "image_url": "",
       "is_breaking": false,
@@ -869,6 +1247,7 @@
       "url": "https://arxiv.org/abs/2610.40588v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Fatematuj Johura Mim"
       ],
@@ -878,7 +1257,7 @@
       ],
       "description": "In real-world clinical settings, dental X-ray segmentation using deep learning methods suffers from reliability issues. Even when the segmentation quality is bad, deep learning models show high confidence in their predictions...",
       "event_cluster_id": "8a5101f41793",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "8a5101f41793e69a2038",
       "image_url": "",
       "is_breaking": false,
@@ -900,6 +1279,7 @@
       "url": "https://arxiv.org/abs/2610.40587v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Joaquín Figueira",
         "Giacomo D'Amicantonio",
@@ -911,7 +1291,7 @@
       ],
       "description": "Current zero-shot anomaly detection methods often rely on complex prompt-learning techniques or computationally expensive sliding-window strategies to achieve fine-grained visual alignment to detect small-scale anomalies. This reliance...",
       "event_cluster_id": "dc92d46a0841",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "dc92d46a08410f181835",
       "image_url": "",
       "is_breaking": false,
@@ -933,6 +1313,7 @@
       "url": "https://arxiv.org/abs/2610.40580v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Qiushi Sun",
         "Da Yu",
@@ -949,7 +1330,7 @@
       ],
       "description": "Building and scaling computer-using agents (CUAs) across desktop, mobile, and web environments requires reliable task-completion verification for data curation, evaluation, and reinforcement learning. Typical automated approaches prompt...",
       "event_cluster_id": "2d955aba4d41",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "2d955aba4d41909b3a8d",
       "image_url": "",
       "is_breaking": false,
@@ -971,6 +1352,7 @@
       "url": "https://arxiv.org/abs/2610.40578v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zhihao Yang",
         "Boyuan Zheng",
@@ -987,7 +1369,7 @@
       ],
       "description": "Reinforcement learning from verifiable rewards (RLVR) is limited by sparse outcome-level feedback on hard reasoning tasks: when all rollouts in a group fail, rewards provide no learning signal. Stronger teachers can provide additional...",
       "event_cluster_id": "7c8daa36d11d",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "7c8daa36d11d4cb79ec0",
       "image_url": "",
       "is_breaking": false,
@@ -1009,6 +1391,7 @@
       "url": "https://arxiv.org/abs/2610.40576v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yifu Luo",
         "Chuang Ma",
@@ -1023,7 +1406,7 @@
       ],
       "description": "On-policy Self-distillation (OPSD) has proven effective for post-training large language models by constructing a teacher conditioned on privileged references. However, existing approaches keep the teacher fixed either throughout...",
       "event_cluster_id": "0071c2edabe6",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "0071c2edabe69f93dfb2",
       "image_url": "",
       "is_breaking": false,
@@ -1045,6 +1428,7 @@
       "url": "https://arxiv.org/abs/2610.40574v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Pranjal Aggarwal",
         "Sean Welleck"
@@ -1055,7 +1439,7 @@
       ],
       "description": "Realistic, fast robotics simulations could enable large-scale training of embodied AI models that transfer to the real world. However, despite decades of progress, available simulations cover only a narrow range of real-world tasks and...",
       "event_cluster_id": "8354237bbbcd",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "8354237bbbcdadca85d8",
       "image_url": "",
       "is_breaking": false,
@@ -1148,7 +1532,7 @@
       ],
       "description": "How I Built the Most AI-Pilled Company in the World Don't be put off by the clickbait headline, this piece by Jacob Sansbury describing how they are building Spawn is a fascinating exploration of the bleeding edge of what's possible with...",
       "event_cluster_id": "e65fcafff408",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "e65fcafff408f8083fa1",
       "image_url": "https://static.simonwillison.net/static/2026-10-29/IMG_9406.webp",
       "is_breaking": false,
@@ -1180,7 +1564,7 @@
       ],
       "description": "Mistral says its new model can afford organizations a kind of control over its cyber defenses that closed models can't.",
       "event_cluster_id": "927698c982f0",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "927698c982f0f5113cd1",
       "image_url": "",
       "is_breaking": false,
@@ -1364,6 +1748,7 @@
       "url": "https://news.ycombinator.com/item?id=50291116"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Xuewen Zhou",
         "Zhen Chen"
@@ -1396,6 +1781,7 @@
       "url": "https://arxiv.org/abs/2610.40327v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Amartya Bhattacharya",
         "Bashirul Azam Biswas",
@@ -1435,6 +1821,7 @@
       "url": "https://arxiv.org/abs/2610.40284v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Santiago Posso-Murillo"
       ],
@@ -1592,6 +1979,7 @@
       "url": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Md Kawsar Ahmed",
         "Mathews Jacob"
@@ -1656,6 +2044,7 @@
       "url": "https://simonwillison.net/2026/Oct/29/ben-hylak"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Roxanne De Maeyer",
         "Ine Dirks",
@@ -4326,7 +4715,7 @@
       ],
       "description": "Federated Learning (FL) allows for secure analysis of distributed data without data sharing. We and others have successfully applied FL to neuroimaging tasks, such as Alzheimer's disease classification from structural magnetic resonance...",
       "event_cluster_id": "6e15e9503824",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "6e15e9503824c0317f9a",
       "image_url": "",
       "is_breaking": false,
@@ -4670,7 +5059,7 @@
       ],
       "description": "Glioblastoma and other high-grade gliomas (HGG) have a poor prognosis and are associated with progressive functional decline. The standard of care to assess progressive disease is contrast-enhanced MRI, which is expensive,...",
       "event_cluster_id": "3a1c9540cfa2",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "3a1c9540cfa2973e03a1",
       "image_url": "",
       "is_breaking": false,
@@ -4765,7 +5154,7 @@
       ],
       "description": "Implicit neural representation (INR) methods for deformable medical image registration require the network parameters to be optimized for each new image pair, making adaptation speed a practical limitation. This work investigates whether...",
       "event_cluster_id": "d030755f279e",
-      "fetched_at": "2026-10-30T10:59:23Z",
+      "fetched_at": "2026-10-30T16:48:02Z",
       "id": "d030755f279ee2d4a25d",
       "image_url": "",
       "is_breaking": false,
@@ -19290,426 +19679,7 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "PsycheMME: A Psychology-Informed Benchmark for Social Understanding and Interaction in Videos",
       "url": "https://arxiv.org/abs/2610.28625v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jad Yammine",
-        "Malek Wahidi",
-        "Abrar Anwar",
-        "Yan Chang",
-        "Mihir Acharya",
-        "Anthony Rizk"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28624v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Warehouse robot fleets continuously observe operational conditions, but preserving these observations as reusable semantic memory incurs substantial computation, communication, and storage costs. For example, explaining recurring aisle...",
-      "event_cluster_id": "e8ec54b2ec90",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "e8ec54b2ec90730d9a58",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:58:32Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: serving, RAG"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets",
-      "url": "https://arxiv.org/abs/2610.28624v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Vincent Jung",
-        "Alba Carballo-Castro",
-        "Yiming Qin",
-        "Lonneke van der Plas",
-        "Pascal Frossard"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28618v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Graph generative models commonly use graph-specific Transformer architectures to jointly update node and edge features. However, these architectures do not directly benefit from recent hardware-aware attention implementations, limiting...",
-      "event_cluster_id": "48831551ddb4",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "48831551ddb499a6f5f1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:56:05Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Efficient Edge-aware Attention Network for Graph Generation",
-      "url": "https://arxiv.org/abs/2610.28618v1"
-    },
-    {
-      "also_covered_by": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "authors": [
-        "Qingming Li",
-        "Ruiyan Sun",
-        "Satoshi Nakamura"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28616v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Picture-description dementia classification uses a shared visual scene, but a transcript-level prediction alone does not identify the scene evidence underlying its inputs. NarraSpace links words and speech times to named picture elements...",
-      "event_cluster_id": "661ddf44a405",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "661ddf44a4056a2ae363",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-20T17:55:44Z",
-      "research_track": "multimodal_foundation",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: dementia",
-        "technical relevance: multimodal",
-        "covered by multiple configured sources"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "NarraSpace: Multimodal Scene-Grounded Evidence for Picture-Description Dementia Classification",
-      "url": "https://arxiv.org/abs/2610.28616v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Marina Temkin"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Eric Schmidt’s fortune is about to get even bigger.",
-      "event_cluster_id": "11c7e6dde0dc",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "11c7e6dde0dc11c16510",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:55:12Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
-      "url": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jitendra Solanki",
-        "Anand Todkar",
-        "Ziran Min"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28611v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Modern distributed microservice deployments generate massive volumes of heterogeneous, multi-format observability logs across physically and logically partitioned infrastructure. Isolating root causes during cascading failures remains an...",
-      "event_cluster_id": "c77ac5c5f09d",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "c77ac5c5f09d6e8ed308",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:53:32Z",
-      "research_track": "multimodal_foundation",
-      "score": 8,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Semantic Observability for Autonomous Systems Diagnostics",
-      "url": "https://arxiv.org/abs/2610.28611v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Noor Abo Mokh",
-        "Teresa Lynn",
-        "Nizar Habash",
-        "Ahmed Elshabrawy",
-        "Sara Alhajeri",
-        "Alaa Elsetohy",
-        "Preslav Nakov",
-        "Alham Fikri Aji"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28607v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Mathematical reasoning remains underexplored for low-resource languages, including Dialectal Arabic. To bridge this gap, we introduce the DAR-MGSM (Dialectal Arabic Multilingual Grade School Math) Benchmark, the first manually curated...",
-      "event_cluster_id": "dbffdd4f77d9",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "dbffdd4f77d971eb69ef",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:50:13Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Benchmarking Arabic Dialects for Math Problems",
-      "url": "https://arxiv.org/abs/2610.28607v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Vasilii Feofanov",
-        "Zhenghan Tai",
-        "Andrei Ermakov",
-        "Irina Rish"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28602v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "TS2Vec is one of the strongest self-supervised methods for time series classification, introduced in 2022. It is designed to be trained anew on every dataset: self-supervised pre-training followed by linear probing. Since then, the field...",
-      "event_cluster_id": "f6d34145757a",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "f6d34145757a87992c82",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:47:51Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: foundation model, self-supervised"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Turning TS2Vec into a Foundation Model for Time Series Classification",
-      "url": "https://arxiv.org/abs/2610.28602v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Saaket Agashe",
-        "Yuzhe Yang",
-        "Gonzalo Gonzalez-Pumariega",
-        "Bhuvan Chandra Koduru",
-        "Chih-Lun Li",
-        "Jiachen Yang",
-        "Ang Li",
-        "Xin Eric Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28601v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Computer-use agents are limited by the interfaces humans give them. An agent may type a spreadsheet cell by cell when a single line of code would do, or print all two thousand lines of a file through a shell to find one function. Both...",
-      "event_cluster_id": "c52bfd0d22b7",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "c52bfd0d22b78a13255e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:47:37Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Evolving Agent Interfaces",
-      "url": "https://arxiv.org/abs/2610.28601v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Shu Zhao",
-        "Tan Yu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.28586v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Agentic on-policy distillation (OPD) trains a student agent on its own trajectories while a teacher scores every token. A natural explanation of where it goes wrong is compounding error: the student's mistakes carry its trajectories...",
-      "event_cluster_id": "7db4008fab90",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "7db4008fab900f49394a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:40:08Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Capable Teacher, Myopic Scorer: Reward-Free Teacher Repair for Agentic On-Policy Distillation",
-      "url": "https://arxiv.org/abs/2610.28586v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "New data also shows Muse is retaining users at higher rates than its AI rivals.",
-      "event_cluster_id": "d3f9173dc196",
-      "fetched_at": "2026-10-21T15:33:20Z",
-      "id": "d3f9173dc1964ad08513",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:12:48Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta’s Muse hits 10M US downloads in 40 days, a milestone reached by only 11 other apps",
-      "url": "https://techcrunch.com/2026/10/20/metas-muse-hits-10m-u-s-downloads-in-40-days-a-milestone-reached-by-only-11-other-apps"
-    },
-    {
-      "authors": [
-        "mdahardy"
-      ],
-      "canonical_url": "https://research.poh.org/bot-benchmarking-2026",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "1d7a06d42816",
-      "fetched_at": "2026-10-21T01:57:28Z",
-      "id": "hn-50169506",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T17:10:31Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Benchmarking Bot Detection Systems Against Modern AI Agents in 2026",
-      "url": "https://research.poh.org/bot-benchmarking-2026"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "ilreb"
-      ],
-      "canonical_url": "https://github.com/google-pytorch/torch_tpu",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5ed7b4468bde",
-      "fetched_at": "2026-10-21T09:32:09Z",
-      "id": "hn-50169053",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-20T16:40:24Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: open-source",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
-      "url": "https://github.com/google-pytorch/torch_tpu"
     }
   ],
-  "generated_at": "2026-10-30T10:59:23Z"
+  "generated_at": "2026-10-30T16:48:02Z"
 }
