@@ -142,72 +142,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "swyx .ai"
-      ],
-      "canonical_url": "https://latent.space/p/ainews-gemini-4-carbon",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Google’s new frontier model leads independent evals, with access initially limited to trusted defenders.",
-      "event_cluster_id": "a1a23e154cf4",
-      "fetched_at": "2026-10-29T11:02:49Z",
-      "id": "a1a23e154cf4eaa83c82",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-29T05:55:19Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch, model",
-        "startup/product signal: launches",
-        "long-read source"
-      ],
-      "section": "startup_product",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Gemini 4 Carbon tops leaderboards, launches for cyber defenders",
-      "url": "https://latent.space/p/ainews-gemini-4-carbon"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Madhulika Srikumar, Claire Leibowicz"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same..",
-      "event_cluster_id": "ec80bada15c6",
-      "fetched_at": "2026-10-29T11:02:49Z",
-      "id": "ec80bada15c6fe19aa4d",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-10-29T10:11:12Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: security",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "We urgently need to monitor AI agents’ actions in real time",
-      "url": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time"
-    },
-    {
-      "authors": [
         "Lucas Ropek"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
@@ -371,6 +305,7 @@
       "url": "https://www.technologyreview.com/2026/10/26/1147645/the-focus-on-ai-safety-disasters-ignores-everyday-harms"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "giarec"
       ],
@@ -380,7 +315,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "80f8b80136c1",
-      "fetched_at": "2026-10-31T02:41:09Z",
+      "fetched_at": "2026-10-31T10:32:43Z",
       "id": "hn-50306815",
       "image_url": "",
       "is_breaking": false,
@@ -597,6 +532,39 @@
     },
     {
       "authors": [
+        "mkesper"
+      ],
+      "canonical_url": "https://ecologits.ai/latest",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "dcfb5c0488e7",
+      "fetched_at": "2026-10-31T10:32:43Z",
+      "id": "hn-50314637",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-10-31T10:19:08Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Estimate and track the environmental footprint of GenAI models at inference",
+      "url": "https://ecologits.ai/latest"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Aditya Mehta"
       ],
       "canonical_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
@@ -657,38 +625,6 @@
       "source_name": "Hacker News",
       "title": "OpenRouter rebuilt provider routing for better, faster inference",
       "url": "https://openrouter.ai/blog/announcements/how-we-rebuilt-provider-routing"
-    },
-    {
-      "authors": [
-        "malikoyv"
-      ],
-      "canonical_url": "https://news.ycombinator.com/item?id=50302109",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0eec7780b008",
-      "fetched_at": "2026-10-30T10:59:23Z",
-      "id": "hn-50302109",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-30T10:37:04Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "What inference engine and KV offload engine do you use and why?",
-      "url": "https://news.ycombinator.com/item?id=50302109"
     },
     {
       "also_covered_by": [],
@@ -785,38 +721,38 @@
       "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "James Temple"
+        "swyx .ai"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot",
+      "canonical_url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "Latent Space"
       ],
-      "description": "Climate change itself is increasingly fueling climate change. Rising concentrations of greenhouse gases are driving up global temperatures, setting off dangerous feedback loops that we have not fully accounted for in our climate models—or..",
-      "event_cluster_id": "2a21de7e585f",
-      "fetched_at": "2026-10-29T11:02:49Z",
-      "id": "2a21de7e585fbe9e4e64",
-      "image_url": "",
+      "description": "It turns out you cannot have your cake AND eat it",
+      "event_cluster_id": "6b3364e67e36",
+      "fetched_at": "2026-10-31T10:32:43Z",
+      "id": "6b3364e67e36a770aaa2",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f13715b2-ed2d-4a14-bbf6-85f184b4b202/SCR-20261030-svzc.png?t=1793423031",
       "is_breaking": false,
       "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-10-29T10:00:00Z",
+      "published_at": "2026-10-31T05:00:48Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: model"
+        "long-read source"
       ],
       "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Our climate models have a big, dangerous blind spot",
-      "url": "https://www.technologyreview.com/2026/10/29/1147735/climate-models-blind-spot"
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Google admits AI Mode hurts Search revenue; -15% $500B drop worst since 2004 IPO. AI Bear Market coming?",
+      "url": "https://latent.space/p/ainews-google-admits-ai-mode-hurts-search-revenue-15-500b-drop-worst-since-2004-ipo-ai-bear-market-c"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Oct/30/nesformer",
       "cluster_sources": [
@@ -983,6 +919,7 @@
       "url": "https://arxiv.org/abs/2610.40327v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Dan Goodin"
       ],
@@ -1013,6 +950,7 @@
       "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands",
       "cluster_sources": [
@@ -1020,7 +958,7 @@
       ],
       "description": "",
       "event_cluster_id": "cfb4189f3193",
-      "fetched_at": "2026-10-31T02:41:09Z",
+      "fetched_at": "2026-10-31T10:32:43Z",
       "id": "cfb4189f31938d74a87f",
       "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/nvidia-trtedge-chat-terminal-1920x1080-1-660x370-png.webp",
       "is_breaking": false,
@@ -1042,6 +980,7 @@
       "url": "https://developer.nvidia.com/blog/run-ai-models-for-edge-application-development-with-just-a-few-commands"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
       "cluster_sources": [
@@ -1049,7 +988,7 @@
       ],
       "description": "",
       "event_cluster_id": "037154e824aa",
-      "fetched_at": "2026-10-31T02:41:09Z",
+      "fetched_at": "2026-10-31T10:32:43Z",
       "id": "037154e824aaff256e14",
       "image_url": "",
       "is_breaking": false,
@@ -1283,12 +1222,12 @@
     }
   ],
   "date_label": "Saturday, October 31, 2026",
-  "generated_at": "2026-10-31T02:41:09Z",
+  "generated_at": "2026-10-31T10:32:43Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 2,
-    "fetched_items": 199,
-    "retained_items": 39,
+    "fetched_items": 197,
+    "retained_items": 37,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
