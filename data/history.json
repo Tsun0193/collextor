@@ -2,6 +2,99 @@
   "articles": [
     {
       "authors": [
+        "measurablefunc"
+      ],
+      "canonical_url": "https://higher-categorical-semantics.pages.dev/announcements/digest-2026-10",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "02fea2615f6d",
+      "fetched_at": "2026-11-01T16:54:13Z",
+      "id": "hn-50327162",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-01T16:34:07Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "October digest of the agentic journal of higher categorical semantics",
+      "url": "https://higher-categorical-semantics.pages.dev/announcements/digest-2026-10"
+    },
+    {
+      "authors": [
+        "TheAnkurTyagi"
+      ],
+      "canonical_url": "https://bytesizedbets.com/p/how-to-review-a-2000-line-ai-written",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "5b44a10be2d2",
+      "fetched_at": "2026-11-01T16:54:13Z",
+      "id": "hn-50327134",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-01T16:30:21Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "How I Review 2K Lines of AI Generated Code",
+      "url": "https://bytesizedbets.com/p/how-to-review-a-2000-line-ai-written"
+    },
+    {
+      "authors": [
+        "handfuloflight"
+      ],
+      "canonical_url": "https://news.ycombinator.com/item?id=50326727",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "90036fd4953e",
+      "fetched_at": "2026-11-01T16:54:13Z",
+      "id": "hn-50326727",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-01T15:45:10Z",
+      "research_track": "",
+      "score": 6,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "negative signal: leaked"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Anthropic's Mythos-class model allegedly leaked on Hugging Face",
+      "url": "https://news.ycombinator.com/item?id=50326727"
+    },
+    {
+      "authors": [
         "adityam_9911"
       ],
       "canonical_url": "https://github.com/matricphase-dot/aiops",
@@ -6193,7 +6286,7 @@
       ],
       "description": "Federated Learning (FL) allows for secure analysis of distributed data without data sharing. We and others have successfully applied FL to neuroimaging tasks, such as Alzheimer's disease classification from structural magnetic resonance...",
       "event_cluster_id": "6e15e9503824",
-      "fetched_at": "2026-11-01T11:27:09Z",
+      "fetched_at": "2026-11-01T16:54:13Z",
       "id": "6e15e9503824c0317f9a",
       "image_url": "",
       "is_breaking": false,
@@ -6537,7 +6630,7 @@
       ],
       "description": "Glioblastoma and other high-grade gliomas (HGG) have a poor prognosis and are associated with progressive functional decline. The standard of care to assess progressive disease is contrast-enhanced MRI, which is expensive,...",
       "event_cluster_id": "3a1c9540cfa2",
-      "fetched_at": "2026-11-01T11:27:09Z",
+      "fetched_at": "2026-11-01T16:54:13Z",
       "id": "3a1c9540cfa2973e03a1",
       "image_url": "",
       "is_breaking": false,
@@ -6632,7 +6725,7 @@
       ],
       "description": "Implicit neural representation (INR) methods for deformable medical image registration require the network parameters to be optimized for each new image pair, making adaptation speed a practical limitation. This work investigates whether...",
       "event_cluster_id": "d030755f279e",
-      "fetched_at": "2026-11-01T11:27:09Z",
+      "fetched_at": "2026-11-01T16:54:13Z",
       "id": "d030755f279ee2d4a25d",
       "image_url": "",
       "is_breaking": false,
@@ -19510,110 +19603,7 @@
       "source_name": "Hacker News",
       "title": "LayerFS: The filesystem for AI coding agents",
       "url": "https://layerfs.ai"
-    },
-    {
-      "authors": [
-        "Jingzhe Zhang",
-        "Peixuan Zhang",
-        "Genying Li",
-        "Bing Ma",
-        "Shuchen Weng",
-        "Si Li",
-        "Boxin Shi"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.29590v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Cinematic multi-shot video generation requires both narrative planning and iterative refinement. Existing methods either lack narrative reasoning or rely on feed-forward workflows without policy updates. In this paper, we propose...",
-      "event_cluster_id": "8d32e6dc0cee",
-      "fetched_at": "2026-10-22T01:46:38Z",
-      "id": "8d32e6dc0ceefd7ea06d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-21T11:30:09Z",
-      "research_track": "multimodal_foundation",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: agent, reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "CineEvolve: An Agentic Self-Evolution Framework for Cinematic Multi-Shot Video Generation",
-      "url": "https://arxiv.org/abs/2610.29590v1"
-    },
-    {
-      "authors": [
-        "Martin Thißen",
-        "Elke Hergenröther"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.29581v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Despite the success of foundation models in image synthesis, achieving fine-grained spatial control remains a significant challenge, typically requiring auxiliary structural adapters or complex inference-time steering. While modern...",
-      "event_cluster_id": "46b6802c61e8",
-      "fetched_at": "2026-10-22T01:46:38Z",
-      "id": "46b6802c61e8e5a480d0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-21T11:22:58Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, inference",
-        "technical relevance: foundation model, inference"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Unlocking Spatial Grounding in Flow-Matching Models via SNR Tuning",
-      "url": "https://arxiv.org/abs/2610.29581v1"
-    },
-    {
-      "authors": [
-        "Ahmed Mahrous",
-        "Roberto Di Pietro"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2610.29577v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Many learning systems are performative: once deployed, their predictions change the data distribution on which future models are trained. In multi-agent settings, this feedback is routed through a network of interacting learners, so...",
-      "event_cluster_id": "a58c42bb7b4d",
-      "fetched_at": "2026-10-22T01:46:38Z",
-      "id": "a58c42bb7b4dad54cf6e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-21T11:20:29Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "The Reflexivity Threshold: A Phase Transition for Multi-Agent Performative Prediction",
-      "url": "https://arxiv.org/abs/2610.29577v1"
     }
   ],
-  "generated_at": "2026-11-01T11:27:09Z"
+  "generated_at": "2026-11-01T16:54:13Z"
 }
