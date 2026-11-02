@@ -129,35 +129,36 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Lucas Ropek"
+        "Tim Fernholz"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says",
+      "canonical_url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Blackstone's forecast is just a prediction, but naturally, a high junk rating would make it more difficult and costlier for Anthropic to raise the money to keep funding its massive spending that has undergirded its business.",
-      "event_cluster_id": "1abfdb6dc980",
-      "fetched_at": "2026-10-31T02:41:09Z",
-      "id": "1abfdb6dc9802b6f4db0",
+      "description": "General Compute is betting on inference chips from outside the Nvidia ecosystem.",
+      "event_cluster_id": "8f3cfb5cce39",
+      "fetched_at": "2026-10-27T15:59:10Z",
+      "id": "8f3cfb5cce39de3e6208",
       "image_url": "",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-10-30T21:52:03Z",
+      "published_at": "2026-10-27T13:00:00Z",
       "research_track": "",
-      "score": 17,
+      "score": 20,
       "score_reasons": [
         "high source",
         "published within 6 hours",
-        "major-event keyword: funding",
-        "startup/product signal: funding"
+        "major-event keyword: chip, inference",
+        "technical relevance: inference",
+        "startup/product signal: Series A"
       ],
       "section": "startup_product",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Anthropic expected to receive high ‘junk’ rating from credit agencies following IPO, FT report says",
-      "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says"
+      "title": "General Compute raises $100 million Series A, countering the neocloud disaster narrative",
+      "url": "https://techcrunch.com/2026/10/27/general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-narrative"
     },
     {
       "also_covered_by": [],
@@ -257,40 +258,6 @@
       "source_name": "Latent Space",
       "title": "Agents Prompt People: Using Agents for Long-Horizon Financial Work",
       "url": "https://latent.space/p/arca"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "giarec"
-      ],
-      "canonical_url": "https://github.com/spinfinc/spinf-serve",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "80f8b80136c1",
-      "fetched_at": "2026-10-31T15:51:04Z",
-      "id": "hn-50306815",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-10-30T17:03:12Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Spinf-serve – inference server for bulk scoring and decisions",
-      "url": "https://github.com/spinfinc/spinf-serve"
     },
     {
       "also_covered_by": [],
@@ -400,6 +367,69 @@
       "url": "https://arxiv.org/abs/2610.35080v1"
     },
     {
+      "authors": [
+        "SndOfViento"
+      ],
+      "canonical_url": "https://x.com/AgentMemoryL",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "6147d1e8b0bf",
+      "fetched_at": "2026-11-02T02:42:48Z",
+      "id": "hn-50332443",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-02T02:32:48Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: agent, evaluation"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Why Agent Memory Benchmarks Need a Reproducible Evaluation Pipeline",
+      "url": "https://x.com/AgentMemoryL"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Data centers are deeply unpopular. But what if we called them something else?",
+      "event_cluster_id": "e621a5b384ce",
+      "fetched_at": "2026-11-02T02:42:48Z",
+      "id": "e621a5b384ce839c8a49",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-01T21:55:23Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
+      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Anthony Ha"
@@ -496,100 +526,64 @@
       "url": "https://ecologits.ai/latest"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Aditya Mehta"
+        "arionhardison"
       ],
-      "canonical_url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "When investors get nervous about AI spending, it helps to have the chipmaker that sells the chips offer to cosign the loan.",
-      "event_cluster_id": "778066fca87a",
-      "fetched_at": "2026-10-31T02:41:09Z",
-      "id": "778066fca87ac97904e5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-31T01:20:05Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: chip, data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
-      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Amanda Silberling"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "No Halloween costume? Just be a deceptively cute AI agent icon, a PHP vulnerability, or sleepy time Bryan Johnson.",
-      "event_cluster_id": "03ea0cb6a823",
-      "fetched_at": "2026-10-31T02:41:09Z",
-      "id": "03ea0cb6a82382c62e33",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-30T21:26:59Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Last-minute Halloween costumes for tech nerds",
-      "url": "https://techcrunch.com/2026/10/30/last-minute-halloween-costumes-for-tech-nerds"
-    },
-    {
-      "authors": [
-        "adityam_9911"
-      ],
-      "canonical_url": "https://github.com/matricphase-dot/aiops",
+      "canonical_url": "https://agenticstate.dev",
       "cluster_sources": [
         "Hacker News"
       ],
       "description": "Hacker News discussion",
-      "event_cluster_id": "ac4d0567b84b",
-      "fetched_at": "2026-11-01T11:27:09Z",
-      "id": "hn-50324396",
+      "event_cluster_id": "0ee406a4c360",
+      "fetched_at": "2026-11-02T02:42:48Z",
+      "id": "hn-50332362",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-01T10:48:39Z",
+      "published_at": "2026-11-02T02:23:15Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: open-source, safety",
+        "technical relevance: agent",
         "startup/product signal: Show HN"
       ],
       "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Show HN: AIOps Cockpit – An open-source AI SRE with human-in-the-loop safety",
-      "url": "https://github.com/matricphase-dot/aiops"
+      "title": "Show HN: The Agentic State",
+      "url": "https://agenticstate.dev"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "I've been getting the occasional confusing Python dependency error since switching over to Python 3.15 and the rule I'm having to remember is: If in doubt, delete the uv.lock file Most of my projects are libraries which don't include a...",
+      "event_cluster_id": "e2f2cd3ee0a6",
+      "fetched_at": "2026-11-02T02:42:48Z",
+      "id": "e2f2cd3ee0a6015b87d1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-01T23:24:22Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "If in doubt, delete the uv.lock file",
+      "url": "https://simonwillison.net/2026/Nov/1/delete-uv-lock-first"
     },
     {
       "also_covered_by": [],
@@ -686,35 +680,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Oct/30/nesformer",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "dbreunig/nesformer Inspired by qwenputer by Divyansh Agrawal, Drew Breunig baked a working emulator for a Nintendo Entertainment System 6502 CPU into the weights of Qwen3.5-4B. You can now play NES ROMs such as Super Mario Bros (very...",
-      "event_cluster_id": "54f20f9f7f25",
-      "fetched_at": "2026-10-31T02:41:09Z",
-      "id": "54f20f9f7f25bd156a2f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-10-30T21:59:22Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "dbreunig/nesformer",
-      "url": "https://simonwillison.net/2026/Oct/30/nesformer"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Baiqiao Yin",
         "Zhongang Cai",
@@ -752,23 +717,50 @@
       "url": "https://arxiv.org/abs/2610.40636v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Dan Goodin"
-      ],
-      "canonical_url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury",
       "cluster_sources": [
-        "Ars Technica AI"
+        "Simon Willison"
       ],
-      "description": "It's still unknown how attackers got access to Anthropic's verified Cursor account.",
-      "event_cluster_id": "eaad933c9eb9",
-      "fetched_at": "2026-10-31T02:41:09Z",
-      "id": "eaad933c9eb95379c7b5",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2022/05/caution-tape-500x500.jpeg",
+      "description": "More broadly, the use of LLMs erodes trust in documentation, in software, and in the organizations which produce them. Perhaps engineers will begin to treat any new software project with suspicion—the signals we used to rely on as markers..",
+      "event_cluster_id": "2dd1a315b516",
+      "fetched_at": "2026-11-02T02:42:48Z",
+      "id": "2dd1a315b516efdb2ccb",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-30T21:09:54Z",
+      "published_at": "2026-11-01T16:49:04Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Kyle Kingsbury",
+      "url": "https://simonwillison.net/2026/Nov/1/kyle-kingsbury"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "On Equity, we discuss why tech CEO statements can seem so tone deaf.",
+      "event_cluster_id": "c33aab374796",
+      "fetched_at": "2026-11-02T02:42:48Z",
+      "id": "c33aab374796d53e0f1d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-01T20:57:58Z",
       "research_track": "",
       "score": 12,
       "score_reasons": [
@@ -777,47 +769,49 @@
       ],
       "section": "ai_engineering",
       "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "Anthropic VS code extension on Cursor backdoored for nearly 12 hours",
-      "url": "https://arstechnica.com/security/2026/10/anthropic-vs-code-extension-on-cursor-backdoored-for-nearly-12-hours"
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AI can make tech CEOs’ lives easier. What about everyone else?",
+      "url": "https://techcrunch.com/2026/11/01/ai-can-make-tech-ceos-lives-easier-what-about-everyone-else"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Anthony Ha"
       ],
-      "description": "",
-      "event_cluster_id": "037154e824aa",
-      "fetched_at": "2026-10-31T15:51:04Z",
-      "id": "037154e824aaff256e14",
+      "canonical_url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Apple's new CEO defended the company's current position in the AI landscape.",
+      "event_cluster_id": "362d7951270f",
+      "fetched_at": "2026-11-01T02:30:59Z",
+      "id": "362d7951270f22867c3f",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-10-30T17:57:24Z",
+      "published_at": "2026-10-31T21:41:00Z",
       "research_track": "",
-      "score": 11,
+      "score": 12,
       "score_reasons": [
         "high source",
-        "published within 24 hours"
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "nemotron-halloween",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween"
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake"
     }
   ],
-  "date_label": "Sunday, November 1, 2026",
-  "generated_at": "2026-11-01T16:54:13Z",
+  "date_label": "Monday, November 2, 2026",
+  "generated_at": "2026-11-02T02:42:48Z",
   "summary": {
     "duplicates_removed": 1,
     "failed_sources": 2,
-    "fetched_items": 196,
+    "fetched_items": 204,
     "retained_items": 24,
     "successful_sources": 19
   },
