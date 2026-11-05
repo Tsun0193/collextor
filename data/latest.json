@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "swyx .ai"
       ],
@@ -10,7 +11,7 @@
       ],
       "description": "November 4, 2026 — OpenAI’s Linux kernel security work, Kimi K3.1 Pro’s open weights, and Ricursive’s Ripple-65B.",
       "event_cluster_id": "0618b016bbe0",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "0618b016bbe0502a450a",
       "image_url": "",
       "is_breaking": true,
@@ -34,6 +35,7 @@
       "url": "https://latent.space/p/ainews-it-s-swapping-season"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Oishi Banerjee",
         "Eujin Lee",
@@ -105,6 +107,134 @@
       "source_name": "TechCrunch AI",
       "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
       "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges"
+    },
+    {
+      "authors": [
+        "Lauren Forristal"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The deal is expected to support the development of DBX Agent Cloud, a new storage platform aimed at developers building AI models and agents.",
+      "event_cluster_id": "74bb7f13b00f",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "74bb7f13b00f34a52103",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-05T15:19:05Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent, RAG"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+      "url": "https://techcrunch.com/2026/11/05/dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-iinfrastructure"
+    },
+    {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Texas was the new epicenter of the AI data center buildout. That might be kaput. Texas is the...",
+      "event_cluster_id": "e83299b5fb74",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "e83299b5fb7485d8fbc5",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-11-05T13:10:00Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center",
+        "technical relevance: RAG"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: Texas’s fragile AI boom and energy policy shifts",
+      "url": "https://www.technologyreview.com/2026/11/05/1144908/the-download-texas-fragile-ai-boom-us-energy-policy"
+    },
+    {
+      "authors": [
+        "Aditya Mehta"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "As AI floods math with unchecked proofs, Axiom Math is betting on verification. The startup’s AI agents just formally verified the Stacks Project, one of the field’s biggest libraries.",
+      "event_cluster_id": "9a1f2f6f2756",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "9a1f2f6f2756d2c6b535",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-05T16:16:45Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Axiom Math wants to keep AI slop out of mathematics",
+      "url": "https://techcrunch.com/2026/11/05/axiom-math-wants-to-keep-ai-slop-out-of-mathematics"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "While frontier AI models have solved a remarkable series of outstanding mathematics problems and made progress in the life sciences, they have yet to truly plumb the complex physics in advanced materials.",
+      "event_cluster_id": "b6b371a91caf",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "b6b371a91cafdd86ad70",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-05T13:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "A YC startup is putting $1M behind 5 unsolved materials science problems for AI",
+      "url": "https://techcrunch.com/2026/11/05/a-yc-startup-is-putting-1m-behind-five-unsolved-materials-science-problems-for-ai"
     },
     {
       "also_covered_by": [],
@@ -218,7 +348,7 @@
       ],
       "description": "Multimodal brain MRI provides complementary anatomical, tissue, and pathological information to support downstream artificial intelligence (AI) applications. However, modality availability is uneven across public and pooled neuroimaging...",
       "event_cluster_id": "c9df9710df0e",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "c9df9710df0e888a7654",
       "image_url": "",
       "is_breaking": false,
@@ -242,72 +372,6 @@
       "url": "https://arxiv.org/abs/2611.05737v1"
     },
     {
-      "authors": [
-        "Alexandros84"
-      ],
-      "canonical_url": "https://github.com/DevLoops-ai/unified-brain",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5d8f9fe5b195",
-      "fetched_at": "2026-11-03T17:59:51Z",
-      "id": "hn-50355551",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-03T17:58:18Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Replacing Turn-Based LLM Agents with SQLite and System One Models",
-      "url": "https://github.com/DevLoops-ai/unified-brain"
-    },
-    {
-      "authors": [
-        "utsav1033"
-      ],
-      "canonical_url": "https://github.com/utsav1033/bytesized",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "a05e3bf8588a",
-      "fetched_at": "2026-11-03T17:59:51Z",
-      "id": "hn-50355392",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-03T17:48:31Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: A 3KB LLM inference engine in C",
-      "url": "https://github.com/utsav1033/bytesized"
-    },
-    {
       "also_covered_by": [],
       "authors": [
         "Lucas Ropek"
@@ -318,7 +382,7 @@
       ],
       "description": "The startup allows software engineers to deploy teams of agents to work on various aspects of a project simultaneously.",
       "event_cluster_id": "2f7abd088fe6",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "2f7abd088fe66e28f452",
       "image_url": "",
       "is_breaking": false,
@@ -343,38 +407,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Theresa Loconsolo"
-      ],
-      "canonical_url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do..",
-      "event_cluster_id": "1870bd8ae803",
-      "fetched_at": "2026-11-05T12:40:59Z",
-      "id": "1870bd8ae8038dd949c3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-04T19:30:04Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, open source",
-        "startup/product signal: startup, open source"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Open source AI is booming. Hugging Face explains who profits.",
-      "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits"
-    },
-    {
-      "authors": [
         "Bingran You",
         "Wenjun Ke",
         "Ria Rosenauer",
@@ -390,7 +422,7 @@
       ],
       "description": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research...",
       "event_cluster_id": "6309aed8facb",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "6309aed8facb61510c37",
       "image_url": "",
       "is_breaking": false,
@@ -415,38 +447,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Theresa Loconsolo, Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Open source models are becoming more mainstream as enterprises, governments and startups alike rely on the promise of lower costs, more control, and more flexibility. But as increasingly capable models become more freely available, how do..",
-      "event_cluster_id": "2c984d8f060c",
-      "fetched_at": "2026-11-05T12:40:59Z",
-      "id": "2c984d8f060c91297ac3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-04T18:44:57Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model, open source",
-        "startup/product signal: startup, open source"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and trade-offs",
-      "url": "https://techcrunch.com/podcast/building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-trade-offs"
-    },
-    {
       "authors": [
         "Steven Glass",
         "Max Van Puyvelde",
@@ -522,72 +522,69 @@
       "url": "https://arxiv.org/abs/2611.06441v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Alexandre G. Leclercq",
-        "Sébastien Bougleux",
-        "Aurélien Corroyer-Dulmont",
-        "Romain Hérault"
+        "NathanFlurry"
       ],
-      "canonical_url": "https://arxiv.org/abs/2611.05035v1",
+      "canonical_url": "https://github.com/rivet-dev/rivet",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Hacker News"
       ],
-      "description": "Deep learning in medical imaging is constrained by data scarcity and by privacy regulations that make centralizing patient data across institutions impractical. Federated Learning (FL) addresses these constraints by keeping data local,...",
-      "event_cluster_id": "d79c17c64ee2",
-      "fetched_at": "2026-11-04T12:26:29Z",
-      "id": "d79c17c64ee2f9d97981",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-03T15:08:03Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: regulation",
-        "research relevance: medical imaging, medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Federated Transfer Learning for Medical Image Classification under Mixed Skew",
-      "url": "https://arxiv.org/abs/2611.05035v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Dominic-Madori Davis"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Data center opposition crossed party lines in Tuesday’s midterms.",
-      "event_cluster_id": "4c2268a3cf02",
-      "fetched_at": "2026-11-05T03:41:04Z",
-      "id": "4c2268a3cf02c148209f",
+      "description": "Hacker News discussion",
+      "event_cluster_id": "335e94a09146",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "hn-50381687",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-05T01:02:14Z",
+      "published_at": "2026-11-05T17:17:42Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
-        "high source",
+        "medium source",
         "published within 6 hours",
-        "major-event keyword: data center"
+        "major-event keyword: launch",
+        "technical relevance: agent"
       ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "After the midterms, a bigger clash over data centers could be coming",
-      "url": "https://techcrunch.com/2026/11/04/after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming"
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
+      "url": "https://github.com/rivet-dev/rivet"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "ltononro"
+      ],
+      "canonical_url": "https://www.anthropic.com/research/provable-inference",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "43862ef771df",
+      "fetched_at": "2026-11-04T18:12:11Z",
+      "id": "hn-50368626",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-04T17:17:46Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Progress on provable inference for large language models",
+      "url": "https://www.anthropic.com/research/provable-inference"
     },
     {
       "also_covered_by": [],
@@ -622,98 +619,35 @@
       "url": "https://www.technologyreview.com/2026/11/04/1147596/securing-the-agentic-enterprise-with-data-lineage"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://huggingface.co/blog/allenai/statebench",
+      "canonical_url": "https://simonwillison.net/2026/Nov/5/paul-ford",
       "cluster_sources": [
-        "Hugging Face Blog"
+        "Simon Willison"
       ],
-      "description": "",
-      "event_cluster_id": "8d8667671049",
-      "fetched_at": "2026-11-03T17:59:51Z",
-      "id": "8d86676710497099b109",
+      "description": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
+      "event_cluster_id": "f88e63ee2c81",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "f88e63ee2c8108afc7ab",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-03T17:15:21Z",
+      "published_at": "2026-11-05T17:34:03Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
+        "critical source",
+        "published within 6 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "StateBench: Testing how language models track state changes over long documents",
-      "url": "https://huggingface.co/blog/allenai/statebench"
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Paul Ford",
+      "url": "https://simonwillison.net/2026/Nov/5/paul-ford"
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "4d3938441f21",
-      "fetched_at": "2026-11-03T17:59:51Z",
-      "id": "4d3938441f216409a8f1",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-03T16:35:36Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Palette: teaching a small model to build decks in your design language",
-      "url": "https://huggingface.co/blog/ibm-research/palette-deck-building"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How “reverse game theory” could keep AI agents in check A new approach known as “reverse game...",
-      "event_cluster_id": "26a6ba9feaca",
-      "fetched_at": "2026-11-03T17:59:51Z",
-      "id": "26a6ba9feaca21809e49",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-03T13:10:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: controlling AI agents and “Super Intelligence” loyalty tests",
-      "url": "https://www.technologyreview.com/2026/11/03/1147940/the-download-controlling-ai-agents-trump-super-intelligence"
-    },
-    {
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/phonon-tts",
       "cluster_sources": [
@@ -721,7 +655,7 @@
       ],
       "description": "",
       "event_cluster_id": "c65c7708e939",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "c65c7708e93995ca4541",
       "image_url": "",
       "is_breaking": false,
@@ -743,6 +677,7 @@
       "url": "https://huggingface.co/blog/phonon-tts"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Weichen Fan",
         "Haiwen Diao",
@@ -759,7 +694,7 @@
       ],
       "description": "Vision-language-action models are typically built on a simple premise: perception is first compressed by visual encoders, and action reasoning begins only afterwards. Yet manipulation often hinges on precisely the visual signals most...",
       "event_cluster_id": "4c4f2b8ade75",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "4c4f2b8ade7543e100ca",
       "image_url": "",
       "is_breaking": false,
@@ -782,6 +717,7 @@
       "url": "https://arxiv.org/abs/2611.06918v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Mattia Greiche",
         "Reihaneh Rabbany",
@@ -793,7 +729,7 @@
       ],
       "description": "Researchers use large language models as agents in social simulations, where agents are prompted with observations and background information intended to shape their actions. Yet LLM agents have been shown to substantially change their...",
       "event_cluster_id": "a2f081d858f3",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "a2f081d858f370487890",
       "image_url": "",
       "is_breaking": false,
@@ -826,7 +762,7 @@
       ],
       "description": "Texas is the fastest-growing data center market in the US and ground zero for Big Tech’s largest AI buildouts. But the blue wave that swept the Lone Star State may jeopardize that position. Democrat James Talarico won the US Senate seat...",
       "event_cluster_id": "4c156bd25dff",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "4c156bd25dffe9102489",
       "image_url": "",
       "is_breaking": false,
@@ -848,6 +784,7 @@
       "url": "https://www.technologyreview.com/2026/11/04/1148043/texas-was-the-new-epicenter-of-the-ai-data-center-buildout-that-might-be-kaput"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yulu An",
         "Yifei Feng",
@@ -859,7 +796,7 @@
       ],
       "description": "LLM agents use context compaction to manage growing interaction histories, but summarizing long histories with large models can introduce substantial delays. Compaction therefore requires balancing information retention against latency....",
       "event_cluster_id": "d42ac278ebdf",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "d42ac278ebdfdc40442e",
       "image_url": "",
       "is_breaking": false,
@@ -882,6 +819,7 @@
       "url": "https://arxiv.org/abs/2611.06876v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jalaj Bhandari",
         "Dhawal Gupta",
@@ -898,7 +836,7 @@
       ],
       "description": "In this work, we evaluate a simple inference-time scaling approach based on \\textit{turn-level best-of-N sampling} (\\method) for large language model (LLM) agents on complex, long-horizon tasks. We instantiate this using a...",
       "event_cluster_id": "cd8294189c8c",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "cd8294189c8cb5c48d3f",
       "image_url": "",
       "is_breaking": false,
@@ -931,7 +869,7 @@
       ],
       "description": "November 3, 2026 — A quiet day lets us share some behind the senes.",
       "event_cluster_id": "5b25d779ec2f",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "5b25d779ec2fc3de8474",
       "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/3f11140f-17d7-4e20-bda5-a8bfffa6738a/ChatGPT_Image_Nov_4__2026__11_17_02_AM.png?t=1793819847",
       "is_breaking": false,
@@ -951,74 +889,6 @@
       "source_name": "Latent Space",
       "title": "[AINews] Behind Latent Space: Kill My SaaS, Jev & AI in 2026 | AIEi Shanghai",
       "url": "https://latent.space/p/ainews-behind-latent-space-kill-my-saas-jev-ai-in-2026-aiei-shanghai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Wugeng Zheng",
-        "Song Wang",
-        "Jian Wang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.05099v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "In this paper, we propose Dual-VaDE, an unsupervised generative framework for learning interpretable anatomical prototypes from unlabeled medical images. In contrast to previous variational methods that rely on a single spatial latent...",
-      "event_cluster_id": "d8388bbb0957",
-      "fetched_at": "2026-11-04T12:26:29Z",
-      "id": "d8388bbb09571c7caf82",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-03T15:54:14Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Dual-VaDE: Efficient and Robust Prototype Learning via Variational Dual-Domain Mixture Priors",
-      "url": "https://arxiv.org/abs/2611.05099v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Aashish Chapagai",
-        "Angad Singh Gurtatta",
-        "Erik Cambria"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.05011v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Saliency maps are offered as a safeguard for medical image classifiers, but whether they reveal individual errors at a new hospital remains largely untested. We trained a convolutional network and a vision transformer on NIH ChestX-ray14...",
-      "event_cluster_id": "a4ce995d820a",
-      "fetched_at": "2026-11-04T12:26:29Z",
-      "id": "a4ce995d820a1b874d25",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-03T14:57:22Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Can saliency maps flag chest radiograph classifier errors at a new hospital? An external validation study",
-      "url": "https://arxiv.org/abs/2611.05011v1"
     },
     {
       "also_covered_by": [],
@@ -1089,7 +959,7 @@
       ],
       "description": "",
       "event_cluster_id": "ed1bba7d88a6",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "ed1bba7d88a643c9b8e5",
       "image_url": "",
       "is_breaking": false,
@@ -1119,7 +989,7 @@
       ],
       "description": "",
       "event_cluster_id": "4376fc05a578",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "4376fc05a5786b49752e",
       "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/11/image2-3-660x370-jpg.webp",
       "is_breaking": false,
@@ -1149,7 +1019,7 @@
       ],
       "description": "",
       "event_cluster_id": "5acd07c875ea",
-      "fetched_at": "2026-11-05T12:40:59Z",
+      "fetched_at": "2026-11-05T18:14:38Z",
       "id": "5acd07c875ea982ee441",
       "image_url": "https://developer-blogs.nvidia.com/wp-content/uploads/2026/10/image1-16-660x370-png.webp",
       "is_breaking": false,
@@ -1169,6 +1039,35 @@
       "source_name": "NVIDIA Technical Blog - Machine Learning and AI",
       "title": "NVIDIA CUDA 13.5 Brings NVIDIA Vera Rubin GA Support",
       "url": "https://developer.nvidia.com/blog/nvidia-cuda-13-5-brings-nvidia-vera-rubin-ga-support"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit",
+      "cluster_sources": [
+        "Microsoft Research Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "3a45181f6d99",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "3a45181f6d992343d41b",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-05T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "microsoft_research",
+      "source_name": "Microsoft Research Blog",
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "url": "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit"
     },
     {
       "also_covered_by": [],
@@ -1199,16 +1098,111 @@
       "source_name": "Google Research Blog",
       "title": "November 4, 2026 Agile Deliberation: How AI helps humans define the gray areas Data Mining & Modeling · Generative AI · Human-Computer Interaction and Visualization · Machine Intelligence",
       "url": "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "November 5, 2026",
+      "event_cluster_id": "f65775ad4437",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "f65775ad44370722f399",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Hypertension1_Overview.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-05T00:00:00Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "November 5, 2026 Detecting signs of hypertension using wearable sensors Health & Bioscience · Machine Intelligence",
+      "url": "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Bakpen Kombat",
+        "Guus Grimbergen",
+        "Maarten L. Terpstra",
+        "Gert J. Meijer",
+        "Lois",
+        "A. Daamen"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.06570v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Accurate target volume (TV) segmentation is essential for radiotherapy (RT) planning but remains time-consuming. Moreover, the final contour depends on the expertise of the radiation oncologist. Although deep learning has improved...",
+      "event_cluster_id": "10b1504a2f60",
+      "fetched_at": "2026-11-05T12:40:59Z",
+      "id": "10b1504a2f60b4c03041",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-04T14:32:22Z",
+      "research_track": "medical_neuroimaging",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "From Vision to Context: A Review of Prompt-Driven Target Volume Segmentation in Radiotherapy",
+      "url": "https://arxiv.org/abs/2611.06570v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Shkelqim Sherifi"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.06452v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Background/Objectives: CNNs perform well in retinal disease classification from spectral-domain optical coherence tomography (SD-OCT), but whether EfficientNet's natural-image scaling hierarchy transfers to medical-image transfer...",
+      "event_cluster_id": "35ed6f5b0d90",
+      "fetched_at": "2026-11-05T12:40:59Z",
+      "id": "35ed6f5b0d9079358ac4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-04T12:53:44Z",
+      "research_track": "medical_neuroimaging",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Within-Family EfficientNet Scaling under Fixed-Resolution Transfer Learning for Spectral-Domain Optical Coherence Tomography Retinal Disease Classification",
+      "url": "https://arxiv.org/abs/2611.06452v1"
     }
   ],
-  "date_label": "Thursday, November 5, 2026",
-  "generated_at": "2026-11-05T12:40:59Z",
+  "date_label": "Friday, November 6, 2026",
+  "generated_at": "2026-11-05T18:14:38Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 2,
-    "fetched_items": 197,
+    "failed_sources": 3,
+    "fetched_items": 189,
     "retained_items": 36,
-    "successful_sources": 19
+    "successful_sources": 18
   },
   "timezone": "Asia/Bangkok"
 }
