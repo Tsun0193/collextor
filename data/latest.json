@@ -183,71 +183,76 @@
       "url": "https://arxiv.org/abs/2611.06631v1"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Marina Temkin"
+        "Dimitrios Bekris",
+        "Marios Glytsos",
+        "Panagiotis P. Filntisis",
+        "Niki Efthymiou",
+        "George Retsinas",
+        "Petros Maragos"
       ],
-      "canonical_url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
+      "canonical_url": "https://arxiv.org/abs/2611.04708v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "The five-year-old startup raised a $1.3 billion round led by Bessemer.",
-      "event_cluster_id": "64e891378c13",
-      "fetched_at": "2026-11-04T18:12:11Z",
-      "id": "64e891378c13ac062e9f",
+      "description": "Robotics and AI systems are increasingly deploying large vision-language models (LVLMs) to follow high-level instructions, from routine household chores to more complex organizational tasks. Yet, broad directives like \"clean the room\" or...",
+      "event_cluster_id": "1909773df93b",
+      "fetched_at": "2026-11-04T03:10:31Z",
+      "id": "1909773df93bf1002104",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-11-03T19:34:43Z",
+      "published_at": "2026-11-03T11:28:33Z",
+      "research_track": "multimodal_foundation",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: PET",
+        "technical relevance: vision-language, VLM, RAG"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "CLARA: A Cognitively-Driven Clarification Framework for Grounding Ambiguous Requests",
+      "url": "https://arxiv.org/abs/2611.04708v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "swyx .ai"
+      ],
+      "canonical_url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Editing Qwen’s weights to reduce reasoning loops, DeepSeek’s super-agent prototype, and the GDPx benchmark.",
+      "event_cluster_id": "22262baef95a",
+      "fetched_at": "2026-11-04T03:10:31Z",
+      "id": "22262baef95a2fe53de0",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-11-03T05:35:00Z",
       "research_track": "",
       "score": 19,
       "score_reasons": [
         "high source",
         "published within 24 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference",
-        "startup/product signal: startup, raised"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AI inference startup Fal doubles its valuation to $16B as demand surges",
-      "url": "https://techcrunch.com/2026/11/03/ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Airbnb says its upcoming AI agent will help travelers plan trips, compare options, manage bookings, and get assistance throughout their stay.",
-      "event_cluster_id": "1121cf54e69f",
-      "fetched_at": "2026-11-06T03:37:09Z",
-      "id": "1121cf54e69f72cb6b4f",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-05T22:40:55Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "technical relevance: agent"
+        "major-event keyword: benchmark",
+        "technical relevance: agent, reasoning",
+        "long-read source"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Airbnb says it’s launching an AI travel agent in the first half of 2027",
-      "url": "https://techcrunch.com/2026/11/05/airbnb-says-its-launching-an-ai-travel-agent-in-the-first-half-of-2027"
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] LLMs can read & write neural network weights: \"Weight Space Programming\" cuts Autoresearch out of the RSI loop",
+      "url": "https://latent.space/p/ainews-llms-can-read-write-neural-network-weights-weight-space-programming-cuts-autoresearch-out-of"
     },
     {
       "also_covered_by": [],
@@ -351,39 +356,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Meta's AI agent can now take calls as a customizable animated avatar, ahead of the launch of a Tamagotchi-like wearable designed to bring Muse to life.",
-      "event_cluster_id": "f66d8f294288",
-      "fetched_at": "2026-11-06T17:39:49Z",
-      "id": "f66d8f2942889cef95d9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-05T19:48:28Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: launch",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta says US users can now video chat with their Muse AI avatar",
-      "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Yubo Wang",
         "Rui Meng",
         "Jaehyun Nam",
@@ -418,6 +390,109 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "ReproBridge: Building Reproducibility into ML Research Artifacts",
       "url": "https://arxiv.org/abs/2611.08452v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Bingran You",
+        "Wenjun Ke",
+        "Ria Rosenauer",
+        "Bo Liu",
+        "Wenbo Chen",
+        "Min Chen",
+        "Shuqi Xu",
+        "Yue Ma"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.06910v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "AI agents are playing an increasingly important role in physics research. However, existing physics benchmarks only evaluate fixed questions, isolated sub-tasks, or paper reproduction with given solutions, and rarely check research...",
+      "event_cluster_id": "6309aed8facb",
+      "fetched_at": "2026-11-05T18:14:38Z",
+      "id": "6309aed8facb61510c37",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-04T18:56:22Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: benchmark",
+        "technical relevance: agent",
+        "startup/product signal: product"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "url": "https://arxiv.org/abs/2611.06910v1"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "On Equity, we unpacked what the midterms mean for the tech industry.",
+      "event_cluster_id": "51a247b5b6ae",
+      "fetched_at": "2026-11-08T02:40:07Z",
+      "id": "51a247b5b6ae00e91ef5",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-07T22:07:22Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers"
+    },
+    {
+      "authors": [
+        "Anthony Ha"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+      "event_cluster_id": "3b069222ecbd",
+      "fetched_at": "2026-11-08T02:40:07Z",
+      "id": "3b069222ecbd3b59ba7f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-07T21:17:08Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: security"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+      "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo"
     },
     {
       "authors": [
@@ -578,37 +653,65 @@
       "url": "https://huggingface.co/blog/allenai/toyblocks"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "NathanFlurry"
-      ],
-      "canonical_url": "https://github.com/rivet-dev/rivet",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/7/link-rel-next",
       "cluster_sources": [
-        "Hacker News"
+        "Simon Willison"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "335e94a09146",
-      "fetched_at": "2026-11-05T18:14:38Z",
-      "id": "hn-50381687",
+      "description": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages I was looking at the Firefox network panel today when I noticed that requests to a Datasette table page were triggering an HTTP prefetch to the next page...",
+      "event_cluster_id": "5f8103aa8ad8",
+      "fetched_at": "2026-11-08T02:40:07Z",
+      "id": "5f8103aa8ad8e667fe99",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-05T17:17:42Z",
+      "published_at": "2026-11-07T23:57:46Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "datasette #3046: Don't serve link: rel=next HTTP headers to Firefox for HTML pages",
+      "url": "https://simonwillison.net/2026/Nov/7/link-rel-next"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "jiant"
+      ],
+      "canonical_url": "https://github.com/Video-Rebirth/hyperflow-h3-flash",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "b228101c3e9d",
+      "fetched_at": "2026-11-07T16:36:10Z",
+      "id": "hn-50405263",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-07T15:16:01Z",
+      "research_track": "",
+      "score": 14,
       "score_reasons": [
         "medium source",
         "published within 6 hours",
-        "major-event keyword: launch",
-        "technical relevance: agent"
+        "major-event keyword: model",
+        "startup/product signal: Show HN"
       ],
-      "section": "ai_engineering",
+      "section": "startup_product",
       "source_category": "community",
       "source_id": "hacker_news",
       "source_name": "Hacker News",
-      "title": "Launch HN: Rivet (YC W23) – Scale and Orchestrate Agents on S3",
-      "url": "https://github.com/rivet-dev/rivet"
+      "title": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8",
+      "url": "https://github.com/Video-Rebirth/hyperflow-h3-flash"
     },
     {
       "also_covered_by": [],
@@ -708,250 +811,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "f25b9201ad6b",
-      "fetched_at": "2026-11-06T17:39:49Z",
-      "id": "f25b9201ad6bdcc6fc96",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-05T19:35:16Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "business_policy",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-      "url": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "David Yan",
-        "Le Xue",
-        "Forrest Huang",
-        "Qiuyi Zhang",
-        "Dustin Tran",
-        "Andrew M. Dai",
-        "Yinfei Yang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.08485v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Grounded reasoning, where a model outputs text coordinates of relevant locations in chain-of-thought reasoning, is a common strategy for solving complex visual reasoning problems. However, the benefits and limitations of grounded...",
-      "event_cluster_id": "113ca84b140a",
-      "fetched_at": "2026-11-06T17:39:49Z",
-      "id": "113ca84b140a4573d18d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-05T18:59:32Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Where and Why is Grounded Reasoning Useful?",
-      "url": "https://arxiv.org/abs/2611.08485v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Linrong Cai",
-        "Taiming Lu",
-        "Haozhe Chen",
-        "Zhuang Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.08472v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "ML code should run where researchers choose, not where it was first written. Today, machine learning code mainly lives in two ecosystems, PyTorch on NVIDIA GPUs and JAX on Google TPUs. Migrating repositories between them means building...",
-      "event_cluster_id": "c545377ef80e",
-      "fetched_at": "2026-11-06T17:39:49Z",
-      "id": "c545377ef80e0fe8d5b0",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-05T18:55:54Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark, GPU",
-        "technical relevance: PyTorch"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "XStack: A Benchmark for ML Repo Migration",
-      "url": "https://arxiv.org/abs/2611.08472v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Julian Kunkel",
-        "Ali Doosthosseini"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.08428v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Chat remains the default surface for many large language model (LLM) tasks, even as agentic tools such as OpenCode excel at coding and automation. Yet the model sees the current dialogue but not the workspace around it. We explore meta...",
-      "event_cluster_id": "659792604f2d",
-      "fetched_at": "2026-11-06T17:39:49Z",
-      "id": "659792604f2d69846aea",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-05T18:22:24Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: agent"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "The Power of Meta Access in the Software of the Future --- Demonstrated on LLM Chat UIs and Chat AI",
-      "url": "https://arxiv.org/abs/2611.08428v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Michal P. Podolinsky",
-        "Yunhao Yang",
-        "Daniel Little",
-        "Hong Lu",
-        "Rohan Siva",
-        "Olin Goudey",
-        "Neel P. Bhatt",
-        "Matthias Scheutz"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.08425v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-Language-Action models (VLAs) enable general-purpose embodied intelligence, but their performance is brittle under distribution shift, where unanticipated failures can damage equipment or endanger people. Deploying VLAs in...",
-      "event_cluster_id": "099bd49063f7",
-      "fetched_at": "2026-11-06T17:39:49Z",
-      "id": "099bd49063f71dc774d6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-05T18:21:07Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing",
-      "url": "https://arxiv.org/abs/2611.08425v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "E. Kelly Buchanan",
-        "Crystal Zhou",
-        "Scott W. Linderman",
-        "Christopher Ré"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.08417v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Coding agents are among the most economically consequential deployments of LLMs to date, making reliable evaluation increasingly important. Yet even benchmarks that are carefully validated at release can become stale. As models improve,...",
-      "event_cluster_id": "f3b411487e8b",
-      "fetched_at": "2026-11-06T17:39:49Z",
-      "id": "f3b411487e8b307d5ae4",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-05T18:18:39Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: release, model, benchmark",
-        "technical relevance: agent, evaluation"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Benchmarks as Software: Terminal-Bench and the Case for Continuous Benchmarks",
-      "url": "https://arxiv.org/abs/2611.08417v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://simonwillison.net/2026/Nov/5/paul-ford",
-      "cluster_sources": [
-        "Simon Willison"
-      ],
-      "description": "The web browser is very, very, very powerful software for applications, and the cost of accessing that power is going down seemingly every day . — Paul Ford , The Web Is More Than Enough Tags: browsers , paul-ford , web-development",
-      "event_cluster_id": "f88e63ee2c81",
-      "fetched_at": "2026-11-05T18:14:38Z",
-      "id": "f88e63ee2c8108afc7ab",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-05T17:34:03Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "critical source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "simon_willison",
-      "source_name": "Simon Willison",
-      "title": "Quoting Paul Ford",
-      "url": "https://simonwillison.net/2026/Nov/5/paul-ford"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -980,44 +839,15 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "The Download: a humanoid cleans house and Samsung builds for the AI boom",
       "url": "https://www.technologyreview.com/2026/11/06/1148154/the-download-humanoid-robot-cleaner-samsung-ai-chip-boom"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "13e4c95dcbaa",
-      "fetched_at": "2026-11-06T17:39:49Z",
-      "id": "13e4c95dcbaa6d34090e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-06T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
-      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva"
     }
   ],
-  "date_label": "Saturday, November 7, 2026",
-  "generated_at": "2026-11-07T16:36:10Z",
+  "date_label": "Sunday, November 8, 2026",
+  "generated_at": "2026-11-08T02:40:07Z",
   "summary": {
-    "duplicates_removed": 0,
+    "duplicates_removed": 1,
     "failed_sources": 2,
-    "fetched_items": 199,
-    "retained_items": 30,
+    "fetched_items": 198,
+    "retained_items": 25,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
