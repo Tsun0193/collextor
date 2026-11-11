@@ -1,40 +1,6 @@
 {
   "articles": [
     {
-      "also_covered_by": [],
-      "authors": [
-        "Russell Brandom"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "At 10 cents per million input tokens, Ember is significantly cheaper than frontier competitors like Haiku and Luna.",
-      "event_cluster_id": "e8884a0ba45a",
-      "fetched_at": "2026-11-09T21:00:55Z",
-      "id": "e8884a0ba45abd7629fd",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-09T18:00:00Z",
-      "research_track": "",
-      "score": 23,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: release, model",
-        "research relevance: PET",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Meta releases Muse Ember, a new lightweight model for agent execution",
-      "url": "https://techcrunch.com/2026/11/09/meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution"
-    },
-    {
       "also_covered_by": [
         "arXiv - Medical AI and Neuroimaging"
       ],
@@ -48,7 +14,7 @@
       ],
       "description": "Foundation models pretrained on large natural-image collections are increasingly adapted for medical image segmentation, in the expectation that they will replace models trained for each task. Most comparisons, however, use data from the...",
       "event_cluster_id": "fe811014c2f0",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "fe811014c2f031b152f1",
       "image_url": "",
       "is_breaking": false,
@@ -73,6 +39,39 @@
       "url": "https://arxiv.org/abs/2611.14519v1"
     },
     {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet...",
+      "event_cluster_id": "7dcaa30178c3",
+      "fetched_at": "2026-11-11T18:00:57Z",
+      "id": "7dcaa30178c3f369e091",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-11-11T13:10:00Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "research relevance: PET",
+        "technical relevance: serving"
+      ],
+      "section": "ai_engineering",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: preserving minds and weighing open AI risks",
+      "url": "https://www.technologyreview.com/2026/11/11/1148424/the-download-preserving-minds-open-ai-risks"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Niran Nataraj",
         "Ankita Das",
@@ -122,7 +121,7 @@
       ],
       "description": "The rapid advancement of foundation models has transformed computer vision, yet their adaptation to medical imaging, particularly purpose built foundation models for spatio temporal echocardiography videos, remains limited. In this work,...",
       "event_cluster_id": "4d937a5fcb7b",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "4d937a5fcb7bf11b8ee5",
       "image_url": "",
       "is_breaking": false,
@@ -160,7 +159,7 @@
       ],
       "description": "AI agents can write code, use scientific software, and revise computational workflows, opening new possibilities for MRI research. Effective assistance requires connecting acquisition physics, data conventions, specialized tools, and...",
       "event_cluster_id": "68acae729cd5",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "68acae729cd54694f434",
       "image_url": "",
       "is_breaking": false,
@@ -186,41 +185,66 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Rebeca Nam",
-        "Chase M. Fensore",
-        "Christian A. Fauria-Robinson",
-        "Judy Gichoya",
-        "Joyce C. Ho"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.12574v1",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/6/nilay-patel",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "Simon Willison"
       ],
-      "description": "As vision-language models (VLMs) move toward interpreting medical images directly, their outputs increasingly include not just a label but a stated confidence and a written justification. Yet the field still predominantly evaluates VLMs...",
-      "event_cluster_id": "2fcd45969048",
-      "fetched_at": "2026-11-10T12:54:45Z",
-      "id": "2fcd4596904843455e41",
+      "description": "The products aren't good enough to sell people on the costs. You cannot tell people that you have to listen to the whine of a data center in their backyard for AI overviews and some of the most hilarious deep fake slop in history. It's...",
+      "event_cluster_id": "b7aa5d4fa5c7",
+      "fetched_at": "2026-11-06T17:39:49Z",
+      "id": "b7aa5d4fa5c79c451bb7",
       "image_url": "",
-      "is_breaking": false,
+      "is_breaking": true,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-11-09T15:33:50Z",
-      "research_track": "medical_neuroimaging",
+      "published_at": "2026-11-06T17:13:12Z",
+      "research_track": "",
       "score": 19,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: vision-language, VLM"
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: data center",
+        "startup/product signal: product"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Evaluating Cross-Signal Coherence in Mammography Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.12574v1"
+      "section": "business_policy",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Nilay Patel",
+      "url": "https://simonwillison.net/2026/Nov/6/nilay-patel"
+    },
+    {
+      "authors": [
+        "Tim Fernholz"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Like the end-to-end models trained to drive cars, AI agents are probabilistic systems operating in unpredictable environments.",
+      "event_cluster_id": "87209848417b",
+      "fetched_at": "2026-11-11T18:00:57Z",
+      "id": "87209848417b63cfc532",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-11T14:00:00Z",
+      "research_track": "",
+      "score": 18,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Plurai wants to help AI agents work better using the same approach that helped get self-driving cars to roads",
+      "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads"
     },
     {
       "also_covered_by": [],
@@ -233,7 +257,7 @@
       ],
       "description": "Where does answer engine optimization (AEO) end and agent experience begin? Inside Resend, from the docs that help Claude Code pick an email API to the tools it uses to send.",
       "event_cluster_id": "93ae92fecf61",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "93ae92fecf61cfb3e8f2",
       "image_url": "https://i.ytimg.com/vi/bdIoODXsu8k/maxresdefault.jpg",
       "is_breaking": false,
@@ -290,6 +314,7 @@
       "url": "https://techcrunch.com/2026/11/10/after-challenging-googles-android-with-cyanogen-its-co-founder-takes-aim-at-windows-for-ai-era"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Luuk Jacobs",
         "Pietro Dirix",
@@ -390,13 +415,43 @@
     },
     {
       "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Anthropic's IPO roadshow video Anthropic kicked off their IPO roadshow yesterday, and their roadshow video has some previously unreleased information about how their business works. The section on \"Approach to compute\" with co-founder Tom..",
+      "event_cluster_id": "d7414ba9c609",
+      "fetched_at": "2026-11-11T18:00:57Z",
+      "id": "d7414ba9c609253700f3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-11T15:11:59Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release, released"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Anthropic's IPO roadshow video",
+      "url": "https://simonwillison.net/2026/Nov/11/anthropic-ipo-roadshow"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://huggingface.co/blog/qvac/botpsy",
       "cluster_sources": [
         "Hugging Face Blog"
       ],
       "description": "",
       "event_cluster_id": "19b4fcb1faac",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "19b4fcb1faac9c9bdbcc",
       "image_url": "",
       "is_breaking": false,
@@ -583,38 +638,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "swyx .ai"
-      ],
-      "canonical_url": "https://latent.space/p/handshake",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Handshake went from launch to $1B in one year pushing the envelope of specialized data for frontier labs. Our first deep dive into a data lab with specific examples across Finance, Bio, and Alignment",
-      "event_cluster_id": "e4b7803bfd81",
-      "fetched_at": "2026-11-09T21:00:55Z",
-      "id": "e4b7803bfd815ac51c28",
-      "image_url": "https://i.ytimg.com/vi/v5IJwVnTxzg/maxresdefault.jpg",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-11-09T17:15:53Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: launch",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord & Team",
-      "url": "https://latent.space/p/handshake"
-    },
-    {
-      "authors": [
         "Ziang Liu",
         "James J. Kim",
         "Yijia Dai",
@@ -626,7 +649,7 @@
       ],
       "description": "LLM agents are increasingly used for open-ended, data-driven scientific discovery, yet most of them evaluate hypotheses pointwise, testing an empirical claim $h$ only against its complement $\\neg h$. When evidence rejects $h$, the agent...",
       "event_cluster_id": "6c02bf98d5e3",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "6c02bf98d5e3f309601c",
       "image_url": "",
       "is_breaking": false,
@@ -649,6 +672,7 @@
       "url": "https://arxiv.org/abs/2611.14514v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Daniel Lenton"
       ],
@@ -658,7 +682,7 @@
       ],
       "description": "Agent harnesses have emerged as a promising mechanism for continual learning, alongside test-time parametric learning. However, the current benchmarks have several limitations: they generally focus on a single applied domain, serve each...",
       "event_cluster_id": "35f0b78cc858",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "35f0b78cc85822d68bc6",
       "image_url": "",
       "is_breaking": false,
@@ -682,6 +706,7 @@
       "url": "https://arxiv.org/abs/2611.14505v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Peng Chen",
         "Yihang Wang",
@@ -698,7 +723,7 @@
       ],
       "description": "Time series analytics has been widely applied across various domains. While existing time series foundation models (TSFMs) have demonstrated promising results, they still face two major challenges: 1) Most TSFMs mainly rely on stacking...",
       "event_cluster_id": "b3c7a7419097",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "b3c7a74190974e480d9b",
       "image_url": "",
       "is_breaking": false,
@@ -720,6 +745,38 @@
       "source_name": "arXiv - Multimodal and Foundation Models",
       "title": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series Analytics",
       "url": "https://arxiv.org/abs/2611.14491v1"
+    },
+    {
+      "authors": [
+        "alanjm23"
+      ],
+      "canonical_url": "https://pomerado.ai",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "1adc3f8eadb5",
+      "fetched_at": "2026-11-11T18:00:57Z",
+      "id": "hn-50455811",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-11T17:11:56Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+      "url": "https://pomerado.ai"
     },
     {
       "also_covered_by": [],
@@ -794,7 +851,7 @@
       ],
       "description": "",
       "event_cluster_id": "7ad24f126f87",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "7ad24f126f8736089385",
       "image_url": "",
       "is_breaking": false,
@@ -883,37 +940,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "MIT Technology Review Insights"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "As companies look to accelerate innovation with artificial intelligence, cloud computing, and advanced modeling, the primary challenge is connecting new technologies to reliable data, scientific expertise, and the practical realities of...",
-      "event_cluster_id": "1041d0c56d06",
-      "fetched_at": "2026-11-09T13:16:17Z",
-      "id": "1041d0c56d06b40f4e82",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-09T13:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Innovating with AI in the special chemicals industry",
-      "url": "https://www.technologyreview.com/2026/11/09/1147654/innovating-with-ai-in-the-special-chemicals-industry"
-    },
-    {
-      "authors": [
         "swyx .ai"
       ],
       "canonical_url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate",
@@ -944,36 +970,33 @@
       "url": "https://latent.space/p/ainews-mercor-750m-series-d-at-20b-valuation-3b-run-rate"
     },
     {
-      "authors": [
-        "sadilek"
-      ],
-      "canonical_url": "https://github.com/sadilek/obeya",
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/token-pooling",
       "cluster_sources": [
-        "Hacker News"
+        "Hugging Face Blog"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "e6d6b9f00d3d",
-      "fetched_at": "2026-11-11T12:04:36Z",
-      "id": "hn-50450897",
+      "description": "",
+      "event_cluster_id": "11568aa8dfcf",
+      "fetched_at": "2026-11-11T18:00:57Z",
+      "id": "11568aa8dfcf9a3c0750",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-11T08:14:38Z",
+      "published_at": "2026-11-11T00:00:00Z",
       "research_track": "",
       "score": 14,
       "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: model, training"
       ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Obeya, a spatial canvas for directing coding agents",
-      "url": "https://github.com/sadilek/obeya"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Token Pooling-Aware Training for Multi-Vector Embedding Models",
+      "url": "https://huggingface.co/blog/token-pooling"
     },
     {
       "also_covered_by": [
@@ -993,7 +1016,7 @@
       ],
       "description": "DeepLearning (DL)-based Computer-Aided Diagnostic (CAD) systems have shown great promise in supporting clinicians, but their performance heavily depends on the availability of large, well-annotated datasets. In medical lesion detection,...",
       "event_cluster_id": "f4edfe11b653",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "f4edfe11b6533a5763fb",
       "image_url": "",
       "is_breaking": false,
@@ -1016,6 +1039,7 @@
       "url": "https://arxiv.org/abs/2611.14518v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Megha Srivastava",
         "Michael H. Lim",
@@ -1029,7 +1053,7 @@
       ],
       "description": "Predicting how a ligand binds to its target is central to small-molecule drug discovery. Modern cofolding models can generate diverse candidate poses, but reliably ranking these candidates remains challenging. We introduce Pyrite, a...",
       "event_cluster_id": "b578e632a3b1",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "b578e632a3b138686d5b",
       "image_url": "",
       "is_breaking": false,
@@ -1052,6 +1076,7 @@
       "url": "https://arxiv.org/abs/2611.14511v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zhenye Lou",
         "Qing Xu",
@@ -1064,7 +1089,7 @@
       ],
       "description": "BraTS-METS 2026 Task 1 evaluates segmentation of brain metastases and postoperative resection cavities on heterogeneous multiparametric MRI, requiring detection of small enhancing foci while preserving the geometry and hierarchy of...",
       "event_cluster_id": "27a4bb2ed3b2",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "27a4bb2ed3b2dd0d7ff7",
       "image_url": "",
       "is_breaking": false,
@@ -1146,6 +1171,41 @@
       "url": "https://simonwillison.net/2026/Nov/9/mysterious-beeps"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Juan Liu",
+        "Nian Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.13352v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Purpose: To develop a phase-aware self-supervised framework for accelerated high-resolution multi-echo gradient-echo (mGRE) MRI that preserves anatomical detail and complex echo information for quantitative mapping. Methods: We developed...",
+      "event_cluster_id": "9e2a8e975b4e",
+      "fetched_at": "2026-11-11T18:00:57Z",
+      "id": "9e2a8e975b4e90a1af6f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-09T23:25:26Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "research relevance: MRI",
+        "technical relevance: self-supervised"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Multi-Stage Phase-Aware Self-Supervised Reconstruction for Multi-Echo Gradient-Echo MRI",
+      "url": "https://arxiv.org/abs/2611.13352v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Richard MacManus"
       ],
@@ -1155,7 +1215,7 @@
       ],
       "description": "On the first day of AIE Code Summit, OpenAI showed how developers can steer Codex by voice, hand off work to the cloud, and make use of dots.",
       "event_cluster_id": "229eabb18a40",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "229eabb18a4037aeb9d8",
       "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/27ce2150-3717-4122-ac3a-37dd0e8ce18f/openai-aiecode-feature.png?t=1794370546",
       "is_breaking": false,
@@ -1187,7 +1247,7 @@
       ],
       "description": "NaiveAI could potentially top Artificial Analysis’s speed rankings. Our hands-on test suggests its coding quality holds up against DeepSeek.",
       "event_cluster_id": "55a30966cc42",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "55a30966cc422eea3be8",
       "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/f3b4fd9f-a330-4090-a922-a912d25dcd7c/naiveai-feature2.png?t=1793721927",
       "is_breaking": false,
@@ -1271,95 +1331,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Grace Huckins"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "As a California state senator, Scott Wiener authored legislation aimed at curbing the risks of advanced AI. Now, after winning a tight congressional race for former Speaker of the House Nancy Pelosi’s open San Francisco seat, he could...",
-      "event_cluster_id": "a7e59e4f7211",
-      "fetched_at": "2026-11-09T21:00:55Z",
-      "id": "a7e59e4f72113c3a7a23",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-09T17:05:43Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Nancy Pelosi’s replacement is ready to regulate AI",
-      "url": "https://www.technologyreview.com/2026/11/09/1148182/nancy-pelosis-replacement-is-ready-to-regulate-ai"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "ac8f18750241",
-      "fetched_at": "2026-11-09T21:00:55Z",
-      "id": "ac8f18750241a65f1eaf",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-09T15:05:57Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "55d059b88c6c",
-      "fetched_at": "2026-11-09T13:16:17Z",
-      "id": "55d059b88c6c576a2f3d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-09T12:34:29Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
-      "url": "https://huggingface.co/blog/amazon/higher-order-pruning-experts"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/hub-gcp-marketplace",
       "cluster_sources": [
@@ -1418,37 +1389,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Charlotte Jee"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: The climate case for AI has not been made —By Mary Nichols, distinguished counsel at the...",
-      "event_cluster_id": "72023db0fa01",
-      "fetched_at": "2026-11-10T12:54:45Z",
-      "id": "72023db0fa01ec0a735f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-09T13:15:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: empty AI climate claims, and an Nvidia investigation",
-      "url": "https://www.technologyreview.com/2026/11/09/1148176/the-download-empty-ai-climate-claims-and-an-nvidia-investigation"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents",
       "cluster_sources": [
@@ -1456,7 +1396,7 @@
       ],
       "description": "",
       "event_cluster_id": "d48977b6fbc8",
-      "fetched_at": "2026-11-11T12:04:36Z",
+      "fetched_at": "2026-11-11T18:00:57Z",
       "id": "d48977b6fbc84b1e2e7e",
       "image_url": "",
       "is_breaking": false,
@@ -1478,13 +1418,13 @@
       "url": "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents"
     }
   ],
-  "date_label": "Wednesday, November 11, 2026",
-  "generated_at": "2026-11-11T12:04:36Z",
+  "date_label": "Thursday, November 12, 2026",
+  "generated_at": "2026-11-11T18:00:57Z",
   "summary": {
     "duplicates_removed": 2,
     "failed_sources": 2,
-    "fetched_items": 202,
-    "retained_items": 45,
+    "fetched_items": 204,
+    "retained_items": 43,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
