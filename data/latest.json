@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Julie Bort"
       ],
@@ -10,10 +11,10 @@
       ],
       "description": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
       "event_cluster_id": "49f0b0840b1e",
-      "fetched_at": "2026-11-14T03:30:38Z",
+      "fetched_at": "2026-11-14T11:42:17Z",
       "id": "49f0b0840b1ef26af09f",
       "image_url": "",
-      "is_breaking": true,
+      "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
       "published_at": "2026-11-13T19:37:57Z",
@@ -238,39 +239,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "swyx .ai"
-      ],
-      "canonical_url": "https://latent.space/p/ainews-d-day-decision-models-day",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
-      "event_cluster_id": "fd1e2e3d38e0",
-      "fetched_at": "2026-11-13T03:33:19Z",
-      "id": "fd1e2e3d38e066835254",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-11-12T05:26:54Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "startup/product signal: product",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] D-Day (Decision Models Day)",
-      "url": "https://latent.space/p/ainews-d-day-decision-models-day"
-    },
-    {
       "authors": [
         "Marina Temkin, Dominic-Madori Davis"
       ],
@@ -542,39 +510,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Richard MacManus"
-      ],
-      "canonical_url": "https://latent.space/p/jev-revolution",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
-      "event_cluster_id": "dd56d7e6848c",
-      "fetched_at": "2026-11-13T03:33:19Z",
-      "id": "dd56d7e6848c2558449f",
-      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b4181d5a-0460-4828-b350-07feca728023/jevalution-feature.jpg?t=1794458692",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-11-12T05:08:20Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "url": "https://latent.space/p/jev-revolution"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Amanda Silberling"
       ],
       "canonical_url": "https://techcrunch.com/2026/11/13/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline",
@@ -635,6 +570,37 @@
       "source_name": "TechCrunch AI",
       "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
       "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump"
+    },
+    {
+      "authors": [
+        "swyx .ai"
+      ],
+      "canonical_url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "November 13, 2026 — AIE speakers unite to lay out how to fight slop.",
+      "event_cluster_id": "6afdd40324dd",
+      "fetched_at": "2026-11-14T11:42:17Z",
+      "id": "6afdd40324dd15912273",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-11-14T08:31:02Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] The No AI Slop Manifesto",
+      "url": "https://latent.space/p/ainews-the-no-ai-slop-manifesto"
     },
     {
       "also_covered_by": [],
@@ -922,6 +888,7 @@
       "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "cluster_sources": [
@@ -929,7 +896,7 @@
       ],
       "description": "",
       "event_cluster_id": "cdc8eef67bc5",
-      "fetched_at": "2026-11-14T03:30:38Z",
+      "fetched_at": "2026-11-14T11:42:17Z",
       "id": "cdc8eef67bc55a0d0fa5",
       "image_url": "",
       "is_breaking": false,
@@ -1013,37 +980,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Athanasios Angelakis"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.16608v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical image classification in resource-constrained settings must contend with limited annotations and computational capacity. We evaluate four ZACH-ViT variants with linear, Euclidean prototype, Poincare and spherical heads alongside...",
-      "event_cluster_id": "7845d7ddab85",
-      "fetched_at": "2026-11-14T03:30:38Z",
-      "id": "7845d7ddab85f5611a9b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T10:46:53Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Towards Democratising Low-Data Medical Image Classification: CPU-Trainable ZACH-ViT and Its Geometric Variants",
-      "url": "https://arxiv.org/abs/2611.16608v1"
-    },
-    {
       "authors": [],
       "canonical_url": "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature",
       "cluster_sources": [
@@ -1051,7 +987,7 @@
       ],
       "description": "November 13, 2026",
       "event_cluster_id": "e2307d7e10d0",
-      "fetched_at": "2026-11-14T03:30:38Z",
+      "fetched_at": "2026-11-14T11:42:17Z",
       "id": "e2307d7e10d0392066e7",
       "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/AntigravityTeamwork_HeroFinal.jpg",
       "is_breaking": false,
@@ -1073,12 +1009,12 @@
     }
   ],
   "date_label": "Saturday, November 14, 2026",
-  "generated_at": "2026-11-14T03:30:38Z",
+  "generated_at": "2026-11-14T11:42:17Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 2,
-    "fetched_items": 196,
-    "retained_items": 32,
+    "fetched_items": 198,
+    "retained_items": 30,
     "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
