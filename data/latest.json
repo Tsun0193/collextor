@@ -1,6 +1,39 @@
 {
   "articles": [
     {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "event_cluster_id": "591236888382",
+      "fetched_at": "2026-11-19T04:27:35Z",
+      "id": "591236888382df2bc009",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-18T22:58:11Z",
+      "research_track": "",
+      "score": 23,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model",
+        "research relevance: PET",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Jagmeet Singh"
@@ -437,6 +470,7 @@
       "url": "https://assess.poh.org"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg",
       "cluster_sources": [
@@ -466,6 +500,7 @@
       "url": "https://simonwillison.net/2026/Nov/18/daniel-stenberg"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Nov/18/psf-end-of-year-fundraiser",
       "cluster_sources": [
@@ -528,6 +563,7 @@
       "url": "https://latent.space/p/ainews-gpt-6-2-astra-the-2-frontier-model-is-better-and-20-600-cheaper-but-has-mixed-reviews-6-2-sol"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/moe-expert-streaming",
       "cluster_sources": [
@@ -589,6 +625,46 @@
       "source_name": "TechCrunch AI",
       "title": "Nvidia says its open source AI strategy remains intact after Jensen Huang’s exit",
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit"
+    },
+    {
+      "authors": [
+        "Jonathan Lichtle",
+        "Aymen Meddeb",
+        "Antonin Birot",
+        "Ibrahima Niang",
+        "Lisa Gastaud",
+        "Riyad Hanafi",
+        "Sofiane Dujardin",
+        "Corentin Selomme"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.23480v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Purpose. To evaluate the diagnostic accuracy and image navigation behavior of vision-language model (VLM) agents under varying exploration strategies. Materials and Methods. In this retrospective study, six VLMs read 100 emergency CT and...",
+      "event_cluster_id": "74f39398b22c",
+      "fetched_at": "2026-11-19T04:27:35Z",
+      "id": "74f39398b22c0250be89",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-17T20:32:21Z",
+      "research_track": "medical_neuroimaging",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model",
+        "research relevance: MRI",
+        "technical relevance: vision-language, VLM, agent"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Diagnostic Accuracy and Navigation Behavior of Vision-Language Model Agents Reading Emergency CT and MRI Examinations",
+      "url": "https://arxiv.org/abs/2611.23480v1"
     },
     {
       "authors": [
@@ -689,80 +765,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Ram Iyer"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Isomorphic Labs, the AI drug-discovery platform that was spun out of Google’s DeepMind in 2021, has raised $5 billion in a Series C funding round.",
-      "event_cluster_id": "4794d4873562",
-      "fetched_at": "2026-11-17T19:19:59Z",
-      "id": "4794d4873562de7620c3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-17T14:50:58Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: funding",
-        "startup/product signal: funding, raised"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Isomorphic Labs raises $5B as it looks to take drug candidates to clinical trials",
-      "url": "https://techcrunch.com/2026/11/17/isomorphic-labs-raises-5b-as-it-looks-to-take-drug-candidates-to-clinical-trials"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Nikhil J. Dhinagar",
-        "Rishab Pendam",
-        "Harmony S. Cen",
-        "Sophia I. Thomopoulos",
-        "John P. John",
-        "Mahir H. Khan",
-        "Sook-Lei Liew",
-        "Erik Kaestner"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.21955v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Worldwide neuroimaging data could strengthen diagnostic foundation models, but privacy rules often prevent centralizing brain MRI scans. We present SCAN, a site-aware collaborative adaptation framework for Neurological Disease...",
-      "event_cluster_id": "e9d870195555",
-      "fetched_at": "2026-11-18T19:00:16Z",
-      "id": "e9d870195555be375181",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-16T22:36:53Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: neuroimaging, MRI",
-        "technical relevance: vision-language, foundation model, serving"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "SCAN: Site-Aware Collaborative Privacy-Preserving Adaptation of Vision-Language Models for Neurological Disease Classification",
-      "url": "https://arxiv.org/abs/2611.21955v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Anthony Ha"
       ],
       "canonical_url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang",
@@ -791,6 +793,39 @@
       "source_name": "TechCrunch AI",
       "title": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen Huang",
       "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang"
+    },
+    {
+      "authors": [
+        "Jinrui Wu",
+        "Yun Peng"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.24002v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Radiology reports distinguish affirmed findings, explicit negations, and unmentioned concepts, but conventional global image--report contrastive learning often compresses these different evidence states into a single study-level target....",
+      "event_cluster_id": "dccfad3cc20a",
+      "fetched_at": "2026-11-19T04:27:35Z",
+      "id": "dccfad3cc20a41184011",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-18T07:52:57Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: medical image",
+        "technical relevance: representation learning"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "ProtoBridge-CLIP: Observation-Masked Finding Prototypes for Medical Image--Report Representation Learning",
+      "url": "https://arxiv.org/abs/2611.24002v1"
     },
     {
       "also_covered_by": [
@@ -936,6 +971,7 @@
       "url": "https://arxiv.org/abs/2611.22380v1"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
       "cluster_sources": [
@@ -995,6 +1031,148 @@
       "source_name": "Ars Technica AI",
       "title": "Grok Bot took unapproved actions, ignored orders to stop, and then denied it",
       "url": "https://arstechnica.com/security/2026/11/grok-bot-took-unapproved-actions-ignored-orders-to-stop-and-then-denied-it"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "f0b81ce3c146",
+      "fetched_at": "2026-11-19T04:27:35Z",
+      "id": "f0b81ce3c14612880642",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-18T19:54:56Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: training"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+    },
+    {
+      "authors": [
+        "Junjie Ye",
+        "Yiqi Zhao",
+        "Muchen Xu",
+        "Celina Shiyu Wang",
+        "Hao Dong",
+        "Ruohai Ge",
+        "Rong Xue",
+        "Benjamin J Kolligs"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.24940v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "We introduce $Z$-sight, a unified robot foundation model that couples vision-language-action (VLA) and generative latent world modeling. Video-based world action models (WAMs) show the value of joint future-and-action generation for...",
+      "event_cluster_id": "c8a82f252790",
+      "fetched_at": "2026-11-19T04:27:35Z",
+      "id": "c8a82f25279054b9ff28",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-18T18:59:38Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "url": "https://arxiv.org/abs/2611.24940v1"
+    },
+    {
+      "authors": [
+        "Beyazit Yalcinkaya",
+        "Ethan Pronovost",
+        "Maximilian Naumann",
+        "Marcell Vazquez-Chanlatte"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.24876v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Existing goal-conditioned self-play...",
+      "event_cluster_id": "9aabd80c1d8f",
+      "fetched_at": "2026-11-19T04:27:35Z",
+      "id": "9aabd80c1d8f281a9173",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-18T18:23:29Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, safety",
+        "technical relevance: agent"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Driving Scenario Generation",
+      "url": "https://arxiv.org/abs/2611.24876v1"
+    },
+    {
+      "authors": [
+        "Chenjie Zhao",
+        "Zhiliang Zhu",
+        "Quan Chen",
+        "Yuquan Xue",
+        "Xingxue Shi",
+        "Puyue Wang",
+        "Zhiqiang Zhao",
+        "Kangye Zheng"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.24864v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Underwater navigation requires translating visual spatial cues into motion, yet marine vision-language datasets rarely include paired robot trajectories. We present NereidVLA, a vision-language-action model that transfers marine spatial...",
+      "event_cluster_id": "4bfc0c72ff62",
+      "fetched_at": "2026-11-19T04:27:35Z",
+      "id": "4bfc0c72ff62c3f8eb58",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-18T18:19:00Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "NereidVLA: Learning to Understand and Navigate the Underwater World",
+      "url": "https://arxiv.org/abs/2611.24864v1"
     },
     {
       "also_covered_by": [],
@@ -1061,6 +1239,7 @@
       "url": "https://www.technologyreview.com/2026/11/18/1148816/smell-startup-osmo-ai-nose-good-as-humans"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/rumble-2-flash",
       "cluster_sources": [
@@ -1161,156 +1340,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "John Gideon",
-        "Anshul Gupta",
-        "Megan Applegate-Kenton",
-        "Kayli Battel",
-        "Todd J Rowell",
-        "Patricio Reyes Gomez",
-        "Laporsha Dees",
-        "Emily Sumner"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.23211v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Human cognitive state (e.g., distraction, stress), gaze, and behavior interact with the driving environment in subtle ways that AI could use to assist drivers, but ground-truth labels for human cognitive state levels are costly to obtain...",
-      "event_cluster_id": "1ba775ac45e8",
-      "fetched_at": "2026-11-18T04:40:45Z",
-      "id": "1ba775ac45e8ba495afe",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-17T18:50:22Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: multimodal"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
-      "url": "https://arxiv.org/abs/2611.23211v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Tongxi Wu",
-        "Yuyang Cheng",
-        "Jiacheng Xian",
-        "Menglin Yang",
-        "Kai Chen",
-        "Jian Zhang",
-        "Yang Gao"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.23206v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-language models (VLMs) can provide harmful assistance by interpreting visual events, even without an explicit request for the underlying harmful objective. We identify this \\textbf{scene-state safety vulnerability} and introduce...",
-      "event_cluster_id": "5926931f0893",
-      "fetched_at": "2026-11-18T04:40:45Z",
-      "id": "5926931f0893af10a80e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-17T18:48:02Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, safety",
-        "technical relevance: vision-language, VLM"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models",
-      "url": "https://arxiv.org/abs/2611.23206v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Almog Anschel",
-        "Sarah Keren"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.23192v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Goal recognition is the task of inferring an agent's intended goal from its observed behavior. Most existing work focuses on high-level symbolic recognition, abstracting away the continuous motion through which agents reach their goal....",
-      "event_cluster_id": "6271bb7f57fb",
-      "fetched_at": "2026-11-18T04:40:45Z",
-      "id": "6271bb7f57fb98620c05",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-17T18:35:53Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: inference",
-        "technical relevance: agent, inference"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "WoRD: Diffusion-Based Posterior Inference for Online Goal Recognition",
-      "url": "https://arxiv.org/abs/2611.23192v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Febryan Putra Kartika",
-        "Cheng-Yu Ma",
-        "Ying-Jia Lin",
-        "Chi-Tung Cheng",
-        "Kuan-Fu Chen"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.22504v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical vision-language models (VLMs) capture cross-modal relationships between image and text, yet their adaptation to institution-specific clinical tasks remains underexplored. In this study, we fine-tuned a pretrained 3D medical VLM...",
-      "event_cluster_id": "04c03284c6b2",
-      "fetched_at": "2026-11-18T04:40:45Z",
-      "id": "04c03284c6b2fc7155fa",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-17T10:00:30Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language, VLM, self-supervised"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Efficient Self-Supervised Adaptation of 3D Abdominal Vision-Language Model for Institution-Specific HCC Classification via Full Fine-Tuning and PEFT",
-      "url": "https://arxiv.org/abs/2611.22504v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Nov/17/go-proverbs",
       "cluster_sources": [
@@ -1340,37 +1369,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "swyx .ai"
-      ],
-      "canonical_url": "https://latent.space/p/bfl",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "Black Forest Labs’ case for learning AGI from pixels, motion and sound.",
-      "event_cluster_id": "1b4a1b4f18d1",
-      "fetched_at": "2026-11-17T19:19:59Z",
-      "id": "1b4a1b4f18d176aa7a0a",
-      "image_url": "https://i.ytimg.com/vi/8cGfJOU3AlQ/maxresdefault.jpg",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-16T21:38:03Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "Building Visual Intelligence — Andreas Blattmann & Dustin Podell, Black Forest Labs",
-      "url": "https://latent.space/p/bfl"
-    },
-    {
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
       "cluster_sources": [
@@ -1399,6 +1397,7 @@
       "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Amit Katwala"
       ],
@@ -1429,43 +1428,40 @@
       "url": "https://www.technologyreview.com/2026/11/18/1148650/ai-hype-index-ai-is-everywhere"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Scharon Harding"
-      ],
-      "canonical_url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day",
+      "authors": [],
+      "canonical_url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
       "cluster_sources": [
-        "Ars Technica AI"
+        "Anthropic News"
       ],
-      "description": "The PC sales slump \"more than offset” AI boom gains, shareholders say.",
-      "event_cluster_id": "9507e63bd34b",
-      "fetched_at": "2026-11-17T19:19:59Z",
-      "id": "9507e63bd34bba49d4de",
-      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/GettyImages-2231573847-500x500.jpg",
+      "description": "Today Anthropic, PBC priced its initial public offering of its Class A common stock.",
+      "event_cluster_id": "e308a84a77ae",
+      "fetched_at": "2026-11-19T04:27:35Z",
+      "id": "e308a84a77ae00d83193",
+      "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-16T20:37:47Z",
+      "published_at": "2026-11-18T00:00:00Z",
       "research_track": "",
       "score": 11,
       "score_reasons": [
-        "high source",
-        "published within 24 hours"
+        "critical source",
+        "published within 48 hours"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "ars_ai",
-      "source_name": "Ars Technica AI",
-      "title": "Shareholders sue Intel, its CEO, and CFO after stock drops 28.6 percent in one day",
-      "url": "https://arstechnica.com/tech-policy/2026/11/shareholders-sue-intel-its-ceo-and-cfo-after-stock-drops-28-6-percent-in-one-day"
+      "source_category": "official-lab",
+      "source_id": "anthropic_news",
+      "source_name": "Anthropic News",
+      "title": "Anthropic prices initial public offering",
+      "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering"
     }
   ],
   "date_label": "Thursday, November 19, 2026",
-  "generated_at": "2026-11-18T19:00:16Z",
+  "generated_at": "2026-11-19T04:27:35Z",
   "summary": {
-    "duplicates_removed": 1,
+    "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 213,
+    "fetched_items": 210,
     "retained_items": 44,
     "successful_sources": 20
   },
