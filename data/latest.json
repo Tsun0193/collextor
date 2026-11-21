@@ -3,40 +3,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Sarah Perez"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
-      "event_cluster_id": "591236888382",
-      "fetched_at": "2026-11-19T04:27:35Z",
-      "id": "591236888382df2bc009",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-18T22:58:11Z",
-      "research_track": "",
-      "score": 23,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
-      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Jagmeet Singh"
       ],
       "canonical_url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
@@ -272,6 +238,7 @@
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Grace Huckins"
       ],
@@ -402,78 +369,35 @@
       "url": "https://thedataexchange.media/pete-warden-moonshine"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Rushil Anirudh",
-        "Jayaraman J. Thiagarajan"
+        "Tim Fernholz"
       ],
-      "canonical_url": "https://arxiv.org/abs/2611.25309v1",
+      "canonical_url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "TechCrunch AI"
       ],
-      "description": "A unified 3D medical foundation model promises reusable, frozen features that serve a wide variety of tasks such as segmentation, classification and registration on MRI, CT and PET as well as specialist models do. Generalist models still...",
-      "event_cluster_id": "fb72ce4f2e3d",
-      "fetched_at": "2026-11-20T18:46:24Z",
-      "id": "fb72ce4f2e3dba91365c",
+      "description": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "event_cluster_id": "861ca51b04b5",
+      "fetched_at": "2026-11-21T04:13:36Z",
+      "id": "861ca51b04b5cf4869c5",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-11-19T00:09:02Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
+      "published_at": "2026-11-20T19:32:08Z",
+      "research_track": "",
+      "score": 16,
       "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: MRI, PET, medical foundation model",
-        "technical relevance: foundation model"
+        "high source",
+        "published within 24 hours",
+        "research relevance: PET"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "VoxForge: A Unified Foundation Model for Dense 3D Features Across MRI, CT and PET",
-      "url": "https://arxiv.org/abs/2611.25309v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ioana-Sabina Stoian",
-        "Florinel-Alin Croitoru",
-        "Vlad Hondru",
-        "Andreea Iuliana Ionescu",
-        "Andrei Paun",
-        "Radu Tudor Ionescu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.25194v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Anomaly detection in medical images is a complex task, requiring the development of a robust model using only healthy patient data. Without access to labeled data, modern approaches typically employ self-supervised learning to obtain a...",
-      "event_cluster_id": "a579b0524c9e",
-      "fetched_at": "2026-11-20T18:46:24Z",
-      "id": "a579b0524c9e7c151bb9",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-18T21:15:01Z",
-      "research_track": "medical_neuroimaging",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "major-event keyword: model",
-        "research relevance: medical image",
-        "technical relevance: self-supervised"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "MADJEPA: Enhanced Multi-Stage Joint-Embedding Predictive Architecture for Medical Anomaly Detection",
-      "url": "https://arxiv.org/abs/2611.25194v1"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "AI claimed a solution to the 167-year-old Riemann hypothesis — and a human did, too",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too"
     },
     {
       "also_covered_by": [],
@@ -648,6 +572,7 @@
       "url": "https://arxiv.org/abs/2611.25681v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "ankitvgupta"
       ],
@@ -680,6 +605,7 @@
       "url": "https://ankitg.me/blog/vibecoding-inference-chip"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tim Fernholz"
       ],
@@ -711,6 +637,7 @@
       "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Theresa Loconsolo, Anthony Ha, Kirsten Korosec, Tim De Chant"
       ],
@@ -774,6 +701,7 @@
       "url": "https://www.youtube.com/watch?v=1LGwx7jzOK4"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Nov/20/levent-alpoge",
       "cluster_sources": [
@@ -802,6 +730,7 @@
       "url": "https://simonwillison.net/2026/Nov/20/levent-alpoge"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/harness-adapters-at-scale",
       "cluster_sources": [
@@ -1052,34 +981,63 @@
       "url": "https://arxiv.org/abs/2611.25840v1"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Richard MacManus"
       ],
-      "description": "",
-      "event_cluster_id": "f0b81ce3c146",
-      "fetched_at": "2026-11-19T19:07:43Z",
-      "id": "f0b81ce3c14612880642",
+      "canonical_url": "https://latent.space/p/formal-verification",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "Proving software correct with math has traditionally required specialist work. Now AI and Lean are helping automate the process.",
+      "event_cluster_id": "3592d59cf6f8",
+      "fetched_at": "2026-11-21T04:13:36Z",
+      "id": "3592d59cf6f86897a255",
+      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b6f560cd-a37a-4d62-8d6b-da5b59cf4790/formal-verification-feature.png?t=1795207886",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-11-20T21:18:41Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "long-read source"
+      ],
+      "section": "long_reads",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "The War Against Slop and an Emerging Weapon to Fight it: Formal Verification",
+      "url": "https://latent.space/p/formal-verification"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/20/ravi-vakil",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Alessandro Masullo has a proposed proof of [Generalized Riemann Hypothesis], and Brian Conrad has been looking closely at it for months and gave extensive feedback which is being incorporated, and it is so far looking good. It is all...",
+      "event_cluster_id": "0d8e213cc0d8",
+      "fetched_at": "2026-11-21T04:13:36Z",
+      "id": "0d8e213cc0d8372dce87",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-18T19:54:56Z",
+      "published_at": "2026-11-20T19:21:49Z",
       "research_track": "",
-      "score": 14,
+      "score": 13,
       "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: training"
+        "critical source",
+        "published within 24 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
-      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin"
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Quoting Ravi Vakil",
+      "url": "https://simonwillison.net/2026/Nov/20/ravi-vakil"
     },
     {
       "also_covered_by": [],
@@ -1092,7 +1050,7 @@
       ],
       "description": "November 19, 2026 — ANT went from $83 at pricing to $111.50 at the open and $97.17 at the close. Plus, Google opens Genie 4 to developers.",
       "event_cluster_id": "6db12e7d3e6f",
-      "fetched_at": "2026-11-20T18:46:24Z",
+      "fetched_at": "2026-11-21T04:13:36Z",
       "id": "6db12e7d3e6f36e3390f",
       "image_url": "",
       "is_breaking": false,
@@ -1141,6 +1099,39 @@
       "source_name": "Anthropic News",
       "title": "Anthropic announces closing of initial public offering, including full exercise of underwriters’ option to purchase additional shares, and closing of concurrent private placement",
       "url": "https://www.anthropic.com/news/ipo-close"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Xiaoxin Huang",
+        "Masayuki Ohzeki"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.25625v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "We formulate undersampling mask design for Cartesian magnetic resonance imaging (MRI) as a feature subset selection problem. Each sampling line is represented by a binary feature indicating whether it is included in each candidate mask....",
+      "event_cluster_id": "64146a01ede9",
+      "fetched_at": "2026-11-20T04:13:53Z",
+      "id": "64146a01ede9f25ac373",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-19T07:10:59Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: MRI"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "QUBO-based feature selection for MRI undersampling pattern design",
+      "url": "https://arxiv.org/abs/2611.25625v1"
     },
     {
       "also_covered_by": [],
@@ -1206,50 +1197,113 @@
       "url": "https://www.technologyreview.com/2026/11/19/1148979/the-download-liver-kept-alive-sila-battery-deal-ai-hype"
     },
     {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time",
-      "cluster_sources": [
-        "Hugging Face Blog"
+      "authors": [
+        "Dan Goodin"
       ],
-      "description": "",
-      "event_cluster_id": "e55c8f2df06c",
-      "fetched_at": "2026-11-18T19:00:16Z",
-      "id": "e55c8f2df06c07ffc92b",
+      "canonical_url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate",
+      "cluster_sources": [
+        "Ars Technica AI"
+      ],
+      "description": "Test using prompts with unique, trackable secrets proves that data doesn't stay private.",
+      "event_cluster_id": "f22d46a83ecd",
+      "fetched_at": "2026-11-21T04:13:36Z",
+      "id": "f22d46a83ecd25c4b9af",
+      "image_url": "https://cdn.arstechnica.net/wp-content/uploads/2026/11/ai-privacy-leakage-500x500.jpg",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-20T20:59:08Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "ars_ai",
+      "source_name": "Ars Technica AI",
+      "title": "Researcher plants 2m canaries into the AI supply chain. A privacy disaster surfaced.",
+      "url": "https://arstechnica.com/security/2026/11/a-leaky-ai-supply-chain-is-exposing-secret-user-data-at-an-alarming-rate"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Haijun He",
+        "Fei Li",
+        "Donghong Ji",
+        "Junjun He"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.25640v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Medical-image embeddings are increasingly shared in place of raw images for authorized downstream tasks, yet they may reveal sensitive attributes. Standard concept-erasure methods target population-level guardedness. However, we prove...",
+      "event_cluster_id": "ce0cd619d8d6",
+      "fetched_at": "2026-11-20T04:13:53Z",
+      "id": "ce0cd619d8d65e070da4",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-18T18:53:43Z",
+      "published_at": "2026-11-19T07:27:05Z",
+      "research_track": "medical_neuroimaging",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Erasing the Wrong Thing: Conditional Attribute Leakage and Concept Erasure in Shared Foundation-Model Embeddings",
+      "url": "https://arxiv.org/abs/2611.25640v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/inkling2mini",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "824c03b970f1",
+      "fetched_at": "2026-11-21T04:13:36Z",
+      "id": "824c03b970f1dc58cad6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-20T00:00:00Z",
       "research_track": "",
-      "score": 12,
+      "score": 9,
       "score_reasons": [
         "high source",
-        "published within 6 hours"
+        "published within 48 hours"
       ],
       "section": "ai_engineering",
       "source_category": "engineering",
       "source_id": "huggingface_blog",
       "source_name": "Hugging Face Blog",
-      "title": "Why your fine-tuning job takes longer than the FLOPs say",
-      "url": "https://huggingface.co/blog/Dharma-AI/predicting-fine-tuning-time"
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini"
     },
     {
-      "also_covered_by": [],
       "authors": [],
-      "canonical_url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer",
+      "canonical_url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini",
       "cluster_sources": [
         "Google Research Blog"
       ],
-      "description": "November 19, 2026",
-      "event_cluster_id": "42a47f4c360b",
-      "fetched_at": "2026-11-20T18:46:24Z",
-      "id": "42a47f4c360b7d6e46ce",
-      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/QuantumContextuality1-MagicSquareGame.png",
+      "description": "November 20, 2026",
+      "event_cluster_id": "84a578f05a50",
+      "fetched_at": "2026-11-21T04:13:36Z",
+      "id": "84a578f05a50fce6cc76",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/Duplex1-TasksInGeminiHero.png",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-19T00:00:00Z",
+      "published_at": "2026-11-20T00:00:00Z",
       "research_track": "",
       "score": 6,
       "score_reasons": [
@@ -1260,18 +1314,18 @@
       "source_category": "research-lab",
       "source_id": "google_research",
       "source_name": "Google Research Blog",
-      "title": "November 19, 2026 A game you cannot win unless you have a quantum computer Quantum",
-      "url": "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer"
+      "title": "November 20, 2026 How Google Duplex evolved to also call businesses for you in Gemini Generative AI · Machine Intelligence · Natural Language Processing · Speech Processing",
+      "url": "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini"
     }
   ],
   "date_label": "Saturday, November 21, 2026",
-  "generated_at": "2026-11-20T18:46:24Z",
+  "generated_at": "2026-11-21T04:13:36Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 2,
-    "fetched_items": 198,
-    "retained_items": 38,
-    "successful_sources": 19
+    "failed_sources": 1,
+    "fetched_items": 200,
+    "retained_items": 40,
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
