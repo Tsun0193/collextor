@@ -3,40 +3,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Jagmeet Singh"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "With a team of just seven, Unsiloed AI plans to compete with tech giants and specialized startups in the crowded AI document-processing market.",
-      "event_cluster_id": "2c4163c7e21d",
-      "fetched_at": "2026-11-18T13:21:08Z",
-      "id": "2c4163c7e21d994db2e8",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-18T12:00:00Z",
-      "research_track": "",
-      "score": 22,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "research relevance: PET",
-        "technical relevance: agent",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI agents",
-      "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "James O'Donnell"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/11/16/1148624/the-open-source-movement-wants-jensen-huang-back",
@@ -180,6 +146,38 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "FM-Recon: Exploring Foundation Model Features for Accelerated Cardiac Cine MRI Reconstruction",
       "url": "https://arxiv.org/abs/2611.21290v1"
+    },
+    {
+      "authors": [
+        "peterBlue75"
+      ],
+      "canonical_url": "https://aleph-alpha.com/en/blog/kolibri-1-1",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "71c75b002db1",
+      "fetched_at": "2026-11-23T15:13:35Z",
+      "id": "hn-50613084",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-23T15:08:43Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, open-weight",
+        "research relevance: PET"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Kolibri 1.1: English-German open-weight model with sparse attention",
+      "url": "https://aleph-alpha.com/en/blog/kolibri-1-1"
     },
     {
       "authors": [
@@ -391,71 +389,34 @@
     },
     {
       "authors": [
-        "Margaux Edwards",
-        "Tobias Fischer",
-        "Michael Milford"
+        "Thomas Macaulay"
       ],
-      "canonical_url": "https://arxiv.org/abs/2611.20730v1",
+      "canonical_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "MIT Technology Review - Artificial Intelligence"
       ],
-      "description": "Multimodal Place Recognition (PR) can improve robustness, but most systems rigidly read and process every sensor for every query, even when the primary sensor is sufficient, with implications for energy consumption, second sensor update...",
-      "event_cluster_id": "04a4c8b02f1a",
-      "fetched_at": "2026-11-17T05:12:54Z",
-      "id": "04a4c8b02f1a818095d7",
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The most misunderstood graph in AI just got a major update A new report from the AI evaluation...",
+      "event_cluster_id": "9bf7472c1fe0",
+      "fetched_at": "2026-11-23T15:13:35Z",
+      "id": "9bf7472c1fe085bca35b",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-16T08:36:51Z",
-      "research_track": "multimodal_foundation",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: acquisition",
-        "technical relevance: multimodal",
-        "startup/product signal: acquisition"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Selective Sensor Acquisition for Multimodal Place Recognition",
-      "url": "https://arxiv.org/abs/2611.20730v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "sdko"
-      ],
-      "canonical_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "26c5ca669b14",
-      "fetched_at": "2026-11-22T03:26:09Z",
-      "id": "hn-50595554",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
+      "is_long_read": true,
       "is_must_read": false,
-      "published_at": "2026-11-22T02:14:14Z",
+      "published_at": "2026-11-23T13:10:00Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 6 hours",
-        "major-event keyword: inference",
-        "technical relevance: inference"
+        "technical relevance: evaluation"
       ],
       "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Data Processing Incidents on Inference Providers",
-      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers"
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
+      "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat"
     },
     {
       "also_covered_by": [],
@@ -490,39 +451,69 @@
       "url": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "ankitvgupta"
+        "Ivan Mehta"
       ],
-      "canonical_url": "https://ankitg.me/blog/vibecoding-inference-chip",
+      "canonical_url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off",
       "cluster_sources": [
-        "Hacker News"
+        "TechCrunch AI"
       ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "111a51744cb7",
-      "fetched_at": "2026-11-20T18:46:24Z",
-      "id": "hn-50579297",
+      "description": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "event_cluster_id": "f623141117fe",
+      "fetched_at": "2026-11-23T15:13:35Z",
+      "id": "f623141117fe3174a17c",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-20T18:15:16Z",
+      "published_at": "2026-11-23T14:43:03Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
-        "medium source",
+        "high source",
         "published within 6 hours",
-        "major-event keyword: chip, inference",
-        "technical relevance: inference"
+        "startup/product signal: raised"
       ],
-      "section": "business_policy",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Vibecoding an Inference Chip",
-      "url": "https://ankitg.me/blog/vibecoding-inference-chip"
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off"
     },
     {
+      "authors": [
+        "James Temple"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "Tech companies are investing a lot of hope and money in rocks. Google, Microsoft, and others have committed hundreds of millions of dollars to get startups to spread crushed basalt, olivine, or other alkaline materials across farms, in an..",
+      "event_cluster_id": "5c5fe93fec00",
+      "fetched_at": "2026-11-23T15:13:35Z",
+      "id": "5c5fe93fec00ec424aaa",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-11-23T11:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "Why using rocks for carbon removal could eventually reduce crop growth",
+      "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Marina Temkin"
       ],
@@ -554,6 +545,36 @@
       "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/agentic-evals",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "00d52199bef2",
+      "fetched_at": "2026-11-23T15:13:35Z",
+      "id": "00d52199bef25f9eda98",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent, evaluation"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "How to build and maintain an agentic evaluation",
+      "url": "https://huggingface.co/blog/agentic-evals"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Anthony Ha"
       ],
@@ -563,7 +584,7 @@
       ],
       "description": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
       "event_cluster_id": "47b2738e2872",
-      "fetched_at": "2026-11-23T03:57:22Z",
+      "fetched_at": "2026-11-23T15:13:35Z",
       "id": "47b2738e2872fd88c166",
       "image_url": "",
       "is_breaking": false,
@@ -619,105 +640,78 @@
     {
       "also_covered_by": [],
       "authors": [
-        "swyx .ai"
+        "Omoruyi Atekha",
+        "Marcus Greiff",
+        "Ray Zhang",
+        "Luca Carlone"
       ],
-      "canonical_url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently",
+      "canonical_url": "https://arxiv.org/abs/2611.26625v1",
       "cluster_sources": [
-        "Latent Space"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "November 20 2026 —",
-      "event_cluster_id": "005f4a3e6757",
-      "fetched_at": "2026-11-22T03:26:09Z",
-      "id": "005f4a3e6757279a6c25",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-21T05:02:13Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] Riemann Hypothesis proved...twice independently",
-      "url": "https://latent.space/p/ainews-riemann-hypothesis-proved-twice-independently"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
-      "event_cluster_id": "f6f5282ad9e3",
-      "fetched_at": "2026-11-22T03:26:09Z",
-      "id": "f6f5282ad9e3c36becf8",
+      "description": "Geometric foundation models (GFMs) estimate camera mo- tion and scene structure from images without requiring ex- pert parameter tuning, but either lack metric scale or rely on learned priors to infer scale, which is unobservable from...",
+      "event_cluster_id": "2a598b1dea4f",
+      "fetched_at": "2026-11-20T18:46:24Z",
+      "id": "2a598b1dea4fb5fe9862",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-21T21:37:10Z",
+      "published_at": "2026-11-19T18:59:35Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: foundation model"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms",
+      "url": "https://arxiv.org/abs/2611.26625v1"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "event_cluster_id": "29c9de3a1f86",
+      "fetched_at": "2026-11-23T15:13:35Z",
+      "id": "29c9de3a1f8674ad7ebd",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T15:04:01Z",
       "research_track": "",
       "score": 12,
       "score_reasons": [
         "high source",
         "published within 6 hours"
       ],
-      "section": "ai_engineering",
+      "section": "business_policy",
       "source_category": "industry",
       "source_id": "techcrunch_ai",
       "source_name": "TechCrunch AI",
-      "title": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI surveillance",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance"
-    },
-    {
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
-      "event_cluster_id": "883b69d3f986",
-      "fetched_at": "2026-11-23T03:57:22Z",
-      "id": "883b69d3f986860bffa5",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-22T21:14:07Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development"
+      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing"
     }
   ],
   "date_label": "Monday, November 23, 2026",
-  "generated_at": "2026-11-23T03:57:22Z",
+  "generated_at": "2026-11-23T15:13:35Z",
   "summary": {
     "duplicates_removed": 0,
-    "failed_sources": 3,
-    "fetched_items": 178,
+    "failed_sources": 1,
+    "fetched_items": 200,
     "retained_items": 21,
-    "successful_sources": 18
+    "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
 }
