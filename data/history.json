@@ -2,6 +2,710 @@
   "articles": [
     {
       "authors": [
+        "gorgone69"
+      ],
+      "canonical_url": "https://aitoday.it",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "c2f5366f48fd",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50620125",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T22:11:19Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "News site where AI picks, writes, and publishes every story",
+      "url": "https://aitoday.it"
+    },
+    {
+      "authors": [
+        "Kaedon"
+      ],
+      "canonical_url": "https://eng.snap.com/mcp-gateway",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "5ffb2e252de5",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50620120",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T22:10:43Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "MCP Gateway: How Snap Checks Both the Person and the Agent",
+      "url": "https://eng.snap.com/mcp-gateway"
+    },
+    {
+      "authors": [
+        "_pdp_"
+      ],
+      "canonical_url": "https://www.youtube.com/watch?v=4v2xA_NJHt0",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "56766dbdaf2b",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50620086",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T22:07:11Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Shirudo: BPF live-patching infra for the agentic era [video]",
+      "url": "https://www.youtube.com/watch?v=4v2xA_NJHt0"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "event_cluster_id": "5e2478fb7557",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "5e2478fb7557e8d39a7d",
+      "image_url": "",
+      "is_breaking": true,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-23T22:05:50Z",
+      "research_track": "",
+      "score": 20,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: launch",
+        "technical relevance: agent",
+        "startup/product signal: launches, developer tool"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"
+    },
+    {
+      "authors": [
+        "ajuhasz"
+      ],
+      "canonical_url": "https://rallywith.ai/blog/internal-changelogs",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "7d9e70079df8",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50620060",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T22:04:51Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Internal Changelogs unlock autonomous coding agents",
+      "url": "https://rallywith.ai/blog/internal-changelogs"
+    },
+    {
+      "authors": [
+        "sonic26"
+      ],
+      "canonical_url": "https://github.com/abdallah-swe/layerpool",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "e9d9c0233210",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50620045",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T22:03:06Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model, GPU"
+      ],
+      "section": "business_policy",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Train or fine-tune large models on your own devices, no expensive GPUs",
+      "url": "https://github.com/abdallah-swe/layerpool"
+    },
+    {
+      "authors": [
+        "Sarah Perez"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "event_cluster_id": "876aad68c91f",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "876aad68c91f878f76e7",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-23T22:02:05Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "hettygreen"
+      ],
+      "canonical_url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "562876fc4512",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50619973",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T21:56:44Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "startup/product signal: startup"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "16-Year-Old Founded an AI Missile Startup. He's Targeting 'Cost per Kill'",
+      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare"
+    },
+    {
+      "authors": [
+        "Amanda Silberling"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "event_cluster_id": "affb55421330",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "affb554213303069d7fa",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T21:47:41Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/23/ladybird",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "Ladybird is an astonishingly ambitious project: a new browser, in 2026, with its own implementation of most of the key components - HTML parsing, CSS engine, layout, JavaScript, even WebAssembly. It still uses a few external components -...",
+      "event_cluster_id": "981d6178a1cb",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "981d6178a1cb2235349d",
+      "image_url": "https://static.simonwillison.net/static/2026/ladybird-ffmpeg.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-23T21:46:35Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "critical source",
+        "published within 6 hours",
+        "major-event keyword: release"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "Ladybird's first alpha release",
+      "url": "https://simonwillison.net/2026/Nov/23/ladybird"
+    },
+    {
+      "authors": [
+        "Lucas Ropek"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "event_cluster_id": "ea39f8a43a60",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "ea39f8a43a60b7b5db52",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T21:25:42Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist"
+    },
+    {
+      "authors": [
+        "Amanda Silberling"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "event_cluster_id": "d70157d1228f",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "d70157d1228f26a021a1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T20:38:53Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Nvidia employees greet Jensen Huang like a hero as he returns to company’s HQ",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq"
+    },
+    {
+      "authors": [
+        "cyberhx"
+      ],
+      "canonical_url": "https://github.com/Tekush1/narayanastra",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "93e7d02640f0",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50618581",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T20:17:32Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Narayanastra – agentless Linux rootkit scanner (eBPF, io_uring) in Rust",
+      "url": "https://github.com/Tekush1/narayanastra"
+    },
+    {
+      "authors": [
+        "Aisha Malik"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "event_cluster_id": "25f33d1df445",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "25f33d1df44504de388c",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T19:14:46Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "technical relevance: RAG"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Google Search’s AI Mode can now tap into Drive and Wallet for more personalized responses",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"
+    },
+    {
+      "authors": [
+        "Aisha Malik"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "event_cluster_id": "4aa489ee2a12",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "4aa489ee2a12fc5985d1",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T18:12:22Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Jensen Huang scheduled to testify next week in Senate following reinstatement as Nvidia CEO",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo"
+    },
+    {
+      "authors": [
+        "James O'Donnell"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or...",
+      "event_cluster_id": "c708d8c1e7cb",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "c708d8c1e7cbbd50a2bd",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-11-23T17:36:08Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
+      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/allenai/robotrack",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "eb2701ff66fe",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "eb2701ff66febea27293",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T17:20:37Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack"
+    },
+    {
+      "authors": [
+        "dakshgupta"
+      ],
+      "canonical_url": "https://www.greptile.com/blog/trex-computer-use",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "86e9f5c95662",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50615520",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T17:19:25Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "How should an LLM see a computer?",
+      "url": "https://www.greptile.com/blog/trex-computer-use"
+    },
+    {
+      "authors": [
+        "Rebecca Bellan"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
+      "event_cluster_id": "fc32915cc49c",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "fc32915cc49c0588c9bf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T17:14:23Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: chip"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Amazon snaps up Decart’s AI optimization tech for $7.5B as it prepares to sell Trainium chips",
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips"
+    },
+    {
+      "authors": [
+        "MrBuddyCasino"
+      ],
+      "canonical_url": "https://twitter.com/ylecun/status/2124550037912920090",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "53510b5370cd",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50615308",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T17:07:26Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Dario is hyping the dangers so OSS models are illegal and he stays in control",
+      "url": "https://twitter.com/ylecun/status/2124550037912920090"
+    },
+    {
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "event_cluster_id": "a62a31ba5f1d",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "a62a31ba5f1d2afb9bba",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T16:57:40Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Jensen Huang isn’t out of the woods yet",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet"
+    },
+    {
+      "authors": [
+        "xhjkl"
+      ],
+      "canonical_url": "https://github.com/xhjkl/please",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "db3c3238063f",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50615035",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T16:53:23Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: `please-cli`, a local LLM with SSH socket bridging and a Metal 4 engine",
+      "url": "https://github.com/xhjkl/please"
+    },
+    {
+      "authors": [
+        "Amanda Silberling"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "event_cluster_id": "76b72dfbff18",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "76b72dfbff18bdc0c2f4",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T16:39:10Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return"
+    },
+    {
+      "authors": [
         "wiseprobe"
       ],
       "canonical_url": "https://blog.wiseprobe.io/posts/coding-agent-6gb-laptop-gpu-4b-model",
@@ -95,6 +799,7 @@
       "url": "https://aleph-alpha.com/en/blog/kolibri-1-1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -156,6 +861,7 @@
       "url": "https://raskell.io/articles/almost-irrelevant"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ivan Mehta"
       ],
@@ -187,6 +893,7 @@
       "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Kirsten Korosec"
       ],
@@ -218,6 +925,39 @@
     },
     {
       "authors": [
+        "benlengerich"
+      ],
+      "canonical_url": "https://github.com/Intelligible/elbi",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "3da8c2c77cdb",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "hn-50611885",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T14:17:20Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: agent",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: ELBI – Give your agent an empirical memory",
+      "url": "https://github.com/Intelligible/elbi"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
         "Thomas Macaulay"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat",
@@ -248,6 +988,7 @@
       "url": "https://www.technologyreview.com/2026/11/23/1149548/the-download-ai-judgment-problem-carbon-removal-crop-threat"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "James Temple"
       ],
@@ -534,6 +1275,7 @@
       "url": "https://github.com/salespeak-ai/inbox-envoy"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/agentic-evals",
       "cluster_sources": [
@@ -541,7 +1283,7 @@
       ],
       "description": "",
       "event_cluster_id": "00d52199bef2",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "00d52199bef25f9eda98",
       "image_url": "",
       "is_breaking": false,
@@ -561,6 +1303,34 @@
       "source_name": "Hugging Face Blog",
       "title": "How to build and maintain an agentic evaluation",
       "url": "https://huggingface.co/blog/agentic-evals"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://research.google/blog/supercharging-transformer-residual-connections",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "November 23, 2026",
+      "event_cluster_id": "8a952e6dea4c",
+      "fetched_at": "2026-11-23T22:12:01Z",
+      "id": "8a952e6dea4cd3758252",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/DeepCrossAttention1_Banner.gif",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T00:00:00Z",
+      "research_track": "",
+      "score": 8,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "November 23, 2026 Supercharging transformer residual connections Algorithms & Theory",
+      "url": "https://research.google/blog/supercharging-transformer-residual-connections"
     },
     {
       "authors": [
@@ -1119,37 +1889,6 @@
       "source_name": "Hacker News",
       "title": "Show HN: Grassline, a simple alternative to Paseo for talking to agents remotely",
       "url": "https://github.com/andunieee/grassline/blob/master/README.md"
-    },
-    {
-      "authors": [
-        "bookofjoe"
-      ],
-      "canonical_url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "562876fc4512",
-      "fetched_at": "2026-11-22T12:47:56Z",
-      "id": "hn-50598875",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-22T12:06:55Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "16-year-old awarded $500k by Y Combinator for AI-guided-missile startup",
-      "url": "https://www.wired.com/story/henrijs-dandzbergs-polemos-missiles-ai-warfare"
     },
     {
       "also_covered_by": [
@@ -2222,6 +2961,7 @@
       "url": "https://www.technologyreview.com/2026/11/20/1149399/the-most-misunderstood-graph-in-ai-just-got-a-major-update"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Huaze Tang",
         "Runqing Miao",
@@ -2237,7 +2977,7 @@
       ],
       "description": "Reward-independent representations enable reinforcement learning agents to reuse knowledge across tasks, but limited representation capacity raises three fundamental questions: what statistical dependence should these representations...",
       "event_cluster_id": "07182a3bf0f8",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "07182a3bf0f851897178",
       "image_url": "",
       "is_breaking": false,
@@ -2258,6 +2998,7 @@
       "url": "https://arxiv.org/abs/2611.27919v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Chi Yan",
         "Guoyang Zhao",
@@ -2272,7 +3013,7 @@
       ],
       "description": "Vision-language models (VLMs) exhibit strong semantic understanding but remain limited in their ability to reason about metric 3D space in the physical world. Existing VLMs typically infer 3D scene structure from one or more images...",
       "event_cluster_id": "ecc1f4d95b6e",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "ecc1f4d95b6e319c1d13",
       "image_url": "",
       "is_breaking": false,
@@ -2294,6 +3035,7 @@
       "url": "https://arxiv.org/abs/2611.27915v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Aadharsh Kannan",
         "Robert Bruckner",
@@ -2305,7 +3047,7 @@
       ],
       "description": "Business data systems must determine whether records refer to the same entity and retrieve records satisfying requests whose decisive properties are implicit. As agents act on these records, both tasks require auditable reasons. Dense...",
       "event_cluster_id": "f2422eefedfa",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "f2422eefedfacf84ac1c",
       "image_url": "",
       "is_breaking": false,
@@ -2358,6 +3100,7 @@
       "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zhiyu Yan",
         "Shiao Liu",
@@ -2372,7 +3115,7 @@
       ],
       "description": "Electronic health records (EHRs) contain rich health information for uncovering latent patient representations and clinically meaningful subgroups. Learning from EHR data across institutions is valuable because representations learned at...",
       "event_cluster_id": "8117f12612b8",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "8117f12612b854c51f62",
       "image_url": "",
       "is_breaking": false,
@@ -2392,6 +3135,7 @@
       "url": "https://arxiv.org/abs/2611.27900v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yi Ding",
         "Gaurav Kumar",
@@ -2408,7 +3152,7 @@
       ],
       "description": "Sustaining user experience (UX) quality in large-scale web search requires scalable evaluation. Traditional surveys are slow and bottleneck rapid A/B testing, while automated metrics often lack the granularity to diagnose visual-spatial...",
       "event_cluster_id": "f88d57de90ed",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "f88d57de90edcf3e8374",
       "image_url": "",
       "is_breaking": false,
@@ -2430,6 +3174,7 @@
       "url": "https://arxiv.org/abs/2611.27899v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Marcio Andre de Souza Estevam"
       ],
@@ -2439,7 +3184,7 @@
       ],
       "description": "Coding agents increasingly implement rules written by domain experts, and bugs in such code are silent: it runs and returns a plausible answer. We introduce TEA-Bench-BR, a benchmark built on the Brazilian pathway for early autism (TEA)...",
       "event_cluster_id": "48feb2b45379",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "48feb2b453790e533c75",
       "image_url": "",
       "is_breaking": false,
@@ -2461,6 +3206,7 @@
       "url": "https://arxiv.org/abs/2611.27895v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Zeeshan Shahid",
         "Hammam M. AlGhamdi"
@@ -2471,7 +3217,7 @@
       ],
       "description": "Tissue architecture provides important information for histopathological assessment, yet its complementary predictive value alongside pathology foundation-model representations remains insufficiently understood. This study investigates...",
       "event_cluster_id": "4fac1960c3ff",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "4fac1960c3ffec9818ff",
       "image_url": "",
       "is_breaking": false,
@@ -2493,6 +3239,7 @@
       "url": "https://arxiv.org/abs/2611.27881v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Maximilian Rokuss",
         "Jeya Maria Jose Valanarasu",
@@ -2508,7 +3255,7 @@
       ],
       "description": "Every few months, a cancer patient's CT scans decide whether treatment continues. 3D foundation models can now detect, segment, register and track lesions, yet none of them reads the scans as a radiologist does. A radiologist decides...",
       "event_cluster_id": "c1154cb52ff9",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "c1154cb52ff94500852c",
       "image_url": "",
       "is_breaking": false,
@@ -2530,6 +3277,7 @@
       "url": "https://arxiv.org/abs/2611.27876v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Malithi Nawarathne",
         "Prasanna Haddela",
@@ -2541,7 +3289,7 @@
       ],
       "description": "Generative Artificial Intelligence (Generative AI) has emerged as a powerful tool for transforming learning. This review examines how Generative AI can be integrated with established learning style models (VARK, Kolb, Felder-Silverman,...",
       "event_cluster_id": "b9d7375030c4",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "b9d7375030c427189d0a",
       "image_url": "",
       "is_breaking": false,
@@ -2562,6 +3310,7 @@
       "url": "https://arxiv.org/abs/2611.27868v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Arshia Rafieioskouie",
         "Matthew Lucas",
@@ -2574,7 +3323,7 @@
       ],
       "description": "Specification-guided reinforcement learning (RL) translates formal specifications of desired behavior of agents into shaped rewards. This paper introduces SLICR, a significant paradigm shift that advances the state of the art to...",
       "event_cluster_id": "b05a6ad7ac5c",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "b05a6ad7ac5c1b77e521",
       "image_url": "",
       "is_breaking": false,
@@ -2595,6 +3344,7 @@
       "url": "https://arxiv.org/abs/2611.27865v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Nathan Nour Houlamy",
         "Mattia Favretto",
@@ -2607,7 +3357,7 @@
       ],
       "description": "Benchmarks for AI-based coding agents are a staple of the current AI landscape, because they are the leading way to measure the performance of LLMs. Their scores guide business and research decisions. Evaluating coding agents is...",
       "event_cluster_id": "4758abad0a0e",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "4758abad0a0e4b73ce8f",
       "image_url": "",
       "is_breaking": false,
@@ -2629,6 +3379,7 @@
       "url": "https://arxiv.org/abs/2611.27860v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jiyoon Pyo",
         "Jacob Arndt",
@@ -2641,7 +3392,7 @@
       ],
       "description": "Nautical charts encode safety-critical maritime information through standardized symbols, attributes, text, and heterogeneous geometries. Interpreting these charts and assessing the navigational significance of successive chart updates...",
       "event_cluster_id": "e66650b7dd29",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "e66650b7dd29cc07afa5",
       "image_url": "",
       "is_breaking": false,
@@ -3033,6 +3784,7 @@
       "url": "https://epyhia.com/dragos-canary-token-test-exposes-three-ai-provider-breaches-prompt"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Ignazio Gallo",
         "Mattia Gatti",
@@ -3047,7 +3799,7 @@
       ],
       "description": "Patient-level splitting is the standard safeguard against subject leakage in medical imaging evaluation, but it cannot remove a confounder that every fold inherits: an acquisition variable aligned with the diagnosis across the whole...",
       "event_cluster_id": "947e38cdba6e",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "947e38cdba6e59c6bd0e",
       "image_url": "",
       "is_breaking": false,
@@ -3229,6 +3981,7 @@
       "url": "https://github.com/XiaoMi/bsworld"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Allan Kazakov",
         "Abdurrahman Javat",
@@ -3240,7 +3993,7 @@
       ],
       "description": "Promptable segmentation foundation models are increasingly used in specialized domains, but it remains unclear how SAM-3 should be fine-tuned when adapting it beyond its original training distribution. We study this question by comparing...",
       "event_cluster_id": "4775b4efd1ed",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "4775b4efd1ed16dd53b5",
       "image_url": "",
       "is_breaking": false,
@@ -3325,6 +4078,7 @@
       "url": "https://ghostfleet.in/play?mode=wraithAI"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Sujeet Lahane",
         "Sapna Mishra",
@@ -3338,7 +4092,7 @@
       ],
       "description": "Learning representations of visual images is a challenging task. It requires extracting abstract patterns from high-dimensional data without explicit supervision. This becomes pronounced with 3D MR imaging due to sparse features, higher...",
       "event_cluster_id": "b23db011533c",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "b23db011533c8b4fddcd",
       "image_url": "",
       "is_breaking": false,
@@ -3359,6 +4113,7 @@
       "url": "https://arxiv.org/abs/2611.27057v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jie Gui",
         "Hang Tu",
@@ -3371,7 +4126,7 @@
       ],
       "description": "Vision-language models for medical image segmentation often produce masks that conflict with the accompanying text, especially under multi-site/multi-lesion descriptions. We trace this failure to two factors: (i) highly templated and...",
       "event_cluster_id": "5252ad614578",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "5252ad6145788878cf23",
       "image_url": "",
       "is_breaking": false,
@@ -3489,6 +4244,7 @@
       "url": "https://thunderphone.com/blog/introducing-zeus"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Minda Zhao",
         "Yue Zhang",
@@ -3500,7 +4256,7 @@
       ],
       "description": "Vision-language models (VLMs) can infer private information from shared images, including locations, personally identifiable information (PII), and personal attributes such as age and sex, even from medical images. Adversarial...",
       "event_cluster_id": "f7c943a6a33e",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "f7c943a6a33e9d21e671",
       "image_url": "",
       "is_breaking": false,
@@ -3704,6 +4460,7 @@
       "url": "https://latent.space/p/linear-scaling"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Alessandro Crimi",
         "Paweł Gryboś"
@@ -3714,7 +4471,7 @@
       ],
       "description": "The brains of infants change considerably during the first two years. Hence, developmental neuroimaging requires computational tools that account for age-related anatomy while supporting the analysis of electrophysiological data. For...",
       "event_cluster_id": "3f47b276f47b",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "3f47b276f47b42f8bb77",
       "image_url": "",
       "is_breaking": false,
@@ -3735,6 +4492,7 @@
       "url": "https://arxiv.org/abs/2611.26911v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Bo Liu",
         "Bingliang Zhang",
@@ -3750,7 +4508,7 @@
       ],
       "description": "Many medical image processing tasks, such as completing missing regions or correcting acquisition artifacts, can be cast as volumetric generation conditioned on observations of the same patient. Diffusion Transformers offer scalable...",
       "event_cluster_id": "1e9cc64c16cc",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "1e9cc64c16cc210d0593",
       "image_url": "",
       "is_breaking": false,
@@ -10741,7 +11499,7 @@
       ],
       "description": "",
       "event_cluster_id": "023fce18f316",
-      "fetched_at": "2026-11-23T15:13:35Z",
+      "fetched_at": "2026-11-23T22:12:01Z",
       "id": "epmc-43043943",
       "image_url": "",
       "is_breaking": false,
@@ -18825,761 +19583,7 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "Morphological Simplification in Alzheimer's Disease: Computational Analysis and Identification From Connected Speech",
       "url": "https://arxiv.org/abs/2611.16968v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kirsten Korosec"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "This is the investment firm's largest fund to date.",
-      "event_cluster_id": "d57ecdb55e1e",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "d57ecdb55e1ef8ef6706",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T15:18:14Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Norwest pushes deeper into AI with new $4B fund",
-      "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Zack Whittaker"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "This is Fireworks' second data breach in as many months.",
-      "event_cluster_id": "a3523f73e312",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "a3523f73e3129004ac0d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T15:02:28Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Cyberattack on Fireworks AI allowed hackers to access Notion customers’ chat transcripts",
-      "url": "https://techcrunch.com/2026/11/12/cyberattack-on-fireworks-ai-allowed-hackers-to-access-notion-customers-chat-transcripts"
-    },
-    {
-      "authors": [
-        "ap11071"
-      ],
-      "canonical_url": "https://yourairedlines.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "760d84784138",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "hn-50467880",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T14:31:21Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: AI Red Lines – write down what would make you act on AI",
-      "url": "https://yourairedlines.com"
-    },
-    {
-      "authors": [
-        "satuke"
-      ],
-      "canonical_url": "https://libreagi.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0e0818467e89",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "hn-50467439",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T14:11:58Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Libreagi – Save OSS Models",
-      "url": "https://libreagi.com"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Kate Park"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-      "event_cluster_id": "8922d709796f",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "8922d709796f6fffd979",
-      "image_url": "",
-      "is_breaking": true,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-12T13:26:25Z",
-      "research_track": "",
-      "score": 19,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "research relevance: PET",
-        "startup/product signal: startup"
-      ],
-      "section": "startup_product",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-      "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition"
-    },
-    {
-      "authors": [
-        "iamnotstatic"
-      ],
-      "canonical_url": "https://github.com/iamnotstatic/vibetime",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "9e8bf10c4a9e",
-      "fetched_at": "2026-11-12T13:08:48Z",
-      "id": "hn-50466570",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T13:07:34Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Vibetime – see what you ship when coding with AI agents",
-      "url": "https://github.com/iamnotstatic/vibetime"
-    },
-    {
-      "authors": [
-        "Lumyo"
-      ],
-      "canonical_url": "https://claude.ai/artifact/6GhQxH4Z8pWyCMVdhVwTGG",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ca158f41438d",
-      "fetched_at": "2026-11-12T13:08:48Z",
-      "id": "hn-50466516",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T13:02:27Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Do the top thousand sites charge AI crawlers, block them, or let AI agents buy?",
-      "url": "https://claude.ai/artifact/6GhQxH4Z8pWyCMVdhVwTGG"
-    },
-    {
-      "authors": [
-        "thibaultjbeyer"
-      ],
-      "canonical_url": "https://deprecation.org",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "e7e5f107d5eb",
-      "fetched_at": "2026-11-12T13:08:48Z",
-      "id": "hn-50466446",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T12:55:12Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Website tells you when you'll lose your job to AI",
-      "url": "https://deprecation.org"
-    },
-    {
-      "authors": [
-        "zicxor"
-      ],
-      "canonical_url": "https://wram.sprucekit.app",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "ac6b9eb0f457",
-      "fetched_at": "2026-11-12T13:08:48Z",
-      "id": "hn-50466405",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T12:51:23Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Argument duello game with your friend – AI judge decides who's right",
-      "url": "https://wram.sprucekit.app"
-    },
-    {
-      "authors": [
-        "namjh"
-      ],
-      "canonical_url": "https://cro.sh/specmaxx",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "d3af255f9b1c",
-      "fetched_at": "2026-11-12T13:08:48Z",
-      "id": "hn-50465568",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T11:05:09Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Pick your dream LLM H/W setup and simulate its throughput",
-      "url": "https://cro.sh/specmaxx"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Athanasios Angelakis"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.16608v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Medical image classification in resource-constrained settings must contend with limited annotations and computational capacity. We evaluate four ZACH-ViT variants with linear, Euclidean prototype, Poincare and spherical heads alongside...",
-      "event_cluster_id": "7845d7ddab85",
-      "fetched_at": "2026-11-14T03:30:38Z",
-      "id": "7845d7ddab85f5611a9b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T10:46:53Z",
-      "research_track": "medical_neuroimaging",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "research relevance: medical image"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Towards Democratising Low-Data Medical Image Classification: CPU-Trainable ZACH-ViT and Its Geometric Variants",
-      "url": "https://arxiv.org/abs/2611.16608v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "swyx .ai"
-      ],
-      "canonical_url": "https://latent.space/p/ainews-d-day-decision-models-day",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "November 11, 2026 — Google enters the decision model market. At AI Engineer, Cloudflare showed which parts of a build failure a classifier could handle. TypeSafe AI showed off their production customers.",
-      "event_cluster_id": "fd1e2e3d38e0",
-      "fetched_at": "2026-11-13T03:33:19Z",
-      "id": "fd1e2e3d38e066835254",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-11-12T05:26:54Z",
-      "research_track": "",
-      "score": 18,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "startup/product signal: product",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "[AINews] D-Day (Decision Models Day)",
-      "url": "https://latent.space/p/ainews-d-day-decision-models-day"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Richard MacManus"
-      ],
-      "canonical_url": "https://latent.space/p/jev-revolution",
-      "cluster_sources": [
-        "Latent Space"
-      ],
-      "description": "At AI Engineer Code Summit, lead Jev creator Diogo Almeida called on developers to automate everything. Also, Glean and others showed how they’re using Jev.",
-      "event_cluster_id": "dd56d7e6848c",
-      "fetched_at": "2026-11-13T03:33:19Z",
-      "id": "dd56d7e6848c2558449f",
-      "image_url": "https://beehiiv-images-production.s3.amazonaws.com/uploads/asset/file/b4181d5a-0460-4828-b350-07feca728023/jevalution-feature.jpg?t=1794458692",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": true,
-      "published_at": "2026-11-12T05:08:20Z",
-      "research_track": "",
-      "score": 16,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "long-read source"
-      ],
-      "section": "long_reads",
-      "source_category": "long-read",
-      "source_id": "latent_space",
-      "source_name": "Latent Space",
-      "title": "The Jev Revolution: What Engineers Are Already Building with System One Models",
-      "url": "https://latent.space/p/jev-revolution"
-    },
-    {
-      "authors": [
-        "argonlabs"
-      ],
-      "canonical_url": "https://argonlabs.tech/blog/code-sandbox-vs-data-sandbox-for-ai-agents",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "6bbca691c858",
-      "fetched_at": "2026-11-12T04:07:22Z",
-      "id": "hn-50462936",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T04:01:04Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Code sandboxes isolate what agents run. What isolates what they write?",
-      "url": "https://argonlabs.tech/blog/code-sandbox-vs-data-sandbox-for-ai-agents"
-    },
-    {
-      "authors": [
-        "nathan_f77"
-      ],
-      "canonical_url": "https://docspring.com/blog/posts/operating-a-saas-when-ai-agents-write-all-the-code",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5363f19620da",
-      "fetched_at": "2026-11-12T04:07:22Z",
-      "id": "hn-50462933",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T04:00:41Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "What it takes to operate a SaaS when AI agents write all the code",
-      "url": "https://docspring.com/blog/posts/operating-a-saas-when-ai-agents-write-all-the-code"
-    },
-    {
-      "authors": [
-        "afhammad"
-      ],
-      "canonical_url": "https://martinfowler.com/articles/durable-execution-agents.html",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "409e41c640fc",
-      "fetched_at": "2026-11-12T04:07:22Z",
-      "id": "hn-50462904",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T03:56:25Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Durable Execution Agents",
-      "url": "https://martinfowler.com/articles/durable-execution-agents.html"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Connie Loizos"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "Nvidia has no succession plan and a CEO in hot water, so we’ve drafted a shortlist.",
-      "event_cluster_id": "d0923a9bc128",
-      "fetched_at": "2026-11-12T04:07:22Z",
-      "id": "d0923a9bc12806766f81",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T03:13:10Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Xiaobing Yu",
-        "Jin Yang",
-        "Peijie Qiu",
-        "Weiwei Ma",
-        "Xiaofeng Liu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.16210v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Deep learning (DL) has achieved remarkable success in medical image segmentation by learning data-driven representations from large-scale annotated datasets. However, medical images are often collected independently across clinical...",
-      "event_cluster_id": "1d645a2020a7",
-      "fetched_at": "2026-11-13T17:59:51Z",
-      "id": "1d645a2020a709433360",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T03:02:38Z",
-      "research_track": "medical_neuroimaging",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 48 hours",
-        "research relevance: medical image",
-        "technical relevance: representation learning"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "FGCARL: Fisher-Guided Continuously Adaptive Representation Learning for Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2611.16210v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "a59dbd52491a",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "a59dbd52491a85d53e09",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-12T00:00:00Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: training",
-        "technical relevance: PyTorch"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Training a 1T-Parameter MoE on EU public infrastructure with PyTorch and TorchTitan",
-      "url": "https://pytorch.org/blog/training-a-1t-parameter-moe-on-eu-public-infrastructure-with-pytorch-and-torchtitan"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/3d-lora-finetuning",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "cbda9238a368",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "cbda9238a3684b28e47a",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T00:00:00Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-      "url": "https://huggingface.co/blog/3d-lora-finetuning"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "78ac0bd0f899",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "78ac0bd0f899df75a5cd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Fast by Default: Compile-Time Heuristics for Helion Kernels",
-      "url": "https://pytorch.org/blog/fast-by-default-compile-time-heuristics-for-helion-kernels"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://pytorch.org/blog/integrating-sglang-into-spyre-in-under-a-week-with-ai",
-      "cluster_sources": [
-        "PyTorch Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "befe4f91e2bf",
-      "fetched_at": "2026-11-12T18:33:20Z",
-      "id": "befe4f91e2bfd36f0d62",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-12T00:00:00Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "pytorch_blog",
-      "source_name": "PyTorch Blog",
-      "title": "Integrating SGLang into Spyre in Under a Week with AI",
-      "url": "https://pytorch.org/blog/integrating-sglang-into-spyre-in-under-a-week-with-ai"
-    },
-    {
-      "authors": [
-        "eaxitect"
-      ],
-      "canonical_url": "https://github.com/eax/w-isa",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "3f5db491bb61",
-      "fetched_at": "2026-11-12T04:07:22Z",
-      "id": "hn-50460697",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-11T23:47:21Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: W-ISA – An instruction set for programming LLM weights",
-      "url": "https://github.com/eax/w-isa"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Amanda Silberling"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "As soon as Wednesday evening, Nvidia's board could decide to remove its founder and CEO of 33 years.",
-      "event_cluster_id": "eb294a56c70b",
-      "fetched_at": "2026-11-12T04:07:22Z",
-      "id": "eb294a56c70bf2d1f7b8",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-11T23:28:45Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang",
-      "url": "https://techcrunch.com/2026/11/11/nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang"
     }
   ],
-  "generated_at": "2026-11-23T15:13:35Z"
+  "generated_at": "2026-11-23T22:12:01Z"
 }
