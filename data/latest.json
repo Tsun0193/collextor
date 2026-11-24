@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Sarah Perez"
       ],
@@ -34,120 +35,75 @@
       "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Shuyue Shi",
-        "Rong Yuan",
-        "Lin Tian"
+        "Simon Johannes Joham",
+        "Gianluca Guglielmo",
+        "Mateusz Kozinski",
+        "Martin Urschler"
       ],
-      "canonical_url": "https://arxiv.org/abs/2611.25761v1",
+      "canonical_url": "https://arxiv.org/abs/2611.30582v1",
       "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Longitudinal PSMA-PET/CT registration is a key step in assessing treatment response in prostate cancer, and it requires more than generic alignment accuracy: the deformation must preserve lesion volume, so that measured changes in...",
-      "event_cluster_id": "98fede34f741",
-      "fetched_at": "2026-11-20T04:13:53Z",
-      "id": "98fede34f7411bc90d10",
+      "description": "Medical image segmentation models can fail silently when clinical data differs from training data. Deployed models rarely ship with quality control, and are often black boxes. Prior methods that work in this post-hoc failure detection...",
+      "event_cluster_id": "5f7807f8f4dc",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "5f7807f8f4dcd7e06b51",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-11-19T09:01:33Z",
+      "published_at": "2026-11-23T12:24:36Z",
       "research_track": "medical_neuroimaging",
       "score": 19,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: PET",
+        "major-event keyword: model, training",
+        "research relevance: medical image",
         "technical relevance: foundation model"
       ],
       "section": "medical_neuroimaging",
       "source_category": "research",
       "source_id": "arxiv_medical_neuro",
       "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "AdaptReg: Skip-level FiLM Adapter for Task-Specific Adaptation of a Frozen Registration Foundation Model",
-      "url": "https://arxiv.org/abs/2611.25761v1"
+      "title": "Foundation Model and Radiomics Distance Scores for Post-Hoc Segmentation Failure Detection",
+      "url": "https://arxiv.org/abs/2611.30582v1"
+    },
+    {
+      "authors": [
+        "swyx .ai"
+      ],
+      "canonical_url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "event_cluster_id": "8985b71bb3dd",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "8985b71bb3ddf529a6c6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-11-24T04:14:16Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: training",
+        "long-read source"
+      ],
+      "section": "business_policy",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft"
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Liuyi Xu",
-        "Yun Guo",
-        "Shusheng Li",
-        "Xuewen Zhang",
-        "Yining Qian",
-        "An-Yang Lu"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.22652v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Multimodal Large Language Models (MLLMs) have excelled in Western medical imaging, yet their potential in Traditional Chinese Medicine (TCM) tongue diagnosis remains systematically unevaluated. Tongue diagnosis requires sophisticated...",
-      "event_cluster_id": "244e9b1a913e",
-      "fetched_at": "2026-11-18T04:40:45Z",
-      "id": "244e9b1a913e6698189b",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-17T12:10:17Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "research relevance: medical imaging",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "OmniTongue: A Comprehensive MLLM Benchmark for Automated Tongue Diagnosis in Traditional Chinese Medicine",
-      "url": "https://arxiv.org/abs/2611.22652v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Ignazio Gallo",
-        "Mattia Gatti",
-        "Leonardo Sgroi",
-        "Darwin Castillo",
-        "Yuliana Jiménez-Gaona",
-        "Nicola Landro"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.27585v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Patient-level splitting is the standard safeguard against subject leakage in medical imaging evaluation, but it cannot remove a confounder that every fold inherits: an acquisition variable aligned with the diagnosis across the whole...",
-      "event_cluster_id": "947e38cdba6e",
-      "fetched_at": "2026-11-23T22:12:01Z",
-      "id": "947e38cdba6e59c6bd0e",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-20T13:16:25Z",
-      "research_track": "medical_neuroimaging",
-      "score": 18,
-      "score_reasons": [
-        "medium source",
-        "major-event keyword: benchmark, acquisition",
-        "research relevance: medical imaging",
-        "technical relevance: evaluation",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Leakage-Free Is Not Confounder-Free: What a Patient-Level Split Cannot Certify About a Medical Imaging Benchmark",
-      "url": "https://arxiv.org/abs/2611.27585v1"
-    },
-    {
       "authors": [
         "Sarah Perez"
       ],
@@ -180,6 +136,7 @@
       "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Nov/23/ladybird",
       "cluster_sources": [
@@ -373,82 +330,144 @@
       "url": "https://techcrunch.com/2026/11/17/nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huangs-exit"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Ziqing Yang",
-        "Yixin Wu",
-        "Michael Backes",
-        "Yang Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.26569v1",
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/23/glm-54",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "Simon Willison"
       ],
-      "description": "Multimodal image generation systems have made rapid progress and increasingly emphasize content safety. However, their safety mechanisms tend to rely on a single modality and lack joint consideration of both visual content and text...",
-      "event_cluster_id": "c75a18ddf258",
-      "fetched_at": "2026-11-20T13:29:57Z",
-      "id": "c75a18ddf25832707eed",
+      "description": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer GLM 5.4 is now available from Chinese AI lab Z.ai. It's their first model to use a looped transformer architecture, which they describe like this: In a standard...",
+      "event_cluster_id": "105d2dd6f5d6",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "105d2dd6f5d647be40a4",
+      "image_url": "https://static.simonwillison.net/static/2026/glm-5.4-max.webp",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-23T23:40:49Z",
+      "research_track": "",
+      "score": 16,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "url": "https://simonwillison.net/2026/Nov/23/glm-54"
+    },
+    {
+      "authors": [
+        "Malay Phadke",
+        "Akshay Gokhale"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.31096v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "When can an attribution-derived anomaly justify changing a medical-imaging training set? We formulate attribution-driven curation as three separately testable claims: anomaly detection, harmfulness estimation, and intervention utility....",
+      "event_cluster_id": "e75c4333cb30",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "e75c4333cb30d1b70f84",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": true,
-      "published_at": "2026-11-19T18:36:19Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-11-23T17:39:46Z",
+      "research_track": "medical_neuroimaging",
       "score": 16,
       "score_reasons": [
         "medium source",
         "published within 24 hours",
-        "major-event keyword: safety",
-        "technical relevance: multimodal",
-        "startup/product signal: API"
+        "major-event keyword: training",
+        "research relevance: medical imaging"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Text-Aware, Vision-Blind: How Multimodal Image Editing Systems Handle Unsafe Inputs",
-      "url": "https://arxiv.org/abs/2611.26569v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Leakage-Safe Auditing of Attribution-Driven Data Curation in Medical Imaging",
+      "url": "https://arxiv.org/abs/2611.31096v1"
     },
     {
-      "also_covered_by": [
+      "authors": [
+        "Haoan Xu",
+        "Ruike Chen",
+        "Jing Xia",
+        "Haotian Li",
+        "Huanyun Zhang",
+        "Cong Sun",
+        "Guangbin Wang",
+        "Shuhao Zhang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.30131v1",
+      "cluster_sources": [
         "arXiv - Medical AI and Neuroimaging"
       ],
-      "authors": [
-        "Vincenzo Marcianò",
-        "Xiaoming Zhang",
-        "Michela Antonelli",
-        "Sebastien Ourselin",
-        "Maria A Zuluaga"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.23189v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Automated segmentation is routinely used as the first step in quantitative image-based clinical workflows, where predicted masks are subsequently reviewed and corrected by human operators. Automated correction of the residual structural...",
-      "event_cluster_id": "cd30a49bc0f1",
-      "fetched_at": "2026-11-18T04:40:45Z",
-      "id": "cd30a49bc0f1bb7a7d32",
+      "description": "Fetal brain diffusion magnetic resonance imaging (dMRI) is a pivotal non-invasive tool for assessing the development of brain connectivity and microstructure. However, the prolonged acquisition times and complex sampling requirements...",
+      "event_cluster_id": "7736a3ff172f",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "7736a3ff172f6f5011d7",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-17T18:33:42Z",
-      "research_track": "multimodal_foundation",
+      "is_must_read": true,
+      "published_at": "2026-11-23T06:41:55Z",
+      "research_track": "medical_neuroimaging",
       "score": 16,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "research relevance: medical image",
-        "covered by multiple configured sources"
+        "published within 48 hours",
+        "major-event keyword: model, acquisition",
+        "research relevance: MRI",
+        "startup/product signal: acquisition"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Retrieval-Augmented Correction for Generalist Medical Image Segmentation",
-      "url": "https://arxiv.org/abs/2611.23189v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "iFeST: An Iterative Motion Correction Framework for Fetal Brain Diffusion MRI via Frequency-Spatial-Temporal Modeling",
+      "url": "https://arxiv.org/abs/2611.30131v1"
     },
     {
+      "authors": [
+        "Yasaman Mohammadpour",
+        "Pouya Shaeri",
+        "Ariane Middel"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.30050v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Individual heterogeneity and acquisition-site variability complicate neuroimaging-based characterization of autism spectrum disorder (ASD). We propose PsyDrift, combining ASD/healthy-control-supervised functional-connectivity...",
+      "event_cluster_id": "edf77e7bf152",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "edf77e7bf152162513c9",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-23T04:56:03Z",
+      "research_track": "medical_neuroimaging",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: acquisition",
+        "research relevance: neuroimaging",
+        "startup/product signal: acquisition"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "PsyDrift: Healthy-Reference Latent Diffusion for Anomaly Scoring in Autism Spectrum Disorder",
+      "url": "https://arxiv.org/abs/2611.30050v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Aisha Malik"
       ],
@@ -480,6 +499,7 @@
       "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Rebecca Bellan"
       ],
@@ -576,36 +596,227 @@
       "url": "https://ankitg.me/blog/vibecoding-inference-chip"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Tim Fernholz"
+        "Seongchan Kim",
+        "Soowon Son",
+        "Sangoh Kim",
+        "Hyunah Ko",
+        "Eunbeen Hong",
+        "Hyunkoo Lee",
+        "Sanghyun Lee",
+        "WonJun Moon"
       ],
-      "canonical_url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing",
+      "canonical_url": "https://arxiv.org/abs/2611.31240v1",
       "cluster_sources": [
-        "TechCrunch AI"
+        "arXiv - Multimodal and Foundation Models"
       ],
-      "description": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
-      "event_cluster_id": "79b7324f6ff3",
-      "fetched_at": "2026-11-20T18:46:24Z",
-      "id": "79b7324f6ff32c68d76f",
+      "description": "Reasoning vision-language-action (VLA) models for autonomous driving use chain-of-thought (CoT) reasoning to guide action generation, but incur substantial memory and computational costs. We study structured pruning for these models,...",
+      "event_cluster_id": "41f1df3694ae",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "41f1df3694ae71d645d0",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-20T17:40:01Z",
-      "research_track": "",
-      "score": 15,
+      "published_at": "2026-11-23T18:59:52Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
       "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: chip, data center"
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: vision-language, reasoning"
       ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Chips can survive the space environment. Can their financing?",
-      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing"
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+      "url": "https://arxiv.org/abs/2611.31240v1"
+    },
+    {
+      "authors": [
+        "JB Kim",
+        "Byungwoo Jeon",
+        "Kyungmin Lee",
+        "Hyeonmo Kang",
+        "Cheonbok Park",
+        "Shinyoung Joo",
+        "Jinwoo Shin",
+        "Jeonghoon Kim"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.31237v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Recent unified multimodal models aim to combine visual understanding and generation within a single model, yet effectively integrating the two capabilities remains challenging. Leveraging pretrained vision-language models offers a way to...",
+      "event_cluster_id": "3e3e5ce3713f",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "3e3e5ce3713fa19ddb3f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T18:59:32Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: multimodal, vision-language, RAG"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Let Vision-Language Models Generate Images through Their Representations",
+      "url": "https://arxiv.org/abs/2611.31237v1"
+    },
+    {
+      "authors": [
+        "Daniel Theron"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.31228v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Prompting language models to verbalize stepwise numerical confidence during generation is an increasingly popular approach for triggering backtracking and error correction in agentic reasoning. This strategy presupposes two capabilities:...",
+      "event_cluster_id": "ae07ac1bbdbc",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "ae07ac1bbdbcfaaa8bf3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T18:58:52Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: agent, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor In Situ",
+      "url": "https://arxiv.org/abs/2611.31228v1"
+    },
+    {
+      "authors": [
+        "Mohammad Hossein Moslemi",
+        "Mahdi Beitollahi",
+        "Zhimin Mei",
+        "Jiale Cai",
+        "Bissan Ghaddar",
+        "Boyu Wang"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.31225v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Dataset distillation (DD) aims to compress a large dataset into a small synthetic one that remains effective for training neural networks. Despite its success in supervised learning, DD remains underexplored in self-supervised learning...",
+      "event_cluster_id": "5965b6d2e4cc",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "5965b6d2e4cc2bbb7792",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T18:58:27Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: training",
+        "technical relevance: self-supervised"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Self-Supervised Dataset Distillation via Mutual Information Maximization",
+      "url": "https://arxiv.org/abs/2611.31225v1"
+    },
+    {
+      "authors": [
+        "Xiwei Liu",
+        "Yulong Li",
+        "Xuhui Li",
+        "Xinlin Zhuang",
+        "Zhixiang Lu",
+        "Haolin Yang",
+        "Jianxu Chen",
+        "Yifan Lu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.31215v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Humans explore unfamiliar spaces with purpose, deciding where to look until they have gathered the evidence a spatial question requires. However, can vision-language models (VLMs), which reason increasingly well over curated images and...",
+      "event_cluster_id": "2e593b5b2e0e",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "2e593b5b2e0e90aa5f30",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T18:55:44Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, benchmark",
+        "technical relevance: vision-language, VLM, reasoning"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language Models for Spatial Reasoning",
+      "url": "https://arxiv.org/abs/2611.31215v1"
+    },
+    {
+      "authors": [
+        "Jingxi Chen",
+        "Yujia Chen",
+        "Cornelia Fermuller",
+        "Yiannis Aloimonos",
+        "Wen-Sheng Chu",
+        "Du Tran"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.31209v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Generative Pre-Training (GPT) represents a profound milestone in natural language processing, serving as the foundation for most of today's state-of-the-art large language models. By casting diverse understanding and generation problems...",
+      "event_cluster_id": "de6d3ea47f9a",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "de6d3ea47f9a09685c2a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T18:53:44Z",
+      "research_track": "multimodal_foundation",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model, training",
+        "technical relevance: serving"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "WorldLatent: A Unified 4D Latent Space for World Perception and Generation",
+      "url": "https://arxiv.org/abs/2611.31209v1"
     },
     {
       "also_covered_by": [],
@@ -672,6 +883,42 @@
       "url": "https://www.technologyreview.com/2026/11/23/1149392/why-using-rocks-for-carbon-removal-could-eventually-reduce-crop-growth"
     },
     {
+      "authors": [
+        "Haoran Zhang",
+        "Sarah Lam",
+        "Yuting Lin",
+        "Nuo Chen",
+        "Mingyang Li"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.29955v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Deep learning models for chest X-ray analysis often achieve strong performance on benchmark datasets, but their reliability under cross-dataset deployment remains unclear. In clinical practice, models trained in one hospital system may...",
+      "event_cluster_id": "41b3a8051cfd",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "41b3a8051cfd77511478",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-23T03:20:37Z",
+      "research_track": "medical_neuroimaging",
+      "score": 14,
+      "score_reasons": [
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: model, benchmark",
+        "research relevance: medical image"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "When Should We Trust Medical Image Models? Evaluating Confidence Reliability under Cross-Dataset Shift",
+      "url": "https://arxiv.org/abs/2611.29955v1"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Marina Temkin"
@@ -734,42 +981,42 @@
       "url": "https://huggingface.co/blog/agentic-evals"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Omoruyi Atekha",
-        "Marcus Greiff",
-        "Ray Zhang",
-        "Luca Carlone"
+        "Abubakar Sadiq Shittu",
+        "Venkat Gopu",
+        "Arshita Sharma",
+        "Jacob Kennedy"
       ],
-      "canonical_url": "https://arxiv.org/abs/2611.26625v1",
+      "canonical_url": "https://arxiv.org/abs/2611.29286v1",
       "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "Geometric foundation models (GFMs) estimate camera mo- tion and scene structure from images without requiring ex- pert parameter tuning, but either lack metric scale or rely on learned priors to infer scale, which is unobservable from...",
-      "event_cluster_id": "2a598b1dea4f",
-      "fetched_at": "2026-11-20T18:46:24Z",
-      "id": "2a598b1dea4fb5fe9862",
+      "description": "This study investigates whether domain grounding through Retrieval-Augmented Generation (RAG) and parameter-efficient fine-tuning using Low-Rank Adaptation (LoRA) can enhance the accuracy and reliability of pet care advice generated by...",
+      "event_cluster_id": "0958a9493da8",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "0958a9493da855e418e9",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-19T18:59:35Z",
-      "research_track": "multimodal_foundation",
+      "published_at": "2026-11-22T07:19:38Z",
+      "research_track": "medical_neuroimaging",
       "score": 14,
       "score_reasons": [
         "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: foundation model"
+        "published within 48 hours",
+        "research relevance: PET",
+        "technical relevance: RAG"
       ],
-      "section": "multimodal_foundation",
+      "section": "medical_neuroimaging",
       "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "AnyVIO: Feed-Forward Streaming Visual-Inertial Odometry Across Platforms",
-      "url": "https://arxiv.org/abs/2611.26625v1"
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "LLM-Based Assistant for Dog Care Guidance",
+      "url": "https://arxiv.org/abs/2611.29286v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "James O'Donnell"
       ],
@@ -800,6 +1047,7 @@
       "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/allenai/robotrack",
       "cluster_sources": [
@@ -828,6 +1076,7 @@
       "url": "https://huggingface.co/blog/allenai/robotrack"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://research.google/blog/supercharging-transformer-residual-connections",
       "cluster_sources": [
@@ -857,12 +1106,12 @@
     }
   ],
   "date_label": "Tuesday, November 24, 2026",
-  "generated_at": "2026-11-23T22:12:01Z",
+  "generated_at": "2026-11-24T07:03:33Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 205,
-    "retained_items": 26,
+    "fetched_items": 203,
+    "retained_items": 33,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
