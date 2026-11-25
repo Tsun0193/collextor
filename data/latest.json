@@ -139,6 +139,39 @@
     },
     {
       "authors": [
+        "onatm"
+      ],
+      "canonical_url": "https://github.com/onatm/rustling",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "5e2106f0eb89",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "hn-50646482",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-25T19:42:36Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "major-event keyword: inference",
+        "technical relevance: agent, inference",
+        "startup/product signal: Show HN"
+      ],
+      "section": "startup_product",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon",
+      "url": "https://github.com/onatm/rustling"
+    },
+    {
+      "authors": [
         "paramthakkar"
       ],
       "canonical_url": "https://github.com/ParamThakkar123/simulusion",
@@ -204,6 +237,36 @@
       "url": "https://latent.space/p/ainews-gemini-4-neon-marks-gdm-s-full-return-as-a-frontier-lab"
     },
     {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "df3be113c8ae",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "df3be113c8aed13fbadf",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-25T00:00:00Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "major-event keyword: inference",
+        "technical relevance: inference"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+      "url": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb"
+    },
+    {
       "also_covered_by": [],
       "authors": [
         "Rebecca Bellan"
@@ -214,7 +277,7 @@
       ],
       "description": "As millions embrace personal AI assistants, a new benchmark reveals that even the most advanced AI models struggle to complete everyday tasks reliably and safely without introducing potential new problems.",
       "event_cluster_id": "86266e890e18",
-      "fetched_at": "2026-11-25T14:51:00Z",
+      "fetched_at": "2026-11-25T20:07:44Z",
       "id": "86266e890e18a6d47c92",
       "image_url": "",
       "is_breaking": false,
@@ -301,39 +364,6 @@
       "source_name": "TechCrunch AI",
       "title": "Amazon’s Decart acquisition is a bet on using software to narrow the silicon gap with Nvidia",
       "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "bluepeter"
-      ],
-      "canonical_url": "https://github.com/sous-labs/songe",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "9121917f87f4",
-      "fetched_at": "2026-11-24T20:50:35Z",
-      "id": "hn-50629231",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-24T15:03:40Z",
-      "research_track": "",
-      "score": 17,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model, training",
-        "research relevance: PET"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "A training engine for your local model, using your idle compute",
-      "url": "https://github.com/sous-labs/songe"
     },
     {
       "also_covered_by": [],
@@ -440,7 +470,7 @@
       ],
       "description": "I gave a keynote at the AI Engineer Code Summit a couple of weeks ago, constructed around the idea that there have been three significant inflection points in the abilities of LLMs and coding agents in the past twelve months. Here's the...",
       "event_cluster_id": "5e8eba5b15ac",
-      "fetched_at": "2026-11-25T14:51:00Z",
+      "fetched_at": "2026-11-25T20:07:44Z",
       "id": "5e8eba5b15ac60442c06",
       "image_url": "https://static.simonwillison.net/static/2026/fable-class.webp",
       "is_breaking": false,
@@ -635,56 +665,51 @@
       "url": "https://simonwillison.net/2026/Nov/23/glm-54"
     },
     {
-      "also_covered_by": [],
       "authors": [
-        "Malay Phadke",
-        "Akshay Gokhale"
+        "Rebecca Bellan"
       ],
-      "canonical_url": "https://arxiv.org/abs/2611.31096v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "When can an attribution-derived anomaly justify changing a medical-imaging training set? We formulate attribution-driven curation as three separately testable claims: anomaly detection, harmfulness estimation, and intervention utility....",
-      "event_cluster_id": "e75c4333cb30",
-      "fetched_at": "2026-11-24T15:11:48Z",
-      "id": "e75c4333cb30d1b70f84",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-23T17:39:46Z",
-      "research_track": "medical_neuroimaging",
-      "score": 16,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: training",
-        "research relevance: medical imaging"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Leakage-Safe Auditing of Attribution-Driven Data Curation in Medical Imaging",
-      "url": "https://arxiv.org/abs/2611.31096v1"
-    },
-    {
-      "authors": [
-        "Lauren Forristal"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
+      "canonical_url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd",
       "cluster_sources": [
         "TechCrunch AI"
       ],
-      "description": "Amazon and Meta are discussing a potential deal that would end a two-month-long blockade of Muse.",
-      "event_cluster_id": "3057c1692fc8",
-      "fetched_at": "2026-11-25T14:51:00Z",
-      "id": "3057c1692fc87eb12e35",
+      "description": "Anthropic CEO Dario Amodei pushes back against rivals’ accusations that he favors surrendering human agency to AI, even as leading AI companies increasingly automate their own research and model development.",
+      "event_cluster_id": "71a07b1df043",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "71a07b1df043fc19097f",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-25T14:10:18Z",
+      "published_at": "2026-11-25T19:44:24Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: model"
+      ],
+      "section": "ai_engineering",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘absurd’",
+      "url": "https://techcrunch.com/2026/11/25/anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-absurd"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "88bd06d7e0e9",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "88bd06d7e0e9b82f43a3",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-25T18:52:55Z",
       "research_track": "",
       "score": 15,
       "score_reasons": [
@@ -693,13 +718,45 @@
         "technical relevance: agent"
       ],
       "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse",
-      "url": "https://techcrunch.com/2026/11/25/amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse"
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
     },
     {
+      "authors": [
+        "Casey Crownhart"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible..",
+      "event_cluster_id": "1e25548e5ab4",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "1e25548e5ab4fab48c3f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-11-25T17:00:00Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: data center"
+      ],
+      "section": "business_policy",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "How data centers are driving a US natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Thomas Macaulay"
       ],
@@ -731,6 +788,7 @@
       "url": "https://www.technologyreview.com/2026/11/25/1149808/the-download-ai-open-records-permafrost-fires"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
       "cluster_sources": [
@@ -760,6 +818,7 @@
       "url": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Matthew King"
       ],
@@ -885,6 +944,35 @@
       "source_name": "MIT Technology Review - Artificial Intelligence",
       "title": "Data centers are getting their own natural gas power plants",
       "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin",
+      "cluster_sources": [
+        "PyTorch Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "016c741a60c0",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "016c741a60c0ac33af2e",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-25T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent, vLLM"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "pytorch_blog",
+      "source_name": "PyTorch Blog",
+      "title": "vLLM Singapore Meetup: Faster Prefill, Agent-Written Kernels and the Road to Vera Rubin",
+      "url": "https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin"
     },
     {
       "also_covered_by": [],
@@ -1149,7 +1237,7 @@
       ],
       "description": "Data augmentation is essential for training deep learning models that are generalizable, particularly when training data are limited. In brain MRI, augmentation methods that synthesize anatomically diverse images without relying on large...",
       "event_cluster_id": "5805e38bca1a",
-      "fetched_at": "2026-11-25T14:51:00Z",
+      "fetched_at": "2026-11-25T20:07:44Z",
       "id": "5805e38bca1a5582622b",
       "image_url": "",
       "is_breaking": false,
@@ -1203,72 +1291,78 @@
     {
       "also_covered_by": [],
       "authors": [
-        "James O'Donnell"
+        "S. Grigorovich",
+        "M. Bairachnaya",
+        "E. Daroczi",
+        "J. Marshall",
+        "B. Giros"
       ],
-      "canonical_url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument",
+      "canonical_url": "https://arxiv.org/abs/2611.31622v1",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "arXiv - Medical AI and Neuroimaging"
       ],
-      "description": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Before going public last week, Anthropic named the possibility that AI could be conscious or...",
-      "event_cluster_id": "c708d8c1e7cb",
-      "fetched_at": "2026-11-23T22:12:01Z",
-      "id": "c708d8c1e7cbbd50a2bd",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-23T17:36:08Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "long_reads",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "A legendary philosopher isn’t buying Anthropic’s consciousness argument",
-      "url": "https://www.technologyreview.com/2026/11/23/1149569/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/allenai/robotrack",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "eb2701ff66fe",
-      "fetched_at": "2026-11-23T22:12:01Z",
-      "id": "eb2701ff66febea27293",
+      "description": "This article presents a technical and theoretical assessment of the Quantum-Entangled Neuro-Symbolic Swarm Federation (QENSSF), a framework intended for privacy-preserving, quantum-secure, AI-powered, multimodal healthcare data analysis,...",
+      "event_cluster_id": "3ac77c20d54a",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "3ac77c20d54ac67f5abb",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-23T17:20:37Z",
-      "research_track": "",
+      "published_at": "2026-11-23T22:09:17Z",
+      "research_track": "medical_neuroimaging",
       "score": 12,
       "score_reasons": [
-        "high source",
-        "published within 6 hours"
+        "medium source",
+        "published within 48 hours",
+        "major-event keyword: security",
+        "technical relevance: multimodal, serving"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Internal inconsistencies and unresolved experimental evidence in a quantum neurosecurity framework",
+      "url": "https://arxiv.org/abs/2611.31622v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants",
+      "cluster_sources": [
+        "Google Research Blog"
+      ],
+      "description": "November 25, 2026",
+      "event_cluster_id": "5b91da256f36",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "5b91da256f36ad75ae2c",
+      "image_url": "https://storage.googleapis.com/gweb-research2023-media/original_images/VerifiableSocialReasoning1-UserMediatedReality.png",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-25T00:00:00Z",
+      "research_track": "",
+      "score": 11,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "technical relevance: reasoning"
       ],
       "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-      "url": "https://huggingface.co/blog/allenai/robotrack"
+      "source_category": "research-lab",
+      "source_id": "google_research",
+      "source_name": "Google Research Blog",
+      "title": "November 25, 2026 Verifiable Social Reasoning for LLM Assistants Generative AI · Human-Computer Interaction and Visualization · Machine Intelligence · Natural Language Processing",
+      "url": "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants"
     }
   ],
-  "date_label": "Wednesday, November 25, 2026",
-  "generated_at": "2026-11-25T14:51:00Z",
+  "date_label": "Thursday, November 26, 2026",
+  "generated_at": "2026-11-25T20:07:44Z",
   "summary": {
-    "duplicates_removed": 1,
-    "failed_sources": 1,
-    "fetched_items": 208,
-    "retained_items": 38,
-    "successful_sources": 20
+    "duplicates_removed": 0,
+    "failed_sources": 2,
+    "fetched_items": 188,
+    "retained_items": 41,
+    "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
 }
