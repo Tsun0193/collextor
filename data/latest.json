@@ -1,6 +1,7 @@
 {
   "articles": [
     {
+      "also_covered_by": [],
       "authors": [
         "Mingyuan Li",
         "Tong Jia",
@@ -40,6 +41,7 @@
       "url": "https://arxiv.org/abs/2611.33909v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yixuan Duan",
         "Kexin Geng",
@@ -110,42 +112,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Iman Marivani",
-        "David Van Hamme",
-        "Jan Aelterman",
-        "Wilfried Philips"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.32144v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Multi-contrast MRI super-resolution accelerates clinical protocols by reconstructing high-resolution (HR) target modalities from low-resolution (LR) inputs, guided by easily acquired reference contrasts. While purely data-driven deep...",
-      "event_cluster_id": "5b25c6ade288",
-      "fetched_at": "2026-11-25T05:38:37Z",
-      "id": "5b25c6ade28841755762",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": true,
-      "published_at": "2026-11-24T07:58:50Z",
-      "research_track": "medical_neuroimaging",
-      "score": 19,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "research relevance: MRI",
-        "technical relevance: multimodal"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "CSC-Mamba: Bridging multimodal convolutional sparse coding and state space models for multi-contrast MRI super-resolution",
-      "url": "https://arxiv.org/abs/2611.32144v1"
-    },
-    {
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "cluster_sources": [
@@ -241,6 +207,7 @@
       "url": "https://precisely.ai/explore"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Nov/25/scott-aaronson",
       "cluster_sources": [
@@ -467,6 +434,40 @@
       "url": "https://techcrunch.com/2026/11/24/amazons-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-gap-with-nvidia-in-the-ai-chip-race"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "swyx .ai"
+      ],
+      "canonical_url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft",
+      "cluster_sources": [
+        "Latent Space"
+      ],
+      "description": "November 23, 2026 — Nvidia reinstates its founder, and OpenAI publishes its internal loss curve and proposes a shared training limit.",
+      "event_cluster_id": "8985b71bb3dd",
+      "fetched_at": "2026-11-24T07:03:33Z",
+      "id": "8985b71bb3ddf529a6c6",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": true,
+      "published_at": "2026-11-24T04:14:16Z",
+      "research_track": "",
+      "score": 17,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: training",
+        "long-read source"
+      ],
+      "section": "business_policy",
+      "source_category": "long-read",
+      "source_id": "latent_space",
+      "source_name": "Latent Space",
+      "title": "[AINews] Jensen Is Back! and OpenAI Shows Its Pretraining Curve, joined by Microsoft",
+      "url": "https://latent.space/p/ainews-jensen-is-back-and-openai-shows-its-pretraining-curve-joined-by-microsoft"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Chibike Ugbam",
         "Muhammad Bilal",
@@ -504,6 +505,7 @@
       "url": "https://arxiv.org/abs/2611.34230v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Eleftherios Tzanis",
         "Antonios Tzortzakakis",
@@ -638,6 +640,35 @@
       "source_name": "arXiv - Medical AI and Neuroimaging",
       "title": "IMPACT-Seg: Consistent Anatomical Segmentation and Representation Learning Across CT, CBCT, and MRI",
       "url": "https://arxiv.org/abs/2611.32903v1"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "a734da9d3a1d",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "a734da9d3a1d876054f8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-26T11:37:17Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: introducing, benchmark"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
     },
     {
       "also_covered_by": [],
@@ -924,70 +955,36 @@
       "url": "https://www.technologyreview.com/2026/11/24/1148091/raising-the-stakes-for-enterprise-networks-with-ai-modernization"
     },
     {
-      "also_covered_by": [],
-      "authors": [
-        "Thomas Macaulay"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness",
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/training-swarms",
       "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
+        "Hugging Face Blog"
       ],
-      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Data centers are getting their own natural gas power plants One of the biggest obstacles to building..",
-      "event_cluster_id": "844d129947da",
-      "fetched_at": "2026-11-24T15:11:48Z",
-      "id": "844d129947da948b8480",
+      "description": "",
+      "event_cluster_id": "819f2bb8e324",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "819f2bb8e324e5e7f3ab",
       "image_url": "",
       "is_breaking": false,
-      "is_long_read": true,
+      "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-24T13:10:00Z",
+      "published_at": "2026-11-26T00:00:00Z",
       "research_track": "",
-      "score": 15,
+      "score": 14,
       "score_reasons": [
         "high source",
-        "published within 6 hours",
-        "major-event keyword: data center"
+        "published within 24 hours",
+        "technical relevance: agent"
       ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "The Download: AI’s gas power boom and a consciousness reality check",
-      "url": "https://www.technologyreview.com/2026/11/24/1149669/the-download-data-centers-gas-ai-consciousness"
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms"
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Casey Crownhart"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "One of the biggest roadblocks to starting up a data center is getting approval to connect to the electric grid—a wait that could last as long as a decade. Some developers aren’t willing to wait and are instead opting to build their own...",
-      "event_cluster_id": "d64a6f51a4eb",
-      "fetched_at": "2026-11-24T15:11:48Z",
-      "id": "d64a6f51a4eb0dd60084",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-24T11:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "Data centers are getting their own natural gas power plants",
-      "url": "https://www.technologyreview.com/2026/11/24/1149622/data-centers-natural-gas"
-    },
-    {
       "authors": [
         "Xuweiyi Chen",
         "Jin Yao",
@@ -1004,7 +1001,7 @@
       ],
       "description": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond...",
       "event_cluster_id": "c18edf695ffb",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "c18edf695ffbc752bf1f",
       "image_url": "",
       "is_breaking": false,
@@ -1027,6 +1024,7 @@
       "url": "https://arxiv.org/abs/2611.34943v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Xueyang Yu",
         "Yifan Jing",
@@ -1043,7 +1041,7 @@
       ],
       "description": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and...",
       "event_cluster_id": "1fd2087c540f",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "1fd2087c540f058f6d52",
       "image_url": "",
       "is_breaking": false,
@@ -1066,6 +1064,7 @@
       "url": "https://arxiv.org/abs/2611.34935v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Paul Vilars",
         "Vincent Quoc-Huy Trinh",
@@ -1080,7 +1079,7 @@
       ],
       "description": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents....",
       "event_cluster_id": "fbfcf56e67bb",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "fbfcf56e67bbe252d922",
       "image_url": "",
       "is_breaking": false,
@@ -1103,6 +1102,7 @@
       "url": "https://arxiv.org/abs/2611.34930v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lukas Aichberger",
         "Adam Golinski",
@@ -1119,7 +1119,7 @@
       ],
       "description": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC)...",
       "event_cluster_id": "e653365b440e",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "e653365b440ea3014ab7",
       "image_url": "",
       "is_breaking": false,
@@ -1142,6 +1142,7 @@
       "url": "https://arxiv.org/abs/2611.34928v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Qihao Lin",
         "Guanxu Chen",
@@ -1158,7 +1159,7 @@
       ],
       "description": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We...",
       "event_cluster_id": "7899a915459b",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "7899a915459b0d692f6f",
       "image_url": "",
       "is_breaking": false,
@@ -1240,6 +1241,35 @@
       "url": "https://simonwillison.net/2026/Nov/24/astra-historical-mystery"
     },
     {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only...",
+      "event_cluster_id": "d44a29290b43",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "d44a29290b4311e2732a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-26T06:08:25Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync"
+    },
+    {
+      "also_covered_by": [],
       "authors": [
         "Latent.Space"
       ],
@@ -1249,7 +1279,7 @@
       ],
       "description": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size...",
       "event_cluster_id": "ccba21fa2272",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "ccba21fa227260298e55",
       "image_url": "https://i.ytimg.com/vi/Qe9d9dWyED0/maxresdefault.jpg",
       "is_breaking": false,
@@ -1271,6 +1301,7 @@
       "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "swyx .ai"
       ],
@@ -1280,7 +1311,7 @@
       ],
       "description": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms.",
       "event_cluster_id": "821974e79513",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "821974e79513fdfe0fe5",
       "image_url": "",
       "is_breaking": false,
@@ -1302,6 +1333,70 @@
       "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Prisha Gupta",
+        "Pradeep Kumar Gupta"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.34781v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Accurate and early classification of brain tumours from magnetic resonance imaging (MRI) is essential for treatment planning, yet many published deep learning studies are trained and tested on small, single-source datasets, reporting...",
+      "event_cluster_id": "00958fee1305",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "00958fee130526fe5a7d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-25T17:40:22Z",
+      "research_track": "medical_neuroimaging",
+      "score": 13,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "research relevance: MRI"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
+      "url": "https://arxiv.org/abs/2611.34781v1"
+    },
+    {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a...",
+      "event_cluster_id": "48d801123049",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "48d801123049f1353e53",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-11-26T13:10:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/explore-the-pytorch-day-china-2026-schedule",
       "cluster_sources": [
@@ -1309,7 +1404,7 @@
       ],
       "description": "",
       "event_cluster_id": "5bf4fdd7d501",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "5bf4fdd7d50150ff5641",
       "image_url": "",
       "is_breaking": false,
@@ -1329,35 +1424,6 @@
       "source_name": "PyTorch Blog",
       "title": "Explore the PyTorch Day China 2026 Schedule",
       "url": "https://pytorch.org/blog/explore-the-pytorch-day-china-2026-schedule"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "6a28e842b3bf",
-      "fetched_at": "2026-11-24T20:50:35Z",
-      "id": "6a28e842b3bf4bfd8400",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-24T16:34:13Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance"
     },
     {
       "also_covered_by": [],
@@ -1391,13 +1457,13 @@
     }
   ],
   "date_label": "Thursday, November 26, 2026",
-  "generated_at": "2026-11-26T05:23:04Z",
+  "generated_at": "2026-11-26T14:17:45Z",
   "summary": {
-    "duplicates_removed": 1,
-    "failed_sources": 1,
-    "fetched_items": 205,
-    "retained_items": 42,
-    "successful_sources": 20
+    "duplicates_removed": 0,
+    "failed_sources": 2,
+    "fetched_items": 190,
+    "retained_items": 44,
+    "successful_sources": 19
   },
   "timezone": "Asia/Bangkok"
 }

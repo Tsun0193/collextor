@@ -2,6 +2,184 @@
   "articles": [
     {
       "authors": [
+        "roccoliiva"
+      ],
+      "canonical_url": "https://www.suncly.com/research/gmail-mcp-prompts",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "094ca93b7ae1",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "hn-50655539",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-26T14:15:56Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "Google's Gmail MCP Prompts Don't Stop Agents with Shell Access",
+      "url": "https://www.suncly.com/research/gmail-mcp-prompts"
+    },
+    {
+      "authors": [
+        "ritzaco"
+      ],
+      "canonical_url": "https://techstackups.com/articles/llm-position-bias",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "1e6502fd5607",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "hn-50655425",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-26T14:03:25Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "LLM Position Bias: Does Naming an Option First Change an AI's Answer?",
+      "url": "https://techstackups.com/articles/llm-position-bias"
+    },
+    {
+      "authors": [
+        "sithamet"
+      ],
+      "canonical_url": "https://transept.ai/journal/how-human-and-ai-translation-differ",
+      "cluster_sources": [
+        "Hacker News"
+      ],
+      "description": "Hacker News discussion",
+      "event_cluster_id": "c4a9460d8913",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "hn-50655346",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-26T13:56:42Z",
+      "research_track": "",
+      "score": 9,
+      "score_reasons": [
+        "medium source",
+        "published within 6 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "community",
+      "source_id": "hacker_news",
+      "source_name": "Hacker News",
+      "title": "How do human and AI book translation differ, and what makes readers like both?",
+      "url": "https://transept.ai/journal/how-human-and-ai-translation-differ"
+    },
+    {
+      "authors": [
+        "Thomas Macaulay"
+      ],
+      "canonical_url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom",
+      "cluster_sources": [
+        "MIT Technology Review - Artificial Intelligence"
+      ],
+      "description": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The next generation of bionic hands is here—and they can feel Avi Davidson lost his left hand as a...",
+      "event_cluster_id": "48d801123049",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "48d801123049f1353e53",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": true,
+      "is_must_read": false,
+      "published_at": "2026-11-26T13:10:00Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "long_reads",
+      "source_category": "analysis",
+      "source_id": "mit_tr_ai",
+      "source_name": "MIT Technology Review - Artificial Intelligence",
+      "title": "The Download: Better bionic hands and AI’s natural-gas boom",
+      "url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "a734da9d3a1d",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "a734da9d3a1d876054f8",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-26T11:37:17Z",
+      "research_track": "",
+      "score": 15,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours",
+        "major-event keyword: introducing, benchmark"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench"
+    },
+    {
+      "authors": [],
+      "canonical_url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
+      "cluster_sources": [
+        "Simon Willison"
+      ],
+      "description": "sqlite3_rsync: Database Remote-Copy Tool For SQLite This additional SQLite tool has been around for a while now - it was added as \"experimental\" in SQLite 3.47.0 in October 2024 and enhanced in SQLite 3.50.0 in May 2025 . It was only...",
+      "event_cluster_id": "d44a29290b43",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "d44a29290b4311e2732a",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-26T06:08:25Z",
+      "research_track": "",
+      "score": 13,
+      "score_reasons": [
+        "critical source",
+        "published within 24 hours"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "simon_willison",
+      "source_name": "Simon Willison",
+      "title": "sqlite3_rsync: Database Remote-Copy Tool For SQLite",
+      "url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync"
+    },
+    {
+      "authors": [
         "etherfuse"
       ],
       "canonical_url": "https://lifehug.com/book-of-mormon",
@@ -64,6 +242,7 @@
       "url": "https://precisely.ai/explore"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "cluster_sources": [
@@ -192,6 +371,36 @@
     },
     {
       "authors": [],
+      "canonical_url": "https://huggingface.co/blog/training-swarms",
+      "cluster_sources": [
+        "Hugging Face Blog"
+      ],
+      "description": "",
+      "event_cluster_id": "819f2bb8e324",
+      "fetched_at": "2026-11-26T14:17:45Z",
+      "id": "819f2bb8e324e5e7f3ab",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-26T00:00:00Z",
+      "research_track": "",
+      "score": 14,
+      "score_reasons": [
+        "high source",
+        "published within 24 hours",
+        "technical relevance: agent"
+      ],
+      "section": "ai_engineering",
+      "source_category": "engineering",
+      "source_id": "huggingface_blog",
+      "source_name": "Hugging Face Blog",
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Nov/25/scott-aaronson",
       "cluster_sources": [
         "Simon Willison"
@@ -220,6 +429,7 @@
       "url": "https://simonwillison.net/2026/Nov/25/scott-aaronson"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Marina Temkin"
       ],
@@ -229,7 +439,7 @@
       ],
       "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
       "event_cluster_id": "77bb663b6361",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "77bb663b6361291f59ee",
       "image_url": "",
       "is_breaking": false,
@@ -250,6 +460,7 @@
       "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Latent.Space"
       ],
@@ -259,7 +470,7 @@
       ],
       "description": "AI can make software cheap enough to produce by the thousand and still give you more time to make one thing feel right. At AI Engineer CODE, Thariq Shihipar shows how those two futures can coexist. In his fighting game, he edits the size...",
       "event_cluster_id": "ccba21fa2272",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "ccba21fa227260298e55",
       "image_url": "https://i.ytimg.com/vi/Qe9d9dWyED0/maxresdefault.jpg",
       "is_breaking": false,
@@ -281,6 +492,7 @@
       "url": "https://latent.space/p/the_revolution_vs_the_renaissance_thariq_shihipar_openai"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "swyx .ai"
       ],
@@ -290,7 +502,7 @@
       ],
       "description": "November 25, 2026 — From Erdős problems to new bounds for matrix multiplication and Fourier transforms.",
       "event_cluster_id": "821974e79513",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "821974e79513fdfe0fe5",
       "image_url": "",
       "is_breaking": false,
@@ -312,6 +524,7 @@
       "url": "https://latent.space/p/ainews-math-proofs-are-landing-faster-than-we-can-read-them"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "rmason"
       ],
@@ -321,7 +534,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "1bfb90103b3c",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "hn-50647673",
       "image_url": "",
       "is_breaking": false,
@@ -502,6 +715,7 @@
       "url": "https://github.com/onatm/rustling"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Xuweiyi Chen",
         "Jin Yao",
@@ -518,7 +732,7 @@
       ],
       "description": "A general-purpose Vision-Language Model (VLM) has surpassed expert vision models in many domains such as object detection and video recognition. However, point correspondence is known to be challenging for VLMs since it goes beyond...",
       "event_cluster_id": "c18edf695ffb",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "c18edf695ffbc752bf1f",
       "image_url": "",
       "is_breaking": false,
@@ -541,6 +755,7 @@
       "url": "https://arxiv.org/abs/2611.34943v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Xueyang Yu",
         "Yifan Jing",
@@ -557,7 +772,7 @@
       ],
       "description": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and...",
       "event_cluster_id": "1fd2087c540f",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "1fd2087c540f058f6d52",
       "image_url": "",
       "is_breaking": false,
@@ -580,6 +795,7 @@
       "url": "https://arxiv.org/abs/2611.34935v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Charlie Griffin",
         "Oliver Makins",
@@ -595,7 +811,7 @@
       ],
       "description": "AI monitors, classifiers that flag dangerous behaviour by AI agents, are often evaluated against transcripts generated by attack policies acting as proxies for dangerous behaviour in deployment. We evaluate an ex-production OpenAI...",
       "event_cluster_id": "0c272f1d0957",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "0c272f1d0957d70a0543",
       "image_url": "",
       "is_breaking": false,
@@ -618,6 +834,7 @@
       "url": "https://arxiv.org/abs/2611.34934v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Paul Vilars",
         "Vincent Quoc-Huy Trinh",
@@ -632,7 +849,7 @@
       ],
       "description": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents....",
       "event_cluster_id": "fbfcf56e67bb",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "fbfcf56e67bbe252d922",
       "image_url": "",
       "is_breaking": false,
@@ -655,6 +872,7 @@
       "url": "https://arxiv.org/abs/2611.34930v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Lukas Aichberger",
         "Adam Golinski",
@@ -671,7 +889,7 @@
       ],
       "description": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC)...",
       "event_cluster_id": "e653365b440e",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "e653365b440ea3014ab7",
       "image_url": "",
       "is_breaking": false,
@@ -694,6 +912,7 @@
       "url": "https://arxiv.org/abs/2611.34928v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Qihao Lin",
         "Guanxu Chen",
@@ -710,7 +929,7 @@
       ],
       "description": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We...",
       "event_cluster_id": "7899a915459b",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "7899a915459b0d692f6f",
       "image_url": "",
       "is_breaking": false,
@@ -733,6 +952,7 @@
       "url": "https://arxiv.org/abs/2611.34920v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Agelos Kratimenos",
         "Kostas Daniilidis",
@@ -744,7 +964,7 @@
       ],
       "description": "Vision-language-action models (VLAs) are capable low-level controllers, but they tie where objects go to the layouts they were trained on: when objects are moved or obstacles block the way, they carry them to the wrong place or into...",
       "event_cluster_id": "5d13d9426c8f",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "5d13d9426c8f1327ec41",
       "image_url": "",
       "is_breaking": false,
@@ -767,6 +987,7 @@
       "url": "https://arxiv.org/abs/2611.34914v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Shaoteng Liu",
         "Shuai Yang",
@@ -781,7 +1002,7 @@
       ],
       "description": "Real-time autoregressive video generators stream minutes of video and accept new prompts on the fly, but struggle to keep people, objects, and places consistent over a long interactive story. Agent systems provide such memory for offline...",
       "event_cluster_id": "559c5049d6e0",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "559c5049d6e079d6a621",
       "image_url": "",
       "is_breaking": false,
@@ -803,6 +1024,7 @@
       "url": "https://arxiv.org/abs/2611.34907v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Tianru Zhang",
         "Mayank Nautiyal",
@@ -816,7 +1038,7 @@
       ],
       "description": "Processing long videos with multimodal large language models (MLLMs) is prohibitively expensive, making informative frame selection essential for accurate video understanding. The default uniform sampling often misses task-relevant...",
       "event_cluster_id": "5dc89a03fb68",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "5dc89a03fb68ba2a2004",
       "image_url": "",
       "is_breaking": false,
@@ -869,6 +1091,7 @@
       "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Rikard Vinge",
         "Miguel A. Belenguer-Plomer",
@@ -884,7 +1107,7 @@
       ],
       "description": "This work presents a novel application of Earth Observation (EO) embeddings for Maritime Domain Awareness (MDA) from the perspective of the geospatial foundation model TerraMind. By operating directly on compressed latent-space...",
       "event_cluster_id": "baeebdc53582",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "baeebdc53582ef2b50fc",
       "image_url": "",
       "is_breaking": false,
@@ -907,6 +1130,7 @@
       "url": "https://arxiv.org/abs/2611.34899v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yujia Zeng",
         "Yuxin Chen",
@@ -923,7 +1147,7 @@
       ],
       "description": "Dexterity is, at its core, finger-level control, yet existing dexterous manipulation and human-object interaction (HOI) generation methods rarely let one specify how an interaction is performed: five-fingered hands are often reduced to...",
       "event_cluster_id": "2e53c29d2eb1",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "2e53c29d2eb171d9885d",
       "image_url": "",
       "is_breaking": false,
@@ -944,6 +1168,7 @@
       "url": "https://arxiv.org/abs/2611.34884v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Siddhartha Gairola",
         "Jiahao Xie",
@@ -957,7 +1182,7 @@
       ],
       "description": "Visual context is a powerful cue for object recognition: scenes inform what, where, and at what scale objects are likely to appear. Yet over-reliance on context becomes a failure mode when models predict objects based on their typical...",
       "event_cluster_id": "b4a3a3cb4f6e",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "b4a3a3cb4f6e31d960b1",
       "image_url": "",
       "is_breaking": false,
@@ -1043,6 +1268,7 @@
       "url": "https://machetetools.com"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Prisha Gupta",
         "Pradeep Kumar Gupta"
@@ -1053,7 +1279,7 @@
       ],
       "description": "Accurate and early classification of brain tumours from magnetic resonance imaging (MRI) is essential for treatment planning, yet many published deep learning studies are trained and tested on small, single-source datasets, reporting...",
       "event_cluster_id": "00958fee1305",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "00958fee130526fe5a7d",
       "image_url": "",
       "is_breaking": false,
@@ -1106,6 +1332,7 @@
       "url": "https://techcrunch.com/2026/11/25/state-ags-fight-character-ais-plan-to-auction-off-users-private-chats"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Paolo Pegolo",
         "Joseph W. Abbott",
@@ -1117,7 +1344,7 @@
       ],
       "description": "Universal machine-learning potentials predict molecular structure and stability at the accuracy of quantum mechanics, for a fraction of the cost. Properties derived instead from knowledge of the electronic structure give profound...",
       "event_cluster_id": "8df5eb9d59b9",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "8df5eb9d59b9232434b4",
       "image_url": "",
       "is_breaking": false,
@@ -1139,6 +1366,7 @@
       "url": "https://arxiv.org/abs/2611.34732v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Vo Minh Khoi Nguyen",
         "Dat Tien Chung",
@@ -1155,7 +1383,7 @@
       ],
       "description": "Alzheimer's disease is diagnosed from clinical, biospecimen and imaging evidence, but few patients undergo every test. Because these modalities are complementary, a missing one has many plausible values. Most existing methods leave it...",
       "event_cluster_id": "99f70f90d855",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "99f70f90d85569e58deb",
       "image_url": "",
       "is_breaking": false,
@@ -1209,6 +1437,7 @@
       "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Jose Lozano-Montoya",
         "Gemma Urbanos",
@@ -1222,7 +1451,7 @@
       ],
       "description": "ComBat harmonizes multicentre radiomic features, but batch variables are usually chosen manually, without a standardized criterion across image acquisition parameters. We propose ParsiComBat, which selects acquisition parameters for...",
       "event_cluster_id": "75d373bdee8f",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "75d373bdee8fc71dffe2",
       "image_url": "",
       "is_breaking": false,
@@ -1590,6 +1819,7 @@
       "url": "https://github.com/Allexsen/belay"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Chibike Ugbam",
         "Muhammad Bilal",
@@ -1689,6 +1919,7 @@
       "url": "https://www.technologyreview.com/2026/11/25/1149702/ai-is-straining-americas-open-records-systems"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Eleftherios Tzanis",
         "Antonios Tzortzakakis",
@@ -1723,6 +1954,7 @@
       "url": "https://arxiv.org/abs/2611.34008v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Mingyuan Li",
         "Tong Jia",
@@ -1762,6 +1994,7 @@
       "url": "https://arxiv.org/abs/2611.33909v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Yixuan Duan",
         "Kexin Geng",
@@ -1828,6 +2061,7 @@
       "url": "https://autoriteitpersoonsgegevens.nl/en/current/ap-advises-against-purchasing-ai-camera-glasses-serious-risks-for-users-and-bystanders"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Gautham Krishnan P",
         "Shrisharanyan Vasu",
@@ -1844,7 +2078,7 @@
       ],
       "description": "Diagnosis of congenital heart disease (CHD) requires understanding the spatial relationships between cardiac structures, which clinicians assess by scrolling through CT or cardiac magnetic resonance imaging (MRI) slices and rotating 3D...",
       "event_cluster_id": "24a083916689",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "24a08391668917c46940",
       "image_url": "",
       "is_breaking": false,
@@ -2152,6 +2386,7 @@
       "url": "https://pytorch.org/blog/vllm-singapore-meetup-faster-prefill-agent-written-kernels-and-the-road-to-vera-rubin"
     },
     {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://pytorch.org/blog/explore-the-pytorch-day-china-2026-schedule",
       "cluster_sources": [
@@ -2159,7 +2394,7 @@
       ],
       "description": "",
       "event_cluster_id": "5bf4fdd7d501",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "5bf4fdd7d50150ff5641",
       "image_url": "",
       "is_breaking": false,
@@ -2652,6 +2887,7 @@
       "url": "https://andlukyane.com/blog/cayley-graphs-and-torchtpu"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Nicolas Tricard",
         "Stefan Brandstätter",
@@ -2667,7 +2903,7 @@
       ],
       "description": "Generative priors can recover anatomical detail from incomplete medical measurements, but may erase the very lesions that imaging aims to detect, even when the measurements contain evidence of them. We introduce selective anchoring that...",
       "event_cluster_id": "d2d3e38302cc",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "d2d3e38302cc41db93e3",
       "image_url": "",
       "is_breaking": false,
@@ -6046,6 +6282,7 @@
       "url": "https://github.com/Intelligible/elbi"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "0x23"
       ],
@@ -6055,7 +6292,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "abfca96c86b5",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "hn-50611593",
       "image_url": "",
       "is_breaking": false,
@@ -6980,6 +7217,7 @@
       "url": "https://www.wsj.com/finance/stocks/has-the-ai-bubble-already-burst-2f1dcca8"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "bjin"
       ],
@@ -6989,7 +7227,7 @@
       ],
       "description": "Hacker News discussion",
       "event_cluster_id": "3c4b97052931",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "hn-50601280",
       "image_url": "",
       "is_breaking": false,
@@ -10077,6 +10315,7 @@
       "url": "https://arxiv.org/abs/2611.26907v1"
     },
     {
+      "also_covered_by": [],
       "authors": [
         "Latent.Space"
       ],
@@ -10086,7 +10325,7 @@
       ],
       "description": "Linear was founded to build a better issue tracker. Seven years and $134 million in funding later, its CEO Karri Saarinen published a post titled \"Issue tracking is dead.\" ( https://linear.app/next ) In this episode, we chat with Cristina..",
       "event_cluster_id": "e443815a0717",
-      "fetched_at": "2026-11-26T05:23:04Z",
+      "fetched_at": "2026-11-26T14:17:45Z",
       "id": "e443815a071781e5becb",
       "image_url": "https://i.ytimg.com/vi/x0VSm6IjcDQ/maxresdefault.jpg",
       "is_breaking": false,
@@ -19465,224 +19704,7 @@
       "source_name": "TechCrunch AI",
       "title": "Is bad news for Jensen Huang also bad news for the AI industry?",
       "url": "https://techcrunch.com/2026/11/15/is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Anthony Ha"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "While awkward, creepy tech executives have become a recurring theme on Saturday Night Live, this week’s episode gave the cast a chance to show off all their impressions at once.",
-      "event_cluster_id": "3ea624e61126",
-      "fetched_at": "2026-11-16T13:04:00Z",
-      "id": "3ea624e61126b81c7ebf",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-15T20:20:57Z",
-      "research_track": "",
-      "score": 11,
-      "score_reasons": [
-        "high source",
-        "published within 24 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "SNL gathers all the tech tycoons for a lesson in dating and spycraft",
-      "url": "https://techcrunch.com/2026/11/15/snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft"
-    },
-    {
-      "authors": [
-        "tommathews"
-      ],
-      "canonical_url": "https://attest-framework.github.io",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "4fea67d3ef25",
-      "fetched_at": "2026-11-16T03:00:23Z",
-      "id": "hn-50509107",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-15T18:03:01Z",
-      "research_track": "",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "technical relevance: agent",
-        "startup/product signal: Show HN"
-      ],
-      "section": "startup_product",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Show HN: Attest – Test what AI agents do, not just what they say",
-      "url": "https://attest-framework.github.io"
-    },
-    {
-      "authors": [
-        "mrlesk"
-      ],
-      "canonical_url": "https://github.com/MrLesk/Groma.md",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "f9bc1d0eac05",
-      "fetched_at": "2026-11-15T17:22:22Z",
-      "id": "hn-50508688",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-15T17:18:44Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Groma.md: Stay in control of your architecture as AI agents write code",
-      "url": "https://github.com/MrLesk/Groma.md"
-    },
-    {
-      "authors": [
-        "a115ltd"
-      ],
-      "canonical_url": "https://a115.co.uk/tuning-a-linux-laptop-for-ai-assisted-development",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "885d4c2dbf66",
-      "fetched_at": "2026-11-15T17:22:22Z",
-      "id": "hn-50508649",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-15T17:15:35Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Tuning a Linux laptop for AI-assisted development",
-      "url": "https://a115.co.uk/tuning-a-linux-laptop-for-ai-assisted-development"
-    },
-    {
-      "authors": [
-        "tseed"
-      ],
-      "canonical_url": "https://github.com/gitseed-dev/gitseed",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "5239c892cb76",
-      "fetched_at": "2026-11-15T17:22:22Z",
-      "id": "hn-50508614",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-15T17:12:48Z",
-      "research_track": "",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "technical relevance: agent",
-        "startup/product signal: seed"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "GitSeed – Self-hosted control plane for AI coding agents",
-      "url": "https://github.com/gitseed-dev/gitseed"
-    },
-    {
-      "authors": [
-        "eustoria"
-      ],
-      "canonical_url": "https://www.factum-orm.com",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "0594b45c23fc",
-      "fetched_at": "2026-11-15T17:22:22Z",
-      "id": "hn-50508576",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-15T17:09:57Z",
-      "research_track": "",
-      "score": 12,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours",
-        "major-event keyword: model"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Factum – Human-first, AI-native modeling for VS Code",
-      "url": "https://www.factum-orm.com"
-    },
-    {
-      "authors": [
-        "vaibhavarduino"
-      ],
-      "canonical_url": "https://think-graft.vercel.app",
-      "cluster_sources": [
-        "Hacker News"
-      ],
-      "description": "Hacker News discussion",
-      "event_cluster_id": "d0ec535b41d5",
-      "fetched_at": "2026-11-15T17:22:22Z",
-      "id": "hn-50508548",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-15T17:07:12Z",
-      "research_track": "",
-      "score": 9,
-      "score_reasons": [
-        "medium source",
-        "published within 6 hours"
-      ],
-      "section": "ai_engineering",
-      "source_category": "community",
-      "source_id": "hacker_news",
-      "source_name": "Hacker News",
-      "title": "Editing one row of an LLM's output layer to stop it overthinking",
-      "url": "https://think-graft.vercel.app"
     }
   ],
-  "generated_at": "2026-11-26T05:23:04Z"
+  "generated_at": "2026-11-26T14:17:45Z"
 }
