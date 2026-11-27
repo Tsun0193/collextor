@@ -45,7 +45,7 @@
       ],
       "description": "How $1,500 could qualify every company in the world, why customers hate the model selector, and how Clay is building go-to-market infrastructure for every agent",
       "event_cluster_id": "5a4d59a63415",
-      "fetched_at": "2026-11-27T14:12:49Z",
+      "fetched_at": "2026-11-27T19:37:21Z",
       "id": "5a4d59a63415e415d375",
       "image_url": "https://i.ytimg.com/vi/qjPcaZf_plo/maxresdefault.jpg",
       "is_breaking": false,
@@ -67,6 +67,120 @@
       "source_name": "Latent Space",
       "title": "How Clay Builds GTM Agents — Jeff Barg, Head of AI",
       "url": "https://latent.space/p/how-clay-builds-gtm-agents-jeff-barg-head-of-ai"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Mingyuan Li",
+        "Tong Jia",
+        "Ziyuan Yang",
+        "Wenbo Qi",
+        "Haoran Wang",
+        "Jie Gui",
+        "Baosheng Yu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.33909v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Medical reasoning agents combine foundation models with specialized tools to interpret medical images, yet reusing their historical experience remains challenging. A correct final answer can conceal flawed reasoning or tool use,...",
+      "event_cluster_id": "4d4186a6d64b",
+      "fetched_at": "2026-11-26T05:23:04Z",
+      "id": "4d4186a6d64b8973de57",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-25T07:28:21Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: foundation model, agent, tool use"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "EGSE: Evidence-Grounded Skill Evolution for Medical Reasoning Agents",
+      "url": "https://arxiv.org/abs/2611.33909v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Yixuan Duan",
+        "Kexin Geng",
+        "Hanwen Xu",
+        "Wei Qiu"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.33836v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multimodal large language models (MLLMs) are becoming general readers of medical images, yet they remain weak at locating small abnormalities. Brain metastases expose this gap: at 384 px a 0.1 mL lesion covers less than a quarter of one...",
+      "event_cluster_id": "7520c8a2b39f",
+      "fetched_at": "2026-11-26T05:23:04Z",
+      "id": "7520c8a2b39f43031733",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-25T06:03:30Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: medical image",
+        "technical relevance: multimodal"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "Can Its Own Misses Teach an MLLM to Find Small Brain Metastases?",
+      "url": "https://arxiv.org/abs/2611.33836v1"
+    },
+    {
+      "also_covered_by": [],
+      "authors": [
+        "Iman Marivani",
+        "David Van Hamme",
+        "Jan Aelterman",
+        "Wilfried Philips"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.32144v1",
+      "cluster_sources": [
+        "arXiv - Medical AI and Neuroimaging"
+      ],
+      "description": "Multi-contrast MRI super-resolution accelerates clinical protocols by reconstructing high-resolution (HR) target modalities from low-resolution (LR) inputs, guided by easily acquired reference contrasts. While purely data-driven deep...",
+      "event_cluster_id": "5b25c6ade288",
+      "fetched_at": "2026-11-25T05:38:37Z",
+      "id": "5b25c6ade28841755762",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-24T07:58:50Z",
+      "research_track": "medical_neuroimaging",
+      "score": 19,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "research relevance: MRI",
+        "technical relevance: multimodal"
+      ],
+      "section": "medical_neuroimaging",
+      "source_category": "research",
+      "source_id": "arxiv_medical_neuro",
+      "source_name": "arXiv - Medical AI and Neuroimaging",
+      "title": "CSC-Mamba: Bridging multimodal convolutional sparse coding and state space models for multi-contrast MRI super-resolution",
+      "url": "https://arxiv.org/abs/2611.32144v1"
     },
     {
       "also_covered_by": [],
@@ -296,6 +410,40 @@
     },
     {
       "also_covered_by": [],
+      "authors": [
+        "Hussamuddin Syed"
+      ],
+      "canonical_url": "https://arxiv.org/abs/2611.33133v1",
+      "cluster_sources": [
+        "arXiv - Multimodal and Foundation Models"
+      ],
+      "description": "Qwen3.5-0.8B rarely finishes reasoning in thinking mode: at a 4,096-token budget only 1 or 2 of 500 MATH-500 answers close their think block (two seeds), and accuracy is 15.4%. A recent demonstration had GPT-6 Astra edit 131,072 of the...",
+      "event_cluster_id": "c1ff04bdf824",
+      "fetched_at": "2026-11-25T14:51:00Z",
+      "id": "c1ff04bdf824133fdf0d",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": true,
+      "published_at": "2026-11-24T18:53:22Z",
+      "research_track": "multimodal_foundation",
+      "score": 16,
+      "score_reasons": [
+        "medium source",
+        "published within 24 hours",
+        "major-event keyword: model",
+        "technical relevance: reasoning",
+        "startup/product signal: seed"
+      ],
+      "section": "multimodal_foundation",
+      "source_category": "research",
+      "source_id": "arxiv_multimodal",
+      "source_name": "arXiv - Multimodal and Foundation Models",
+      "title": "A Bias in Disguise: Tiny Gradient Edits Stop a Small Language Model's Thinking Loops and Complement a Frontier Model's Weight Edit",
+      "url": "https://arxiv.org/abs/2611.33133v1"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "cluster_sources": [
@@ -393,132 +541,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [],
-      "canonical_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "cluster_sources": [
-        "Hugging Face Blog"
-      ],
-      "description": "",
-      "event_cluster_id": "88bd06d7e0e9",
-      "fetched_at": "2026-11-25T20:07:44Z",
-      "id": "88bd06d7e0e9b82f43a3",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T18:52:55Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "technical relevance: agent"
-      ],
-      "section": "ai_engineering",
-      "source_category": "engineering",
-      "source_id": "huggingface_blog",
-      "source_name": "Hugging Face Blog",
-      "title": "Where scientists draw the line on AI agents",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "New York has banned AI chatbot toys for five years as new research from Common Sense Media reveals troubling safety failures, including exposure to inappropriate content and risks to emotional development.",
-      "event_cluster_id": "fd3eea6ab732",
-      "fetched_at": "2026-11-25T20:07:44Z",
-      "id": "fd3eea6ab732b7250509",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T18:11:46Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: safety"
-      ],
-      "section": "ai_engineering",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "Want to buy your kid an AI toy this Christmas? Not in New York",
-      "url": "https://techcrunch.com/2026/11/25/want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Casey Crownhart"
-      ],
-      "canonical_url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants",
-      "cluster_sources": [
-        "MIT Technology Review - Artificial Intelligence"
-      ],
-      "description": "In May 2025, my colleague David Rotman wrote a feature story describing how AI could keep us dependent on natural gas. Just 18 months later, I’ve lost count of how many times he’s already been proved right. Sure, it’s technically possible..",
-      "event_cluster_id": "1e25548e5ab4",
-      "fetched_at": "2026-11-25T20:07:44Z",
-      "id": "1e25548e5ab4fab48c3f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": true,
-      "is_must_read": false,
-      "published_at": "2026-11-25T17:00:00Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "analysis",
-      "source_id": "mit_tr_ai",
-      "source_name": "MIT Technology Review - Artificial Intelligence",
-      "title": "How data centers are driving a US natural-gas boom",
-      "url": "https://www.technologyreview.com/2026/11/25/1149836/data-centers-gas-power-plants"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Theresa Loconsolo, Rebecca Bellan"
-      ],
-      "canonical_url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
-      "cluster_sources": [
-        "TechCrunch AI"
-      ],
-      "description": "⁠Nvidia has made clear⁠ it won’t backstop an AI data center until it’s nearly ready to run, and that’s landing just as neoclouds report construction delays and more expensive debt. The message to developers is that land, power, and a...",
-      "event_cluster_id": "551b41b55629",
-      "fetched_at": "2026-11-25T20:07:44Z",
-      "id": "551b41b55629eb2adfe6",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T15:41:43Z",
-      "research_track": "",
-      "score": 15,
-      "score_reasons": [
-        "high source",
-        "published within 6 hours",
-        "major-event keyword: data center"
-      ],
-      "section": "business_policy",
-      "source_category": "industry",
-      "source_id": "techcrunch_ai",
-      "source_name": "TechCrunch AI",
-      "title": "AI data centers are becoming harder to build, and neoclouds are feeling it",
-      "url": "https://techcrunch.com/podcast/ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it"
-    },
-    {
-      "also_covered_by": [],
       "authors": [
         "Connie Loizos"
       ],
@@ -528,7 +550,7 @@
       ],
       "description": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
       "event_cluster_id": "33b3d08d99ae",
-      "fetched_at": "2026-11-27T14:12:49Z",
+      "fetched_at": "2026-11-27T19:37:21Z",
       "id": "33b3d08d99aeb285e8be",
       "image_url": "",
       "is_breaking": false,
@@ -690,159 +712,6 @@
     },
     {
       "also_covered_by": [],
-      "authors": [
-        "Paul Vilars",
-        "Vincent Quoc-Huy Trinh",
-        "Maria Vakalopoulou",
-        "Dimitris Samaras",
-        "Stergios Christodoulidis",
-        "Mahdi S. Hosseini"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.34930v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Pathology foundation models are usually compared by their performance on downstream tasks such as classification and retrieval. While such benchmarks measure how useful a model is, they provide no insight into the biology it represents....",
-      "event_cluster_id": "fbfcf56e67bb",
-      "fetched_at": "2026-11-26T14:17:45Z",
-      "id": "fbfcf56e67bbe252d922",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T18:59:13Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, benchmark",
-        "technical relevance: foundation model"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "A gene informed benchmark for BioScoring of pathology foundation models",
-      "url": "https://arxiv.org/abs/2611.34930v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Lukas Aichberger",
-        "Adam Golinski",
-        "Arno Blaas",
-        "Arwen Bradley",
-        "Jacob Springer",
-        "Mehrdad Farajtabar",
-        "Michael Kirchhof",
-        "Sinead Williamson"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.34928v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Post-training large language models (LLMs) for mathematical reasoning often relies on accepted traces whose final answers pass a verifier. For hard math problems, however, such traces can be rare under independent Monte Carlo (MC)...",
-      "event_cluster_id": "e653365b440e",
-      "fetched_at": "2026-11-26T14:17:45Z",
-      "id": "e653365b440ea3014ab7",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T18:59:11Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model, training",
-        "technical relevance: reasoning"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Diverse Alternative Reasoning Traces for Hard Math Problems",
-      "url": "https://arxiv.org/abs/2611.34928v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Qihao Lin",
-        "Guanxu Chen",
-        "Shuhang Zheng",
-        "Xiaoya Lu",
-        "Jingyi Yang",
-        "Terumi Chiba",
-        "Wenyi Yu",
-        "Chao Zhang"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.34920v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Voice agents in shared spaces must satisfy interdependent multi-user requests while upholding per-user authority, privacy, and task constraints. Existing evaluations offer limited coverage when participants react throughout a session. We...",
-      "event_cluster_id": "7899a915459b",
-      "fetched_at": "2026-11-26T14:17:45Z",
-      "id": "7899a915459b0d692f6f",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T18:58:42Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: benchmark",
-        "technical relevance: agent, evaluation, RAG"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice Agents",
-      "url": "https://arxiv.org/abs/2611.34920v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Agelos Kratimenos",
-        "Kostas Daniilidis",
-        "Evangelos Chatzipantazis"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.34914v1",
-      "cluster_sources": [
-        "arXiv - Multimodal and Foundation Models"
-      ],
-      "description": "Vision-language-action models (VLAs) are capable low-level controllers, but they tie where objects go to the layouts they were trained on: when objects are moved or obstacles block the way, they carry them to the wrong place or into...",
-      "event_cluster_id": "5d13d9426c8f",
-      "fetched_at": "2026-11-26T14:17:45Z",
-      "id": "5d13d9426c8f1327ec41",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T18:57:29Z",
-      "research_track": "multimodal_foundation",
-      "score": 14,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model",
-        "technical relevance: vision-language"
-      ],
-      "section": "multimodal_foundation",
-      "source_category": "research",
-      "source_id": "arxiv_multimodal",
-      "source_name": "arXiv - Multimodal and Foundation Models",
-      "title": "Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs",
-      "url": "https://arxiv.org/abs/2611.34914v1"
-    },
-    {
-      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://simonwillison.net/2026/Nov/26/sqlite3-rsync",
       "cluster_sources": [
@@ -937,115 +806,6 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Prisha Gupta",
-        "Pradeep Kumar Gupta"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.34781v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Accurate and early classification of brain tumours from magnetic resonance imaging (MRI) is essential for treatment planning, yet many published deep learning studies are trained and tested on small, single-source datasets, reporting...",
-      "event_cluster_id": "00958fee1305",
-      "fetched_at": "2026-11-26T14:17:45Z",
-      "id": "00958fee130526fe5a7d",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T17:40:22Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: MRI"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Comparative Study of Deep Learning Architectures for Brain Tumour Classification",
-      "url": "https://arxiv.org/abs/2611.34781v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Vo Minh Khoi Nguyen",
-        "Dat Tien Chung",
-        "Quang Minh Khoa Le",
-        "Duc Khang Nguyen",
-        "Le Thien Phuc Nguyen",
-        "Hoang Thien Nguyen",
-        "Minh Huu Nhat Le",
-        "Phat K. Huynh"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.34721v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "Alzheimer's disease is diagnosed from clinical, biospecimen and imaging evidence, but few patients undergo every test. Because these modalities are complementary, a missing one has many plausible values. Most existing methods leave it...",
-      "event_cluster_id": "99f70f90d855",
-      "fetched_at": "2026-11-26T14:17:45Z",
-      "id": "99f70f90d85569e58deb",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T17:09:34Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "research relevance: Alzheimer, Alzheimer's disease"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Privileged On-Policy Distillation for Calibrated Alzheimer's Diagnosis With Missing Modalities",
-      "url": "https://arxiv.org/abs/2611.34721v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
-        "Jose Lozano-Montoya",
-        "Gemma Urbanos",
-        "Carmen Prieto-de-la-Lastra",
-        "Emilio Soria-Olivas",
-        "Ana Jimenez-Pastor"
-      ],
-      "canonical_url": "https://arxiv.org/abs/2611.34618v1",
-      "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
-      ],
-      "description": "ComBat harmonizes multicentre radiomic features, but batch variables are usually chosen manually, without a standardized criterion across image acquisition parameters. We propose ParsiComBat, which selects acquisition parameters for...",
-      "event_cluster_id": "75d373bdee8f",
-      "fetched_at": "2026-11-26T14:17:45Z",
-      "id": "75d373bdee8fc71dffe2",
-      "image_url": "",
-      "is_breaking": false,
-      "is_long_read": false,
-      "is_must_read": false,
-      "published_at": "2026-11-25T16:06:00Z",
-      "research_track": "medical_neuroimaging",
-      "score": 13,
-      "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: acquisition",
-        "startup/product signal: acquisition"
-      ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "Automated Batch-Variable Selection for ComBat-Based Radiomic Harmonization",
-      "url": "https://arxiv.org/abs/2611.34618v1"
-    },
-    {
-      "also_covered_by": [],
-      "authors": [
         "Thomas Macaulay"
       ],
       "canonical_url": "https://www.technologyreview.com/2026/11/26/1149934/the-download-better-bionic-hands-ai-natural-gas-boom",
@@ -1106,6 +866,38 @@
       "url": "https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work"
     },
     {
+      "also_covered_by": [],
+      "authors": [
+        "Russell Brandom"
+      ],
+      "canonical_url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it",
+      "cluster_sources": [
+        "TechCrunch AI"
+      ],
+      "description": "Most codes of conduct serve as a reflection of corporate culture. In Nvidia's case, that could have consequences.",
+      "event_cluster_id": "c3986ed0d71a",
+      "fetched_at": "2026-11-25T20:07:44Z",
+      "id": "c3986ed0d71a9c0fde5f",
+      "image_url": "",
+      "is_breaking": false,
+      "is_long_read": false,
+      "is_must_read": false,
+      "published_at": "2026-11-25T19:54:57Z",
+      "research_track": "",
+      "score": 12,
+      "score_reasons": [
+        "high source",
+        "published within 6 hours"
+      ],
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "Jensen Huang broke Nvidia’s code of conduct, and his employees may not forget it",
+      "url": "https://techcrunch.com/2026/11/25/jensen-huang-broke-nvidias-code-of-conduct-and-his-employees-may-not-forget-it"
+    },
+    {
+      "also_covered_by": [],
       "authors": [],
       "canonical_url": "https://huggingface.co/blog/video-trainium3",
       "cluster_sources": [
@@ -1113,7 +905,7 @@
       ],
       "description": "",
       "event_cluster_id": "c2bd79531046",
-      "fetched_at": "2026-11-27T14:12:49Z",
+      "fetched_at": "2026-11-27T19:37:21Z",
       "id": "c2bd7953104652e48b06",
       "image_url": "",
       "is_breaking": false,
@@ -1136,45 +928,42 @@
     {
       "also_covered_by": [],
       "authors": [
-        "Paolo Pegolo",
-        "Joseph W. Abbott",
-        "Michele Ceriotti"
+        "Marina Temkin"
       ],
-      "canonical_url": "https://arxiv.org/abs/2611.34732v1",
+      "canonical_url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks",
       "cluster_sources": [
-        "arXiv - Medical AI and Neuroimaging"
+        "TechCrunch AI"
       ],
-      "description": "Universal machine-learning potentials predict molecular structure and stability at the accuracy of quantum mechanics, for a fraction of the cost. Properties derived instead from knowledge of the electronic structure give profound...",
-      "event_cluster_id": "8df5eb9d59b9",
-      "fetched_at": "2026-11-26T14:17:45Z",
-      "id": "8df5eb9d59b9232434b4",
+      "description": "The credit rating agency may lower Nvidia's credit rating to AA-, the fourth-highest rating.",
+      "event_cluster_id": "77bb663b6361",
+      "fetched_at": "2026-11-26T19:47:18Z",
+      "id": "77bb663b6361291f59ee",
       "image_url": "",
       "is_breaking": false,
       "is_long_read": false,
       "is_must_read": false,
-      "published_at": "2026-11-25T17:15:36Z",
-      "research_track": "medical_neuroimaging",
+      "published_at": "2026-11-25T22:44:32Z",
+      "research_track": "",
       "score": 11,
       "score_reasons": [
-        "medium source",
-        "published within 24 hours",
-        "major-event keyword: model"
+        "high source",
+        "published within 24 hours"
       ],
-      "section": "medical_neuroimaging",
-      "source_category": "research",
-      "source_id": "arxiv_medical_neuro",
-      "source_name": "arXiv - Medical AI and Neuroimaging",
-      "title": "A general-purpose electron density model for molecular chemistry",
-      "url": "https://arxiv.org/abs/2611.34732v1"
+      "section": "business_policy",
+      "source_category": "industry",
+      "source_id": "techcrunch_ai",
+      "source_name": "TechCrunch AI",
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks"
     }
   ],
-  "date_label": "Friday, November 27, 2026",
-  "generated_at": "2026-11-27T14:12:49Z",
+  "date_label": "Saturday, November 28, 2026",
+  "generated_at": "2026-11-27T19:37:21Z",
   "summary": {
     "duplicates_removed": 0,
     "failed_sources": 1,
-    "fetched_items": 202,
-    "retained_items": 35,
+    "fetched_items": 204,
+    "retained_items": 29,
     "successful_sources": 20
   },
   "timezone": "Asia/Bangkok"
